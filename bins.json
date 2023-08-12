@@ -29,7 +29,7 @@
       "longitude": -73.92014228572059
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 0,
       "serialNumber": 503000001,
       "latitude": 40.61356176348572,
       "binStatus": "Available",
@@ -38,12 +38,12 @@
       "longitude": -74.11656774580479
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 503000002,
       "latitude": 40.802377335586115,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 51 - NE East 120 Street & Madison Avenue",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.94273579120636
     },
     {
@@ -1199,7 +1199,7 @@
       "longitude": -73.93640510737896
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 503000154,
       "latitude": 40.69389144220667,
       "binStatus": "Available",
@@ -1244,7 +1244,7 @@
       "longitude": -73.96811317652464
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 503000162,
       "latitude": 40.704966472832965,
       "binStatus": "Available",
@@ -1856,10 +1856,10 @@
       "longitude": -73.94772704690695
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 503000251,
       "latitude": 40.67459377925092,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 216 - NE Rogers Avenue & Prospect Place",
       "availableForUse": true,
       "longitude": -73.95274545997381
@@ -2171,7 +2171,7 @@
       "longitude": -73.93532887101173
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 0,
       "serialNumber": 505100078,
       "latitude": 40.77113841285102,
       "binStatus": "Available",
@@ -2261,7 +2261,7 @@
       "longitude": -73.9538887710376
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 0,
       "serialNumber": 505100015,
       "latitude": 40.76216672199596,
       "binStatus": "Available",
@@ -2414,7 +2414,7 @@
       "longitude": -74.00695323944092
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 60,
       "serialNumber": 505100003,
       "latitude": 40.73776704120356,
       "binStatus": "Available",
@@ -2423,7 +2423,7 @@
       "longitude": -74.00006544331396
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 0,
       "serialNumber": 505100022,
       "latitude": 40.73287635373648,
       "binStatus": "Available",
@@ -2504,7 +2504,7 @@
       "longitude": -73.99849525644926
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 505100029,
       "latitude": 40.710663476710224,
       "binStatus": "Available",
@@ -2720,12 +2720,12 @@
       "longitude": -74.01312500238419
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 505100057,
       "latitude": 40.77544607677087,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 266 - NW CO 2nd Ave & 82nd Street",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.9535946787067
     },
     {
@@ -2810,7 +2810,7 @@
       "longitude": -73.96423428646112
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 0,
       "serialNumber": 505100089,
       "latitude": 40.77432420761129,
       "binStatus": "Available",
@@ -2855,7 +2855,7 @@
       "longitude": -73.98540060636678
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 505100092,
       "latitude": 40.78957914389564,
       "binStatus": "Available",
@@ -3260,16 +3260,16 @@
       "longitude": -73.96400324926272
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 505100143,
       "latitude": 40.77674450161177,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 392 - NW CO York Ave & E 87 St",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.9464701336139
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 0,
       "serialNumber": 505100138,
       "latitude": 40.76639459170164,
       "binStatus": "Available",
@@ -3305,12 +3305,12 @@
       "longitude": -73.98634963340946
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 0,
       "serialNumber": 505100134,
       "latitude": 40.7312028692314,
-      "binStatus": "Full",
+      "binStatus": "Available",
       "description": "BIN 313 - SE CO 1 Ave & E 14 St",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.98249430253485
     },
     {
@@ -3395,7 +3395,7 @@
       "longitude": -73.97196531694908
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 0,
       "serialNumber": 505100140,
       "latitude": 40.760441717606135,
       "binStatus": "Available",
