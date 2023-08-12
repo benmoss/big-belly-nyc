@@ -596,7 +596,7 @@
       "longitude": -73.92510951539327
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000064,
       "latitude": 40.79758808361427,
       "binStatus": "Available",
@@ -605,7 +605,7 @@
       "longitude": -73.93138837069273
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000068,
       "latitude": 40.64305722769547,
       "binStatus": "Available",
@@ -902,10 +902,10 @@
       "longitude": -73.92874404788017
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 503000131,
       "latitude": 40.688233556498346,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 143 - SW Nostrand Avenue & Greene Avenue",
       "availableForUse": true,
       "longitude": -73.95123168826103
@@ -1343,7 +1343,7 @@
       "longitude": -73.95316857844591
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 503000187,
       "latitude": 40.75792909750536,
       "binStatus": "Available",
@@ -1433,7 +1433,7 @@
       "longitude": -73.82693077466463
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 503000190,
       "latitude": 40.692363382489,
       "binStatus": "Available",
@@ -2468,10 +2468,10 @@
       "longitude": -74.0109745413065
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100023,
       "latitude": 40.7346470054958,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 311 - SW CO W 12 St & 5 Ave",
       "availableForUse": true,
       "longitude": -73.99481938922054
@@ -2756,7 +2756,7 @@
       "longitude": -73.98495496580612
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 505100055,
       "latitude": 40.76405416975698,
       "binStatus": "Available",
@@ -2801,7 +2801,7 @@
       "longitude": -73.95466305211644
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 505100070,
       "latitude": 40.76801235265614,
       "binStatus": "Available",
@@ -2918,12 +2918,12 @@
       "longitude": -73.99090145996239
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 505100106,
       "latitude": 40.78586060688359,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 280 - SW CO E 95 Street & Park Ave",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.95335140977043
     },
     {
@@ -3242,7 +3242,7 @@
       "longitude": -73.9732862596776
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 505100139,
       "latitude": 40.74272368457833,
       "binStatus": "Available",
