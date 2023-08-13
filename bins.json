@@ -380,10 +380,10 @@
       "longitude": -73.94453756511211
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 503000048,
       "latitude": 40.796707605361554,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 47 - SE East 112th Street & Park Avenue",
       "availableForUse": true,
       "longitude": -73.94496604800224
@@ -2639,12 +2639,12 @@
       "longitude": -73.99473222632365
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 505100016,
       "latitude": 40.76404560103803,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 269 - NE CO E 66 St & 1 Ave",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.95855413649969
     },
     {
@@ -3377,7 +3377,7 @@
       "longitude": -73.95175657391553
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 505100121,
       "latitude": 40.7909709189525,
       "binStatus": "Available",
