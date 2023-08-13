@@ -317,7 +317,7 @@
       "longitude": -73.92958357930183
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 503000059,
       "latitude": 40.87534010684036,
       "binStatus": "Available",
@@ -1109,7 +1109,7 @@
       "longitude": -73.96311119198799
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 503000152,
       "latitude": 40.68415381504779,
       "binStatus": "Available",
@@ -1199,7 +1199,7 @@
       "longitude": -73.93640510737896
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 503000154,
       "latitude": 40.69389144220667,
       "binStatus": "Available",
@@ -1244,10 +1244,10 @@
       "longitude": -73.96811317652464
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 503000162,
       "latitude": 40.704966472832965,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 179 - SW St. Nicholas Avenue & Stockholm Street",
       "availableForUse": true,
       "longitude": -73.91751361469018
@@ -1289,10 +1289,10 @@
       "longitude": -73.91918834298849
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 80,
       "serialNumber": 503000178,
       "latitude": 40.671282700678354,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 211 - NE Kingston Avenue & St. Johns Place",
       "availableForUse": true,
       "longitude": -73.941904976964
@@ -1433,16 +1433,16 @@
       "longitude": -73.82693077466463
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 503000190,
       "latitude": 40.692363382489,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 135 - NW Malcolm X Boulevard & Lafayette Avenue",
       "availableForUse": true,
       "longitude": -73.93096961081028
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000195,
       "latitude": 40.82705718721625,
       "binStatus": "Available",
@@ -1478,12 +1478,12 @@
       "longitude": -74.15653929410205
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 503000207,
       "latitude": 40.68175217538853,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 124 - SW Tompkins Avenue & Macon Street",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.9436212554574
     },
     {
@@ -2414,7 +2414,7 @@
       "longitude": -74.00695323944092
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 505100003,
       "latitude": 40.73776704120356,
       "binStatus": "Available",
@@ -2486,7 +2486,7 @@
       "longitude": -74.00274561377924
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 0,
       "serialNumber": 505100047,
       "latitude": 40.73539348561974,
       "binStatus": "Available",
@@ -2513,10 +2513,10 @@
       "longitude": -74.00341004133224
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100017,
       "latitude": 40.705075385840445,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 243 - NE CO Broadway & Beaver Street",
       "availableForUse": true,
       "longitude": -74.01322457939386
@@ -2909,7 +2909,7 @@
       "longitude": -73.9809653781084
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 505100088,
       "latitude": 40.72865169703771,
       "binStatus": "Available",
@@ -3080,12 +3080,12 @@
       "longitude": -73.98167006603096
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 505100100,
       "latitude": 40.77363841515928,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 285 - NE CO 77th & Lexington Ave",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.95970138439084
     },
     {
@@ -3296,12 +3296,12 @@
       "longitude": -73.97864520220962
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 505100147,
       "latitude": 40.767158700963456,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 356 - SW CO 9 Ave & W 56 St",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.98634963340946
     },
     {
