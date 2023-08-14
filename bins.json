@@ -425,12 +425,12 @@
       "longitude": -73.93639236688614
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 0,
       "serialNumber": 503000045,
       "latitude": 40.768332138355355,
-      "binStatus": "Full",
+      "binStatus": "Available",
       "description": "BIN 16 - SW 21st Street & 30th Drive",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.92911855131388
     },
     {
@@ -632,7 +632,7 @@
       "longitude": -73.94291717559099
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000069,
       "latitude": 40.762088122135914,
       "binStatus": "Available",
@@ -1064,7 +1064,7 @@
       "longitude": -73.90397150069475
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000132,
       "latitude": 40.70324915068062,
       "binStatus": "Available",
@@ -1298,12 +1298,12 @@
       "longitude": -73.941904976964
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 503000179,
       "latitude": 40.67617742416484,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 190 - NE Underhill Avenue & Park Place",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.96627854555845
     },
     {
@@ -1370,10 +1370,10 @@
       "longitude": -73.91591713080048
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 80,
       "serialNumber": 503000184,
       "latitude": 40.673104182956976,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 189 - NE Underhill Avenue & Eastern Parkway",
       "availableForUse": true,
       "longitude": -73.96755293011665
@@ -2027,7 +2027,7 @@
       "longitude": -73.92796251922846
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 60,
       "serialNumber": 503000267,
       "latitude": 40.67165371443654,
       "binStatus": "Available",
@@ -2261,7 +2261,7 @@
       "longitude": -73.9538887710376
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 505100015,
       "latitude": 40.76216672199596,
       "binStatus": "Available",
@@ -2639,7 +2639,7 @@
       "longitude": -73.99473222632365
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 505100016,
       "latitude": 40.76404560103803,
       "binStatus": "Available",
@@ -3161,7 +3161,7 @@
       "longitude": -74.00251990055955
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 40,
       "serialNumber": 505100125,
       "latitude": 40.786641828294435,
       "binStatus": "Available",
@@ -3413,7 +3413,7 @@
       "longitude": -74.00684701383747
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 505100135,
       "latitude": 40.758930399023754,
       "binStatus": "Available",
