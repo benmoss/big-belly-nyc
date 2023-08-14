@@ -29,7 +29,7 @@
       "longitude": -73.92014228572059
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 503000001,
       "latitude": 40.61356176348572,
       "binStatus": "Available",
@@ -38,12 +38,12 @@
       "longitude": -74.11656774580479
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 503000002,
       "latitude": 40.802377335586115,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 51 - NE East 120 Street & Madison Avenue",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.94273579120636
     },
     {
@@ -245,12 +245,12 @@
       "longitude": -73.90380453318357
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 503000032,
       "latitude": 40.76149921367936,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 17 - SE 38th Street & 31st Avenue",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.91796863240839
     },
     {
@@ -308,7 +308,7 @@
       "longitude": -73.94085858017206
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 503000058,
       "latitude": 40.76737357054309,
       "binStatus": "Available",
@@ -416,7 +416,7 @@
       "longitude": -73.94713159650564
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 503000044,
       "latitude": 40.80556261860785,
       "binStatus": "Available",
@@ -452,12 +452,12 @@
       "longitude": -73.92345808446407
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 503000046,
       "latitude": 40.81219790128479,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 21 - NW West 126th St & Morningside Ave",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.95354006439447
     },
     {
@@ -587,10 +587,10 @@
       "longitude": -73.92701134085655
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 80,
       "serialNumber": 503000065,
       "latitude": 40.76524333304795,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 08 - NW 29th Street & 31st Avenue",
       "availableForUse": true,
       "longitude": -73.92510951539327
@@ -938,12 +938,12 @@
       "longitude": -73.96265991032124
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 503000133,
       "latitude": 40.684197290894595,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 116 - SE Lewis Avenue & Hancock Street",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.93525745719671
     },
     {
@@ -965,7 +965,7 @@
       "longitude": -73.92772514373064
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000135,
       "latitude": 40.69796320197583,
       "binStatus": "Available",
@@ -1640,7 +1640,7 @@
       "longitude": -73.86291526257992
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000223,
       "latitude": 40.755305606252215,
       "binStatus": "Available",
@@ -1685,7 +1685,7 @@
       "longitude": -73.95448587834835
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 503000228,
       "latitude": 40.6885650705997,
       "binStatus": "Available",
@@ -2018,7 +2018,7 @@
       "longitude": -73.92522666603327
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 503000268,
       "latitude": 40.67210889641922,
       "binStatus": "Available",
@@ -2045,10 +2045,10 @@
       "longitude": -73.93318008631468
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 503000260,
       "latitude": 40.67112071527155,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 201 - NW Albany Avenue & St. Johns Place",
       "availableForUse": true,
       "longitude": -73.93931295722723
@@ -2288,7 +2288,7 @@
       "longitude": -73.97899926258084
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 505100012,
       "latitude": 40.731190506042964,
       "binStatus": "Available",
@@ -2504,10 +2504,10 @@
       "longitude": -73.99849525644926
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100029,
       "latitude": 40.710663476710224,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 249 - SE CO Gold St & Frankfort St.",
       "availableForUse": true,
       "longitude": -74.00341004133224
@@ -2945,7 +2945,7 @@
       "longitude": -73.97107263571145
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 0,
       "serialNumber": 505100107,
       "latitude": 40.73674344375692,
       "binStatus": "Available",
@@ -3125,7 +3125,7 @@
       "longitude": -73.97435929170092
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 505100130,
       "latitude": 40.770232556885766,
       "binStatus": "Available",
@@ -3386,12 +3386,12 @@
       "longitude": -73.97276669918094
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 505100117,
       "latitude": 40.78193045956682,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 378 - SW CO W 81 St & Central Park W",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.97196531694908
     },
     {
