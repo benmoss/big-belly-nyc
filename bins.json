@@ -155,12 +155,12 @@
       "longitude": -73.93766775727272
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 503000013,
       "latitude": 40.86843300418909,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 65 - NE West 212th Street & Broadway",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.91832768131844
     },
     {
@@ -1316,7 +1316,7 @@
       "longitude": -73.90797402709723
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 503000188,
       "latitude": 40.690796900599814,
       "binStatus": "Available",
@@ -1604,7 +1604,7 @@
       "longitude": -73.94542437046766
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 503000218,
       "latitude": 40.694661178530154,
       "binStatus": "Available",
@@ -1622,10 +1622,10 @@
       "longitude": -73.88433337211609
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 503000219,
       "latitude": 40.75685380877115,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 230 - SW 31st Avenue & 51st Street",
       "availableForUse": true,
       "longitude": -73.90800554305315
@@ -1820,12 +1820,12 @@
       "longitude": -73.93377151340246
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 80,
       "serialNumber": 503000241,
       "latitude": 40.6774118895118,
-      "binStatus": "Full",
+      "binStatus": "Nearly Full",
       "description": "BIN 218 SE Classon Avenue & Bergen Street",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.95897587267723
     },
     {
@@ -2405,10 +2405,10 @@
       "longitude": -74.00526163846435
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100027,
       "latitude": 40.71904231972568,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 250 - SE CO Varick St. & Franklin St.",
       "availableForUse": true,
       "longitude": -74.00695323944092
@@ -3269,10 +3269,10 @@
       "longitude": -73.9464701336139
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100138,
       "latitude": 40.76639459170164,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 353 - SE CO 10 Ave & W 53 St",
       "availableForUse": true,
       "longitude": -73.99037571712044
@@ -3332,12 +3332,12 @@
       "longitude": -73.98831240762495
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 505100120,
       "latitude": 40.77519164031714,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 374 - SE CO West End Ave & W 65 St",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.98753543655222
     },
     {
@@ -3350,10 +3350,10 @@
       "longitude": -73.98983752643882
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100141,
       "latitude": 40.74960582599206,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 345 - NE CO W 26 St & 10 Ave",
       "availableForUse": true,
       "longitude": -74.00261308139008
@@ -3449,7 +3449,7 @@
       "longitude": -73.97035768079368
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 40,
       "serialNumber": 505100145,
       "latitude": 40.74163391924499,
       "binStatus": "Available",
