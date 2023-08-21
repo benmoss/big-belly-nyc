@@ -29,7 +29,7 @@
       "longitude": -73.92014228572059
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 503000001,
       "latitude": 40.61356176348572,
       "binStatus": "Available",
@@ -362,7 +362,7 @@
       "longitude": -73.93447995185852
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 503000056,
       "latitude": 40.817629573974216,
       "binStatus": "Available",
@@ -398,12 +398,12 @@
       "longitude": -73.93884859979153
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 503000051,
       "latitude": 40.83816928203937,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 57 - NW Amsterdam Avenue & West 165th Street",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.93815591931343
     },
     {
@@ -2891,10 +2891,10 @@
       "longitude": -73.98593114887535
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100083,
       "latitude": 40.72496280254391,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 324 - NE CO 2 Ave & E 2 St",
       "availableForUse": true,
       "longitude": -73.99017938079861
