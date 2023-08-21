@@ -74,7 +74,7 @@
       "longitude": -73.90916280189015
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 503000005,
       "latitude": 40.856930348953874,
       "binStatus": "Available",
@@ -137,12 +137,12 @@
       "longitude": -73.92011906951666
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 503000012,
       "latitude": 40.820960776484476,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 24 - SW West 138th Street & Amsterdam Avenue",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.95101174712181
     },
     {
@@ -947,10 +947,10 @@
       "longitude": -73.93525745719671
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 503000144,
       "latitude": 40.7019656047617,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 146 - SW Central Avenue & Noll Street",
       "availableForUse": true,
       "longitude": -73.93217660486698
@@ -1064,7 +1064,7 @@
       "longitude": -73.90397150069475
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 503000132,
       "latitude": 40.70324915068062,
       "binStatus": "Available",
@@ -2639,21 +2639,21 @@
       "longitude": -73.99473222632365
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 505100016,
       "latitude": 40.76404560103803,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 269 - NE CO E 66 St & 1 Ave",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.95855413649969
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 80,
       "serialNumber": 505100063,
       "latitude": 40.71256505742161,
-      "binStatus": "Full",
+      "binStatus": "Nearly Full",
       "description": "BIN 251 - NE CO Broadway & Park Place (City hall park side)",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -74.00756552771458
     },
     {
@@ -2810,12 +2810,12 @@
       "longitude": -73.96423428646112
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 505100089,
       "latitude": 40.77432420761129,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 362 - NW CO Amsterdam ave & W 65 St",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.98491537817117
     },
     {
@@ -3449,7 +3449,7 @@
       "longitude": -73.97035768079368
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 505100145,
       "latitude": 40.74163391924499,
       "binStatus": "Available",
