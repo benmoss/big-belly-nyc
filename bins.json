@@ -92,12 +92,12 @@
       "longitude": -73.94638694822788
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 503000008,
       "latitude": 40.761548735935826,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 05 - SW 24th Street & 34th Avenue",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.93188491463661
     },
     {
@@ -272,12 +272,12 @@
       "longitude": -73.92508216202259
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 503000031,
       "latitude": 40.70206803795076,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 174 - NW Knickerbocker Avenue & Suydam Street",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.92383761703968
     },
     {
@@ -551,10 +551,10 @@
       "longitude": -73.86818949133158
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 503000063,
       "latitude": 40.76656936634833,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 19 - SE Crescent Street & 30th Drive",
       "availableForUse": true,
       "longitude": -73.92594543138473
@@ -938,12 +938,12 @@
       "longitude": -73.96265991032124
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 503000133,
       "latitude": 40.684197290894595,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 116 - SE Lewis Avenue & Hancock Street",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.93525745719671
     },
     {
@@ -1226,7 +1226,7 @@
       "longitude": -73.92145413905382
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000174,
       "latitude": 40.69725935425951,
       "binStatus": "Available",
@@ -1361,7 +1361,7 @@
       "longitude": -73.93454968929291
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 503000185,
       "latitude": 40.704219889937,
       "binStatus": "Available",
@@ -1658,7 +1658,7 @@
       "longitude": -73.89307770878077
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000227,
       "latitude": 40.858658758806776,
       "binStatus": "Available",
@@ -1865,7 +1865,7 @@
       "longitude": -73.95274545997381
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 503000247,
       "latitude": 40.69513132458968,
       "binStatus": "Available",
@@ -2306,10 +2306,10 @@
       "longitude": -73.99692150445948
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100049,
       "latitude": 40.70656567487102,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 253 - SW CO Maiden Lane & Pearl Street",
       "availableForUse": true,
       "longitude": -74.00674662575356
@@ -2513,7 +2513,7 @@
       "longitude": -74.00341004133224
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 60,
       "serialNumber": 505100017,
       "latitude": 40.705075385840445,
       "binStatus": "Available",
@@ -2567,10 +2567,10 @@
       "longitude": -73.99747696934338
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100044,
       "latitude": 40.73121273762785,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 335 - NE CO Morton ST & Greenwich ST",
       "availableForUse": true,
       "longitude": -74.0077318323766
@@ -2873,10 +2873,10 @@
       "longitude": -73.97887822009935
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100095,
       "latitude": 40.74408502157723,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 300 - SW CO E 33 St & 2 Ave",
       "availableForUse": true,
       "longitude": -73.9766103569379
@@ -3134,10 +3134,10 @@
       "longitude": -73.99164146560618
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100126,
       "latitude": 40.789118885800946,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 372 - SW CO W 92 St & Central Park W",
       "availableForUse": true,
       "longitude": -73.96666802317641
@@ -3215,7 +3215,7 @@
       "longitude": -73.96168751836505
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 505100113,
       "latitude": 40.741606235945184,
       "binStatus": "Available",
@@ -3395,7 +3395,7 @@
       "longitude": -73.97196531694908
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 505100140,
       "latitude": 40.760441717606135,
       "binStatus": "Available",
