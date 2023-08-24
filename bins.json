@@ -182,7 +182,7 @@
       "longitude": -73.91337029635906
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 503000017,
       "latitude": 40.81773208281474,
       "binStatus": "Available",
@@ -281,7 +281,7 @@
       "longitude": -73.92383761703968
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 503000033,
       "latitude": 40.86054008940285,
       "binStatus": "Available",
@@ -551,7 +551,7 @@
       "longitude": -73.86818949133158
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 503000063,
       "latitude": 40.76656936634833,
       "binStatus": "Available",
@@ -1100,12 +1100,12 @@
       "longitude": -73.93099308013916
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 503000150,
       "latitude": 40.67358758069033,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 193 - NE Washington Avenue & St. Johns Place",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.96311119198799
     },
     {
@@ -1433,7 +1433,7 @@
       "longitude": -73.82693077466463
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 503000190,
       "latitude": 40.692363382489,
       "binStatus": "Available",
@@ -1847,10 +1847,10 @@
       "longitude": -73.90651490539312
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 503000246,
       "latitude": 40.67049107908947,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 197 - NW New York Avenue & Lincoln Place",
       "availableForUse": true,
       "longitude": -73.94772704690695
@@ -1865,7 +1865,7 @@
       "longitude": -73.95274545997381
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000247,
       "latitude": 40.69513132458968,
       "binStatus": "Available",
@@ -1939,11 +1939,11 @@
     {
       "latestFullness": 0,
       "serialNumber": 503000262,
-      "latitude": 40.674638024176474,
+      "latitude": 40.67464425638505,
       "binStatus": "Available",
       "description": "BIN 209 - NW Ralph Avenue - Bergen Street",
       "availableForUse": true,
-      "longitude": -73.92219375818968
+      "longitude": -73.92220901788035
     },
     {
       "latestFullness": 100,
@@ -2099,7 +2099,7 @@
       "longitude": -74.07558023929596
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000216,
       "latitude": 40.84382557774167,
       "binStatus": "Available",
@@ -2155,11 +2155,11 @@
     {
       "latestFullness": 0,
       "serialNumber": 503000202,
-      "latitude": 40.669731489886274,
+      "latitude": 40.66971391909037,
       "binStatus": "Available",
       "description": "BIN 210 - NE Kingston Avenue & Eastern Parkway",
       "availableForUse": true,
-      "longitude": -73.94219800829887
+      "longitude": -73.9421078891929
     },
     {
       "latestFullness": 0,
@@ -2198,7 +2198,7 @@
       "longitude": -73.94638707990978
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 505100038,
       "latitude": 40.780081383690586,
       "binStatus": "Available",
@@ -2621,7 +2621,7 @@
       "longitude": -73.99302401909992
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 60,
       "serialNumber": 505100002,
       "latitude": 40.76880090518785,
       "binStatus": "Available",
@@ -2936,10 +2936,10 @@
       "longitude": -73.96888427642509
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100093,
       "latitude": 40.7953036151945,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 383 - NE CO Broadway & W 97 St",
       "availableForUse": true,
       "longitude": -73.97107263571145
@@ -3071,10 +3071,10 @@
       "longitude": -73.97793704431773
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100066,
       "latitude": 40.71424651872,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 256 - NW CO Grand St & Henry St",
       "availableForUse": true,
       "longitude": -73.98167006603096
@@ -3082,11 +3082,11 @@
     {
       "latestFullness": 0,
       "serialNumber": 505100100,
-      "latitude": 40.77363841515928,
+      "latitude": 40.773718493770346,
       "binStatus": "Available",
       "description": "BIN 285 - NE CO 77th & Lexington Ave",
       "availableForUse": true,
-      "longitude": -73.95970138439084
+      "longitude": -73.95966351954947
     },
     {
       "latestFullness": 20,
@@ -3127,11 +3127,11 @@
     {
       "latestFullness": 0,
       "serialNumber": 505100130,
-      "latitude": 40.770232556885766,
+      "latitude": 40.77020285341155,
       "binStatus": "Available",
       "description": "BIN 357 - SW CO 11th Ave & W 57th St",
       "availableForUse": true,
-      "longitude": -73.99164146560618
+      "longitude": -73.99166207937031
     },
     {
       "latestFullness": 20,
@@ -3235,11 +3235,11 @@
     {
       "latestFullness": 0,
       "serialNumber": 505100127,
-      "latitude": 40.795252333994505,
+      "latitude": 40.79516392024059,
       "binStatus": "Available",
       "description": "BIN 373 - SW CO W 96 St & West End Ave",
       "availableForUse": true,
-      "longitude": -73.9732862596776
+      "longitude": -73.97343810525932
     },
     {
       "latestFullness": 20,
@@ -3298,11 +3298,11 @@
     {
       "latestFullness": 0,
       "serialNumber": 505100147,
-      "latitude": 40.767158700963456,
+      "latitude": 40.767171552566246,
       "binStatus": "Available",
       "description": "BIN 356 - SW CO 9 Ave & W 56 St",
       "availableForUse": true,
-      "longitude": -73.98634963340946
+      "longitude": -73.9864215009938
     },
     {
       "latestFullness": 0,
