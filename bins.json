@@ -11,7 +11,7 @@
       "longitude": -73.9012748748064
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 503000029,
       "latitude": 40.80207202156791,
       "binStatus": "Available",
@@ -263,7 +263,7 @@
       "longitude": -73.88136584311724
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 503000022,
       "latitude": 40.866201512573475,
       "binStatus": "Available",
@@ -299,7 +299,7 @@
       "longitude": -73.92743781208992
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 503000018,
       "latitude": 40.83478846373379,
       "binStatus": "Available",
@@ -1010,7 +1010,7 @@
       "longitude": -73.92045420260473
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000147,
       "latitude": 40.687583234935204,
       "binStatus": "Available",
@@ -1082,7 +1082,7 @@
       "longitude": -73.93382884562016
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 503000166,
       "latitude": 40.68703129558847,
       "binStatus": "Available",
@@ -1127,7 +1127,7 @@
       "longitude": -73.92600182443857
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000158,
       "latitude": 40.68871201420607,
       "binStatus": "Available",
@@ -1181,12 +1181,12 @@
       "longitude": -73.90958435833454
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 100,
       "serialNumber": 503000168,
       "latitude": 40.6755571241916,
-      "binStatus": "Available",
+      "binStatus": "Full",
       "description": "BIN 188 - NW Vanderbilt Avenue & Plaza Street East",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.96974126370019
     },
     {
@@ -1568,7 +1568,7 @@
       "longitude": -73.85504934936762
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 503000215,
       "latitude": 40.865482950603266,
       "binStatus": "Available",
@@ -1595,7 +1595,7 @@
       "longitude": -73.82940910756588
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 40,
       "serialNumber": 503000221,
       "latitude": 40.69040997746076,
       "binStatus": "Available",
@@ -1748,7 +1748,7 @@
       "longitude": -73.9355384244532
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000235,
       "latitude": 40.67303171113777,
       "binStatus": "Available",
@@ -1820,7 +1820,7 @@
       "longitude": -73.93390690380609
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 40,
       "serialNumber": 503000241,
       "latitude": 40.6774118895118,
       "binStatus": "Available",
@@ -2189,12 +2189,12 @@
       "longitude": -73.94892745726821
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 505100018,
       "latitude": 40.77294782166341,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 270 - SW CO 83rd & East End",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.94638707990978
     },
     {
@@ -3071,7 +3071,7 @@
       "longitude": -73.97793704431773
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 505100066,
       "latitude": 40.71424651872,
       "binStatus": "Available",
@@ -3170,7 +3170,7 @@
       "longitude": -73.96841285680578
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 505100129,
       "latitude": 40.779702163230795,
       "binStatus": "Available",
@@ -3215,7 +3215,7 @@
       "longitude": -73.96168751836505
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 505100113,
       "latitude": 40.741606235945184,
       "binStatus": "Available",
@@ -3260,10 +3260,10 @@
       "longitude": -73.96400324926272
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100143,
       "latitude": 40.77674450161177,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 392 - NW CO York Ave & E 87 St",
       "availableForUse": true,
       "longitude": -73.9464701336139
