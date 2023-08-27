@@ -1685,7 +1685,7 @@
       "longitude": -73.95448587834835
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 503000228,
       "latitude": 40.6885650705997,
       "binStatus": "Available",
@@ -2153,10 +2153,10 @@
       "longitude": -73.93855053931475
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 503000202,
       "latitude": 40.66971391909037,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 210 - NE Kingston Avenue & Eastern Parkway",
       "availableForUse": true,
       "longitude": -73.9421078891929
@@ -2828,12 +2828,12 @@
       "longitude": -73.99013103325534
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 505100081,
       "latitude": 40.78693626205199,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 367 - SW CO Amsterdam Ave & W 85 St",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.97570673483682
     },
     {
@@ -3116,7 +3116,7 @@
       "longitude": -73.97335456220875
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 505100099,
       "latitude": 40.72624753573009,
       "binStatus": "Available",
