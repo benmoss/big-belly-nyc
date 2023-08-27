@@ -182,10 +182,10 @@
       "longitude": -73.91337029635906
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 503000017,
       "latitude": 40.81773208281474,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 42 - SE West 136th Street & Edgecombe Avenue",
       "availableForUse": true,
       "longitude": -73.94737802445889
@@ -227,10 +227,10 @@
       "longitude": -73.93793974264426
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 503000023,
       "latitude": 40.84608111296369,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 59 - NE West 174th Street & Fort Washington Avenue",
       "availableForUse": true,
       "longitude": -73.94016187638044
@@ -497,7 +497,7 @@
       "longitude": -73.89476414769888
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 60,
       "serialNumber": 503000038,
       "latitude": 40.76298113979361,
       "binStatus": "Available",
@@ -605,7 +605,7 @@
       "longitude": -73.93138837069273
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000068,
       "latitude": 40.64305722769547,
       "binStatus": "Available",
@@ -902,12 +902,12 @@
       "longitude": -73.92874404788017
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 503000131,
       "latitude": 40.688233556498346,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 143 - SW Nostrand Avenue & Greene Avenue",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.95123168826103
     },
     {
@@ -1154,7 +1154,7 @@
       "longitude": -73.9271404221654
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 503000156,
       "latitude": 40.70249991438864,
       "binStatus": "Available",
@@ -1676,12 +1676,12 @@
       "longitude": -73.91965739428997
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 503000225,
       "latitude": 40.6865703680712,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 128 - NE Bedford Avenue & Quincy Street",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.95448587834835
     },
     {
@@ -1856,10 +1856,10 @@
       "longitude": -73.94772704690695
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 503000251,
       "latitude": 40.67459377925092,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 216 - NE Rogers Avenue & Prospect Place",
       "availableForUse": true,
       "longitude": -73.95274545997381
@@ -2207,10 +2207,10 @@
       "longitude": -73.9532222620251
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100048,
       "latitude": 40.778333070963065,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 271 - NW CO 1st Ave & 88th St",
       "availableForUse": true,
       "longitude": -73.94848935814979
@@ -2333,7 +2333,7 @@
       "longitude": -73.99051628208568
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 505100008,
       "latitude": 40.7391347154904,
       "binStatus": "Available",
@@ -2792,10 +2792,10 @@
       "longitude": -73.94025328989962
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100075,
       "latitude": 40.778060906549015,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 394 - SW CO E 85 St & 3 Ave",
       "availableForUse": true,
       "longitude": -73.95466305211644
@@ -3314,7 +3314,7 @@
       "longitude": -73.98249430253485
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 60,
       "serialNumber": 505100142,
       "latitude": 40.73887358712755,
       "binStatus": "Available",
