@@ -479,12 +479,12 @@
       "longitude": -73.9660133421421
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 503000039,
       "latitude": 40.82647613312916,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 25 - SW West 147th Street & Amsterdam Avenue",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.94687759676215
     },
     {
@@ -1208,10 +1208,10 @@
       "longitude": -73.90959072858095
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 503000170,
       "latitude": 40.676454329310545,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 213 - NE Kingston Avenue & Dean Street",
       "availableForUse": true,
       "longitude": -73.94148588180542
@@ -2369,10 +2369,10 @@
       "longitude": -73.9498927384089
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100013,
       "latitude": 40.73565255133342,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 330 - SW CO 7th Avenue South & Perry St",
       "availableForUse": true,
       "longitude": -74.00171998103215
@@ -2396,10 +2396,10 @@
       "longitude": -73.98169906782172
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100045,
       "latitude": 40.74639647509707,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 342 - SW CO 10 Ave & W 21 St",
       "availableForUse": true,
       "longitude": -74.00526163846435
@@ -2414,10 +2414,10 @@
       "longitude": -74.00695323944092
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100003,
       "latitude": 40.73776704120356,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 332 - SE CO 7 Ave & W 13 St",
       "availableForUse": true,
       "longitude": -74.00006544331396
@@ -2486,7 +2486,7 @@
       "longitude": -74.00274561377924
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 505100047,
       "latitude": 40.73539348561974,
       "binStatus": "Available",
@@ -3044,7 +3044,7 @@
       "longitude": -73.96910423686519
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 505100111,
       "latitude": 40.758836000578,
       "binStatus": "Available",
