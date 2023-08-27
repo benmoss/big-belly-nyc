@@ -20,7 +20,7 @@
       "longitude": -73.95370032638311
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 503000027,
       "latitude": 40.76267874186988,
       "binStatus": "Available",
@@ -1064,7 +1064,7 @@
       "longitude": -73.90397150069475
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 503000132,
       "latitude": 40.70324915068062,
       "binStatus": "Available",
@@ -2144,7 +2144,7 @@
       "longitude": -73.91865953781273
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 40,
       "serialNumber": 503000128,
       "latitude": 40.678977698412524,
       "binStatus": "Available",
@@ -2576,19 +2576,19 @@
       "longitude": -74.0077318323766
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 505100061,
       "latitude": 40.70860458493924,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 252 - SW CO Broadway & Cedar Street",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -74.0108494516408
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100033,
       "latitude": 40.78070495280861,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 365 - SW Co W 77 St & Columbus Ave",
       "availableForUse": true,
       "longitude": -73.97665659471008
@@ -2621,12 +2621,12 @@
       "longitude": -73.99302401909992
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 505100002,
       "latitude": 40.76880090518785,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 268 - SE CO 2nd Avenue & 72nd Street",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.95866268132934
     },
     {
@@ -2756,10 +2756,10 @@
       "longitude": -73.98495496580612
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100055,
       "latitude": 40.76405416975698,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 291 - NE CO E 63 St & 3 Ave",
       "availableForUse": true,
       "longitude": -73.96450973157151
@@ -3134,7 +3134,7 @@
       "longitude": -73.99166207937031
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 505100126,
       "latitude": 40.789118885800946,
       "binStatus": "Available",
