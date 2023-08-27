@@ -290,7 +290,7 @@
       "longitude": -73.9273372319724
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 503000057,
       "latitude": 40.85571566774662,
       "binStatus": "Available",
@@ -596,7 +596,7 @@
       "longitude": -73.92510951539327
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000064,
       "latitude": 40.79758808361427,
       "binStatus": "Available",
@@ -2216,12 +2216,12 @@
       "longitude": -73.94848935814979
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 505100040,
       "latitude": 40.77068591297934,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 363 - NW CO W 63 St & Central Park W",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.98008527492154
     },
     {
@@ -2513,10 +2513,10 @@
       "longitude": -74.00341004133224
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100017,
       "latitude": 40.705075385840445,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 243 - NE CO Broadway & Beaver Street",
       "availableForUse": true,
       "longitude": -74.01322457939386
@@ -2738,12 +2738,12 @@
       "longitude": -74.0047200044207
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 505100059,
       "latitude": 40.718786682897935,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 244 - SW CO of Greenwich St & Harrison ST",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -74.01055041700602
     },
     {
@@ -2936,12 +2936,12 @@
       "longitude": -73.96888427642509
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 505100093,
       "latitude": 40.7953036151945,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 383 - NE CO Broadway & W 97 St",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.97107263571145
     },
     {
@@ -3170,12 +3170,12 @@
       "longitude": -73.96841285680578
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 80,
       "serialNumber": 505100129,
       "latitude": 40.779702163230795,
-      "binStatus": "Full",
+      "binStatus": "Nearly Full",
       "description": "BIN 376 - NW CO Broadway & W 73 St",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.98189624416173
     },
     {
@@ -3296,10 +3296,10 @@
       "longitude": -73.97864520220962
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100147,
       "latitude": 40.767171552566246,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 356 - SW CO 9 Ave & W 56 St",
       "availableForUse": true,
       "longitude": -73.9864215009938
@@ -3395,7 +3395,7 @@
       "longitude": -73.97196531694908
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 505100140,
       "latitude": 40.760441717606135,
       "binStatus": "Available",
