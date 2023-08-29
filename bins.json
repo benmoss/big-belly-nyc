@@ -83,7 +83,7 @@
       "longitude": -73.89822654426098
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000007,
       "latitude": 40.695555464715596,
       "binStatus": "Available",
@@ -371,10 +371,10 @@
       "longitude": -73.95314779132605
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 80,
       "serialNumber": 503000050,
       "latitude": 40.829794034320685,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 26 - NW Amsterdam Avenue & W 152 Street",
       "availableForUse": true,
       "longitude": -73.94453756511211
@@ -407,12 +407,12 @@
       "longitude": -73.93815591931343
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 503000052,
       "latitude": 40.805835432729474,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 36 - SW West 122 Street & Malcolm X Blvd",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.94713159650564
     },
     {
@@ -461,12 +461,12 @@
       "longitude": -73.95354006439447
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 503000043,
       "latitude": 40.804732620856896,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 31 - SE Amsterdam Avenue & W 113 Street",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.9623499576847
     },
     {
@@ -668,7 +668,7 @@
       "longitude": -73.93777001649141
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 503000075,
       "latitude": 40.76355515935151,
       "binStatus": "Available",
@@ -1109,7 +1109,7 @@
       "longitude": -73.96311119198799
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 60,
       "serialNumber": 503000152,
       "latitude": 40.68415381504779,
       "binStatus": "Available",
@@ -1163,7 +1163,7 @@
       "longitude": -73.9129939918858
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 60,
       "serialNumber": 503000160,
       "latitude": 40.6827719802296,
       "binStatus": "Available",
@@ -1253,7 +1253,7 @@
       "longitude": -73.91751361469018
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000153,
       "latitude": 40.87989884498878,
       "binStatus": "Available",
@@ -1325,7 +1325,7 @@
       "longitude": -73.91234535723925
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 60,
       "serialNumber": 503000172,
       "latitude": 40.69744237426521,
       "binStatus": "Available",
@@ -1487,12 +1487,12 @@
       "longitude": -73.9436212554574
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 503000206,
       "latitude": 40.68764908091782,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 122 - SW Tompkins Avenue & Quincy Street",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.94487351179123
     },
     {
@@ -1550,12 +1550,12 @@
       "longitude": -73.928127810359
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 503000204,
       "latitude": 40.69300170948447,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 130 - SE Bedford Avenue & Willoughby Avenue",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.9556797966361
     },
     {
@@ -1838,7 +1838,7 @@
       "longitude": -73.93339063972235
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 40,
       "serialNumber": 503000253,
       "latitude": 40.69199578878015,
       "binStatus": "Available",
@@ -2270,12 +2270,12 @@
       "longitude": -73.99722146507379
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 505100014,
       "latitude": 40.78010940688603,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 267 - NE CO 1st Ave & 91ST St",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.94685207786003
     },
     {
@@ -2288,10 +2288,10 @@
       "longitude": -73.97899926258084
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100012,
       "latitude": 40.731190506042964,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 314 - NW CO 2nd Ave & 12th Street",
       "availableForUse": true,
       "longitude": -73.98598125432342
@@ -2306,10 +2306,10 @@
       "longitude": -73.99692150445948
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100049,
       "latitude": 40.70656567487102,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 253 - SW CO Maiden Lane & Pearl Street",
       "availableForUse": true,
       "longitude": -74.00674662575356
@@ -2513,10 +2513,10 @@
       "longitude": -74.00341004133224
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100017,
       "latitude": 40.705075385840445,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 243 - NE CO Broadway & Beaver Street",
       "availableForUse": true,
       "longitude": -74.01322457939386
@@ -2558,12 +2558,12 @@
       "longitude": -73.95030765772454
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 505100036,
       "latitude": 40.74644184775195,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 344 - SE CO 8 Ave & W 25 St",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.99747696934338
     },
     {
@@ -2711,10 +2711,10 @@
       "longitude": -73.99222918721208
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100006,
       "latitude": 40.717415222837694,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 248 - NW CO of Chambers St. & West St.",
       "availableForUse": true,
       "longitude": -74.01312500238419
@@ -2738,7 +2738,7 @@
       "longitude": -74.0047200044207
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 505100059,
       "latitude": 40.718786682897935,
       "binStatus": "Available",
@@ -2900,10 +2900,10 @@
       "longitude": -73.99017938079861
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100080,
       "latitude": 40.7380040181738,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 389 - NW CO 2 Ave & E 23 St",
       "availableForUse": true,
       "longitude": -73.9809653781084
@@ -2927,12 +2927,12 @@
       "longitude": -73.95335140977043
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 505100087,
       "latitude": 40.798370790247,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 384 - SE CO Broadway & W 102 St",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.96888427642509
     },
     {
@@ -3170,10 +3170,10 @@
       "longitude": -73.96841285680578
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100129,
       "latitude": 40.779702163230795,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 376 - NW CO Broadway & W 73 St",
       "availableForUse": true,
       "longitude": -73.98189624416173
@@ -3404,7 +3404,7 @@
       "longitude": -74.00684701383747
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 505100135,
       "latitude": 40.758930399023754,
       "binStatus": "Available",
