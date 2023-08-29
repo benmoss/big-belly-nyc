@@ -182,12 +182,12 @@
       "longitude": -73.91337029635906
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 0,
       "serialNumber": 503000017,
       "latitude": 40.81773208281474,
-      "binStatus": "Full",
+      "binStatus": "Available",
       "description": "BIN 42 - SE West 136th Street & Edgecombe Avenue",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.94737802445889
     },
     {
@@ -1127,12 +1127,12 @@
       "longitude": -73.92600182443857
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 0,
       "serialNumber": 503000158,
       "latitude": 40.68871201420607,
-      "binStatus": "Full",
+      "binStatus": "Available",
       "description": "BIN 129 - NE Bedford Avenue & Clifton Place",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.95497169345617
     },
     {
@@ -1514,12 +1514,12 @@
       "longitude": -73.8490579649806
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 0,
       "serialNumber": 503000201,
       "latitude": 40.68434297291138,
-      "binStatus": "Full",
+      "binStatus": "Available",
       "description": "BIN 127 - NE Bedford Avenue & Madison Street",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.95393367856741
     },
     {
@@ -1550,12 +1550,12 @@
       "longitude": -73.928127810359
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 0,
       "serialNumber": 503000204,
       "latitude": 40.69300170948447,
-      "binStatus": "Full",
+      "binStatus": "Available",
       "description": "BIN 130 - SE Bedford Avenue & Willoughby Avenue",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.9556797966361
     },
     {
@@ -1676,12 +1676,12 @@
       "longitude": -73.91965739428997
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 0,
       "serialNumber": 503000225,
       "latitude": 40.6865703680712,
-      "binStatus": "Full",
+      "binStatus": "Available",
       "description": "BIN 128 - NE Bedford Avenue & Quincy Street",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.95448587834835
     },
     {
@@ -2342,10 +2342,10 @@
       "longitude": -73.99540269748928
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 0,
       "serialNumber": 505100031,
       "latitude": 40.72948121652991,
-      "binStatus": "Nearly Full",
+      "binStatus": "Available",
       "description": "BIN 328 - SE CO Bleecker St & 6 Ave",
       "availableForUse": true,
       "longitude": -74.00212241864305
@@ -2369,7 +2369,7 @@
       "longitude": -73.9498927384089
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 0,
       "serialNumber": 505100013,
       "latitude": 40.73565255133342,
       "binStatus": "Available",
@@ -2414,7 +2414,7 @@
       "longitude": -74.00695323944092
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 0,
       "serialNumber": 505100003,
       "latitude": 40.73776704120356,
       "binStatus": "Available",
@@ -2468,7 +2468,7 @@
       "longitude": -74.0109745413065
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 0,
       "serialNumber": 505100023,
       "latitude": 40.7346470054958,
       "binStatus": "Available",
@@ -2495,10 +2495,10 @@
       "longitude": -73.98759673124307
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 0,
       "serialNumber": 505100046,
       "latitude": 40.73534879130396,
-      "binStatus": "Nearly Full",
+      "binStatus": "Available",
       "description": "BIN 336 - SW CO 6 Ave & W 11 St",
       "availableForUse": true,
       "longitude": -73.99849525644926
@@ -2873,7 +2873,7 @@
       "longitude": -73.97887822009935
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 0,
       "serialNumber": 505100095,
       "latitude": 40.74408502157723,
       "binStatus": "Available",
@@ -2900,10 +2900,10 @@
       "longitude": -73.99017938079861
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 0,
       "serialNumber": 505100080,
       "latitude": 40.7380040181738,
-      "binStatus": "Nearly Full",
+      "binStatus": "Available",
       "description": "BIN 389 - NW CO 2 Ave & E 23 St",
       "availableForUse": true,
       "longitude": -73.9809653781084
@@ -2945,7 +2945,7 @@
       "longitude": -73.97107263571145
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 0,
       "serialNumber": 505100107,
       "latitude": 40.73674344375692,
       "binStatus": "Available",
@@ -3152,7 +3152,7 @@
       "longitude": -73.95414933006201
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 0,
       "serialNumber": 505100124,
       "latitude": 40.73044605992985,
       "binStatus": "Available",
@@ -3215,7 +3215,7 @@
       "longitude": -73.98558684719369
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 0,
       "serialNumber": 505100098,
       "latitude": 40.741609115050146,
       "binStatus": "Available",
@@ -3449,7 +3449,7 @@
       "longitude": -73.99363601223293
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 0,
       "serialNumber": 505100148,
       "latitude": 40.735894111584756,
       "binStatus": "Available",
