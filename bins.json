@@ -407,12 +407,12 @@
       "longitude": -73.93815591931343
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 503000052,
       "latitude": 40.805835432729474,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 36 - SW West 122 Street & Malcolm X Blvd",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.94713159650564
     },
     {
@@ -470,12 +470,12 @@
       "longitude": -73.9623499576847
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 503000040,
       "latitude": 40.80557429253741,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 30 - SW West 112 Street & Broadway",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.9660133421421
     },
     {
@@ -992,7 +992,7 @@
       "longitude": -73.94146978855133
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 503000145,
       "latitude": 40.68640155543058,
       "binStatus": "Available",
@@ -1325,7 +1325,7 @@
       "longitude": -73.91234535723925
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 503000172,
       "latitude": 40.69744237426521,
       "binStatus": "Available",
@@ -3062,7 +3062,7 @@
       "longitude": -73.9614462477865
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 40,
       "serialNumber": 505100091,
       "latitude": 40.74913400691257,
       "binStatus": "Available",
@@ -3134,10 +3134,10 @@
       "longitude": -73.99166207937031
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100126,
       "latitude": 40.789118885800946,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 372 - SW CO W 92 St & Central Park W",
       "availableForUse": true,
       "longitude": -73.96666802317641
@@ -3332,7 +3332,7 @@
       "longitude": -73.98831240762495
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 505100120,
       "latitude": 40.77519164031714,
       "binStatus": "Available",
@@ -3485,10 +3485,10 @@
       "longitude": -73.9799463692325
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100115,
       "latitude": 40.78907737322027,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 380 - NW CO Broadway & W 87 St",
       "availableForUse": true,
       "longitude": -73.97608351438119
