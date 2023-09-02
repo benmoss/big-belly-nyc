@@ -479,10 +479,10 @@
       "longitude": -73.9660133421421
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 503000039,
       "latitude": 40.82647613312916,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 25 - SW West 147th Street & Amsterdam Avenue",
       "availableForUse": true,
       "longitude": -73.94687759676215
@@ -1784,12 +1784,12 @@
       "longitude": -73.94294936209917
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 503000240,
       "latitude": 40.67428152112551,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 198 - NW New York Avenue & Prospect Place",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.94742764532566
     },
     {
@@ -2108,7 +2108,7 @@
       "longitude": -73.78518752753735
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000197,
       "latitude": 40.68749730455891,
       "binStatus": "Available",
@@ -2648,7 +2648,7 @@
       "longitude": -73.95855413649969
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 60,
       "serialNumber": 505100063,
       "latitude": 40.71256505742161,
       "binStatus": "Available",
@@ -3116,7 +3116,7 @@
       "longitude": -73.97335456220875
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 505100099,
       "latitude": 40.72624753573009,
       "binStatus": "Available",
