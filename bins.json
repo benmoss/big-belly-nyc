@@ -434,7 +434,7 @@
       "longitude": -73.92911855131388
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000041,
       "latitude": 40.81994461125911,
       "binStatus": "Available",
@@ -443,7 +443,7 @@
       "longitude": -73.92850801348686
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 503000042,
       "latitude": 40.764174520197706,
       "binStatus": "Available",
@@ -785,7 +785,7 @@
       "longitude": -73.92875041812658
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 503000095,
       "latitude": 40.82739891873525,
       "binStatus": "Available",
@@ -1820,12 +1820,12 @@
       "longitude": -73.93390690380609
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 80,
       "serialNumber": 503000241,
       "latitude": 40.6774118895118,
-      "binStatus": "Full",
+      "binStatus": "Nearly Full",
       "description": "BIN 218 SE Classon Avenue & Bergen Street",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.95897587267723
     },
     {
@@ -2153,12 +2153,12 @@
       "longitude": -73.93855053931475
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 503000202,
       "latitude": 40.66971391909037,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 210 - NE Kingston Avenue & Eastern Parkway",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.9421078891929
     },
     {
@@ -2423,7 +2423,7 @@
       "longitude": -74.00006544331396
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 505100022,
       "latitude": 40.73287635373648,
       "binStatus": "Available",
@@ -2639,12 +2639,12 @@
       "longitude": -73.99473222632365
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 505100016,
       "latitude": 40.76404560103803,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 269 - NE CO E 66 St & 1 Ave",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.95855413649969
     },
     {
@@ -2954,10 +2954,10 @@
       "longitude": -73.98908566787568
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100108,
       "latitude": 40.72615124076925,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 321 - NE CO Avenue A & 7th Street",
       "availableForUse": true,
       "longitude": -73.9833025251433
