@@ -389,7 +389,7 @@
       "longitude": -73.94493098288339
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 503000049,
       "latitude": 40.79160725166976,
       "binStatus": "Available",
@@ -731,7 +731,7 @@
       "longitude": -73.93804447746935
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000087,
       "latitude": 40.84052114217759,
       "binStatus": "Available",
@@ -1082,7 +1082,7 @@
       "longitude": -73.93382884562016
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 503000166,
       "latitude": 40.68703129558847,
       "binStatus": "Available",
@@ -1424,7 +1424,7 @@
       "longitude": -73.94418887794018
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 503000196,
       "latitude": 40.845052353341714,
       "binStatus": "Available",
@@ -2162,7 +2162,7 @@
       "longitude": -73.9421078891929
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000236,
       "latitude": 40.76122012468334,
       "binStatus": "Available",
@@ -3098,7 +3098,7 @@
       "longitude": -73.9728414833659
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 505100101,
       "latitude": 40.77228183243049,
       "binStatus": "Available",
@@ -3161,21 +3161,21 @@
       "longitude": -74.0026189895217
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100125,
       "latitude": 40.786641828294435,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 368 - NW CO W 88 St & Central Park W",
       "availableForUse": true,
       "longitude": -73.96841285680578
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 505100129,
       "latitude": 40.779702163230795,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 376 - NW CO Broadway & W 73 St",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.98189624416173
     },
     {
@@ -3305,10 +3305,10 @@
       "longitude": -73.9864215009938
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100134,
       "latitude": 40.7312028692314,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 313 - SE CO 1 Ave & E 14 St",
       "availableForUse": true,
       "longitude": -73.98249430253485
