@@ -200,7 +200,7 @@
       "longitude": -73.92599746584892
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 503000021,
       "latitude": 40.785809419537095,
       "binStatus": "Available",
@@ -533,7 +533,7 @@
       "longitude": -73.96890208125114
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 0,
       "serialNumber": 503000047,
       "latitude": 40.80229053822756,
       "binStatus": "Available",
@@ -1244,7 +1244,7 @@
       "longitude": -73.96811317652464
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 503000162,
       "latitude": 40.704966472832965,
       "binStatus": "Available",
@@ -1487,10 +1487,10 @@
       "longitude": -73.9436212554574
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 503000206,
       "latitude": 40.68764908091782,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 122 - SW Tompkins Avenue & Quincy Street",
       "availableForUse": true,
       "longitude": -73.94487351179123
@@ -2171,10 +2171,10 @@
       "longitude": -73.93532887101173
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 0,
       "serialNumber": 505100078,
       "latitude": 40.77113841285102,
-      "binStatus": "Nearly Full",
+      "binStatus": "Available",
       "description": "BIN 361 - NW CO W 60 St & Amsterdam Ave",
       "availableForUse": true,
       "longitude": -73.98717944724858
@@ -2324,12 +2324,12 @@
       "longitude": -73.99195962283002
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 505100019,
       "latitude": 40.731496522321486,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 315 - NW CO 4 Ave & E 10 St",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.99051628208568
     },
     {
@@ -2459,10 +2459,10 @@
       "longitude": -73.99262428743057
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 0,
       "serialNumber": 505100009,
       "latitude": 40.7164061130962,
-      "binStatus": "Nearly Full",
+      "binStatus": "Available",
       "description": "BIN 245 - NW CO Greenwich St & Chambers St",
       "availableForUse": true,
       "longitude": -74.0109745413065
@@ -2630,7 +2630,7 @@
       "longitude": -73.95866268132934
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 0,
       "serialNumber": 505100053,
       "latitude": 40.7214226207243,
       "binStatus": "Available",
@@ -2738,10 +2738,10 @@
       "longitude": -74.0047200044207
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 0,
       "serialNumber": 505100059,
       "latitude": 40.718786682897935,
-      "binStatus": "Nearly Full",
+      "binStatus": "Available",
       "description": "BIN 244 - SW CO of Greenwich St & Harrison ST",
       "availableForUse": true,
       "longitude": -74.01055041700602
@@ -2810,7 +2810,7 @@
       "longitude": -73.96423428646112
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 0,
       "serialNumber": 505100089,
       "latitude": 40.77432420761129,
       "binStatus": "Available",
@@ -3017,7 +3017,7 @@
       "longitude": -73.94326507506806
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 505100109,
       "latitude": 40.73363996493627,
       "binStatus": "Available",
@@ -3143,10 +3143,10 @@
       "longitude": -73.96666802317641
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100132,
       "latitude": 40.757513465018945,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 325 - SW CO W Main Street and Main Street (by Tram Terminal)",
       "availableForUse": true,
       "longitude": -73.95414933006201
@@ -3485,10 +3485,10 @@
       "longitude": -73.9799463692325
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100115,
       "latitude": 40.78907737322027,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 380 - NW CO Broadway & W 87 St",
       "availableForUse": true,
       "longitude": -73.97608351438119
