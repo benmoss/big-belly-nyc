@@ -425,7 +425,7 @@
       "longitude": -73.93639236688614
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 60,
       "serialNumber": 503000045,
       "latitude": 40.768332138355355,
       "binStatus": "Available",
@@ -587,7 +587,7 @@
       "longitude": -73.92701134085655
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 503000065,
       "latitude": 40.76524333304795,
       "binStatus": "Available",
@@ -1163,12 +1163,12 @@
       "longitude": -73.9129939918858
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 503000160,
       "latitude": 40.6827719802296,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 140 - SW Throop Avenue & Halsey Street",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.94101046025753
     },
     {
@@ -1784,12 +1784,12 @@
       "longitude": -73.94294936209917
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 503000240,
       "latitude": 40.67428152112551,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 198 - NW New York Avenue & Prospect Place",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.94742764532566
     },
     {
@@ -1892,12 +1892,12 @@
       "longitude": -73.95329229533672
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 503000258,
       "latitude": 40.8111366429278,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 28 - SE West 123 Street & Amsterdam Avenue",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.95765916089715
     },
     {
@@ -2045,7 +2045,7 @@
       "longitude": -73.93318008631468
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000260,
       "latitude": 40.67112071527155,
       "binStatus": "Available",
@@ -2513,10 +2513,10 @@
       "longitude": -74.00341004133224
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100017,
       "latitude": 40.705075385840445,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 243 - NE CO Broadway & Beaver Street",
       "availableForUse": true,
       "longitude": -74.01322457939386
@@ -2747,7 +2747,7 @@
       "longitude": -74.01055041700602
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 505100054,
       "latitude": 40.7191714224125,
       "binStatus": "Available",
@@ -2900,7 +2900,7 @@
       "longitude": -73.99017938079861
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 60,
       "serialNumber": 505100080,
       "latitude": 40.7380040181738,
       "binStatus": "Available",
