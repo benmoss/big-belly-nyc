@@ -929,12 +929,12 @@
       "longitude": -73.92899550497532
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 0,
       "serialNumber": 503000136,
       "latitude": 40.67726495043478,
-      "binStatus": "Full",
+      "binStatus": "Available",
       "description": "BIN 192 - NW Grand Avenue & St. Marks Avenue",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.96265991032124
     },
     {
@@ -1100,12 +1100,12 @@
       "longitude": -73.93099308013916
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 0,
       "serialNumber": 503000150,
       "latitude": 40.67358758069033,
-      "binStatus": "Full",
+      "binStatus": "Available",
       "description": "BIN 193 - NE Washington Avenue & St. Johns Place",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.96311119198799
     },
     {
@@ -1370,12 +1370,12 @@
       "longitude": -73.91591713080048
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 0,
       "serialNumber": 503000184,
       "latitude": 40.673104182956976,
-      "binStatus": "Full",
+      "binStatus": "Available",
       "description": "BIN 189 - NE Underhill Avenue & Eastern Parkway",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.96755293011665
     },
     {
@@ -1820,10 +1820,10 @@
       "longitude": -73.93390690380609
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 0,
       "serialNumber": 503000241,
       "latitude": 40.6774118895118,
-      "binStatus": "Nearly Full",
+      "binStatus": "Available",
       "description": "BIN 218 SE Classon Avenue & Bergen Street",
       "availableForUse": true,
       "longitude": -73.95897587267723
@@ -1919,12 +1919,12 @@
       "longitude": -74.14217077195644
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 0,
       "serialNumber": 503000244,
       "latitude": 40.67487311845103,
-      "binStatus": "Full",
+      "binStatus": "Available",
       "description": "BIN 194 - NW Classon Avenue & Park Place",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.96038701505442
     },
     {
@@ -3026,7 +3026,7 @@
       "longitude": -73.98073154416069
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 505100076,
       "latitude": 40.85312543432193,
       "binStatus": "Available",
