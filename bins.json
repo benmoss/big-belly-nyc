@@ -1055,7 +1055,7 @@
       "longitude": -73.90418004244566
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000151,
       "latitude": 40.681610047272095,
       "binStatus": "Available",
@@ -1487,12 +1487,12 @@
       "longitude": -73.9436212554574
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 503000206,
       "latitude": 40.68764908091782,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 122 - SW Tompkins Avenue & Quincy Street",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.94487351179123
     },
     {
@@ -1523,12 +1523,12 @@
       "longitude": -73.95393367856741
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 503000208,
       "latitude": 40.683812617651405,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 133 - NW Howard Avenue & Macdonough Street",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.92018981277943
     },
     {
@@ -2387,10 +2387,10 @@
       "longitude": -73.9869912541827
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100001,
       "latitude": 40.74633635540412,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 299 - SE CO Park & E 33 St",
       "availableForUse": true,
       "longitude": -73.98169906782172
