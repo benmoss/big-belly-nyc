@@ -974,12 +974,12 @@
       "longitude": -73.91719682217655
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 503000143,
       "latitude": 40.6825487482924,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 145 - SE Nostrand Avenue & Hancock Street",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.9499693736434
     },
     {
@@ -1415,12 +1415,12 @@
       "longitude": -73.9536564052105
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 503000194,
       "latitude": 40.68457611432452,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 123 - SW Tompkins Avenue & Putnam Avenue",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.94418887794018
     },
     {
@@ -1523,10 +1523,10 @@
       "longitude": -73.95393367856741
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 503000208,
       "latitude": 40.683812617651405,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 133 - NW Howard Avenue & Macdonough Street",
       "availableForUse": true,
       "longitude": -73.92018981277943
@@ -1739,10 +1739,10 @@
       "longitude": -73.89310654252768
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 503000186,
       "latitude": 40.6858662258759,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 117 - NE Lewis Avenue & Putnam Avenue",
       "availableForUse": true,
       "longitude": -73.9355384244532
@@ -2504,7 +2504,7 @@
       "longitude": -73.99849525644926
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 505100029,
       "latitude": 40.710663476710224,
       "binStatus": "Available",
