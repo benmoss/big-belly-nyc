@@ -254,7 +254,7 @@
       "longitude": -73.91796863240839
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 503000024,
       "latitude": 40.87628033530234,
       "binStatus": "Available",
@@ -290,10 +290,10 @@
       "longitude": -73.9273372319724
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 503000057,
       "latitude": 40.85571566774662,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 62 - NW Audubon Avenue & West 192nd Street",
       "availableForUse": true,
       "longitude": -73.92743781208992
@@ -578,10 +578,10 @@
       "longitude": -73.95281787961721
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 503000066,
       "latitude": 40.764940904595754,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 13 - NE Crescent Street & 31st Road",
       "availableForUse": true,
       "longitude": -73.92701134085655
@@ -875,12 +875,12 @@
       "longitude": -73.94525472074747
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 503000139,
       "latitude": 40.69385788678818,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 162 - NE Bushwick Avenue & Himrod Street",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.92586905509233
     },
     {
@@ -1064,12 +1064,12 @@
       "longitude": -73.90397150069475
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 503000132,
       "latitude": 40.70324915068062,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 181 - SW St. Nicholas Avenue & Greene Avenue",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.91453684044001
     },
     {
@@ -2459,12 +2459,12 @@
       "longitude": -73.99262428743057
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 505100009,
       "latitude": 40.7164061130962,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 245 - NW CO Greenwich St & Chambers St",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -74.0109745413065
     },
     {
@@ -2711,10 +2711,10 @@
       "longitude": -73.99222918721208
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100006,
       "latitude": 40.717415222837694,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 248 - NW CO of Chambers St. & West St.",
       "availableForUse": true,
       "longitude": -74.01312500238419
@@ -3449,10 +3449,10 @@
       "longitude": -73.97035768079368
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100145,
       "latitude": 40.74163391924499,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 338 - N/E CO 21st Street and 6th Ave",
       "availableForUse": true,
       "longitude": -73.99363601223293
