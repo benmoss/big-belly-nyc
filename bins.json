@@ -74,7 +74,7 @@
       "longitude": -73.90916280189015
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 0,
       "serialNumber": 503000005,
       "latitude": 40.856930348953874,
       "binStatus": "Available",
@@ -227,12 +227,12 @@
       "longitude": -73.93778998622929
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 0,
       "serialNumber": 503000023,
       "latitude": 40.84608111296369,
-      "binStatus": "Full",
+      "binStatus": "Available",
       "description": "BIN 59 - NE West 174th Street & Fort Washington Avenue",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.94016187638044
     },
     {
@@ -344,7 +344,7 @@
       "longitude": -73.92496582120657
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 60,
       "serialNumber": 503000054,
       "latitude": 40.76387664872765,
       "binStatus": "Available",
@@ -1109,7 +1109,7 @@
       "longitude": -73.96311119198799
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 60,
       "serialNumber": 503000152,
       "latitude": 40.68415381504779,
       "binStatus": "Available",
@@ -1415,12 +1415,12 @@
       "longitude": -73.9536564052105
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 503000194,
       "latitude": 40.68457611432452,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 123 - SW Tompkins Avenue & Putnam Avenue",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.94418887794018
     },
     {
@@ -1631,7 +1631,7 @@
       "longitude": -73.90800554305315
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 0,
       "serialNumber": 503000222,
       "latitude": 40.821624764178374,
       "binStatus": "Available",
@@ -1838,7 +1838,7 @@
       "longitude": -73.93339063972235
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 503000253,
       "latitude": 40.69199578878015,
       "binStatus": "Available",
@@ -2135,7 +2135,7 @@
       "longitude": -73.9109194278717
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 503000212,
       "latitude": 40.70585647534992,
       "binStatus": "Available",
@@ -2225,7 +2225,7 @@
       "longitude": -73.98008527492154
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 60,
       "serialNumber": 505100042,
       "latitude": 40.73752862143271,
       "binStatus": "Available",
@@ -2387,7 +2387,7 @@
       "longitude": -73.9869912541827
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 0,
       "serialNumber": 505100001,
       "latitude": 40.74633635540412,
       "binStatus": "Available",
@@ -2558,19 +2558,19 @@
       "longitude": -73.95030765772454
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 0,
       "serialNumber": 505100036,
       "latitude": 40.74644184775195,
-      "binStatus": "Nearly Full",
+      "binStatus": "Available",
       "description": "BIN 344 - SE CO 8 Ave & W 25 St",
       "availableForUse": true,
       "longitude": -73.99747696934338
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100044,
       "latitude": 40.73121273762785,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 335 - NE CO Morton ST & Greenwich ST",
       "availableForUse": true,
       "longitude": -74.0077318323766
@@ -2846,7 +2846,7 @@
       "longitude": -73.97465123299237
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 0,
       "serialNumber": 505100079,
       "latitude": 40.72376127391616,
       "binStatus": "Available",
@@ -2936,12 +2936,12 @@
       "longitude": -73.96888427642509
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 505100093,
       "latitude": 40.7953036151945,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 383 - NE CO Broadway & W 97 St",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.97107263571145
     },
     {
@@ -3224,10 +3224,10 @@
       "longitude": -73.98558684719369
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 0,
       "serialNumber": 505100098,
       "latitude": 40.741609115050146,
-      "binStatus": "Nearly Full",
+      "binStatus": "Available",
       "description": "BIN 301 - NE CO 2 Ave & E 29 ST",
       "availableForUse": true,
       "longitude": -73.97792649980364
