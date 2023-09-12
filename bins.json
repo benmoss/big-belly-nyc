@@ -218,12 +218,12 @@
       "longitude": -73.93805466592312
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 0,
       "serialNumber": 503000006,
       "latitude": 40.855684792533886,
-      "binStatus": "Full",
+      "binStatus": "Available",
       "description": "BIN 61 - NE Cabrini Blvd. & West 187th Street",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.93778998622929
     },
     {
@@ -236,7 +236,7 @@
       "longitude": -73.94016187638044
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 0,
       "serialNumber": 503000025,
       "latitude": 40.854894794369606,
       "binStatus": "Available",
@@ -245,7 +245,7 @@
       "longitude": -73.90380453318357
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 503000032,
       "latitude": 40.76149921367936,
       "binStatus": "Available",
@@ -389,10 +389,10 @@
       "longitude": -73.94493098288339
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 0,
       "serialNumber": 503000049,
       "latitude": 40.79160725166976,
-      "binStatus": "Nearly Full",
+      "binStatus": "Available",
       "description": "BIN 46 - SW E 109th Street & 1st Avenue",
       "availableForUse": true,
       "longitude": -73.93884859979153
@@ -713,7 +713,7 @@
       "longitude": -73.94765663892031
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 0,
       "serialNumber": 503000088,
       "latitude": 40.84471861958964,
       "binStatus": "Available",
@@ -722,12 +722,12 @@
       "longitude": -73.90847526490688
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 0,
       "serialNumber": 503000089,
       "latitude": 40.85534820347924,
-      "binStatus": "Full",
+      "binStatus": "Available",
       "description": "BIN 242 - SE Cabrini Blvd & West 187th Street",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.93804447746935
     },
     {
@@ -911,7 +911,7 @@
       "longitude": -73.95123168826103
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 40,
       "serialNumber": 503000134,
       "latitude": 40.693288204717966,
       "binStatus": "Available",
@@ -1523,12 +1523,12 @@
       "longitude": -73.95393367856741
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 503000208,
       "latitude": 40.683812617651405,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 133 - NW Howard Avenue & Macdonough Street",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.92018981277943
     },
     {
@@ -2207,12 +2207,12 @@
       "longitude": -73.9532222620251
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 505100048,
       "latitude": 40.778333070963065,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 271 - NW CO 1st Ave & 88th St",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.94848935814979
     },
     {
@@ -2270,16 +2270,16 @@
       "longitude": -73.99722146507379
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100014,
       "latitude": 40.78010940688603,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 267 - NE CO 1st Ave & 91ST St",
       "availableForUse": true,
       "longitude": -73.94685207786003
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 0,
       "serialNumber": 505100020,
       "latitude": 40.72799056580962,
       "binStatus": "Available",
@@ -2288,7 +2288,7 @@
       "longitude": -73.97899926258084
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 0,
       "serialNumber": 505100012,
       "latitude": 40.731190506042964,
       "binStatus": "Available",
@@ -2450,7 +2450,7 @@
       "longitude": -74.01704739779234
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 505100007,
       "latitude": 40.7528981663847,
       "binStatus": "Available",
@@ -2657,7 +2657,7 @@
       "longitude": -74.00756552771458
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 0,
       "serialNumber": 505100011,
       "latitude": 40.75544386726651,
       "binStatus": "Available",
@@ -2711,7 +2711,7 @@
       "longitude": -73.99222918721208
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 505100006,
       "latitude": 40.717415222837694,
       "binStatus": "Available",
@@ -2837,7 +2837,7 @@
       "longitude": -73.97570673483682
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 0,
       "serialNumber": 505100090,
       "latitude": 40.750719268455946,
       "binStatus": "Available",
@@ -3062,7 +3062,7 @@
       "longitude": -73.9614462477865
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 0,
       "serialNumber": 505100091,
       "latitude": 40.74913400691257,
       "binStatus": "Available",
@@ -3314,7 +3314,7 @@
       "longitude": -73.98249430253485
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 505100142,
       "latitude": 40.73887358712755,
       "binStatus": "Available",
@@ -3323,7 +3323,7 @@
       "longitude": -73.98511663223668
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 505100137,
       "latitude": 40.74339417050297,
       "binStatus": "Available",
@@ -3413,7 +3413,7 @@
       "longitude": -74.00684701383747
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 0,
       "serialNumber": 505100135,
       "latitude": 40.758930399023754,
       "binStatus": "Available",
