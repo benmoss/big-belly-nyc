@@ -470,12 +470,12 @@
       "longitude": -73.9623499576847
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 503000040,
       "latitude": 40.80557429253741,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 30 - SW West 112 Street & Broadway",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.9660133421421
     },
     {
@@ -1784,7 +1784,7 @@
       "longitude": -73.94294936209917
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 40,
       "serialNumber": 503000240,
       "latitude": 40.67428152112551,
       "binStatus": "Available",
@@ -1874,7 +1874,7 @@
       "longitude": -73.91177110144258
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 60,
       "serialNumber": 503000254,
       "latitude": 40.67509191438939,
       "binStatus": "Available",
@@ -2405,7 +2405,7 @@
       "longitude": -74.00526163846435
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 40,
       "serialNumber": 505100027,
       "latitude": 40.71904231972568,
       "binStatus": "Available",
@@ -2603,7 +2603,7 @@
       "longitude": -73.977551687224
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 40,
       "serialNumber": 505100026,
       "latitude": 40.78340997537408,
       "binStatus": "Available",
@@ -2711,7 +2711,7 @@
       "longitude": -73.99222918721208
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 505100006,
       "latitude": 40.717415222837694,
       "binStatus": "Available",
@@ -3035,10 +3035,10 @@
       "longitude": -73.92903912094495
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100094,
       "latitude": 40.79091410359447,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 382 - SW CO W 93 St & Columbus Ave",
       "availableForUse": true,
       "longitude": -73.96910423686519
@@ -3215,7 +3215,7 @@
       "longitude": -73.96135753145826
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 505100113,
       "latitude": 40.741606235945184,
       "binStatus": "Available",
