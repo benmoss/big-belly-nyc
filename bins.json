@@ -65,7 +65,7 @@
       "longitude": -73.94852463470318
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 0,
       "serialNumber": 503000004,
       "latitude": 40.75444696790806,
       "binStatus": "Available",
@@ -83,7 +83,7 @@
       "longitude": -73.89822654426098
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 0,
       "serialNumber": 503000007,
       "latitude": 40.695555464715596,
       "binStatus": "Available",
@@ -632,7 +632,7 @@
       "longitude": -73.94291717559099
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 0,
       "serialNumber": 503000069,
       "latitude": 40.762088122135914,
       "binStatus": "Available",
@@ -1073,7 +1073,7 @@
       "longitude": -73.91453684044001
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 0,
       "serialNumber": 503000165,
       "latitude": 40.69828985201461,
       "binStatus": "Available",
@@ -1082,7 +1082,7 @@
       "longitude": -73.93382884562016
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 0,
       "serialNumber": 503000166,
       "latitude": 40.68703129558847,
       "binStatus": "Available",
@@ -1091,7 +1091,7 @@
       "longitude": -73.91374111175537
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 0,
       "serialNumber": 503000164,
       "latitude": 40.69660505362728,
       "binStatus": "Available",
@@ -1109,7 +1109,7 @@
       "longitude": -73.96311119198799
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 0,
       "serialNumber": 503000152,
       "latitude": 40.68415381504779,
       "binStatus": "Available",
@@ -1136,7 +1136,7 @@
       "longitude": -73.95497169345617
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 0,
       "serialNumber": 503000126,
       "latitude": 40.69237838108274,
       "binStatus": "Available",
@@ -1343,7 +1343,7 @@
       "longitude": -73.95316857844591
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 0,
       "serialNumber": 503000187,
       "latitude": 40.75792909750536,
       "binStatus": "Available",
@@ -1352,12 +1352,12 @@
       "longitude": -73.90980195254087
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 503000181,
       "latitude": 40.68065836586844,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 115 - NE Lewis Avenue & Bainbridge Street",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.93454968929291
     },
     {
@@ -1379,7 +1379,7 @@
       "longitude": -73.96755293011665
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 0,
       "serialNumber": 503000182,
       "latitude": 40.688928869836005,
       "binStatus": "Available",
@@ -1415,10 +1415,10 @@
       "longitude": -73.9536564052105
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 0,
       "serialNumber": 503000194,
       "latitude": 40.68457611432452,
-      "binStatus": "Nearly Full",
+      "binStatus": "Available",
       "description": "BIN 123 - SW Tompkins Avenue & Putnam Avenue",
       "availableForUse": true,
       "longitude": -73.94418887794018
@@ -1478,7 +1478,7 @@
       "longitude": -74.15653929410205
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 0,
       "serialNumber": 503000207,
       "latitude": 40.68175217538853,
       "binStatus": "Available",
@@ -1487,12 +1487,12 @@
       "longitude": -73.9436212554574
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 0,
       "serialNumber": 503000206,
       "latitude": 40.68764908091782,
-      "binStatus": "Full",
+      "binStatus": "Available",
       "description": "BIN 122 - SW Tompkins Avenue & Quincy Street",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.94487351179123
     },
     {
@@ -1541,7 +1541,7 @@
       "longitude": -73.92708376049995
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 0,
       "serialNumber": 503000203,
       "latitude": 40.695132218201906,
       "binStatus": "Available",
@@ -1595,10 +1595,10 @@
       "longitude": -73.82940910756588
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 0,
       "serialNumber": 503000221,
       "latitude": 40.69040997746076,
-      "binStatus": "Nearly Full",
+      "binStatus": "Available",
       "description": "BIN 121 - SW Tompkins Avenue & Lafayette Avenue",
       "availableForUse": true,
       "longitude": -73.94542437046766
@@ -1667,7 +1667,7 @@
       "longitude": -73.88819441199303
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 0,
       "serialNumber": 503000226,
       "latitude": 40.69043184045754,
       "binStatus": "Available",
@@ -1847,12 +1847,12 @@
       "longitude": -73.90651490539312
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 0,
       "serialNumber": 503000246,
       "latitude": 40.67049107908947,
-      "binStatus": "Full",
+      "binStatus": "Available",
       "description": "BIN 197 - NW New York Avenue & Lincoln Place",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.94772704690695
     },
     {
@@ -2225,7 +2225,7 @@
       "longitude": -73.98008527492154
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 0,
       "serialNumber": 505100042,
       "latitude": 40.73752862143271,
       "binStatus": "Available",
@@ -2414,12 +2414,12 @@
       "longitude": -74.00695323944092
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 0,
       "serialNumber": 505100003,
       "latitude": 40.73776704120356,
-      "binStatus": "Full",
+      "binStatus": "Available",
       "description": "BIN 332 - SE CO 7 Ave & W 13 St",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -74.00006544331396
     },
     {
@@ -2621,7 +2621,7 @@
       "longitude": -73.99302401909992
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 505100002,
       "latitude": 40.76880090518785,
       "binStatus": "Available",
