@@ -11,7 +11,7 @@
       "longitude": -73.95370032638311
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 40,
       "serialNumber": 503000027,
       "latitude": 40.76267874186988,
       "binStatus": "Available",
@@ -29,7 +29,7 @@
       "longitude": -74.11656774580479
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 60,
       "serialNumber": 503000002,
       "latitude": 40.802377335586115,
       "binStatus": "Available",
@@ -182,7 +182,7 @@
       "longitude": -73.94737802445889
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 503000019,
       "latitude": 40.76701705596692,
       "binStatus": "Available",
@@ -191,7 +191,7 @@
       "longitude": -73.92599746584892
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 40,
       "serialNumber": 503000021,
       "latitude": 40.785809419537095,
       "binStatus": "Available",
@@ -227,7 +227,7 @@
       "longitude": -73.94016187638044
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000025,
       "latitude": 40.854894794369606,
       "binStatus": "Available",
@@ -515,12 +515,12 @@
       "longitude": -73.93176387995481
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 503000036,
       "latitude": 40.6778510426927,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 187 - NW Vanderbilt Avenue & Prospect Place",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.96890208125114
     },
     {
@@ -713,12 +713,12 @@
       "longitude": -73.90847526490688
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 503000089,
       "latitude": 40.85534820347924,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 242 - SE Cabrini Blvd & West 187th Street",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.93804447746935
     },
     {
@@ -1343,7 +1343,7 @@
       "longitude": -73.90980195254087
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 503000181,
       "latitude": 40.68065836586844,
       "binStatus": "Available",
@@ -1505,12 +1505,12 @@
       "longitude": -73.8490579649806
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 503000201,
       "latitude": 40.68434297291138,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 127 - NE Bedford Avenue & Madison Street",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.95393367856741
     },
     {
@@ -1775,10 +1775,10 @@
       "longitude": -73.94294936209917
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 503000240,
       "latitude": 40.67428152112551,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 198 - NW New York Avenue & Prospect Place",
       "availableForUse": true,
       "longitude": -73.94742764532566
@@ -1865,12 +1865,12 @@
       "longitude": -73.91177110144258
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 503000254,
       "latitude": 40.67509191438939,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 195 - NE Franklin Avenue & Prospect Place",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.95637851208448
     },
     {
@@ -1883,7 +1883,7 @@
       "longitude": -73.95329229533672
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 60,
       "serialNumber": 503000258,
       "latitude": 40.8111366429278,
       "binStatus": "Available",
@@ -2126,7 +2126,7 @@
       "longitude": -73.9109194278717
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 60,
       "serialNumber": 503000212,
       "latitude": 40.70585647534992,
       "binStatus": "Available",
@@ -2207,7 +2207,7 @@
       "longitude": -73.94848935814979
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 60,
       "serialNumber": 505100040,
       "latitude": 40.77068591297934,
       "binStatus": "Available",
@@ -2360,7 +2360,7 @@
       "longitude": -73.9498927384089
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 505100013,
       "latitude": 40.73565255133342,
       "binStatus": "Available",
@@ -2621,12 +2621,12 @@
       "longitude": -73.95866268132934
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 505100053,
       "latitude": 40.7214226207243,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 263 - NW CO Elizabeth St & Spring St",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.99473222632365
     },
     {
@@ -2738,7 +2738,7 @@
       "longitude": -74.01055041700602
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 505100054,
       "latitude": 40.7191714224125,
       "binStatus": "Available",
@@ -2846,7 +2846,7 @@
       "longitude": -73.98540060636678
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 40,
       "serialNumber": 505100092,
       "latitude": 40.78957914389564,
       "binStatus": "Available",
@@ -3170,10 +3170,10 @@
       "longitude": -73.96841285680578
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100129,
       "latitude": 40.779702163230795,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 376 - NW CO Broadway & W 73 St",
       "availableForUse": true,
       "longitude": -73.98189624416173
@@ -3242,10 +3242,10 @@
       "longitude": -73.97343810525932
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100139,
       "latitude": 40.74272368457833,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 341 - SE CO 7th Avenue & 21st Street",
       "availableForUse": true,
       "longitude": -73.99655276134223
@@ -3350,7 +3350,7 @@
       "longitude": -73.98983752643882
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 505100141,
       "latitude": 40.74960582599206,
       "binStatus": "Available",
@@ -3440,7 +3440,7 @@
       "longitude": -73.98478295989479
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 505100116,
       "latitude": 40.78914315936319,
       "binStatus": "Available",
