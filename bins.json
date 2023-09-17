@@ -443,10 +443,10 @@
       "longitude": -73.92345808446407
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 503000046,
       "latitude": 40.81219790128479,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 21 - NW West 126th St & Morningside Ave",
       "availableForUse": true,
       "longitude": -73.95354006439447
@@ -2270,12 +2270,12 @@
       "longitude": -73.94685207786003
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 505100020,
       "latitude": 40.72799056580962,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 317 - SE CO Ave B & E 12 St",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.97899926258084
     },
     {
@@ -3467,7 +3467,7 @@
       "longitude": -73.98222696429983
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 505100112,
       "latitude": 40.741522457226544,
       "binStatus": "Available",
