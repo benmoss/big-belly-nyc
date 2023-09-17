@@ -11,12 +11,12 @@
       "longitude": -73.95370032638311
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 503000027,
       "latitude": 40.76267874186988,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 03 - SE 31st Avenue & 35th Street",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.92014228572059
     },
     {
@@ -92,12 +92,12 @@
       "longitude": -73.93188491463661
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 503000003,
       "latitude": 40.803170053254796,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 34 - SE West 118 Street & Lenox Avenue",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.94863547733536
     },
     {
@@ -1010,7 +1010,7 @@
       "longitude": -73.90656117349863
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 503000148,
       "latitude": 40.701373514374744,
       "binStatus": "Available",
@@ -1019,7 +1019,7 @@
       "longitude": -73.91136553921112
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 503000137,
       "latitude": 40.692716484079774,
       "binStatus": "Available",
@@ -1307,7 +1307,7 @@
       "longitude": -73.90797402709723
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 503000188,
       "latitude": 40.690796900599814,
       "binStatus": "Available",
@@ -2594,10 +2594,10 @@
       "longitude": -73.977551687224
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100026,
       "latitude": 40.78340997537408,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 272 - NW 2nd Ave & 95th St",
       "availableForUse": true,
       "longitude": -73.94763141892919
@@ -3125,7 +3125,7 @@
       "longitude": -73.99166207937031
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 60,
       "serialNumber": 505100097,
       "latitude": 40.72556517707213,
       "binStatus": "Available",
