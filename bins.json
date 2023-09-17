@@ -29,12 +29,12 @@
       "longitude": -74.11656774580479
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 80,
       "serialNumber": 503000002,
       "latitude": 40.802377335586115,
-      "binStatus": "Full",
+      "binStatus": "Nearly Full",
       "description": "BIN 51 - NE East 120 Street & Madison Avenue",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.94273579120636
     },
     {
@@ -83,12 +83,12 @@
       "longitude": -73.94638694822788
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 503000008,
       "latitude": 40.761548735935826,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 05 - SW 24th Street & 34th Avenue",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.93188491463661
     },
     {
@@ -830,7 +830,7 @@
       "longitude": -73.9447372895371
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000077,
       "latitude": 40.75682460252842,
       "binStatus": "Available",
@@ -866,10 +866,10 @@
       "longitude": -73.94525472074747
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 503000139,
       "latitude": 40.69385788678818,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 162 - NE Bushwick Avenue & Himrod Street",
       "availableForUse": true,
       "longitude": -73.92586905509233
@@ -1208,7 +1208,7 @@
       "longitude": -73.94148588180542
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000171,
       "latitude": 40.69608852271517,
       "binStatus": "Available",
@@ -1352,12 +1352,12 @@
       "longitude": -73.93454968929291
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 503000185,
       "latitude": 40.704219889937,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 180 - NW St. Nicholas Avenue & Himrod Street",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.91591713080048
     },
     {
@@ -1433,7 +1433,7 @@
       "longitude": -73.93096961081028
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 60,
       "serialNumber": 503000195,
       "latitude": 40.82705718721625,
       "binStatus": "Available",
@@ -1748,7 +1748,7 @@
       "longitude": -73.94181042909622
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 503000238,
       "latitude": 40.67925789735229,
       "binStatus": "Available",
@@ -1955,7 +1955,7 @@
       "longitude": -73.93871281296015
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 503000250,
       "latitude": 40.61258951334761,
       "binStatus": "Available",
@@ -2027,7 +2027,7 @@
       "longitude": -73.96107707172632
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 503000259,
       "latitude": 40.6761303832315,
       "binStatus": "Available",
