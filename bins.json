@@ -11,12 +11,12 @@
       "longitude": -73.95370032638311
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 0,
       "serialNumber": 503000027,
       "latitude": 40.76267874186988,
-      "binStatus": "Full",
+      "binStatus": "Available",
       "description": "BIN 03 - SE 31st Avenue & 35th Street",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.92014228572059
     },
     {
@@ -56,7 +56,7 @@
       "longitude": -73.94852463470318
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 0,
       "serialNumber": 503000004,
       "latitude": 40.75444696790806,
       "binStatus": "Available",
@@ -110,10 +110,10 @@
       "longitude": -73.91663756221533
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 0,
       "serialNumber": 503000010,
       "latitude": 40.76236771749731,
-      "binStatus": "Nearly Full",
+      "binStatus": "Available",
       "description": "BIN 18 - SE 31st Avenue & 36th Street",
       "availableForUse": true,
       "longitude": -73.91942974179983
@@ -236,12 +236,12 @@
       "longitude": -73.90380453318357
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 0,
       "serialNumber": 503000032,
       "latitude": 40.76149921367936,
-      "binStatus": "Full",
+      "binStatus": "Available",
       "description": "BIN 17 - SE 38th Street & 31st Avenue",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.91796863240839
     },
     {
@@ -362,12 +362,12 @@
       "longitude": -73.95314779132605
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 0,
       "serialNumber": 503000050,
       "latitude": 40.829794034320685,
-      "binStatus": "Full",
+      "binStatus": "Available",
       "description": "BIN 26 - NW Amsterdam Avenue & W 152 Street",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.94453756511211
     },
     {
@@ -470,12 +470,12 @@
       "longitude": -73.9660133421421
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 0,
       "serialNumber": 503000039,
       "latitude": 40.82647613312916,
-      "binStatus": "Full",
+      "binStatus": "Available",
       "description": "BIN 25 - SW West 147th Street & Amsterdam Avenue",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.94687759676215
     },
     {
@@ -587,7 +587,7 @@
       "longitude": -73.92510951539327
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 503000064,
       "latitude": 40.79758808361427,
       "binStatus": "Available",
@@ -686,7 +686,7 @@
       "longitude": -73.91531020402908
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 0,
       "serialNumber": 503000083,
       "latitude": 40.826256762400135,
       "binStatus": "Available",
@@ -731,12 +731,12 @@
       "longitude": -73.91521599143744
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 0,
       "serialNumber": 503000093,
       "latitude": 40.76223009405083,
-      "binStatus": "Full",
+      "binStatus": "Available",
       "description": "BIN 01 - NE 31st Avenue & 37th Street",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.91863731029024
     },
     {
@@ -857,12 +857,12 @@
       "longitude": -73.93987722694874
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 503000078,
       "latitude": 40.81357603431238,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 38 - NW West 132 Street & Adam Clayton Powell Jr Blvd",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.94525472074747
     },
     {
@@ -884,12 +884,12 @@
       "longitude": -73.96537832915783
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 0,
       "serialNumber": 503000140,
       "latitude": 40.681352486961536,
-      "binStatus": "Full",
+      "binStatus": "Available",
       "description": "BIN 138 - NW Malcolm X Boulevard & Bainbridge Street",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.92874404788017
     },
     {
@@ -1136,12 +1136,12 @@
       "longitude": -73.92284251749516
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 0,
       "serialNumber": 503000159,
       "latitude": 40.68815347424036,
-      "binStatus": "Full",
+      "binStatus": "Available",
       "description": "BIN 111 - SW Patchen Avenue & Monroe Street",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.9271404221654
     },
     {
@@ -1262,19 +1262,19 @@
       "longitude": -73.89874320477247
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 0,
       "serialNumber": 503000176,
       "latitude": 40.680852618800145,
-      "binStatus": "Nearly Full",
+      "binStatus": "Available",
       "description": "BIN 132 - NW Howard Avenue & Marion Street",
       "availableForUse": true,
       "longitude": -73.91968253999949
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 0,
       "serialNumber": 503000163,
       "latitude": 40.67812844942252,
-      "binStatus": "Nearly Full",
+      "binStatus": "Available",
       "description": "BIN 131 - NW Howard Avenue & Herkimer Street",
       "availableForUse": true,
       "longitude": -73.91918834298849
@@ -1334,12 +1334,12 @@
       "longitude": -73.95316857844591
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 0,
       "serialNumber": 503000187,
       "latitude": 40.75792909750536,
-      "binStatus": "Full",
+      "binStatus": "Available",
       "description": "BIN 223 - SE 31st Avenue & 49th Street",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.90980195254087
     },
     {
@@ -1514,12 +1514,12 @@
       "longitude": -73.95393367856741
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 0,
       "serialNumber": 503000208,
       "latitude": 40.683812617651405,
-      "binStatus": "Full",
+      "binStatus": "Available",
       "description": "BIN 133 - NW Howard Avenue & Macdonough Street",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.92018981277943
     },
     {
@@ -1613,12 +1613,12 @@
       "longitude": -73.88433337211609
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 0,
       "serialNumber": 503000219,
       "latitude": 40.75685380877115,
-      "binStatus": "Full",
+      "binStatus": "Available",
       "description": "BIN 230 - SW 31st Avenue & 51st Street",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.90800554305315
     },
     {
@@ -1712,12 +1712,12 @@
       "longitude": -73.88005122542381
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 0,
       "serialNumber": 503000232,
       "latitude": 40.68513798940631,
-      "binStatus": "Full",
+      "binStatus": "Available",
       "description": "BIN 112 - SW Patchen Avenue & Hancock Street",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.92664052546024
     },
     {
@@ -1748,7 +1748,7 @@
       "longitude": -73.94181042909622
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 0,
       "serialNumber": 503000238,
       "latitude": 40.67925789735229,
       "binStatus": "Available",
@@ -1847,12 +1847,12 @@
       "longitude": -73.94772704690695
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 0,
       "serialNumber": 503000251,
       "latitude": 40.67459377925092,
-      "binStatus": "Full",
+      "binStatus": "Available",
       "description": "BIN 216 - NE Rogers Avenue & Prospect Place",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.95274545997381
     },
     {
@@ -1865,21 +1865,21 @@
       "longitude": -73.91177110144258
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 0,
       "serialNumber": 503000254,
       "latitude": 40.67509191438939,
-      "binStatus": "Full",
+      "binStatus": "Available",
       "description": "BIN 195 - NE Franklin Avenue & Prospect Place",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.95637851208448
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 0,
       "serialNumber": 503000257,
       "latitude": 40.670817086934036,
-      "binStatus": "Full",
+      "binStatus": "Available",
       "description": "BIN 214 - SW Rogers Avenue & Lincoln Place",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.95329229533672
     },
     {
@@ -1919,10 +1919,10 @@
       "longitude": -73.96038701505442
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 0,
       "serialNumber": 503000264,
       "latitude": 40.67279917738334,
-      "binStatus": "Nearly Full",
+      "binStatus": "Available",
       "description": "BIN 215 - NW Rogers Avenue & Sterling Place",
       "availableForUse": true,
       "longitude": -73.95310335432222
@@ -2045,21 +2045,21 @@
       "longitude": -73.93931295722723
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 0,
       "serialNumber": 503000276,
       "latitude": 40.67165676594622,
-      "binStatus": "Full",
+      "binStatus": "Available",
       "description": "BIN 196 - NE Franklin Avenue & Lincoln Place",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.95756002515554
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 0,
       "serialNumber": 503000273,
       "latitude": 40.67710908208188,
-      "binStatus": "Full",
+      "binStatus": "Available",
       "description": "BIN 217 - NE Rogers Avenue & Dean Street",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.95261202007532
     },
     {
@@ -2099,7 +2099,7 @@
       "longitude": -73.78518752753735
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 0,
       "serialNumber": 503000197,
       "latitude": 40.68749730455891,
       "binStatus": "Available",
@@ -2108,12 +2108,12 @@
       "longitude": -73.92091434448957
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 0,
       "serialNumber": 503000205,
       "latitude": 40.68303106054966,
-      "binStatus": "Full",
+      "binStatus": "Available",
       "description": "BIN 113 - SW Patchen Avenue & Macdonough Street",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.9261969551444
     },
     {
@@ -2342,7 +2342,7 @@
       "longitude": -74.00212241864305
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 0,
       "serialNumber": 505100021,
       "latitude": 40.73090906683746,
       "binStatus": "Available",
@@ -2423,7 +2423,7 @@
       "longitude": -74.00655866692779
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 0,
       "serialNumber": 505100024,
       "latitude": 40.73699589127157,
       "binStatus": "Available",
@@ -2477,7 +2477,7 @@
       "longitude": -74.00274561377924
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 0,
       "serialNumber": 505100047,
       "latitude": 40.73539348561974,
       "binStatus": "Available",
@@ -2531,7 +2531,7 @@
       "longitude": -73.9463083404101
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 0,
       "serialNumber": 505100030,
       "latitude": 40.732629221165745,
       "binStatus": "Available",
@@ -2810,10 +2810,10 @@
       "longitude": -73.98491537817117
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 0,
       "serialNumber": 505100096,
       "latitude": 40.77217779943119,
-      "binStatus": "Nearly Full",
+      "binStatus": "Available",
       "description": "BIN 360 - SW CO West End Ave & W 60 St",
       "availableForUse": true,
       "longitude": -73.99013103325534
@@ -2873,12 +2873,12 @@
       "longitude": -73.9766103569379
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 0,
       "serialNumber": 505100074,
       "latitude": 40.77844967182979,
-      "binStatus": "Full",
+      "binStatus": "Available",
       "description": "BIN 364 - NW CO West End Ave & W 70 St",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.98593114887535
     },
     {
@@ -3008,7 +3008,7 @@
       "longitude": -73.94326507506806
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 0,
       "serialNumber": 505100109,
       "latitude": 40.73363996493627,
       "binStatus": "Available",
@@ -3197,7 +3197,7 @@
       "longitude": -73.96866042855898
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 0,
       "serialNumber": 505100103,
       "latitude": 40.72946703338854,
       "binStatus": "Available",
@@ -3422,12 +3422,12 @@
       "longitude": -73.99201305589226
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 0,
       "serialNumber": 505100123,
       "latitude": 40.78331643218788,
-      "binStatus": "Full",
+      "binStatus": "Available",
       "description": "BIN 377 - NW CO Broadway & W 78 St",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.98062197434946
     },
     {
@@ -3458,7 +3458,7 @@
       "longitude": -73.99363601223293
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 0,
       "serialNumber": 505100148,
       "latitude": 40.735894111584756,
       "binStatus": "Available",
