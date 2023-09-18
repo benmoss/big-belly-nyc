@@ -542,12 +542,12 @@
       "longitude": -73.86818949133158
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 503000063,
       "latitude": 40.76656936634833,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 19 - SE Crescent Street & 30th Drive",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.92594543138473
     },
     {
@@ -1262,10 +1262,10 @@
       "longitude": -73.89874320477247
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 503000176,
       "latitude": 40.680852618800145,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 132 - NW Howard Avenue & Marion Street",
       "availableForUse": true,
       "longitude": -73.91968253999949
@@ -1460,7 +1460,7 @@
       "longitude": -73.9326124638319
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 40,
       "serialNumber": 503000191,
       "latitude": 40.632418955523676,
       "binStatus": "Available",
