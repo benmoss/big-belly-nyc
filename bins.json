@@ -1082,7 +1082,7 @@
       "longitude": -73.91374111175537
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 503000164,
       "latitude": 40.69660505362728,
       "binStatus": "Available",
@@ -1496,7 +1496,7 @@
       "longitude": -73.8568202778697
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000211,
       "latitude": 40.83852110249066,
       "binStatus": "Available",
@@ -3008,7 +3008,7 @@
       "longitude": -73.94326507506806
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 505100109,
       "latitude": 40.73363996493627,
       "binStatus": "Available",
@@ -3179,21 +3179,21 @@
       "longitude": -73.98189624416173
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100114,
       "latitude": 40.76550445210295,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 289 - NW CO Lexington ave & E 64 St",
       "availableForUse": true,
       "longitude": -73.96592718820084
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 505100105,
       "latitude": 40.76175746497325,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 293 - NW CO of Lexington Ave & E 58 St",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.96866042855898
     },
     {
@@ -3224,12 +3224,12 @@
       "longitude": -73.98558684719369
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 505100098,
       "latitude": 40.741609115050146,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 301 - NE CO 2 Ave & E 29 ST",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.97792649980364
     },
     {
