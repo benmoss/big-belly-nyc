@@ -2,12 +2,12 @@
   "errorCode": "STATUS_OK",
   "compostAssets": [
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 503000029,
       "latitude": 40.80207202156791,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 33 - NW West 114 Street & Adam Clayton Powell Jr Blvd",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.95370032638311
     },
     {
@@ -1100,7 +1100,7 @@
       "longitude": -73.96311119198799
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000152,
       "latitude": 40.68415381504779,
       "binStatus": "Available",
@@ -1865,12 +1865,12 @@
       "longitude": -73.91177110144258
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 503000254,
       "latitude": 40.67509191438939,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 195 - NE Franklin Avenue & Prospect Place",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.95637851208448
     },
     {
@@ -2360,7 +2360,7 @@
       "longitude": -73.9498927384089
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 60,
       "serialNumber": 505100013,
       "latitude": 40.73565255133342,
       "binStatus": "Available",
@@ -2747,7 +2747,7 @@
       "longitude": -73.98495496580612
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 60,
       "serialNumber": 505100055,
       "latitude": 40.76405416975698,
       "binStatus": "Available",
@@ -2819,7 +2819,7 @@
       "longitude": -73.99013103325534
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 60,
       "serialNumber": 505100081,
       "latitude": 40.78693626205199,
       "binStatus": "Available",
@@ -2909,12 +2909,12 @@
       "longitude": -73.99090145996239
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 505100106,
       "latitude": 40.78586060688359,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 280 - SW CO E 95 Street & Park Ave",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.95335140977043
     },
     {
@@ -2945,10 +2945,10 @@
       "longitude": -73.98908566787568
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100108,
       "latitude": 40.72615124076925,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 321 - NE CO Avenue A & 7th Street",
       "availableForUse": true,
       "longitude": -73.9833025251433
@@ -3089,7 +3089,7 @@
       "longitude": -73.9728414833659
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 505100101,
       "latitude": 40.77228183243049,
       "binStatus": "Available",
@@ -3242,10 +3242,10 @@
       "longitude": -73.97343810525932
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100139,
       "latitude": 40.74272368457833,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 341 - SE CO 7th Avenue & 21st Street",
       "availableForUse": true,
       "longitude": -73.99655276134223
@@ -3431,7 +3431,7 @@
       "longitude": -73.98062197434946
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 505100118,
       "latitude": 40.769273183978356,
       "binStatus": "Available",
