@@ -2,12 +2,12 @@
   "errorCode": "STATUS_OK",
   "compostAssets": [
     {
-      "latestFullness": 100,
+      "latestFullness": 0,
       "serialNumber": 503000029,
       "latitude": 40.80207202156791,
-      "binStatus": "Full",
+      "binStatus": "Available",
       "description": "BIN 33 - NW West 114 Street & Adam Clayton Powell Jr Blvd",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.95370032638311
     },
     {
@@ -317,7 +317,7 @@
       "longitude": -73.87542713633172
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 0,
       "serialNumber": 503000060,
       "latitude": 40.81491836063367,
       "binStatus": "Available",
