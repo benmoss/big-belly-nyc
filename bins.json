@@ -236,7 +236,7 @@
       "longitude": -73.90380453318357
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 503000032,
       "latitude": 40.76149921367936,
       "binStatus": "Available",
@@ -317,7 +317,7 @@
       "longitude": -73.87542713633172
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 503000060,
       "latitude": 40.81491836063367,
       "binStatus": "Available",
@@ -542,10 +542,10 @@
       "longitude": -73.86818949133158
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 503000063,
       "latitude": 40.76656936634833,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 19 - SE Crescent Street & 30th Drive",
       "availableForUse": true,
       "longitude": -73.92594543138473
@@ -1541,12 +1541,12 @@
       "longitude": -73.928127810359
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 503000204,
       "latitude": 40.69300170948447,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 130 - SE Bedford Avenue & Willoughby Avenue",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.9556797966361
     },
     {
@@ -1667,12 +1667,12 @@
       "longitude": -73.91965739428997
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 503000225,
       "latitude": 40.6865703680712,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 128 - NE Bedford Avenue & Quincy Street",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.95448587834835
     },
     {
@@ -2225,7 +2225,7 @@
       "longitude": -73.99693615022026
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 505100005,
       "latitude": 40.70815249011514,
       "binStatus": "Available",
@@ -2279,12 +2279,12 @@
       "longitude": -73.97899926258084
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 505100012,
       "latitude": 40.731190506042964,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 314 - NW CO 2nd Ave & 12th Street",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.98598125432342
     },
     {
@@ -2387,10 +2387,10 @@
       "longitude": -73.98169906782172
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100045,
       "latitude": 40.74639647509707,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 342 - SW CO 10 Ave & W 21 St",
       "availableForUse": true,
       "longitude": -74.00526163846435
@@ -2468,10 +2468,10 @@
       "longitude": -73.99481938922054
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100037,
       "latitude": 40.739169439589006,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 331 - SE CO Greenwich Ave & 8th Ave",
       "availableForUse": true,
       "longitude": -74.00274561377924
@@ -3134,12 +3134,12 @@
       "longitude": -73.9806513567258
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 505100126,
       "latitude": 40.789118885800946,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 372 - SW CO W 92 St & Central Park W",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.96666802317641
     },
     {
@@ -3242,16 +3242,16 @@
       "longitude": -73.97343810525932
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 505100139,
       "latitude": 40.74272368457833,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 341 - SE CO 7th Avenue & 21st Street",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.99655276134223
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 505100133,
       "latitude": 40.79786101513957,
       "binStatus": "Available",
