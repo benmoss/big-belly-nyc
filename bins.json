@@ -191,7 +191,7 @@
       "longitude": -73.92599746584892
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 0,
       "serialNumber": 503000021,
       "latitude": 40.785809419537095,
       "binStatus": "Available",
@@ -1586,10 +1586,10 @@
       "longitude": -73.82940910756588
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 503000221,
       "latitude": 40.69040997746076,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 121 - SW Tompkins Avenue & Lafayette Avenue",
       "availableForUse": true,
       "longitude": -73.94542437046766
@@ -1712,10 +1712,10 @@
       "longitude": -73.88005122542381
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 503000232,
       "latitude": 40.68513798940631,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 112 - SW Patchen Avenue & Hancock Street",
       "availableForUse": true,
       "longitude": -73.92664052546024
@@ -1865,12 +1865,12 @@
       "longitude": -73.91177110144258
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 503000254,
       "latitude": 40.67509191438939,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 195 - NE Franklin Avenue & Prospect Place",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.95637851208448
     },
     {
@@ -2324,10 +2324,10 @@
       "longitude": -73.99051628208568
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 0,
       "serialNumber": 505100008,
       "latitude": 40.7391347154904,
-      "binStatus": "Nearly Full",
+      "binStatus": "Available",
       "description": "BIN 337 - SE CO W 17 St & 6 Ave",
       "availableForUse": true,
       "longitude": -73.99540269748928
@@ -2477,7 +2477,7 @@
       "longitude": -74.00274561377924
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 0,
       "serialNumber": 505100047,
       "latitude": 40.73539348561974,
       "binStatus": "Available",
@@ -2783,12 +2783,12 @@
       "longitude": -73.94025328989962
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 0,
       "serialNumber": 505100075,
       "latitude": 40.778060906549015,
-      "binStatus": "Full",
+      "binStatus": "Available",
       "description": "BIN 394 - SW CO E 85 St & 3 Ave",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.95466305211644
     },
     {
@@ -2936,7 +2936,7 @@
       "longitude": -73.97107263571145
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 0,
       "serialNumber": 505100107,
       "latitude": 40.73674344375692,
       "binStatus": "Available",
@@ -3116,7 +3116,7 @@
       "longitude": -73.97435929170092
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 0,
       "serialNumber": 505100130,
       "latitude": 40.77020285341155,
       "binStatus": "Available",
@@ -3269,7 +3269,7 @@
       "longitude": -73.9464701336139
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 0,
       "serialNumber": 505100138,
       "latitude": 40.76639459170164,
       "binStatus": "Available",
@@ -3287,7 +3287,7 @@
       "longitude": -73.98776125245462
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 0,
       "serialNumber": 505100144,
       "latitude": 40.78596763857327,
       "binStatus": "Available",
@@ -3386,7 +3386,7 @@
       "longitude": -73.97276669918094
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 0,
       "serialNumber": 505100117,
       "latitude": 40.78193045956682,
       "binStatus": "Available",
@@ -3422,19 +3422,19 @@
       "longitude": -73.99201305589226
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 0,
       "serialNumber": 505100123,
       "latitude": 40.78331643218788,
-      "binStatus": "Full",
+      "binStatus": "Available",
       "description": "BIN 377 - NW CO Broadway & W 78 St",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.98062197434946
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 0,
       "serialNumber": 505100118,
       "latitude": 40.769273183978356,
-      "binStatus": "Nearly Full",
+      "binStatus": "Available",
       "description": "BIN 355 - NW CO  9th Ave & West 59th Street",
       "availableForUse": true,
       "longitude": -73.98478295989479
@@ -3449,10 +3449,10 @@
       "longitude": -73.97035768079368
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 0,
       "serialNumber": 505100145,
       "latitude": 40.74163391924499,
-      "binStatus": "Nearly Full",
+      "binStatus": "Available",
       "description": "BIN 338 - N/E CO 21st Street and 6th Ave",
       "availableForUse": true,
       "longitude": -73.99363601223293
