@@ -1118,12 +1118,12 @@
       "longitude": -73.92600182443857
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 0,
       "serialNumber": 503000158,
       "latitude": 40.68871201420607,
-      "binStatus": "Full",
+      "binStatus": "Available",
       "description": "BIN 129 - NE Bedford Avenue & Clifton Place",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.95497169345617
     },
     {
@@ -1325,7 +1325,7 @@
       "longitude": -73.92379101365805
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 0,
       "serialNumber": 503000189,
       "latitude": 40.67990830015172,
       "binStatus": "Available",
@@ -1397,7 +1397,7 @@
       "longitude": -73.85720618069172
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 0,
       "serialNumber": 503000200,
       "latitude": 40.68219457581468,
       "binStatus": "Available",
@@ -1505,7 +1505,7 @@
       "longitude": -73.8490579649806
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 0,
       "serialNumber": 503000201,
       "latitude": 40.68434297291138,
       "binStatus": "Available",
@@ -1541,7 +1541,7 @@
       "longitude": -73.928127810359
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 0,
       "serialNumber": 503000204,
       "latitude": 40.69300170948447,
       "binStatus": "Available",
@@ -1667,7 +1667,7 @@
       "longitude": -73.91965739428997
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 0,
       "serialNumber": 503000225,
       "latitude": 40.6865703680712,
       "binStatus": "Available",
@@ -2054,10 +2054,10 @@
       "longitude": -73.95756002515554
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 0,
       "serialNumber": 503000273,
       "latitude": 40.67710908208188,
-      "binStatus": "Nearly Full",
+      "binStatus": "Available",
       "description": "BIN 217 - NE Rogers Avenue & Dean Street",
       "availableForUse": true,
       "longitude": -73.95261202007532
@@ -3125,7 +3125,7 @@
       "longitude": -73.99166207937031
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 505100097,
       "latitude": 40.72556517707213,
       "binStatus": "Available",
