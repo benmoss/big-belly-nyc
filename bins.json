@@ -515,7 +515,7 @@
       "longitude": -73.93176387995481
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 60,
       "serialNumber": 503000036,
       "latitude": 40.6778510426927,
       "binStatus": "Available",
@@ -821,7 +821,7 @@
       "longitude": -73.95624071359634
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 503000076,
       "latitude": 40.791411617905716,
       "binStatus": "Available",
@@ -857,12 +857,12 @@
       "longitude": -73.93987722694874
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 503000078,
       "latitude": 40.81357603431238,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 38 - NW West 132 Street & Adam Clayton Powell Jr Blvd",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.94525472074747
     },
     {
@@ -920,7 +920,7 @@
       "longitude": -73.92899550497532
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 60,
       "serialNumber": 503000136,
       "latitude": 40.67726495043478,
       "binStatus": "Available",
@@ -1352,7 +1352,7 @@
       "longitude": -73.93454968929291
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 503000185,
       "latitude": 40.704219889937,
       "binStatus": "Available",
@@ -1433,7 +1433,7 @@
       "longitude": -73.93096961081028
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 503000195,
       "latitude": 40.82705718721625,
       "binStatus": "Available",
@@ -1775,10 +1775,10 @@
       "longitude": -73.94294936209917
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 80,
       "serialNumber": 503000240,
       "latitude": 40.67428152112551,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 198 - NW New York Avenue & Prospect Place",
       "availableForUse": true,
       "longitude": -73.94742764532566
@@ -1802,7 +1802,7 @@
       "longitude": -73.91427922993898
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000242,
       "latitude": 40.66973095285559,
       "binStatus": "Available",
@@ -1937,7 +1937,7 @@
       "longitude": -73.92220901788035
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 60,
       "serialNumber": 503000263,
       "latitude": 40.67867868263691,
       "binStatus": "Available",
@@ -2486,10 +2486,10 @@
       "longitude": -73.98759673124307
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100046,
       "latitude": 40.73534879130396,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 336 - SW CO 6 Ave & W 11 St",
       "availableForUse": true,
       "longitude": -73.99849525644926
@@ -2882,12 +2882,12 @@
       "longitude": -73.98593114887535
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 505100083,
       "latitude": 40.72496280254391,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 324 - NE CO 2 Ave & E 2 St",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.99017938079861
     },
     {
@@ -2981,10 +2981,10 @@
       "longitude": -73.96686314261594
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100068,
       "latitude": 40.7116258563826,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 258 - SE CO Montgomery St & Cherry St",
       "availableForUse": true,
       "longitude": -73.9850452796422
