@@ -20,7 +20,7 @@
       "longitude": -73.92014228572059
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 0,
       "serialNumber": 503000001,
       "latitude": 40.61356176348572,
       "binStatus": "Available",
@@ -272,10 +272,10 @@
       "longitude": -73.92383761703968
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 503000033,
       "latitude": 40.86054008940285,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 63 - SE Sickles Street & Nagle Avenue",
       "availableForUse": true,
       "longitude": -73.9273372319724
@@ -398,12 +398,12 @@
       "longitude": -73.93815591931343
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 503000052,
       "latitude": 40.805835432729474,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 36 - SW West 122 Street & Malcolm X Blvd",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.94713159650564
     },
     {
@@ -452,10 +452,10 @@
       "longitude": -73.95354006439447
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 80,
       "serialNumber": 503000043,
       "latitude": 40.804732620856896,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 31 - SE Amsterdam Avenue & W 113 Street",
       "availableForUse": true,
       "longitude": -73.9623499576847
@@ -1082,7 +1082,7 @@
       "longitude": -73.91374111175537
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000164,
       "latitude": 40.69660505362728,
       "binStatus": "Available",
@@ -1172,7 +1172,7 @@
       "longitude": -73.90958435833454
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 503000168,
       "latitude": 40.6755571241916,
       "binStatus": "Available",
@@ -1775,10 +1775,10 @@
       "longitude": -73.94294936209917
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 503000240,
       "latitude": 40.67428152112551,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 198 - NW New York Avenue & Prospect Place",
       "availableForUse": true,
       "longitude": -73.94742764532566
@@ -1838,10 +1838,10 @@
       "longitude": -73.90651490539312
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 503000246,
       "latitude": 40.67049107908947,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 197 - NW New York Avenue & Lincoln Place",
       "availableForUse": true,
       "longitude": -73.94772704690695
@@ -2711,7 +2711,7 @@
       "longitude": -74.01312500238419
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 505100057,
       "latitude": 40.77544607677087,
       "binStatus": "Available",
@@ -2720,7 +2720,7 @@
       "longitude": -73.9535946787067
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 40,
       "serialNumber": 505100069,
       "latitude": 40.724874101417406,
       "binStatus": "Available",
@@ -2765,10 +2765,10 @@
       "longitude": -73.99644857287824
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100056,
       "latitude": 40.77779121756704,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 265 - SW CO 2nd Avenue & 86th Street",
       "availableForUse": true,
       "longitude": -73.9519761287763
@@ -2792,7 +2792,7 @@
       "longitude": -73.95466305211644
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 0,
       "serialNumber": 505100070,
       "latitude": 40.76801235265614,
       "binStatus": "Available",
@@ -2801,7 +2801,7 @@
       "longitude": -73.96423428646112
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 40,
       "serialNumber": 505100089,
       "latitude": 40.77432420761129,
       "binStatus": "Available",
@@ -2909,12 +2909,12 @@
       "longitude": -73.99090145996239
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 505100106,
       "latitude": 40.78586060688359,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 280 - SW CO E 95 Street & Park Ave",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.95335140977043
     },
     {
@@ -2981,7 +2981,7 @@
       "longitude": -73.96686314261594
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 0,
       "serialNumber": 505100068,
       "latitude": 40.7116258563826,
       "binStatus": "Available",
@@ -3116,7 +3116,7 @@
       "longitude": -73.97435929170092
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 505100130,
       "latitude": 40.77020285341155,
       "binStatus": "Available",
@@ -3179,7 +3179,7 @@
       "longitude": -73.98189624416173
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 0,
       "serialNumber": 505100114,
       "latitude": 40.76550445210295,
       "binStatus": "Available",
