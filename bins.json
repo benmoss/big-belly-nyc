@@ -452,7 +452,7 @@
       "longitude": -73.95354006439447
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 60,
       "serialNumber": 503000043,
       "latitude": 40.804732620856896,
       "binStatus": "Available",
@@ -497,7 +497,7 @@
       "longitude": -73.92041435458692
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000035,
       "latitude": 40.820298050767335,
       "binStatus": "Available",
@@ -515,7 +515,7 @@
       "longitude": -73.93176387995481
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 60,
       "serialNumber": 503000036,
       "latitude": 40.6778510426927,
       "binStatus": "Available",
@@ -848,7 +848,7 @@
       "longitude": -73.91365829855204
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 503000074,
       "latitude": 40.80957426897732,
       "binStatus": "Available",
@@ -875,12 +875,12 @@
       "longitude": -73.92586905509233
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 503000138,
       "latitude": 40.678764370117854,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 191 - NE Underhill Avenue & Bergen Street",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.96537832915783
     },
     {
@@ -1289,10 +1289,10 @@
       "longitude": -73.941904976964
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 503000179,
       "latitude": 40.67617742416484,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 190 - NE Underhill Avenue & Park Place",
       "availableForUse": true,
       "longitude": -73.96627854555845
@@ -1334,7 +1334,7 @@
       "longitude": -73.95316857844591
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000187,
       "latitude": 40.75792909750536,
       "binStatus": "Available",
@@ -2171,12 +2171,12 @@
       "longitude": -73.94892745726821
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 505100018,
       "latitude": 40.77294782166341,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 270 - SW CO 83rd & East End",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.94638707990978
     },
     {
@@ -2369,16 +2369,16 @@
       "longitude": -73.9869912541827
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100001,
       "latitude": 40.74633635540412,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 299 - SE CO Park & E 33 St",
       "availableForUse": true,
       "longitude": -73.98169906782172
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 505100045,
       "latitude": 40.74639647509707,
       "binStatus": "Available",
@@ -2594,7 +2594,7 @@
       "longitude": -73.94763141892919
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 505100034,
       "latitude": 40.762820138671465,
       "binStatus": "Available",
@@ -2621,16 +2621,16 @@
       "longitude": -73.99473222632365
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100016,
       "latitude": 40.76404560103803,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 269 - NE CO E 66 St & 1 Ave",
       "availableForUse": true,
       "longitude": -73.95855413649969
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 40,
       "serialNumber": 505100063,
       "latitude": 40.71256505742161,
       "binStatus": "Available",
@@ -2738,7 +2738,7 @@
       "longitude": -73.98495496580612
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 505100055,
       "latitude": 40.76405416975698,
       "binStatus": "Available",
@@ -2963,10 +2963,10 @@
       "longitude": -73.93435451155901
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100073,
       "latitude": 40.80348382274017,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 385 - SE CO Broadway & W 109 St",
       "availableForUse": true,
       "longitude": -73.96686314261594
@@ -3053,7 +3053,7 @@
       "longitude": -73.97793704431773
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 505100066,
       "latitude": 40.71424651872,
       "binStatus": "Available",
@@ -3161,10 +3161,10 @@
       "longitude": -73.96841285680578
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100129,
       "latitude": 40.779702163230795,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 376 - NW CO Broadway & W 73 St",
       "availableForUse": true,
       "longitude": -73.98189624416173
@@ -3233,10 +3233,10 @@
       "longitude": -73.97343810525932
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100139,
       "latitude": 40.74272368457833,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 341 - SE CO 7th Avenue & 21st Street",
       "availableForUse": true,
       "longitude": -73.99655276134223
@@ -3260,7 +3260,7 @@
       "longitude": -73.9464701336139
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 40,
       "serialNumber": 505100138,
       "latitude": 40.76639459170164,
       "binStatus": "Available",
@@ -3422,7 +3422,7 @@
       "longitude": -73.98062197434946
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 60,
       "serialNumber": 505100118,
       "latitude": 40.769273183978356,
       "binStatus": "Available",
