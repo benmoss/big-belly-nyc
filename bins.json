@@ -74,7 +74,7 @@
       "longitude": -73.89822654426098
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000007,
       "latitude": 40.695555464715596,
       "binStatus": "Available",
@@ -218,10 +218,10 @@
       "longitude": -73.93778998622929
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 503000023,
       "latitude": 40.84608111296369,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 59 - NE West 174th Street & Fort Washington Avenue",
       "availableForUse": true,
       "longitude": -73.94016187638044
@@ -542,7 +542,7 @@
       "longitude": -73.86818949133158
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000063,
       "latitude": 40.76656936634833,
       "binStatus": "Available",
@@ -965,7 +965,7 @@
       "longitude": -73.91719682217655
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 60,
       "serialNumber": 503000143,
       "latitude": 40.6825487482924,
       "binStatus": "Available",
@@ -1136,7 +1136,7 @@
       "longitude": -73.92284251749516
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 60,
       "serialNumber": 503000159,
       "latitude": 40.68815347424036,
       "binStatus": "Available",
@@ -1541,10 +1541,10 @@
       "longitude": -73.928127810359
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 503000204,
       "latitude": 40.69300170948447,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 130 - SE Bedford Avenue & Willoughby Avenue",
       "availableForUse": true,
       "longitude": -73.9556797966361
@@ -1667,10 +1667,10 @@
       "longitude": -73.91965739428997
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 503000225,
       "latitude": 40.6865703680712,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 128 - NE Bedford Avenue & Quincy Street",
       "availableForUse": true,
       "longitude": -73.95448587834835
@@ -1838,12 +1838,12 @@
       "longitude": -73.90651490539312
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 503000246,
       "latitude": 40.67049107908947,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 197 - NW New York Avenue & Lincoln Place",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.94772704690695
     },
     {
@@ -1874,12 +1874,12 @@
       "longitude": -73.95637851208448
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 503000257,
       "latitude": 40.670817086934036,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 214 - SW Rogers Avenue & Lincoln Place",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.95329229533672
     },
     {
@@ -2342,21 +2342,21 @@
       "longitude": -73.97406495983789
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100004,
       "latitude": 40.784683566970614,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 273 - NW CO 3 Ave & E 95 St",
       "availableForUse": true,
       "longitude": -73.9498927384089
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 505100013,
       "latitude": 40.73565255133342,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 330 - SW CO 7th Avenue South & Perry St",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -74.00171998103215
     },
     {
@@ -2495,7 +2495,7 @@
       "longitude": -74.00341004133224
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 60,
       "serialNumber": 505100017,
       "latitude": 40.705075385840445,
       "binStatus": "Available",
@@ -2612,10 +2612,10 @@
       "longitude": -73.95822445057821
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100053,
       "latitude": 40.7214226207243,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 263 - NW CO Elizabeth St & Spring St",
       "availableForUse": true,
       "longitude": -73.99473222632365
@@ -2918,12 +2918,12 @@
       "longitude": -73.96888427642509
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 505100093,
       "latitude": 40.7953036151945,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 383 - NE CO Broadway & W 97 St",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.97107263571145
     },
     {
@@ -3395,7 +3395,7 @@
       "longitude": -73.99506114554103
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 40,
       "serialNumber": 505100150,
       "latitude": 40.729589714367386,
       "binStatus": "Available",
