@@ -200,7 +200,7 @@
       "longitude": -73.94264291971922
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 60,
       "serialNumber": 503000020,
       "latitude": 40.841033254239434,
       "binStatus": "Available",
@@ -371,7 +371,7 @@
       "longitude": -73.94453756511211
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 503000048,
       "latitude": 40.7966226877643,
       "binStatus": "Available",
@@ -848,12 +848,12 @@
       "longitude": -73.91365829855204
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 503000074,
       "latitude": 40.80957426897732,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 54 - NE East 130th Street & 5th Avenue",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.93987722694874
     },
     {
@@ -866,7 +866,7 @@
       "longitude": -73.94525472074747
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 503000139,
       "latitude": 40.69385788678818,
       "binStatus": "Available",
@@ -983,10 +983,10 @@
       "longitude": -73.94146978855133
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 503000145,
       "latitude": 40.68640155543058,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 137 - NW Malcolm X Boulevard & Putnam Avenue",
       "availableForUse": true,
       "longitude": -73.92984341830015
@@ -1154,10 +1154,10 @@
       "longitude": -73.9129939918858
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 503000160,
       "latitude": 40.6827719802296,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 140 - SW Throop Avenue & Halsey Street",
       "availableForUse": true,
       "longitude": -73.94101046025753
@@ -1343,10 +1343,10 @@
       "longitude": -73.90980195254087
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 503000181,
       "latitude": 40.68065836586844,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 115 - NE Lewis Avenue & Bainbridge Street",
       "availableForUse": true,
       "longitude": -73.93454968929291
@@ -2630,10 +2630,10 @@
       "longitude": -73.95855413649969
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100063,
       "latitude": 40.71256505742161,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 251 - NE CO Broadway & Park Place (City hall park side)",
       "availableForUse": true,
       "longitude": -74.00756552771458
