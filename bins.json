@@ -2081,7 +2081,7 @@
       "longitude": -74.07558023929596
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 503000216,
       "latitude": 40.84382557774167,
       "binStatus": "Available",
@@ -2135,10 +2135,10 @@
       "longitude": -73.93855053931475
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 503000202,
       "latitude": 40.66971391909037,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 210 - NE Kingston Avenue & Eastern Parkway",
       "availableForUse": true,
       "longitude": -73.9421078891929
@@ -2279,12 +2279,12 @@
       "longitude": -73.98598125432342
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 505100010,
       "latitude": 40.75280253801481,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 346 - NW CO 9 Ave & W 33 St",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.99692150445948
     },
     {
@@ -2783,10 +2783,10 @@
       "longitude": -73.95466305211644
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100070,
       "latitude": 40.76801235265614,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 288 - NW CO of Lexington Ave & E 68 St",
       "availableForUse": true,
       "longitude": -73.96423428646112
@@ -3188,10 +3188,10 @@
       "longitude": -73.96866042855898
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100103,
       "latitude": 40.72946703338854,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 305 - NW Co of Ave B & E 14 St",
       "availableForUse": true,
       "longitude": -73.9780299987419
@@ -3305,12 +3305,12 @@
       "longitude": -73.98249430253485
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 80,
       "serialNumber": 505100142,
       "latitude": 40.73887358712755,
-      "binStatus": "Full",
+      "binStatus": "Nearly Full",
       "description": "BIN 390 - NE CO E 22 St & Lexington Ave",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.98511663223668
     },
     {
@@ -3323,12 +3323,12 @@
       "longitude": -73.98831240762495
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 505100120,
       "latitude": 40.77519164031714,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 374 - SE CO West End Ave & W 65 St",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.98753543655222
     },
     {
@@ -3485,12 +3485,12 @@
       "longitude": -73.97608351438119
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 505100128,
       "latitude": 40.72662593513809,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 327 - SW CO Bond St & Lafayette St",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.99427816002996
     }
   ]
