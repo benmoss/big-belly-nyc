@@ -236,7 +236,7 @@
       "longitude": -73.90380453318357
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 60,
       "serialNumber": 503000032,
       "latitude": 40.76149921367936,
       "binStatus": "Available",
@@ -659,7 +659,7 @@
       "longitude": -73.93777001649141
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 503000075,
       "latitude": 40.76355515935151,
       "binStatus": "Available",
@@ -668,7 +668,7 @@
       "longitude": -73.92199024558067
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 0,
       "serialNumber": 503000081,
       "latitude": 40.79314191706756,
       "binStatus": "Available",
@@ -695,10 +695,10 @@
       "longitude": -73.93855724483728
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 0,
       "serialNumber": 503000085,
       "latitude": 40.80984148378304,
-      "binStatus": "Nearly Full",
+      "binStatus": "Available",
       "description": "BIN 37 - NW West 126th Street & Adam Clayton Powell Jr Blvd",
       "availableForUse": true,
       "longitude": -73.94765663892031
@@ -857,7 +857,7 @@
       "longitude": -73.93987722694874
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 0,
       "serialNumber": 503000078,
       "latitude": 40.81357603431238,
       "binStatus": "Available",
@@ -929,7 +929,7 @@
       "longitude": -73.96265991032124
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 503000133,
       "latitude": 40.684197290894595,
       "binStatus": "Available",
@@ -1424,10 +1424,10 @@
       "longitude": -73.82693077466463
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 503000190,
       "latitude": 40.692363382489,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 135 - NW Malcolm X Boulevard & Lafayette Avenue",
       "availableForUse": true,
       "longitude": -73.93096961081028
@@ -1523,7 +1523,7 @@
       "longitude": -73.92018981277943
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 503000210,
       "latitude": 40.70378294439786,
       "binStatus": "Available",
@@ -1802,7 +1802,7 @@
       "longitude": -73.91427922993898
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 503000242,
       "latitude": 40.66973095285559,
       "binStatus": "Available",
@@ -1874,12 +1874,12 @@
       "longitude": -73.95637851208448
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 503000257,
       "latitude": 40.670817086934036,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 214 - SW Rogers Avenue & Lincoln Place",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.95329229533672
     },
     {
@@ -1937,12 +1937,12 @@
       "longitude": -73.92220901788035
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 503000263,
       "latitude": 40.67867868263691,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 220 - NE Flatbush Avenue & Prospect Place",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.97343333810568
     },
     {
@@ -2369,7 +2369,7 @@
       "longitude": -73.9869912541827
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 505100001,
       "latitude": 40.74633635540412,
       "binStatus": "Available",
@@ -2711,21 +2711,21 @@
       "longitude": -73.9535946787067
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 0,
       "serialNumber": 505100069,
       "latitude": 40.724874101417406,
-      "binStatus": "Nearly Full",
+      "binStatus": "Available",
       "description": "BIN 254 - SW CO 6 Ave & Dominick St",
       "availableForUse": true,
       "longitude": -74.0047200044207
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 0,
       "serialNumber": 505100059,
       "latitude": 40.718786682897935,
-      "binStatus": "Full",
+      "binStatus": "Available",
       "description": "BIN 244 - SW CO of Greenwich St & Harrison ST",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -74.01055041700602
     },
     {
@@ -2990,7 +2990,7 @@
       "longitude": -73.96902091534423
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 40,
       "serialNumber": 505100065,
       "latitude": 40.769098236486705,
       "binStatus": "Available",
@@ -3278,7 +3278,7 @@
       "longitude": -73.98776125245462
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 0,
       "serialNumber": 505100144,
       "latitude": 40.78596763857327,
       "binStatus": "Available",
