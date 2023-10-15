@@ -74,7 +74,7 @@
       "longitude": -73.89822654426098
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 503000007,
       "latitude": 40.695555464715596,
       "binStatus": "Available",
@@ -353,7 +353,7 @@
       "longitude": -73.93447995185852
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 503000056,
       "latitude": 40.817629573974216,
       "binStatus": "Available",
@@ -632,7 +632,7 @@
       "longitude": -73.92557334154844
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 40,
       "serialNumber": 503000071,
       "latitude": 40.7948329016069,
       "binStatus": "Available",
@@ -641,12 +641,12 @@
       "longitude": -73.93320322036743
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 503000072,
       "latitude": 40.797433004550236,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 49 - SW East 118th Street & 1 Avenue",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.93471363931894
     },
     {
@@ -929,10 +929,10 @@
       "longitude": -73.96265991032124
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 503000133,
       "latitude": 40.684197290894595,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 116 - SE Lewis Avenue & Hancock Street",
       "availableForUse": true,
       "longitude": -73.93525745719671
@@ -983,7 +983,7 @@
       "longitude": -73.94146978855133
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 503000145,
       "latitude": 40.68640155543058,
       "binStatus": "Available",
@@ -1064,10 +1064,10 @@
       "longitude": -73.91453684044001
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 503000165,
       "latitude": 40.69828985201461,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 165 - NE Bushwick Avenue & Jefferson Street",
       "availableForUse": true,
       "longitude": -73.93382884562016
@@ -1577,7 +1577,7 @@
       "longitude": -73.86668778955936
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 503000214,
       "latitude": 40.84592817625355,
       "binStatus": "Available",
@@ -1676,7 +1676,7 @@
       "longitude": -73.95448587834835
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 503000228,
       "latitude": 40.6885650705997,
       "binStatus": "Available",
@@ -2468,10 +2468,10 @@
       "longitude": -74.00274561377924
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100047,
       "latitude": 40.73539348561974,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 309 - NE CO Irving PL & E 16 St",
       "availableForUse": true,
       "longitude": -73.98759673124307
@@ -2486,21 +2486,21 @@
       "longitude": -73.99849525644926
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 505100029,
       "latitude": 40.710663476710224,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 249 - SE CO Gold St & Frankfort St.",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -74.00341004133224
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 505100017,
       "latitude": 40.705075385840445,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 243 - NE CO Broadway & Beaver Street",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -74.01322457939386
     },
     {
@@ -2783,7 +2783,7 @@
       "longitude": -73.95466305211644
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 40,
       "serialNumber": 505100070,
       "latitude": 40.76801235265614,
       "binStatus": "Available",
@@ -3035,12 +3035,12 @@
       "longitude": -73.96586280976997
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 505100067,
       "latitude": 40.77168450396742,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 290 - SW CO Lexington Ave & E 74 St",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.9614462477865
     },
     {
@@ -3458,10 +3458,10 @@
       "longitude": -73.98222696429983
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100112,
       "latitude": 40.741522457226544,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 306 - NW CO 3rd Avenue & 27th Street",
       "availableForUse": true,
       "longitude": -73.98135114745574
