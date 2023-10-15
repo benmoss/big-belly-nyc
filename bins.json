@@ -794,7 +794,7 @@
       "longitude": -73.88263955712318
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 60,
       "serialNumber": 503000098,
       "latitude": 40.80545914536109,
       "binStatus": "Available",
@@ -992,7 +992,7 @@
       "longitude": -73.92984341830015
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 40,
       "serialNumber": 503000127,
       "latitude": 40.706692511000654,
       "binStatus": "Available",
@@ -1892,7 +1892,7 @@
       "longitude": -73.95765916089715
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000255,
       "latitude": 40.67155276024617,
       "binStatus": "Available",
@@ -2549,12 +2549,12 @@
       "longitude": -73.99747696934338
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 505100044,
       "latitude": 40.73121273762785,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 335 - NE CO Morton ST & Greenwich ST",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -74.0077318323766
     },
     {
@@ -2621,10 +2621,10 @@
       "longitude": -73.99473222632365
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100016,
       "latitude": 40.76404560103803,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 269 - NE CO E 66 St & 1 Ave",
       "availableForUse": true,
       "longitude": -73.95855413649969
@@ -2864,12 +2864,12 @@
       "longitude": -73.9766103569379
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 505100074,
       "latitude": 40.77844967182979,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 364 - NW CO West End Ave & W 70 St",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.98593114887535
     },
     {
@@ -3431,10 +3431,10 @@
       "longitude": -73.98478295989479
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100116,
       "latitude": 40.78914315936319,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 370 - NW CO Columbus Ave & W 90 St",
       "availableForUse": true,
       "longitude": -73.97035768079368
