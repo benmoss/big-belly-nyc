@@ -2135,7 +2135,7 @@
       "longitude": -73.93855053931475
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000202,
       "latitude": 40.66971391909037,
       "binStatus": "Available",
@@ -2675,12 +2675,12 @@
       "longitude": -73.99876398340452
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 505100058,
       "latitude": 40.716735019858994,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 260 - NE CO Grand St & Essex St",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.98896138948061
     },
     {
@@ -3152,10 +3152,10 @@
       "longitude": -74.0026189895217
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100125,
       "latitude": 40.786641828294435,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 368 - NW CO W 88 St & Central Park W",
       "availableForUse": true,
       "longitude": -73.96841285680578
