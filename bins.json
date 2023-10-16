@@ -785,12 +785,12 @@
       "longitude": -73.91744524240494
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 0,
       "serialNumber": 503000096,
       "latitude": 40.8721462108312,
-      "binStatus": "Full",
+      "binStatus": "Available",
       "description": "BIN 91 - NW Bainbridge Avenue & East Mosholu Parkway S",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.88263955712318
     },
     {
@@ -1289,10 +1289,10 @@
       "longitude": -73.941904976964
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 80,
       "serialNumber": 503000179,
       "latitude": 40.67617742416484,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 190 - NE Underhill Avenue & Park Place",
       "availableForUse": true,
       "longitude": -73.96627854555845
@@ -1361,10 +1361,10 @@
       "longitude": -73.91591713080048
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 80,
       "serialNumber": 503000184,
       "latitude": 40.673104182956976,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 189 - NE Underhill Avenue & Eastern Parkway",
       "availableForUse": true,
       "longitude": -73.96755293011665
@@ -2261,7 +2261,7 @@
       "longitude": -73.94685207786003
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 505100020,
       "latitude": 40.72799056580962,
       "binStatus": "Available",
@@ -2774,7 +2774,7 @@
       "longitude": -73.94025328989962
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 40,
       "serialNumber": 505100075,
       "latitude": 40.778060906549015,
       "binStatus": "Available",
@@ -2963,7 +2963,7 @@
       "longitude": -73.93435451155901
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 60,
       "serialNumber": 505100073,
       "latitude": 40.80348382274017,
       "binStatus": "Available",
@@ -2981,7 +2981,7 @@
       "longitude": -73.9850452796422
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 505100110,
       "latitude": 40.75405449748158,
       "binStatus": "Available",
@@ -3251,7 +3251,7 @@
       "longitude": -73.96400324926272
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 60,
       "serialNumber": 505100143,
       "latitude": 40.77674450161177,
       "binStatus": "Available",
@@ -3476,7 +3476,7 @@
       "longitude": -73.9799463692325
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 505100115,
       "latitude": 40.78907737322027,
       "binStatus": "Available",
