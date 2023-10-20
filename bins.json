@@ -893,7 +893,7 @@
       "longitude": -73.92874404788017
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 0,
       "serialNumber": 503000131,
       "latitude": 40.688233556498346,
       "binStatus": "Available",
@@ -929,7 +929,7 @@
       "longitude": -73.96265991032124
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 0,
       "serialNumber": 503000133,
       "latitude": 40.684197290894595,
       "binStatus": "Available",
@@ -1028,7 +1028,7 @@
       "longitude": -73.9155288040638
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 0,
       "serialNumber": 503000149,
       "latitude": 40.683936689634,
       "binStatus": "Available",
@@ -1082,10 +1082,10 @@
       "longitude": -73.91374111175537
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 0,
       "serialNumber": 503000164,
       "latitude": 40.69660505362728,
-      "binStatus": "Nearly Full",
+      "binStatus": "Available",
       "description": "BIN 164 - NE Bushwick Avenue & Suydam Street",
       "availableForUse": true,
       "longitude": -73.93099308013916
@@ -1181,12 +1181,12 @@
       "longitude": -73.96974126370019
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 0,
       "serialNumber": 503000169,
       "latitude": 40.690318203640174,
-      "binStatus": "Full",
+      "binStatus": "Available",
       "description": "BIN 118 - NE Lewis Avenue & Green Avenue",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.93640510737896
     },
     {
@@ -1289,12 +1289,12 @@
       "longitude": -73.941904976964
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 503000179,
       "latitude": 40.67617742416484,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 190 - NE Underhill Avenue & Park Place",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.96627854555845
     },
     {
@@ -1343,7 +1343,7 @@
       "longitude": -73.90980195254087
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 0,
       "serialNumber": 503000181,
       "latitude": 40.68065836586844,
       "binStatus": "Available",
@@ -1730,7 +1730,7 @@
       "longitude": -73.89310654252768
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 0,
       "serialNumber": 503000186,
       "latitude": 40.6858662258759,
       "binStatus": "Available",
@@ -1775,12 +1775,12 @@
       "longitude": -73.94294936209917
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 0,
       "serialNumber": 503000240,
       "latitude": 40.67428152112551,
-      "binStatus": "Full",
+      "binStatus": "Available",
       "description": "BIN 198 - NW New York Avenue & Prospect Place",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.94742764532566
     },
     {
@@ -1838,7 +1838,7 @@
       "longitude": -73.90651490539312
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 0,
       "serialNumber": 503000246,
       "latitude": 40.67049107908947,
       "binStatus": "Available",
@@ -1964,12 +1964,12 @@
       "longitude": -74.06930956989527
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 0,
       "serialNumber": 503000261,
       "latitude": 40.67676683153248,
-      "binStatus": "Full",
+      "binStatus": "Available",
       "description": "BIN 199 - NW New York Avenue & Dean Street",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.9471010863781
     },
     {
@@ -2513,10 +2513,10 @@
       "longitude": -74.01322457939386
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 0,
       "serialNumber": 505100071,
       "latitude": 40.73149350965934,
-      "binStatus": "Nearly Full",
+      "binStatus": "Available",
       "description": "BIN 259 - SW CO University & 8th Street",
       "availableForUse": true,
       "longitude": -73.99466765892298
@@ -3071,7 +3071,7 @@
       "longitude": -73.98167006603096
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 505100100,
       "latitude": 40.773718493770346,
       "binStatus": "Available",
