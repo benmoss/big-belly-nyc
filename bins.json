@@ -56,7 +56,7 @@
       "longitude": -73.94852463470318
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000004,
       "latitude": 40.75444696790806,
       "binStatus": "Available",
@@ -1163,7 +1163,7 @@
       "longitude": -73.94101046025753
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000161,
       "latitude": 40.68922911075663,
       "binStatus": "Available",
@@ -1190,7 +1190,7 @@
       "longitude": -73.93640510737896
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000154,
       "latitude": 40.69389144220667,
       "binStatus": "Available",
@@ -1613,10 +1613,10 @@
       "longitude": -73.88433337211609
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 503000219,
       "latitude": 40.75685380877115,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 230 - SW 31st Avenue & 51st Street",
       "availableForUse": true,
       "longitude": -73.90800554305315
@@ -2144,7 +2144,7 @@
       "longitude": -73.93855053931475
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 503000202,
       "latitude": 40.66971391909037,
       "binStatus": "Available",
@@ -2486,12 +2486,12 @@
       "longitude": -73.98759673124307
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 505100046,
       "latitude": 40.73534879130396,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 336 - SW CO 6 Ave & W 11 St",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.99849525644926
     },
     {
@@ -3044,7 +3044,7 @@
       "longitude": -73.96586280976997
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 505100067,
       "latitude": 40.77168450396742,
       "binStatus": "Available",
