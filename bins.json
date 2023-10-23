@@ -371,10 +371,10 @@
       "longitude": -73.94453756511211
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 0,
       "serialNumber": 503000048,
       "latitude": 40.7966226877643,
-      "binStatus": "Nearly Full",
+      "binStatus": "Available",
       "description": "BIN 47 - SE East 112th Street & Park Avenue",
       "availableForUse": true,
       "longitude": -73.94493098288339
@@ -668,12 +668,12 @@
       "longitude": -73.92199024558067
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 0,
       "serialNumber": 503000081,
       "latitude": 40.79314191706756,
-      "binStatus": "Full",
+      "binStatus": "Available",
       "description": "BIN 45 - NW East 106th Street & Park Avenue",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.94825711846352
     },
     {
@@ -1181,7 +1181,7 @@
       "longitude": -73.96974126370019
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000169,
       "latitude": 40.690318203640174,
       "binStatus": "Available",
