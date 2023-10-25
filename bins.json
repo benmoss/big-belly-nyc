@@ -425,7 +425,7 @@
       "longitude": -73.93639236688614
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 0,
       "serialNumber": 503000045,
       "latitude": 40.768332138355355,
       "binStatus": "Available",
@@ -515,7 +515,7 @@
       "longitude": -73.94394144415855
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 0,
       "serialNumber": 503000034,
       "latitude": 40.774054817889976,
       "binStatus": "Available",
@@ -551,7 +551,7 @@
       "longitude": -73.86818949133158
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 0,
       "serialNumber": 503000063,
       "latitude": 40.76656936634833,
       "binStatus": "Available",
@@ -578,7 +578,7 @@
       "longitude": -73.95281787961721
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 0,
       "serialNumber": 503000066,
       "latitude": 40.764940904595754,
       "binStatus": "Available",
@@ -587,7 +587,7 @@
       "longitude": -73.92701134085655
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 60,
       "serialNumber": 503000065,
       "latitude": 40.76524333304795,
       "binStatus": "Available",
@@ -614,7 +614,7 @@
       "longitude": -74.07695855945349
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 0,
       "serialNumber": 503000067,
       "latitude": 40.76558557637679,
       "binStatus": "Available",
@@ -776,7 +776,7 @@
       "longitude": -73.90734169632196
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 0,
       "serialNumber": 503000094,
       "latitude": 40.7666826313674,
       "binStatus": "Available",
@@ -884,7 +884,7 @@
       "longitude": -73.96537832915783
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 503000140,
       "latitude": 40.681352486961536,
       "binStatus": "Available",
@@ -947,7 +947,7 @@
       "longitude": -73.93217660486698
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 0,
       "serialNumber": 503000146,
       "latitude": 40.674956637629556,
       "binStatus": "Available",
@@ -1001,7 +1001,7 @@
       "longitude": -73.92045420260473
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 0,
       "serialNumber": 503000147,
       "latitude": 40.687583234935204,
       "binStatus": "Available",
@@ -1127,7 +1127,7 @@
       "longitude": -73.95497169345617
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 40,
       "serialNumber": 503000126,
       "latitude": 40.69237838108274,
       "binStatus": "Available",
@@ -1208,7 +1208,7 @@
       "longitude": -73.94148588180542
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 0,
       "serialNumber": 503000171,
       "latitude": 40.69608852271517,
       "binStatus": "Available",
@@ -1307,7 +1307,7 @@
       "longitude": -73.90797402709723
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 0,
       "serialNumber": 503000188,
       "latitude": 40.690796900599814,
       "binStatus": "Available",
@@ -1388,10 +1388,10 @@
       "longitude": -73.88634603470564
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 0,
       "serialNumber": 503000183,
       "latitude": 40.81799951849948,
-      "binStatus": "Nearly Full",
+      "binStatus": "Available",
       "description": "BIN 102 - NE White Plains Road & Randall Avenue",
       "availableForUse": true,
       "longitude": -73.85720618069172
@@ -1451,7 +1451,7 @@
       "longitude": -73.84560561948032
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 0,
       "serialNumber": 503000209,
       "latitude": 40.77285588396095,
       "binStatus": "Available",
@@ -1847,12 +1847,12 @@
       "longitude": -73.94772704690695
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 503000251,
       "latitude": 40.67459377925092,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 216 - NE Rogers Avenue & Prospect Place",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.95274545997381
     },
     {
@@ -1946,7 +1946,7 @@
       "longitude": -73.97343333810568
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 0,
       "serialNumber": 503000249,
       "latitude": 40.67568845111274,
       "binStatus": "Available",
@@ -2009,7 +2009,7 @@
       "longitude": -73.92522666603327
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 0,
       "serialNumber": 503000268,
       "latitude": 40.67210889641922,
       "binStatus": "Available",
@@ -2036,7 +2036,7 @@
       "longitude": -73.93318008631468
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 0,
       "serialNumber": 503000260,
       "latitude": 40.67112071527155,
       "binStatus": "Available",
@@ -3242,12 +3242,12 @@
       "longitude": -73.97343810525932
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 0,
       "serialNumber": 505100139,
       "latitude": 40.74272368457833,
-      "binStatus": "Full",
+      "binStatus": "Available",
       "description": "BIN 341 - SE CO 7th Avenue & 21st Street",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.99655276134223
     },
     {
