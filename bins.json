@@ -380,7 +380,7 @@
       "longitude": -73.94453756511211
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 503000048,
       "latitude": 40.7966226877643,
       "binStatus": "Available",
@@ -911,7 +911,7 @@
       "longitude": -73.90436712652445
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000130,
       "latitude": 40.70036020447339,
       "binStatus": "Available",
@@ -1613,7 +1613,7 @@
       "longitude": -73.88433337211609
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 40,
       "serialNumber": 503000219,
       "latitude": 40.75685380877115,
       "binStatus": "Available",
@@ -2315,7 +2315,7 @@
       "longitude": -73.99195962283002
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 60,
       "serialNumber": 505100019,
       "latitude": 40.731496522321486,
       "binStatus": "Available",
@@ -2405,7 +2405,7 @@
       "longitude": -74.00695323944092
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 505100003,
       "latitude": 40.73776704120356,
       "binStatus": "Available",
@@ -2540,21 +2540,21 @@
       "longitude": -73.98184436697117
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 505100035,
       "latitude": 40.77152776150592,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 276 - NE CO York Avenue & 79th Street",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.95019042066897
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 505100036,
       "latitude": 40.74644184775195,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 344 - SE CO 8 Ave & W 25 St",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.99747696934338
     },
     {
@@ -2594,7 +2594,7 @@
       "longitude": -73.977551687224
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 40,
       "serialNumber": 505100026,
       "latitude": 40.78340997537408,
       "binStatus": "Available",
@@ -2612,7 +2612,7 @@
       "longitude": -73.99302401909992
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 505100002,
       "latitude": 40.76863578734461,
       "binStatus": "Available",
@@ -3161,7 +3161,7 @@
       "longitude": -74.0026189895217
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 40,
       "serialNumber": 505100125,
       "latitude": 40.786641828294435,
       "binStatus": "Available",
@@ -3260,12 +3260,12 @@
       "longitude": -73.96400324926272
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 505100143,
       "latitude": 40.77674450161177,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 392 - NW CO York Ave & E 87 St",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.9464701336139
     },
     {
@@ -3368,10 +3368,10 @@
       "longitude": -73.97619309561924
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100149,
       "latitude": 40.77380204413203,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 393 - NW CO 1 Ave & E 81 St",
       "availableForUse": true,
       "longitude": -73.95175657391553
