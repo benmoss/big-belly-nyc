@@ -164,7 +164,7 @@
       "longitude": -73.91832768131844
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000016,
       "latitude": 40.84622162166989,
       "binStatus": "Available",
@@ -938,7 +938,7 @@
       "longitude": -73.93525745719671
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000144,
       "latitude": 40.7019656047617,
       "binStatus": "Available",
@@ -2333,7 +2333,7 @@
       "longitude": -73.99540269748928
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 505100031,
       "latitude": 40.72948121652991,
       "binStatus": "Available",
@@ -2468,10 +2468,10 @@
       "longitude": -73.99481938922054
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100037,
       "latitude": 40.739169439589006,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 331 - SE CO Greenwich Ave & 8th Ave",
       "availableForUse": true,
       "longitude": -74.00274561377924
@@ -3071,10 +3071,10 @@
       "longitude": -73.98167006603096
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100100,
       "latitude": 40.773718493770346,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 285 - NE CO 77th & Lexington Ave",
       "availableForUse": true,
       "longitude": -73.95966351954947
@@ -3386,12 +3386,12 @@
       "longitude": -73.97276669918094
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 505100117,
       "latitude": 40.78193045956682,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 378 - SW CO W 81 St & Central Park W",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.97196531694908
     },
     {
