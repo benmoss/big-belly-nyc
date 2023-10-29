@@ -29,7 +29,7 @@
       "longitude": -73.92014228572059
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 60,
       "serialNumber": 503000001,
       "latitude": 40.61356176348572,
       "binStatus": "Available",
@@ -92,12 +92,12 @@
       "longitude": -73.94638694822788
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 503000008,
       "latitude": 40.761548735935826,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 05 - SW 24th Street & 34th Avenue",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.93188491463661
     },
     {
@@ -299,10 +299,10 @@
       "longitude": -73.92743781208992
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 503000018,
       "latitude": 40.83478846373379,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 56 - SW Amsterdam Avenue & West 160th Street",
       "availableForUse": true,
       "longitude": -73.94085858017206
@@ -560,12 +560,12 @@
       "longitude": -73.92594543138473
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 503000061,
       "latitude": 40.76808087642403,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 15 - SE 31st Avenue & 14th Street",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.93193346987313
     },
     {
@@ -893,10 +893,10 @@
       "longitude": -73.92874404788017
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 503000131,
       "latitude": 40.688233556498346,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 143 - SW Nostrand Avenue & Greene Avenue",
       "availableForUse": true,
       "longitude": -73.95123168826103
@@ -1397,7 +1397,7 @@
       "longitude": -73.85720618069172
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 503000200,
       "latitude": 40.68219457581468,
       "binStatus": "Available",
