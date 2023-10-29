@@ -29,7 +29,7 @@
       "longitude": -73.92014228572059
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000001,
       "latitude": 40.61356176348572,
       "binStatus": "Available",
@@ -182,12 +182,12 @@
       "longitude": -73.91337029635906
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 503000017,
       "latitude": 40.81773208281474,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 42 - SE West 136th Street & Edgecombe Avenue",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.94737802445889
     },
     {
@@ -389,10 +389,10 @@
       "longitude": -73.94493098288339
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 503000049,
       "latitude": 40.79160725166976,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 46 - SW E 109th Street & 1st Avenue",
       "availableForUse": true,
       "longitude": -73.93884859979153
@@ -1631,7 +1631,7 @@
       "longitude": -73.86291526257992
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000223,
       "latitude": 40.755305606252215,
       "binStatus": "Available",
@@ -2495,7 +2495,7 @@
       "longitude": -73.99849525644926
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 505100029,
       "latitude": 40.710663476710224,
       "binStatus": "Available",
