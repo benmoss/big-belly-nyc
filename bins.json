@@ -515,7 +515,7 @@
       "longitude": -73.94394144415855
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 503000034,
       "latitude": 40.774054817889976,
       "binStatus": "Available",
@@ -929,7 +929,7 @@
       "longitude": -73.96265991032124
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 503000133,
       "latitude": 40.684197290894595,
       "binStatus": "Available",
@@ -2729,12 +2729,12 @@
       "longitude": -74.0047200044207
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 505100059,
       "latitude": 40.718786682897935,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 244 - SW CO of Greenwich St & Harrison ST",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -74.01055041700602
     },
     {
@@ -3179,10 +3179,10 @@
       "longitude": -73.98189624416173
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100114,
       "latitude": 40.76550445210295,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 289 - NW CO Lexington ave & E 64 St",
       "availableForUse": true,
       "longitude": -73.96592718820084
