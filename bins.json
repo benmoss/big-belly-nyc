@@ -848,12 +848,12 @@
       "longitude": -73.91365829855204
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 503000074,
       "latitude": 40.80957426897732,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 54 - NE East 130th Street & 5th Avenue",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.93987722694874
     },
     {
@@ -893,7 +893,7 @@
       "longitude": -73.92874404788017
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 503000131,
       "latitude": 40.688233556498346,
       "binStatus": "Available",
@@ -1037,7 +1037,7 @@
       "longitude": -73.9503475651145
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000155,
       "latitude": 40.690904435343946,
       "binStatus": "Available",
@@ -2414,10 +2414,10 @@
       "longitude": -74.00006544331396
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100022,
       "latitude": 40.73287635373648,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 334 - SW CO Hudson St & Christopher St",
       "availableForUse": true,
       "longitude": -74.00655866692779
