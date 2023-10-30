@@ -164,7 +164,7 @@
       "longitude": -73.91832768131844
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 0,
       "serialNumber": 503000016,
       "latitude": 40.84622162166989,
       "binStatus": "Available",
@@ -182,12 +182,12 @@
       "longitude": -73.91337029635906
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 503000017,
       "latitude": 40.81773208281474,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 42 - SE West 136th Street & Edgecombe Avenue",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.94737802445889
     },
     {
@@ -308,7 +308,7 @@
       "longitude": -73.94085858017206
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000058,
       "latitude": 40.76737357054309,
       "binStatus": "Available",
@@ -506,7 +506,7 @@
       "longitude": -73.92041435458692
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 503000035,
       "latitude": 40.820298050767335,
       "binStatus": "Available",
@@ -704,7 +704,7 @@
       "longitude": -73.93855724483728
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 503000085,
       "latitude": 40.80984148378304,
       "binStatus": "Available",
@@ -1010,7 +1010,7 @@
       "longitude": -73.90656117349863
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000148,
       "latitude": 40.701373514374744,
       "binStatus": "Available",
@@ -1028,7 +1028,7 @@
       "longitude": -73.9155288040638
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 503000149,
       "latitude": 40.683936689634,
       "binStatus": "Available",
@@ -1334,7 +1334,7 @@
       "longitude": -73.95316857844591
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000187,
       "latitude": 40.75792909750536,
       "binStatus": "Available",
@@ -1883,12 +1883,12 @@
       "longitude": -73.95329229533672
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 503000258,
       "latitude": 40.8111366429278,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 28 - SE West 123 Street & Amsterdam Avenue",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.95765916089715
     },
     {
@@ -1910,10 +1910,10 @@
       "longitude": -74.14217077195644
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 503000244,
       "latitude": 40.67487311845103,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 194 - NW Classon Avenue & Park Place",
       "availableForUse": true,
       "longitude": -73.96038701505442
@@ -2063,7 +2063,7 @@
       "longitude": -73.95261202007532
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000275,
       "latitude": 40.75290526233439,
       "binStatus": "Available",
@@ -2369,7 +2369,7 @@
       "longitude": -74.00171998103215
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 505100051,
       "latitude": 40.72504420607064,
       "binStatus": "Available",
@@ -2396,12 +2396,12 @@
       "longitude": -74.00526163846435
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 0,
       "serialNumber": 505100027,
       "latitude": 40.71904231972568,
-      "binStatus": "Full",
+      "binStatus": "Available",
       "description": "BIN 250 - SE CO Varick St. & Franklin St.",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -74.00695323944092
     },
     {
@@ -2630,12 +2630,12 @@
       "longitude": -73.99473222632365
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 505100016,
       "latitude": 40.76404560103803,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 269 - NE CO E 66 St & 1 Ave",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.95855413649969
     },
     {
@@ -2666,10 +2666,10 @@
       "longitude": -73.98983497462179
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100025,
       "latitude": 40.74240669511277,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 343 - NW CO 8TH AVE & 18TH ST",
       "availableForUse": true,
       "longitude": -74.0007785662345
@@ -2684,10 +2684,10 @@
       "longitude": -73.99876398340452
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100058,
       "latitude": 40.716735019858994,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 260 - NE CO Grand St & Essex St",
       "availableForUse": true,
       "longitude": -73.98896138948061
@@ -2927,16 +2927,16 @@
       "longitude": -73.96888427642509
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 0,
       "serialNumber": 505100093,
       "latitude": 40.7953036151945,
-      "binStatus": "Full",
+      "binStatus": "Available",
       "description": "BIN 383 - NE CO Broadway & W 97 St",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.97107263571145
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 505100107,
       "latitude": 40.73674344375692,
       "binStatus": "Available",
@@ -3044,7 +3044,7 @@
       "longitude": -73.96586280976997
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 505100067,
       "latitude": 40.77168450396742,
       "binStatus": "Available",
@@ -3152,7 +3152,7 @@
       "longitude": -73.95414933006201
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 505100124,
       "latitude": 40.73044605992985,
       "binStatus": "Available",
