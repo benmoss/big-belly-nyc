@@ -119,7 +119,7 @@
       "longitude": -73.91663756221533
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000010,
       "latitude": 40.76236771749731,
       "binStatus": "Available",
@@ -299,7 +299,7 @@
       "longitude": -73.92743781208992
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 503000018,
       "latitude": 40.83478846373379,
       "binStatus": "Available",
@@ -353,10 +353,10 @@
       "longitude": -73.92266314476728
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 503000055,
       "latitude": 40.85039540597644,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 60 - NE Wadsworth Avenue & West 182nd Street",
       "availableForUse": true,
       "longitude": -73.93447995185852
@@ -1100,7 +1100,7 @@
       "longitude": -73.96311119198799
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000152,
       "latitude": 40.68415381504779,
       "binStatus": "Available",
@@ -1361,12 +1361,12 @@
       "longitude": -73.91591713080048
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 503000184,
       "latitude": 40.673104182956976,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 189 - NE Underhill Avenue & Eastern Parkway",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.96755293011665
     },
     {
@@ -1550,7 +1550,7 @@
       "longitude": -73.9556797966361
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000217,
       "latitude": 40.84212899335488,
       "binStatus": "Available",
@@ -1883,10 +1883,10 @@
       "longitude": -73.95329229533672
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 503000258,
       "latitude": 40.8111366429278,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 28 - SE West 123 Street & Amsterdam Avenue",
       "availableForUse": true,
       "longitude": -73.95765916089715
@@ -2207,7 +2207,7 @@
       "longitude": -73.94848935814979
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 60,
       "serialNumber": 505100040,
       "latitude": 40.77068591297934,
       "binStatus": "Available",
@@ -2405,7 +2405,7 @@
       "longitude": -74.00695323944092
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 505100003,
       "latitude": 40.73776704120356,
       "binStatus": "Available",
@@ -2441,7 +2441,7 @@
       "longitude": -74.01704739779234
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 505100007,
       "latitude": 40.7528981663847,
       "binStatus": "Available",
@@ -2972,12 +2972,12 @@
       "longitude": -73.93435451155901
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 505100073,
       "latitude": 40.80348382274017,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 385 - SE CO Broadway & W 109 St",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.96686314261594
     },
     {
@@ -3089,7 +3089,7 @@
       "longitude": -73.9728414833659
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 60,
       "serialNumber": 505100101,
       "latitude": 40.77228183243049,
       "binStatus": "Available",
@@ -3260,12 +3260,12 @@
       "longitude": -73.96400324926272
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 505100143,
       "latitude": 40.77674450161177,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 392 - NW CO York Ave & E 87 St",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.9464701336139
     },
     {
@@ -3287,7 +3287,7 @@
       "longitude": -73.98776125245462
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 40,
       "serialNumber": 505100144,
       "latitude": 40.78596763857327,
       "binStatus": "Available",
@@ -3305,7 +3305,7 @@
       "longitude": -73.9864215009938
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 505100134,
       "latitude": 40.7312028692314,
       "binStatus": "Available",
@@ -3422,10 +3422,10 @@
       "longitude": -73.99201305589226
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100123,
       "latitude": 40.78331643218788,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 377 - NW CO Broadway & W 78 St",
       "availableForUse": true,
       "longitude": -73.98062197434946
@@ -3494,10 +3494,10 @@
       "longitude": -73.97587379945203
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100128,
       "latitude": 40.72662593513809,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 327 - SW CO Bond St & Lafayette St",
       "availableForUse": true,
       "longitude": -73.99427816002996
