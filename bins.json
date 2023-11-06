@@ -758,7 +758,7 @@
       "longitude": -73.92934955656528
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000080,
       "latitude": 40.84901271211911,
       "binStatus": "Available",
@@ -866,10 +866,10 @@
       "longitude": -73.94525472074747
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 503000139,
       "latitude": 40.69385788678818,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 162 - NE Bushwick Avenue & Himrod Street",
       "availableForUse": true,
       "longitude": -73.92586905509233
@@ -1577,7 +1577,7 @@
       "longitude": -73.86668778955936
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 503000214,
       "latitude": 40.84592817625355,
       "binStatus": "Available",
@@ -1964,12 +1964,12 @@
       "longitude": -74.06930956989527
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 503000261,
       "latitude": 40.67676683153248,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 199 - NW New York Avenue & Dean Street",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.9471010863781
     },
     {
@@ -2252,12 +2252,12 @@
       "longitude": -73.9538887710376
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 505100015,
       "latitude": 40.76216672199596,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 349 - NE CO 11 Ave & W 44 St",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.99722146507379
     },
     {
@@ -2378,12 +2378,12 @@
       "longitude": -73.9869912541827
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 80,
       "serialNumber": 505100001,
       "latitude": 40.74633635540412,
-      "binStatus": "Full",
+      "binStatus": "Nearly Full",
       "description": "BIN 299 - SE CO Park & E 33 St",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.98169906782172
     },
     {
@@ -3458,10 +3458,10 @@
       "longitude": -73.99363601223293
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100148,
       "latitude": 40.735894111584756,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 391 - SE CO 2 Ave & E 20 St",
       "availableForUse": true,
       "longitude": -73.98222696429983
