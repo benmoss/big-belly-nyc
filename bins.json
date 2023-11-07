@@ -587,7 +587,7 @@
       "longitude": -73.92701134085655
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 60,
       "serialNumber": 503000065,
       "latitude": 40.76524333304795,
       "binStatus": "Available",
@@ -929,7 +929,7 @@
       "longitude": -73.96265991032124
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000133,
       "latitude": 40.684197290894595,
       "binStatus": "Available",
@@ -1352,7 +1352,7 @@
       "longitude": -73.93454968929291
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 503000185,
       "latitude": 40.704219889937,
       "binStatus": "Available",
@@ -1406,7 +1406,7 @@
       "longitude": -73.9536564052105
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 60,
       "serialNumber": 503000194,
       "latitude": 40.68457611432452,
       "binStatus": "Available",
@@ -1478,10 +1478,10 @@
       "longitude": -73.9436212554574
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 80,
       "serialNumber": 503000206,
       "latitude": 40.68764908091782,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 122 - SW Tompkins Avenue & Quincy Street",
       "availableForUse": true,
       "longitude": -73.94487351179123
@@ -1667,7 +1667,7 @@
       "longitude": -73.91965739428997
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 60,
       "serialNumber": 503000225,
       "latitude": 40.6865703680712,
       "binStatus": "Available",
@@ -1847,7 +1847,7 @@
       "longitude": -73.94772704690695
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000251,
       "latitude": 40.67459377925092,
       "binStatus": "Available",
@@ -2414,10 +2414,10 @@
       "longitude": -74.00006544331396
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100022,
       "latitude": 40.73287635373648,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 334 - SW CO Hudson St & Christopher St",
       "availableForUse": true,
       "longitude": -74.00655866692779
@@ -2450,12 +2450,12 @@
       "longitude": -73.99262428743057
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 505100009,
       "latitude": 40.7164061130962,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 245 - NW CO Greenwich St & Chambers St",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -74.0109745413065
     },
     {
@@ -2657,7 +2657,7 @@
       "longitude": -73.97332561607193
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 60,
       "serialNumber": 505100028,
       "latitude": 40.7621600211368,
       "binStatus": "Available",
@@ -2675,7 +2675,7 @@
       "longitude": -74.0007785662345
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 40,
       "serialNumber": 505100064,
       "latitude": 40.718560301291866,
       "binStatus": "Available",
@@ -2783,10 +2783,10 @@
       "longitude": -73.94025328989962
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100075,
       "latitude": 40.778060906549015,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 394 - SW CO E 85 St & 3 Ave",
       "availableForUse": true,
       "longitude": -73.95466305211644
@@ -3296,10 +3296,10 @@
       "longitude": -73.97864520220962
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100147,
       "latitude": 40.767171552566246,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 356 - SW CO 9 Ave & W 56 St",
       "availableForUse": true,
       "longitude": -73.9864215009938
