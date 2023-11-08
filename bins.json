@@ -146,7 +146,7 @@
       "longitude": -73.95101174712181
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000014,
       "latitude": 40.762625726342314,
       "binStatus": "Available",
@@ -1532,7 +1532,7 @@
       "longitude": -73.92708376049995
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000203,
       "latitude": 40.695132218201906,
       "binStatus": "Available",
@@ -1874,7 +1874,7 @@
       "longitude": -73.95637851208448
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 60,
       "serialNumber": 503000257,
       "latitude": 40.670817086934036,
       "binStatus": "Available",
@@ -1919,7 +1919,7 @@
       "longitude": -73.96038701505442
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 40,
       "serialNumber": 503000264,
       "latitude": 40.67279917738334,
       "binStatus": "Available",
@@ -1964,7 +1964,7 @@
       "longitude": -74.06930956989527
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000261,
       "latitude": 40.67676683153248,
       "binStatus": "Available",
@@ -2549,12 +2549,12 @@
       "longitude": -73.95019042066897
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 505100036,
       "latitude": 40.74644184775195,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 344 - SE CO 8 Ave & W 25 St",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.99747696934338
     },
     {
@@ -2639,10 +2639,10 @@
       "longitude": -73.95855413649969
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100063,
       "latitude": 40.71256505742161,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 251 - NE CO Broadway & Park Place (City hall park side)",
       "availableForUse": true,
       "longitude": -74.00756552771458
@@ -2675,7 +2675,7 @@
       "longitude": -74.0007785662345
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 60,
       "serialNumber": 505100064,
       "latitude": 40.718560301291866,
       "binStatus": "Available",
