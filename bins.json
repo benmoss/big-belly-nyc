@@ -155,12 +155,12 @@
       "longitude": -73.93766775727272
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 0,
       "serialNumber": 503000013,
       "latitude": 40.86843300418909,
-      "binStatus": "Full",
+      "binStatus": "Available",
       "description": "BIN 65 - NE West 212th Street & Broadway",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.91832768131844
     },
     {
@@ -371,7 +371,7 @@
       "longitude": -73.95314779132605
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 60,
       "serialNumber": 503000050,
       "latitude": 40.829794034320685,
       "binStatus": "Available",
@@ -1397,7 +1397,7 @@
       "longitude": -73.85720618069172
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 60,
       "serialNumber": 503000200,
       "latitude": 40.68219457581468,
       "binStatus": "Available",
@@ -1469,7 +1469,7 @@
       "longitude": -74.15653929410205
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 60,
       "serialNumber": 503000207,
       "latitude": 40.68175217538853,
       "binStatus": "Available",
@@ -1487,7 +1487,7 @@
       "longitude": -73.94487351179123
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000198,
       "latitude": 40.82885132146766,
       "binStatus": "Available",
@@ -1811,10 +1811,10 @@
       "longitude": -73.93390157678125
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 503000241,
       "latitude": 40.6774118895118,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 218 SE Classon Avenue & Bergen Street",
       "availableForUse": true,
       "longitude": -73.95897587267723
@@ -2009,7 +2009,7 @@
       "longitude": -73.92522666603327
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000268,
       "latitude": 40.67210889641922,
       "binStatus": "Available",
@@ -2630,10 +2630,10 @@
       "longitude": -73.99473222632365
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100016,
       "latitude": 40.76404560103803,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 269 - NE CO E 66 St & 1 Ave",
       "availableForUse": true,
       "longitude": -73.95855413649969
@@ -3224,10 +3224,10 @@
       "longitude": -73.98558684719369
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100098,
       "latitude": 40.741609115050146,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 301 - NE CO 2 Ave & E 29 ST",
       "availableForUse": true,
       "longitude": -73.97792649980364
@@ -3287,12 +3287,12 @@
       "longitude": -73.98776125245462
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 505100144,
       "latitude": 40.78596763857327,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 358 - NW CO W 82 St & Broadway",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.97864520220962
     },
     {
