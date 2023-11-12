@@ -533,7 +533,7 @@
       "longitude": -73.96890208125114
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 503000047,
       "latitude": 40.80229053822756,
       "binStatus": "Available",
@@ -641,7 +641,7 @@
       "longitude": -73.92557334154844
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000071,
       "latitude": 40.7948329016069,
       "binStatus": "Available",
@@ -1118,12 +1118,12 @@
       "longitude": -73.92600182443857
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 503000158,
       "latitude": 40.68871201420607,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 129 - NE Bedford Avenue & Clifton Place",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.95497169345617
     },
     {
@@ -1838,10 +1838,10 @@
       "longitude": -73.90651490539312
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 503000246,
       "latitude": 40.67049107908947,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 197 - NW New York Avenue & Lincoln Place",
       "availableForUse": true,
       "longitude": -73.94772704690695
@@ -2306,12 +2306,12 @@
       "longitude": -74.00691708161023
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 100,
       "serialNumber": 505100052,
       "latitude": 40.71989182112748,
-      "binStatus": "Available",
+      "binStatus": "Full",
       "description": "BIN 255 -  NE CO Delancey St & Forsyth St",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.99195962283002
     },
     {
@@ -3017,7 +3017,7 @@
       "longitude": -73.98073154416069
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 505100076,
       "latitude": 40.85312543432193,
       "binStatus": "Available",
@@ -3143,10 +3143,10 @@
       "longitude": -73.96666802317641
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100132,
       "latitude": 40.757513465018945,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 325 - SW CO W Main Street and Main Street (by Tram Terminal)",
       "availableForUse": true,
       "longitude": -73.95414933006201
