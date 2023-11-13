@@ -362,10 +362,10 @@
       "longitude": -73.93447995185852
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 503000056,
       "latitude": 40.817629573974216,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 22 - NE Corner Amsterdam Avenue & W 133 Street",
       "availableForUse": true,
       "longitude": -73.95314779132605
@@ -650,12 +650,12 @@
       "longitude": -73.93320322036743
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 503000072,
       "latitude": 40.797433004550236,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 49 - SW East 118th Street & 1 Avenue",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.93471363931894
     },
     {
@@ -1082,7 +1082,7 @@
       "longitude": -73.91374111175537
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 60,
       "serialNumber": 503000164,
       "latitude": 40.69660505362728,
       "binStatus": "Available",
@@ -1280,12 +1280,12 @@
       "longitude": -73.91918834298849
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 503000178,
       "latitude": 40.671282700678354,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 211 - NE Kingston Avenue & St. Johns Place",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.941904976964
     },
     {
@@ -1334,10 +1334,10 @@
       "longitude": -73.95316857844591
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 503000187,
       "latitude": 40.75792909750536,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 223 - SE 31st Avenue & 49th Street",
       "availableForUse": true,
       "longitude": -73.90980195254087
@@ -1649,7 +1649,7 @@
       "longitude": -73.89307770878077
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 503000227,
       "latitude": 40.858658758806776,
       "binStatus": "Available",
@@ -2108,7 +2108,7 @@
       "longitude": -73.92091434448957
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 503000205,
       "latitude": 40.68303106054966,
       "binStatus": "Available",
@@ -3215,7 +3215,7 @@
       "longitude": -73.96135753145826
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 60,
       "serialNumber": 505100113,
       "latitude": 40.741606235945184,
       "binStatus": "Available",
