@@ -92,10 +92,10 @@
       "longitude": -73.94638694822788
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 0,
       "serialNumber": 503000008,
       "latitude": 40.761548735935826,
-      "binStatus": "Nearly Full",
+      "binStatus": "Available",
       "description": "BIN 05 - SW 24th Street & 34th Avenue",
       "availableForUse": true,
       "longitude": -73.93188491463661
@@ -416,10 +416,10 @@
       "longitude": -73.94713159650564
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 0,
       "serialNumber": 503000044,
       "latitude": 40.80556261860785,
-      "binStatus": "Nearly Full",
+      "binStatus": "Available",
       "description": "BIN 53 - NE East 127th Street & Lexington Avenue",
       "availableForUse": true,
       "longitude": -73.93639236688614
@@ -533,7 +533,7 @@
       "longitude": -73.96890208125114
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 0,
       "serialNumber": 503000047,
       "latitude": 40.80229053822756,
       "binStatus": "Available",
@@ -2144,7 +2144,7 @@
       "longitude": -73.93855053931475
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 503000202,
       "latitude": 40.66971391909037,
       "binStatus": "Available",
@@ -2153,7 +2153,7 @@
       "longitude": -73.9421078891929
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 0,
       "serialNumber": 503000236,
       "latitude": 40.76122012468334,
       "binStatus": "Available",
@@ -2621,12 +2621,12 @@
       "longitude": -73.95822445057821
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 0,
       "serialNumber": 505100053,
       "latitude": 40.7214226207243,
-      "binStatus": "Full",
+      "binStatus": "Available",
       "description": "BIN 263 - NW CO Elizabeth St & Spring St",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.99473222632365
     },
     {
@@ -2675,12 +2675,12 @@
       "longitude": -74.0007785662345
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 0,
       "serialNumber": 505100064,
       "latitude": 40.718560301291866,
-      "binStatus": "Full",
+      "binStatus": "Available",
       "description": "BIN 261 - NW CO Hester ST & Baxter St",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.99876398340452
     },
     {
@@ -2810,12 +2810,12 @@
       "longitude": -73.98491537817117
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 0,
       "serialNumber": 505100096,
       "latitude": 40.77217779943119,
-      "binStatus": "Full",
+      "binStatus": "Available",
       "description": "BIN 360 - SW CO West End Ave & W 60 St",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.99013103325534
     },
     {
@@ -2855,7 +2855,7 @@
       "longitude": -73.97379656746796
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 505100084,
       "latitude": 40.71976090895701,
       "binStatus": "Available",
@@ -2900,12 +2900,12 @@
       "longitude": -73.9809653781084
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 0,
       "serialNumber": 505100088,
       "latitude": 40.72865169703771,
-      "binStatus": "Full",
+      "binStatus": "Available",
       "description": "BIN 316 - NW CO 3rd Ave & E 6th St",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.99090145996239
     },
     {
@@ -3116,7 +3116,7 @@
       "longitude": -73.97435929170092
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 0,
       "serialNumber": 505100130,
       "latitude": 40.77020285341155,
       "binStatus": "Available",
@@ -3332,12 +3332,12 @@
       "longitude": -73.98831240762495
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 0,
       "serialNumber": 505100120,
       "latitude": 40.77519164031714,
-      "binStatus": "Full",
+      "binStatus": "Available",
       "description": "BIN 374 - SE CO West End Ave & W 65 St",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.98753543655222
     },
     {
@@ -3386,12 +3386,12 @@
       "longitude": -73.97276669918094
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 80,
       "serialNumber": 505100117,
       "latitude": 40.78193045956682,
-      "binStatus": "Full",
+      "binStatus": "Nearly Full",
       "description": "BIN 378 - SW CO W 81 St & Central Park W",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.97196531694908
     },
     {
@@ -3494,12 +3494,12 @@
       "longitude": -73.97587379945203
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 0,
       "serialNumber": 505100128,
       "latitude": 40.72662593513809,
-      "binStatus": "Full",
+      "binStatus": "Available",
       "description": "BIN 327 - SW CO Bond St & Lafayette St",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.99427816002996
     }
   ]
