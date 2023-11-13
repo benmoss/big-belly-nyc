@@ -83,7 +83,7 @@
       "longitude": -73.89822654426098
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000007,
       "latitude": 40.695555464715596,
       "binStatus": "Available",
@@ -92,7 +92,7 @@
       "longitude": -73.94638694822788
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 60,
       "serialNumber": 503000008,
       "latitude": 40.761548735935826,
       "binStatus": "Available",
@@ -182,10 +182,10 @@
       "longitude": -73.91337029635906
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 503000017,
       "latitude": 40.81773208281474,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 42 - SE West 136th Street & Edgecombe Avenue",
       "availableForUse": true,
       "longitude": -73.94737802445889
@@ -245,7 +245,7 @@
       "longitude": -73.90380453318357
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 60,
       "serialNumber": 503000032,
       "latitude": 40.76149921367936,
       "binStatus": "Available",
@@ -281,10 +281,10 @@
       "longitude": -73.92383761703968
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 503000033,
       "latitude": 40.86054008940285,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 63 - SE Sickles Street & Nagle Avenue",
       "availableForUse": true,
       "longitude": -73.9273372319724
@@ -371,10 +371,10 @@
       "longitude": -73.95314779132605
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 503000050,
       "latitude": 40.829794034320685,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 26 - NW Amsterdam Avenue & W 152 Street",
       "availableForUse": true,
       "longitude": -73.94453756511211
@@ -488,10 +488,10 @@
       "longitude": -73.94687759676215
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 0,
       "serialNumber": 503000037,
       "latitude": 40.85928458622981,
-      "binStatus": "Nearly Full",
+      "binStatus": "Available",
       "description": "BIN 79 - SE Marion Avenue & East 187th Street",
       "availableForUse": true,
       "longitude": -73.89476414769888
@@ -776,7 +776,7 @@
       "longitude": -73.90734169632196
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 503000094,
       "latitude": 40.7666826313674,
       "binStatus": "Available",
@@ -803,12 +803,12 @@
       "longitude": -73.88263955712318
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 503000098,
       "latitude": 40.80545914536109,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 29 - SW West 114th Street & Amsterdam Avenue",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.96220094562807
     },
     {
@@ -1604,7 +1604,7 @@
       "longitude": -73.93744513392448
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 0,
       "serialNumber": 503000220,
       "latitude": 40.841124566524265,
       "binStatus": "Available",
@@ -2216,10 +2216,10 @@
       "longitude": -73.98008527492154
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100042,
       "latitude": 40.73752862143271,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 310 - NW 6 Ave & 14th Street",
       "availableForUse": true,
       "longitude": -73.99693615022026
@@ -2234,12 +2234,12 @@
       "longitude": -74.00206860154867
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 505100050,
       "latitude": 40.77142731268294,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 286 - NE CO 2 Avenue & E 76 St",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.95631212223466
     },
     {
@@ -2504,10 +2504,10 @@
       "longitude": -74.00341004133224
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100017,
       "latitude": 40.705075385840445,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 243 - NE CO Broadway & Beaver Street",
       "availableForUse": true,
       "longitude": -74.01322457939386
@@ -2675,12 +2675,12 @@
       "longitude": -74.0007785662345
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 505100064,
       "latitude": 40.718560301291866,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 261 - NW CO Hester ST & Baxter St",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.99876398340452
     },
     {
@@ -2729,12 +2729,12 @@
       "longitude": -74.0047200044207
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 0,
       "serialNumber": 505100059,
       "latitude": 40.718786682897935,
-      "binStatus": "Full",
+      "binStatus": "Available",
       "description": "BIN 244 - SW CO of Greenwich St & Harrison ST",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -74.01055041700602
     },
     {
@@ -2846,10 +2846,10 @@
       "longitude": -73.98540060636678
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100092,
       "latitude": 40.78957914389564,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 369 - SW CO W 89 St & Amsterdam Ave",
       "availableForUse": true,
       "longitude": -73.97379656746796
@@ -3044,10 +3044,10 @@
       "longitude": -73.96586280976997
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100067,
       "latitude": 40.77168450396742,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 290 - SW CO Lexington Ave & E 74 St",
       "availableForUse": true,
       "longitude": -73.9614462477865
@@ -3269,10 +3269,10 @@
       "longitude": -73.9464701336139
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100138,
       "latitude": 40.76639459170164,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 353 - SE CO 10 Ave & W 53 St",
       "availableForUse": true,
       "longitude": -73.99037571712044
