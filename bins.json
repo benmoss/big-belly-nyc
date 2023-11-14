@@ -182,10 +182,10 @@
       "longitude": -73.91337029635906
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 0,
       "serialNumber": 503000017,
       "latitude": 40.81773208281474,
-      "binStatus": "Nearly Full",
+      "binStatus": "Available",
       "description": "BIN 42 - SE West 136th Street & Edgecombe Avenue",
       "availableForUse": true,
       "longitude": -73.94737802445889
@@ -1235,7 +1235,7 @@
       "longitude": -73.96811317652464
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 60,
       "serialNumber": 503000162,
       "latitude": 40.704966472832965,
       "binStatus": "Available",
@@ -2108,7 +2108,7 @@
       "longitude": -73.92091434448957
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 40,
       "serialNumber": 503000205,
       "latitude": 40.68303106054966,
       "binStatus": "Available",
@@ -2522,12 +2522,12 @@
       "longitude": -73.99466765892298
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 505100032,
       "latitude": 40.765863654327504,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 279 - SW CO Main St & River Road",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.9463083404101
     },
     {
@@ -3341,7 +3341,7 @@
       "longitude": -73.98753543655222
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 0,
       "serialNumber": 505100146,
       "latitude": 40.74723684953337,
       "binStatus": "Available",
