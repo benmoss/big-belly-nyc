@@ -128,6 +128,15 @@
       "longitude": -73.92099916934967
     },
     {
+      "latestFullness": 0,
+      "serialNumber": 3590005,
+      "latitude": 40.88661576005842,
+      "binStatus": "Available",
+      "description": "BIN 411 - NW W 236th St & Johnson Ave",
+      "availableForUse": true,
+      "longitude": -73.90993109059836
+    },
+    {
       "latestFullness": 40,
       "serialNumber": 503000029,
       "latitude": 40.80207202156791,
@@ -542,10 +551,10 @@
       "longitude": -73.95354006439447
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 503000043,
       "latitude": 40.804732620856896,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 31 - SE Amsterdam Avenue & W 113 Street",
       "availableForUse": true,
       "longitude": -73.9623499576847
@@ -605,10 +614,10 @@
       "longitude": -73.93176387995481
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 503000036,
       "latitude": 40.6778510426927,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 187 - NW Vanderbilt Avenue & Prospect Place",
       "availableForUse": true,
       "longitude": -73.96890208125114
@@ -740,7 +749,7 @@
       "longitude": -73.93471363931894
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 503000073,
       "latitude": 40.813082487843964,
       "binStatus": "Available",
@@ -974,7 +983,7 @@
       "longitude": -73.92899550497532
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 60,
       "serialNumber": 503000136,
       "latitude": 40.67726495043478,
       "binStatus": "Available",
@@ -1361,7 +1370,7 @@
       "longitude": -73.90797402709723
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000188,
       "latitude": 40.690796900599814,
       "binStatus": "Available",
@@ -1577,10 +1586,10 @@
       "longitude": -73.928127810359
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 503000204,
       "latitude": 40.69300170948447,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 130 - SE Bedford Avenue & Willoughby Avenue",
       "availableForUse": true,
       "longitude": -73.9556797966361
@@ -2225,7 +2234,7 @@
       "longitude": -73.94848935814979
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 505100040,
       "latitude": 40.77068591297934,
       "binStatus": "Available",
@@ -2288,7 +2297,7 @@
       "longitude": -73.94685207786003
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 60,
       "serialNumber": 505100020,
       "latitude": 40.72799056580962,
       "binStatus": "Available",
@@ -2540,7 +2549,7 @@
       "longitude": -74.0077318323766
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 40,
       "serialNumber": 505100061,
       "latitude": 40.70860458493924,
       "binStatus": "Available",
@@ -2981,7 +2990,7 @@
       "longitude": -73.96586280976997
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 505100067,
       "latitude": 40.77168450396742,
       "binStatus": "Available",
@@ -3008,10 +3017,10 @@
       "longitude": -73.98167006603096
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100100,
       "latitude": 40.773718493770346,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 285 - NE CO 77th & Lexington Ave",
       "availableForUse": true,
       "longitude": -73.95966351954947
@@ -3035,12 +3044,12 @@
       "longitude": -73.95896668550664
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 505100131,
       "latitude": 40.785201054043846,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 375 - SW CO W 84 St & Columbus Ave",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.97335456220875
     },
     {
@@ -3368,7 +3377,7 @@
       "longitude": -73.98478295989479
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 505100116,
       "latitude": 40.78914315936319,
       "binStatus": "Available",
@@ -3413,7 +3422,7 @@
       "longitude": -73.9799463692325
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 505100115,
       "latitude": 40.78876861933553,
       "binStatus": "Available",
