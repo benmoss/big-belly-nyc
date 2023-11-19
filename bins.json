@@ -245,7 +245,7 @@
       "longitude": -73.94863547733536
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 503000010,
       "latitude": 40.76236771749731,
       "binStatus": "Available",
@@ -353,7 +353,7 @@
       "longitude": -73.90380453318357
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 60,
       "serialNumber": 503000032,
       "latitude": 40.76149921367936,
       "binStatus": "Available",
@@ -380,7 +380,7 @@
       "longitude": -73.92508216202259
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 60,
       "serialNumber": 503000031,
       "latitude": 40.70206803795076,
       "binStatus": "Available",
@@ -587,10 +587,10 @@
       "longitude": -73.9660133421421
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 503000039,
       "latitude": 40.82647613312916,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 25 - SW West 147th Street & Amsterdam Avenue",
       "availableForUse": true,
       "longitude": -73.94687759676215
@@ -803,10 +803,10 @@
       "longitude": -73.93855724483728
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 503000085,
       "latitude": 40.80984148378304,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 37 - NW West 126th Street & Adam Clayton Powell Jr Blvd",
       "availableForUse": true,
       "longitude": -73.94765663892031
@@ -992,7 +992,7 @@
       "longitude": -73.90436712652445
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 60,
       "serialNumber": 503000130,
       "latitude": 40.70036020447339,
       "binStatus": "Available",
@@ -1721,10 +1721,10 @@
       "longitude": -73.91965739428997
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 503000225,
       "latitude": 40.6865703680712,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 128 - NE Bedford Avenue & Quincy Street",
       "availableForUse": true,
       "longitude": -73.95448587834835
@@ -1829,12 +1829,12 @@
       "longitude": -73.94294936209917
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 503000240,
       "latitude": 40.67428152112551,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 198 - NW New York Avenue & Prospect Place",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.94742764532566
     },
     {
@@ -1964,12 +1964,12 @@
       "longitude": -73.96024390254057
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 503000264,
       "latitude": 40.67279917738334,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 215 - NW Rogers Avenue & Sterling Place",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.95310335432222
     },
     {
@@ -2270,7 +2270,7 @@
       "longitude": -73.99693615022026
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 60,
       "serialNumber": 505100005,
       "latitude": 40.70815249011514,
       "binStatus": "Available",
@@ -2360,10 +2360,10 @@
       "longitude": -73.99195962283002
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100019,
       "latitude": 40.731496522321486,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 315 - NW CO 4 Ave & E 10 St",
       "availableForUse": true,
       "longitude": -73.99051628208568
@@ -3296,7 +3296,7 @@
       "longitude": -73.98753543655222
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 505100146,
       "latitude": 40.74723684953337,
       "binStatus": "Available",
