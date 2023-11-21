@@ -380,7 +380,7 @@
       "longitude": -73.91796863240839
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 0,
       "serialNumber": 503000024,
       "latitude": 40.87628033530234,
       "binStatus": "Available",
@@ -605,12 +605,12 @@
       "longitude": -73.9660133421421
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 0,
       "serialNumber": 503000039,
       "latitude": 40.82647613312916,
-      "binStatus": "Full",
+      "binStatus": "Available",
       "description": "BIN 25 - SW West 147th Street & Amsterdam Avenue",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.94687759676215
     },
     {
@@ -677,7 +677,7 @@
       "longitude": -73.86818949133158
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 60,
       "serialNumber": 503000063,
       "latitude": 40.76656936634833,
       "binStatus": "Available",
@@ -974,12 +974,12 @@
       "longitude": -73.92586905509233
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 503000138,
       "latitude": 40.678764370117854,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 191 - NE Underhill Avenue & Bergen Street",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.96537832915783
     },
     {
@@ -1019,7 +1019,7 @@
       "longitude": -73.92899550497532
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 0,
       "serialNumber": 503000136,
       "latitude": 40.67726495043478,
       "binStatus": "Available",
@@ -1649,7 +1649,7 @@
       "longitude": -73.89523789286613
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 503000214,
       "latitude": 40.84592817625355,
       "binStatus": "Available",
@@ -1901,7 +1901,7 @@
       "longitude": -73.90651490539312
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 503000246,
       "latitude": 40.67049107908947,
       "binStatus": "Available",
@@ -1910,10 +1910,10 @@
       "longitude": -73.94772704690695
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 503000251,
       "latitude": 40.67459377925092,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 216 - NE Rogers Avenue & Prospect Place",
       "availableForUse": true,
       "longitude": -73.95274545997381
@@ -1964,7 +1964,7 @@
       "longitude": -73.93360521644354
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000256,
       "latitude": 40.63370350108601,
       "binStatus": "Available",
@@ -2342,12 +2342,12 @@
       "longitude": -73.97899926258084
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 505100012,
       "latitude": 40.731190506042964,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 314 - NW CO 2nd Ave & 12th Street",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.98598125432342
     },
     {
@@ -2576,7 +2576,7 @@
       "longitude": -73.99747696934338
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 0,
       "serialNumber": 505100044,
       "latitude": 40.73121273762785,
       "binStatus": "Available",
@@ -2585,7 +2585,7 @@
       "longitude": -74.0077318323766
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 40,
       "serialNumber": 505100061,
       "latitude": 40.70860458493924,
       "binStatus": "Available",
@@ -2648,10 +2648,10 @@
       "longitude": -73.95855413649969
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100063,
       "latitude": 40.71256505742161,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 251 - NE CO Broadway & Park Place (City hall park side)",
       "availableForUse": true,
       "longitude": -74.00756552771458
@@ -2801,10 +2801,10 @@
       "longitude": -73.96423428646112
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100089,
       "latitude": 40.77432420761129,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 362 - NW CO Amsterdam ave & W 65 St",
       "availableForUse": true,
       "longitude": -73.98491537817117
@@ -2819,12 +2819,12 @@
       "longitude": -73.99013103325534
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 505100081,
       "latitude": 40.78693626205199,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 367 - SW CO Amsterdam Ave & W 85 St",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.97570673483682
     },
     {
@@ -2846,10 +2846,10 @@
       "longitude": -73.98540060636678
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100092,
       "latitude": 40.78957914389564,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 369 - SW CO W 89 St & Amsterdam Ave",
       "availableForUse": true,
       "longitude": -73.97379656746796
@@ -2999,7 +2999,7 @@
       "longitude": -73.94326507506806
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 0,
       "serialNumber": 505100076,
       "latitude": 40.85312543432193,
       "binStatus": "Available",
@@ -3089,7 +3089,7 @@
       "longitude": -73.97335456220875
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 0,
       "serialNumber": 505100130,
       "latitude": 40.77020285341155,
       "binStatus": "Available",
