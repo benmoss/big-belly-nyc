@@ -281,7 +281,7 @@
       "longitude": -73.92011906951666
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 503000012,
       "latitude": 40.820960776484476,
       "binStatus": "Available",
@@ -1163,7 +1163,7 @@
       "longitude": -73.91453684044001
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 0,
       "serialNumber": 503000165,
       "latitude": 40.69828985201461,
       "binStatus": "Available",
@@ -2315,10 +2315,10 @@
       "longitude": -73.9538887710376
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100015,
       "latitude": 40.76216672199596,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 349 - NE CO 11 Ave & W 44 St",
       "availableForUse": true,
       "longitude": -73.99722146507379
@@ -2441,12 +2441,12 @@
       "longitude": -74.00526163846435
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 505100027,
       "latitude": 40.71904231972568,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 250 - SE CO Varick St. & Franklin St.",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -74.00695323944092
     },
     {
@@ -3044,12 +3044,12 @@
       "longitude": -73.97793704431773
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 505100066,
       "latitude": 40.71424651872,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 256 - NW CO Grand St & Henry St",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.98167006603096
     },
     {
@@ -3242,10 +3242,10 @@
       "longitude": -73.9464701336139
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100138,
       "latitude": 40.76639459170164,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 353 - SE CO 10 Ave & W 53 St",
       "availableForUse": true,
       "longitude": -73.99037571712044
@@ -3305,12 +3305,12 @@
       "longitude": -73.98831240762495
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 505100120,
       "latitude": 40.77519164031714,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 374 - SE CO West End Ave & W 65 St",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.98753543655222
     },
     {
