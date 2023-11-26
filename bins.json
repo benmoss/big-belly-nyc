@@ -1190,7 +1190,7 @@
       "longitude": -73.93099308013916
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 503000150,
       "latitude": 40.67358758069033,
       "binStatus": "Available",
@@ -1613,7 +1613,7 @@
       "longitude": -73.92708376049995
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000203,
       "latitude": 40.695132218201906,
       "binStatus": "Available",
@@ -2279,7 +2279,7 @@
       "longitude": -73.98008527492154
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 60,
       "serialNumber": 505100042,
       "latitude": 40.73752862143271,
       "binStatus": "Available",
@@ -2450,7 +2450,7 @@
       "longitude": -74.00695323944092
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 60,
       "serialNumber": 505100003,
       "latitude": 40.73776704120356,
       "binStatus": "Available",
@@ -2747,7 +2747,7 @@
       "longitude": -74.01055041700602
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 505100054,
       "latitude": 40.7191714224125,
       "binStatus": "Available",
@@ -2819,12 +2819,12 @@
       "longitude": -73.99013103325534
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 505100081,
       "latitude": 40.78693626205199,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 367 - SW CO Amsterdam Ave & W 85 St",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.97570673483682
     },
     {
@@ -3017,10 +3017,10 @@
       "longitude": -73.96910423686519
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100111,
       "latitude": 40.758836000578,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 294 - NW CO E 56 St & 2 Ave",
       "availableForUse": true,
       "longitude": -73.96586280976997
@@ -3134,10 +3134,10 @@
       "longitude": -74.0026189895217
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100125,
       "latitude": 40.786641828294435,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 368 - NW CO W 88 St & Central Park W",
       "availableForUse": true,
       "longitude": -73.96841285680578
