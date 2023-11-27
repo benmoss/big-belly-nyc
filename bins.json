@@ -2,7 +2,7 @@
   "errorCode": "STATUS_OK",
   "compostAssets": [
     {
-      "latestFullness": 20,
+      "latestFullness": 0,
       "serialNumber": 3590004,
       "latitude": 40.740982515732185,
       "binStatus": "Available",
@@ -11,7 +11,7 @@
       "longitude": -73.9180913195014
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 0,
       "serialNumber": 3590010,
       "latitude": 40.74060865008307,
       "binStatus": "Available",
@@ -137,10 +137,10 @@
       "longitude": -73.92154820692338
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 0,
       "serialNumber": 3590008,
       "latitude": 40.741475328023036,
-      "binStatus": "Nearly Full",
+      "binStatus": "Available",
       "description": "BIN 407 - NW 44th St & 47th Ave",
       "availableForUse": true,
       "longitude": -73.92099916934967
@@ -452,12 +452,12 @@
       "longitude": -73.87542713633172
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 0,
       "serialNumber": 503000060,
       "latitude": 40.81491836063367,
-      "binStatus": "Full",
+      "binStatus": "Available",
       "description": "BIN 27 - NE Convent Avenue & W 130 Street",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.95299658179283
     },
     {
@@ -578,12 +578,12 @@
       "longitude": -73.92345808446407
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 0,
       "serialNumber": 503000046,
       "latitude": 40.81219790128479,
-      "binStatus": "Full",
+      "binStatus": "Available",
       "description": "BIN 21 - NW West 126th St & Morningside Ave",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.95354006439447
     },
     {
@@ -911,12 +911,12 @@
       "longitude": -73.88263955712318
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 0,
       "serialNumber": 503000098,
       "latitude": 40.80545914536109,
-      "binStatus": "Full",
+      "binStatus": "Available",
       "description": "BIN 29 - SW West 114th Street & Amsterdam Avenue",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.96220094562807
     },
     {
@@ -1946,12 +1946,12 @@
       "longitude": -73.95329229533672
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 0,
       "serialNumber": 503000258,
       "latitude": 40.8111366429278,
-      "binStatus": "Full",
+      "binStatus": "Available",
       "description": "BIN 28 - SE West 123 Street & Amsterdam Avenue",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.95765916089715
     },
     {
@@ -2270,21 +2270,21 @@
       "longitude": -73.94848935814979
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 0,
       "serialNumber": 505100040,
       "latitude": 40.77068591297934,
-      "binStatus": "Full",
+      "binStatus": "Available",
       "description": "BIN 363 - NW CO W 63 St & Central Park W",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.98008527492154
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 0,
       "serialNumber": 505100042,
       "latitude": 40.73752862143271,
-      "binStatus": "Full",
+      "binStatus": "Available",
       "description": "BIN 310 - NW 6 Ave & 14th Street",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.99693615022026
     },
     {
@@ -2639,12 +2639,12 @@
       "longitude": -73.99473222632365
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 0,
       "serialNumber": 505100016,
       "latitude": 40.76404560103803,
-      "binStatus": "Full",
+      "binStatus": "Available",
       "description": "BIN 269 - NE CO E 66 St & 1 Ave",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.95855413649969
     },
     {
@@ -2720,12 +2720,12 @@
       "longitude": -74.01312500238419
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 0,
       "serialNumber": 505100057,
       "latitude": 40.77544607677087,
-      "binStatus": "Full",
+      "binStatus": "Available",
       "description": "BIN 266 - NW CO 2nd Ave & 82nd Street",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.9535946787067
     },
     {
@@ -3107,12 +3107,12 @@
       "longitude": -73.9806513567258
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 0,
       "serialNumber": 505100126,
       "latitude": 40.789118885800946,
-      "binStatus": "Full",
+      "binStatus": "Available",
       "description": "BIN 372 - SW CO W 92 St & Central Park W",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.96666802317641
     },
     {
@@ -3134,12 +3134,12 @@
       "longitude": -74.0026189895217
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 0,
       "serialNumber": 505100125,
       "latitude": 40.786641828294435,
-      "binStatus": "Full",
+      "binStatus": "Available",
       "description": "BIN 368 - NW CO W 88 St & Central Park W",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.96841285680578
     },
     {
@@ -3179,12 +3179,12 @@
       "longitude": -73.9780299987419
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 0,
       "serialNumber": 505100104,
       "latitude": 40.76846754015715,
-      "binStatus": "Full",
+      "binStatus": "Available",
       "description": "BIN 287 - NE CO 70th Street & 3rd Avenue",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.96135753145826
     },
     {
@@ -3332,21 +3332,21 @@
       "longitude": -74.00261308139008
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 0,
       "serialNumber": 505100122,
       "latitude": 40.77622161241313,
-      "binStatus": "Full",
+      "binStatus": "Available",
       "description": "BIN 379 - SW CO W 72 St & Central Park W",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.97619309561924
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 0,
       "serialNumber": 505100149,
       "latitude": 40.77380204413203,
-      "binStatus": "Full",
+      "binStatus": "Available",
       "description": "BIN 393 - NW CO 1 Ave & E 81 St",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.95175657391553
     },
     {
@@ -3359,12 +3359,12 @@
       "longitude": -73.97276669918094
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 0,
       "serialNumber": 505100117,
       "latitude": 40.78193045956682,
-      "binStatus": "Full",
+      "binStatus": "Available",
       "description": "BIN 378 - SW CO W 81 St & Central Park W",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.97196531694908
     },
     {
