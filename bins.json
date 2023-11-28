@@ -20,7 +20,7 @@
       "longitude": -73.92287585085252
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 3590013,
       "latitude": 40.74689511721386,
       "binStatus": "Available",
@@ -92,7 +92,7 @@
       "longitude": -73.90727262943983
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 40,
       "serialNumber": 3590015,
       "latitude": 40.746483770342856,
       "binStatus": "Available",
@@ -749,7 +749,7 @@
       "longitude": -73.92632732264548
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 0,
       "serialNumber": 503000070,
       "latitude": 40.83161371635521,
       "binStatus": "Available",
@@ -803,7 +803,7 @@
       "longitude": -73.92199024558067
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 0,
       "serialNumber": 503000081,
       "latitude": 40.79314191706756,
       "binStatus": "Available",
@@ -938,7 +938,7 @@
       "longitude": -73.95624071359634
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 0,
       "serialNumber": 503000076,
       "latitude": 40.791411617905716,
       "binStatus": "Available",
@@ -1226,7 +1226,7 @@
       "longitude": -73.95497169345617
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000126,
       "latitude": 40.69237838108274,
       "binStatus": "Available",
@@ -1235,7 +1235,7 @@
       "longitude": -73.92284251749516
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000159,
       "latitude": 40.68815347424036,
       "binStatus": "Available",
@@ -1811,12 +1811,12 @@
       "longitude": -73.9355384244532
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 503000235,
       "latitude": 40.67303171113777,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 212 - NE Kingston Avenue & Park Place",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.94181042909622
     },
     {
@@ -1937,12 +1937,12 @@
       "longitude": -73.95637851208448
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 503000257,
       "latitude": 40.670817086934036,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 214 - SW Rogers Avenue & Lincoln Place",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.95329229533672
     },
     {
@@ -2567,12 +2567,12 @@
       "longitude": -73.95019042066897
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 0,
       "serialNumber": 505100036,
       "latitude": 40.74644184775195,
-      "binStatus": "Full",
+      "binStatus": "Available",
       "description": "BIN 344 - SE CO 8 Ave & W 25 St",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.99747696934338
     },
     {
@@ -2657,7 +2657,7 @@
       "longitude": -74.00756552771458
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 0,
       "serialNumber": 505100011,
       "latitude": 40.75544386726651,
       "binStatus": "Available",
@@ -2747,10 +2747,10 @@
       "longitude": -74.01055041700602
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 0,
       "serialNumber": 505100054,
       "latitude": 40.7191714224125,
-      "binStatus": "Nearly Full",
+      "binStatus": "Available",
       "description": "BIN 264 - NE CO Clinton Street & Rivington St",
       "availableForUse": true,
       "longitude": -73.98495496580612
@@ -2810,7 +2810,7 @@
       "longitude": -73.98491537817117
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 0,
       "serialNumber": 505100096,
       "latitude": 40.77217779943119,
       "binStatus": "Available",
@@ -2828,7 +2828,7 @@
       "longitude": -73.97570673483682
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 0,
       "serialNumber": 505100090,
       "latitude": 40.750719268455946,
       "binStatus": "Available",
@@ -2900,12 +2900,12 @@
       "longitude": -73.99090145996239
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 0,
       "serialNumber": 505100106,
       "latitude": 40.78586060688359,
-      "binStatus": "Full",
+      "binStatus": "Available",
       "description": "BIN 280 - SW CO E 95 Street & Park Ave",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.95335140977043
     },
     {
@@ -2981,7 +2981,7 @@
       "longitude": -73.9850452796422
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 0,
       "serialNumber": 505100110,
       "latitude": 40.75405449748158,
       "binStatus": "Available",
@@ -3017,10 +3017,10 @@
       "longitude": -73.96910423686519
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 0,
       "serialNumber": 505100111,
       "latitude": 40.758836000578,
-      "binStatus": "Nearly Full",
+      "binStatus": "Available",
       "description": "BIN 294 - NW CO E 56 St & 2 Ave",
       "availableForUse": true,
       "longitude": -73.96586280976997
@@ -3215,12 +3215,12 @@
       "longitude": -73.97343810525932
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 0,
       "serialNumber": 505100139,
       "latitude": 40.74272368457833,
-      "binStatus": "Full",
+      "binStatus": "Available",
       "description": "BIN 341 - SE CO 7th Avenue & 21st Street",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.99655276134223
     },
     {
@@ -3422,10 +3422,10 @@
       "longitude": -73.97035768079368
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100145,
       "latitude": 40.74163391924499,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 338 - N/E CO 21st Street and 6th Ave",
       "availableForUse": true,
       "longitude": -73.99363601223293
