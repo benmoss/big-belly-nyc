@@ -650,12 +650,12 @@
       "longitude": -73.93176387995481
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 0,
       "serialNumber": 503000036,
       "latitude": 40.6778510426927,
-      "binStatus": "Full",
+      "binStatus": "Available",
       "description": "BIN 187 - NW Vanderbilt Avenue & Prospect Place",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.96890208125114
     },
     {
@@ -1325,12 +1325,12 @@
       "longitude": -73.91542855650187
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 0,
       "serialNumber": 503000175,
       "latitude": 40.68014247411724,
-      "binStatus": "Full",
+      "binStatus": "Available",
       "description": "BIN 186 - SW Vanderbilt Avenue & Dean Street",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.96811317652464
     },
     {
@@ -1937,7 +1937,7 @@
       "longitude": -73.95637851208448
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 0,
       "serialNumber": 503000257,
       "latitude": 40.670817086934036,
       "binStatus": "Available",
@@ -1982,7 +1982,7 @@
       "longitude": -73.96024390254057
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 0,
       "serialNumber": 503000264,
       "latitude": 40.67279917738334,
       "binStatus": "Available",
@@ -2126,10 +2126,10 @@
       "longitude": -73.95756002515554
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 503000273,
       "latitude": 40.67710908208188,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 217 - NE Rogers Avenue & Dean Street",
       "availableForUse": true,
       "longitude": -73.95261202007532
@@ -3125,7 +3125,7 @@
       "longitude": -73.95414933006201
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 505100124,
       "latitude": 40.73044605992985,
       "binStatus": "Available",
