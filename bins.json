@@ -227,7 +227,7 @@
       "longitude": -73.94852463470318
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000004,
       "latitude": 40.75444696790806,
       "binStatus": "Available",
@@ -461,12 +461,12 @@
       "longitude": -73.95299658179283
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 503000053,
       "latitude": 40.764994993021595,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 09 - SE 31st Avenue & 29th Street",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.92496582120657
     },
     {
@@ -749,12 +749,12 @@
       "longitude": -73.92632732264548
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 503000070,
       "latitude": 40.83161371635521,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 55 - NE Amsterdam Avenue & West 155th Street",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.94291717559099
     },
     {
@@ -767,7 +767,7 @@
       "longitude": -73.92557334154844
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 503000071,
       "latitude": 40.7948329016069,
       "binStatus": "Available",
@@ -1532,7 +1532,7 @@
       "longitude": -73.93096961081028
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 503000195,
       "latitude": 40.82705718721625,
       "binStatus": "Available",
@@ -1559,10 +1559,10 @@
       "longitude": -73.9436212554574
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 503000206,
       "latitude": 40.68764908091782,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 122 - SW Tompkins Avenue & Quincy Street",
       "availableForUse": true,
       "longitude": -73.94487351179123
@@ -2423,12 +2423,12 @@
       "longitude": -74.00171998103215
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 80,
       "serialNumber": 505100051,
       "latitude": 40.72504420607064,
-      "binStatus": "Full",
+      "binStatus": "Nearly Full",
       "description": "BIN 323 - SE CO 1 Ave & E 4 St",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.9869912541827
     },
     {
@@ -2792,7 +2792,7 @@
       "longitude": -73.95466305211644
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 505100070,
       "latitude": 40.76801235265614,
       "binStatus": "Available",
@@ -2882,12 +2882,12 @@
       "longitude": -73.99017938079861
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 505100080,
       "latitude": 40.7380040181738,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 389 - NW CO 2 Ave & E 23 St",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.9809653781084
     },
     {
