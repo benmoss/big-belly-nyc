@@ -308,19 +308,19 @@
       "longitude": -73.91832768131844
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 60,
       "serialNumber": 503000017,
       "latitude": 40.81773208281474,
-      "binStatus": "Full",
+      "binStatus": "Available",
       "description": "BIN 42 - SE West 136th Street & Edgecombe Avenue",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.94737802445889
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 503000019,
       "latitude": 40.76701705596692,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 12 - NW Crescent Street & 30th Drive",
       "availableForUse": true,
       "longitude": -73.92599746584892
@@ -1667,7 +1667,7 @@
       "longitude": -73.94542437046766
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000218,
       "latitude": 40.694661178530154,
       "binStatus": "Available",
@@ -2153,7 +2153,7 @@
       "longitude": -74.07558023929596
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 503000216,
       "latitude": 40.84382557774167,
       "binStatus": "Available",
