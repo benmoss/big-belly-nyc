@@ -398,7 +398,7 @@
       "longitude": -73.92508216202259
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 503000031,
       "latitude": 40.70206803795076,
       "binStatus": "Available",
@@ -506,12 +506,12 @@
       "longitude": -73.94453756511211
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 503000048,
       "latitude": 40.7966226877643,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 47 - SE East 112th Street & Park Avenue",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.94493098288339
     },
     {
@@ -623,12 +623,12 @@
       "longitude": -73.89476414769888
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 503000038,
       "latitude": 40.76298113979361,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 02 - NW 31st Avenue & 35th Street",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.92041435458692
     },
     {
@@ -821,12 +821,12 @@
       "longitude": -73.93855724483728
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 503000085,
       "latitude": 40.80984148378304,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 37 - NW West 126th Street & Adam Clayton Powell Jr Blvd",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.94765663892031
     },
     {
@@ -2765,10 +2765,10 @@
       "longitude": -73.96450973157151
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100060,
       "latitude": 40.71026346371404,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 257 - NW CO Catherine St & Cherry St",
       "availableForUse": true,
       "longitude": -73.99644857287824
@@ -2801,10 +2801,10 @@
       "longitude": -73.96423428646112
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100089,
       "latitude": 40.77432420761129,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 362 - NW CO Amsterdam ave & W 65 St",
       "availableForUse": true,
       "longitude": -73.98491537817117
@@ -3296,10 +3296,10 @@
       "longitude": -73.98511663223668
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100137,
       "latitude": 40.74339417050297,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 339 - SW CO 5 Ave & W 26 St",
       "availableForUse": true,
       "longitude": -73.98831240762495
