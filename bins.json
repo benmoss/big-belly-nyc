@@ -875,7 +875,7 @@
       "longitude": -73.92934955656528
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 503000092,
       "latitude": 40.695079598177166,
       "binStatus": "Available",
@@ -902,7 +902,7 @@
       "longitude": -73.91744524240494
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 503000096,
       "latitude": 40.8721462108312,
       "binStatus": "Available",
@@ -2621,12 +2621,12 @@
       "longitude": -73.99302401909992
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 505100002,
       "latitude": 40.76863578734461,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 268 - SE CO 2nd Avenue & 72nd Street",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.95822445057821
     },
     {
@@ -3251,12 +3251,12 @@
       "longitude": -73.99037571712044
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 505100136,
       "latitude": 40.764814574064715,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 354 - NE CO 9 Ave & W 52 St",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.98776125245462
     },
     {
@@ -3467,10 +3467,10 @@
       "longitude": -73.97587379945203
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100128,
       "latitude": 40.72662593513809,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 327 - SW CO Bond St & Lafayette St",
       "availableForUse": true,
       "longitude": -73.99427816002996
