@@ -569,7 +569,7 @@
       "longitude": -73.92850801348686
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 503000042,
       "latitude": 40.764174520197706,
       "binStatus": "Available",
@@ -776,7 +776,7 @@
       "longitude": -73.93320322036743
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 503000072,
       "latitude": 40.797433004550236,
       "binStatus": "Available",
@@ -857,10 +857,10 @@
       "longitude": -73.91521599143744
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 503000093,
       "latitude": 40.76223009405083,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 01 - NE 31st Avenue & 37th Street",
       "availableForUse": true,
       "longitude": -73.91863731029024
@@ -947,12 +947,12 @@
       "longitude": -73.9447372895371
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 503000074,
       "latitude": 40.80957426897732,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 54 - NE East 130th Street & 5th Avenue",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.93987722694874
     },
     {
@@ -2072,7 +2072,7 @@
       "longitude": -73.92522666603327
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000268,
       "latitude": 40.67210889641922,
       "binStatus": "Available",
@@ -2279,10 +2279,10 @@
       "longitude": -73.98008527492154
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100042,
       "latitude": 40.73752862143271,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 310 - NW 6 Ave & 14th Street",
       "availableForUse": true,
       "longitude": -73.99693615022026
@@ -2981,10 +2981,10 @@
       "longitude": -73.9850452796422
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100110,
       "latitude": 40.75405449748158,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 295 - SE CO 2nd Ave & E 49 St",
       "availableForUse": true,
       "longitude": -73.96902091534423
@@ -3413,12 +3413,12 @@
       "longitude": -73.98478295989479
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 505100116,
       "latitude": 40.78914315936319,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 370 - NW CO Columbus Ave & W 90 St",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.97035768079368
     },
     {
