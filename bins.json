@@ -182,10 +182,10 @@
       "longitude": -73.95370032638311
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 503000027,
       "latitude": 40.76267874186988,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 03 - SE 31st Avenue & 35th Street",
       "availableForUse": true,
       "longitude": -73.92014228572059
@@ -2342,12 +2342,12 @@
       "longitude": -73.97899926258084
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 505100012,
       "latitude": 40.731190506042964,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 314 - NW CO 2nd Ave & 12th Street",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.98598125432342
     },
     {
@@ -2810,7 +2810,7 @@
       "longitude": -73.98491537817117
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 505100096,
       "latitude": 40.77217779943119,
       "binStatus": "Available",
