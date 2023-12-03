@@ -2,7 +2,7 @@
   "errorCode": "STATUS_OK",
   "compostAssets": [
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 3590004,
       "latitude": 40.740982515732185,
       "binStatus": "Available",
@@ -497,10 +497,10 @@
       "longitude": -73.95314779132605
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 503000050,
       "latitude": 40.829794034320685,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 26 - NW Amsterdam Avenue & W 152 Street",
       "availableForUse": true,
       "longitude": -73.94453756511211
@@ -542,7 +542,7 @@
       "longitude": -73.94713159650564
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 40,
       "serialNumber": 503000044,
       "latitude": 40.80556261860785,
       "binStatus": "Available",
@@ -1154,10 +1154,10 @@
       "longitude": -73.90397150069475
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 503000132,
       "latitude": 40.70324915068062,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 181 - SW St. Nicholas Avenue & Greene Avenue",
       "availableForUse": true,
       "longitude": -73.91453684044001
@@ -1298,7 +1298,7 @@
       "longitude": -73.90959072858095
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 503000170,
       "latitude": 40.676454329310545,
       "binStatus": "Available",
@@ -1928,12 +1928,12 @@
       "longitude": -73.91177110144258
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 503000254,
       "latitude": 40.67509191438939,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 195 - NE Franklin Avenue & Prospect Place",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.95637851208448
     },
     {
@@ -2711,7 +2711,7 @@
       "longitude": -73.99222918721208
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 505100006,
       "latitude": 40.717415222837694,
       "binStatus": "Available",
@@ -3377,7 +3377,7 @@
       "longitude": -73.99506114554103
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 505100150,
       "latitude": 40.729589714367386,
       "binStatus": "Available",
