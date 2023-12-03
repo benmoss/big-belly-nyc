@@ -65,7 +65,7 @@
       "longitude": -73.91328877313748
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 3590001,
       "latitude": 40.746548059294376,
       "binStatus": "Available",
@@ -92,7 +92,7 @@
       "longitude": -73.90727262943983
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 3590015,
       "latitude": 40.746483770342856,
       "binStatus": "Available",
@@ -191,7 +191,7 @@
       "longitude": -73.92014228572059
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 503000001,
       "latitude": 40.61356176348572,
       "binStatus": "Available",
@@ -461,10 +461,10 @@
       "longitude": -73.95299658179283
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 503000053,
       "latitude": 40.764994993021595,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 09 - SE 31st Avenue & 29th Street",
       "availableForUse": true,
       "longitude": -73.92496582120657
@@ -551,10 +551,10 @@
       "longitude": -73.93639236688614
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 503000045,
       "latitude": 40.768332138355355,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 16 - SW 21st Street & 30th Drive",
       "availableForUse": true,
       "longitude": -73.92911855131388
@@ -587,12 +587,12 @@
       "longitude": -73.95354006439447
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 503000043,
       "latitude": 40.804732620856896,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 31 - SE Amsterdam Avenue & W 113 Street",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.9623499576847
     },
     {
@@ -1064,10 +1064,10 @@
       "longitude": -73.91719682217655
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 503000143,
       "latitude": 40.6825487482924,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 145 - SE Nostrand Avenue & Hancock Street",
       "availableForUse": true,
       "longitude": -73.9499693736434
@@ -1280,7 +1280,7 @@
       "longitude": -73.96974126370019
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 60,
       "serialNumber": 503000169,
       "latitude": 40.690318203640174,
       "binStatus": "Available",
@@ -1586,7 +1586,7 @@
       "longitude": -73.8490579649806
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 503000201,
       "latitude": 40.68434297291138,
       "binStatus": "Available",
@@ -1739,10 +1739,10 @@
       "longitude": -73.91965739428997
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 503000225,
       "latitude": 40.6865703680712,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 128 - NE Bedford Avenue & Quincy Street",
       "availableForUse": true,
       "longitude": -73.95448587834835
@@ -1946,12 +1946,12 @@
       "longitude": -73.95329229533672
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 503000258,
       "latitude": 40.8111366429278,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 28 - SE West 123 Street & Amsterdam Avenue",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.95765916089715
     },
     {
@@ -2450,10 +2450,10 @@
       "longitude": -74.00695323944092
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100003,
       "latitude": 40.73776704120356,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 332 - SE CO 7 Ave & W 13 St",
       "availableForUse": true,
       "longitude": -74.00006544331396
@@ -2684,10 +2684,10 @@
       "longitude": -74.0007785662345
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100064,
       "latitude": 40.718560301291866,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 261 - NW CO Hester ST & Baxter St",
       "availableForUse": true,
       "longitude": -73.99876398340452
@@ -2729,10 +2729,10 @@
       "longitude": -73.9535946787067
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100069,
       "latitude": 40.724874101417406,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 254 - SW CO 6 Ave & Dominick St",
       "availableForUse": true,
       "longitude": -74.0047200044207
@@ -3134,10 +3134,10 @@
       "longitude": -74.0026189895217
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100125,
       "latitude": 40.786641828294435,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 368 - NW CO W 88 St & Central Park W",
       "availableForUse": true,
       "longitude": -73.96841285680578
