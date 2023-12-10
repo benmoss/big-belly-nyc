@@ -110,7 +110,7 @@
       "longitude": -73.92166045665941
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 3590012,
       "latitude": 40.884080646656564,
       "binStatus": "Available",
@@ -704,7 +704,7 @@
       "longitude": -73.95281787961721
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 503000066,
       "latitude": 40.764940904595754,
       "binStatus": "Available",
@@ -767,7 +767,7 @@
       "longitude": -73.92557334154844
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000071,
       "latitude": 40.7948329016069,
       "binStatus": "Available",
@@ -821,12 +821,12 @@
       "longitude": -73.93855724483728
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 503000085,
       "latitude": 40.80984148378304,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 37 - NW West 126th Street & Adam Clayton Powell Jr Blvd",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.94765663892031
     },
     {
@@ -1253,7 +1253,7 @@
       "longitude": -73.9129939918858
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 503000160,
       "latitude": 40.6827719802296,
       "binStatus": "Available",
@@ -1523,7 +1523,7 @@
       "longitude": -73.82693077466463
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 60,
       "serialNumber": 503000190,
       "latitude": 40.692363382489,
       "binStatus": "Available",
@@ -2243,12 +2243,12 @@
       "longitude": -73.94892745726821
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 505100018,
       "latitude": 40.77294782166341,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 270 - SW CO 83rd & East End",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.94638707990978
     },
     {
@@ -2882,7 +2882,7 @@
       "longitude": -73.98593114887535
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 505100083,
       "latitude": 40.72496280254391,
       "binStatus": "Available",
@@ -3098,7 +3098,7 @@
       "longitude": -73.97335456220875
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 60,
       "serialNumber": 505100130,
       "latitude": 40.77020285341155,
       "binStatus": "Available",
@@ -3152,12 +3152,12 @@
       "longitude": -73.96841285680578
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 505100129,
       "latitude": 40.779702163230795,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 376 - NW CO Broadway & W 73 St",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.98189624416173
     },
     {
@@ -3197,7 +3197,7 @@
       "longitude": -73.96135753145826
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 60,
       "serialNumber": 505100113,
       "latitude": 40.741606235945184,
       "binStatus": "Available",
@@ -3323,7 +3323,7 @@
       "longitude": -73.98753543655222
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 60,
       "serialNumber": 505100146,
       "latitude": 40.74723684953337,
       "binStatus": "Available",
@@ -3359,10 +3359,10 @@
       "longitude": -73.95175657391553
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100121,
       "latitude": 40.7909709189525,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 371 - NW CO W 91 St & Amsterdam Ave",
       "availableForUse": true,
       "longitude": -73.97276669918094
@@ -3476,10 +3476,10 @@
       "longitude": -73.97587379945203
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100128,
       "latitude": 40.72662593513809,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 327 - SW CO Bond St & Lafayette St",
       "availableForUse": true,
       "longitude": -73.99427816002996
