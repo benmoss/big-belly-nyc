@@ -164,7 +164,7 @@
       "longitude": -73.91430705785751
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 0,
       "serialNumber": 3590006,
       "latitude": 40.88282894758702,
       "binStatus": "Available",
@@ -191,7 +191,7 @@
       "longitude": -73.92014228572059
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 0,
       "serialNumber": 503000001,
       "latitude": 40.61356176348572,
       "binStatus": "Available",
@@ -281,7 +281,7 @@
       "longitude": -73.92011906951666
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 60,
       "serialNumber": 503000012,
       "latitude": 40.820960776484476,
       "binStatus": "Available",
@@ -362,7 +362,7 @@
       "longitude": -73.94016187638044
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 503000025,
       "latitude": 40.854894794369606,
       "binStatus": "Available",
@@ -578,7 +578,7 @@
       "longitude": -73.92345808446407
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 0,
       "serialNumber": 503000046,
       "latitude": 40.81219790128479,
       "binStatus": "Available",
@@ -614,7 +614,7 @@
       "longitude": -73.94687759676215
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 0,
       "serialNumber": 503000037,
       "latitude": 40.85928458622981,
       "binStatus": "Available",
@@ -1073,7 +1073,7 @@
       "longitude": -73.9499693736434
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000129,
       "latitude": 40.685812233251795,
       "binStatus": "Available",
@@ -1109,7 +1109,7 @@
       "longitude": -73.90656117349863
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 60,
       "serialNumber": 503000148,
       "latitude": 40.701373514374744,
       "binStatus": "Available",
@@ -1946,10 +1946,10 @@
       "longitude": -73.95329229533672
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 0,
       "serialNumber": 503000258,
       "latitude": 40.8111366429278,
-      "binStatus": "Nearly Full",
+      "binStatus": "Available",
       "description": "BIN 28 - SE West 123 Street & Amsterdam Avenue",
       "availableForUse": true,
       "longitude": -73.95765916089715
@@ -2054,7 +2054,7 @@
       "longitude": -74.0864036232233
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 0,
       "serialNumber": 503000272,
       "latitude": 40.62262016360215,
       "binStatus": "Available",
@@ -2135,7 +2135,7 @@
       "longitude": -73.95261202007532
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000275,
       "latitude": 40.75290526233439,
       "binStatus": "Available",
@@ -2432,12 +2432,12 @@
       "longitude": -73.9869912541827
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 505100045,
       "latitude": 40.74639647509707,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 342 - SW CO 10 Ave & W 21 St",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -74.00526163846435
     },
     {
@@ -2459,7 +2459,7 @@
       "longitude": -74.00006544331396
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 0,
       "serialNumber": 505100022,
       "latitude": 40.73287635373648,
       "binStatus": "Available",
@@ -2558,7 +2558,7 @@
       "longitude": -73.99466765892298
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 505100032,
       "latitude": 40.765863654327504,
       "binStatus": "Available",
@@ -2585,10 +2585,10 @@
       "longitude": -73.99747696934338
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 0,
       "serialNumber": 505100044,
       "latitude": 40.73121273762785,
-      "binStatus": "Nearly Full",
+      "binStatus": "Available",
       "description": "BIN 335 - NE CO Morton ST & Greenwich ST",
       "availableForUse": true,
       "longitude": -74.0077318323766
@@ -2612,7 +2612,7 @@
       "longitude": -73.97665659471008
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 505100026,
       "latitude": 40.78340997537408,
       "binStatus": "Available",
@@ -2648,21 +2648,21 @@
       "longitude": -73.99473222632365
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 505100016,
       "latitude": 40.76404560103803,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 269 - NE CO E 66 St & 1 Ave",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.95855413649969
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 0,
       "serialNumber": 505100063,
       "latitude": 40.71256505742161,
-      "binStatus": "Full",
+      "binStatus": "Available",
       "description": "BIN 251 - NE CO Broadway & Park Place (City hall park side)",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -74.00756552771458
     },
     {
@@ -2675,10 +2675,10 @@
       "longitude": -73.97332561607193
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100028,
       "latitude": 40.7621600211368,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 348 - SE CO 9 Ave & W 48 St",
       "availableForUse": true,
       "longitude": -73.98983497462179
@@ -2693,7 +2693,7 @@
       "longitude": -74.0007785662345
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 505100064,
       "latitude": 40.718560301291866,
       "binStatus": "Available",
@@ -2702,12 +2702,12 @@
       "longitude": -73.99876398340452
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 505100058,
       "latitude": 40.716735019858994,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 260 - NE CO Grand St & Essex St",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.98896138948061
     },
     {
@@ -2738,7 +2738,7 @@
       "longitude": -73.9535946787067
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 60,
       "serialNumber": 505100069,
       "latitude": 40.724874101417406,
       "binStatus": "Available",
@@ -3017,10 +3017,10 @@
       "longitude": -73.92903912094495
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100094,
       "latitude": 40.79091410359447,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 382 - SW CO W 93 St & Columbus Ave",
       "availableForUse": true,
       "longitude": -73.96910423686519
@@ -3098,7 +3098,7 @@
       "longitude": -73.97335456220875
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 0,
       "serialNumber": 505100130,
       "latitude": 40.77020285341155,
       "binStatus": "Available",
@@ -3116,12 +3116,12 @@
       "longitude": -73.9806513567258
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 505100126,
       "latitude": 40.789118885800946,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 372 - SW CO W 92 St & Central Park W",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.96666802317641
     },
     {
@@ -3278,7 +3278,7 @@
       "longitude": -73.97864520220962
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 0,
       "serialNumber": 505100147,
       "latitude": 40.767171552566246,
       "binStatus": "Available",
@@ -3359,12 +3359,12 @@
       "longitude": -73.95175657391553
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 505100121,
       "latitude": 40.7909709189525,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 371 - NW CO W 91 St & Amsterdam Ave",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.97276669918094
     },
     {
@@ -3386,7 +3386,7 @@
       "longitude": -73.99506114554103
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 0,
       "serialNumber": 505100150,
       "latitude": 40.729589714367386,
       "binStatus": "Available",
