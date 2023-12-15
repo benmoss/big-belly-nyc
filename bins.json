@@ -515,7 +515,7 @@
       "longitude": -73.94493098288339
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 0,
       "serialNumber": 503000049,
       "latitude": 40.79160725166976,
       "binStatus": "Available",
@@ -785,7 +785,7 @@
       "longitude": -73.93471363931894
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 0,
       "serialNumber": 503000073,
       "latitude": 40.813082487843964,
       "binStatus": "Available",
@@ -1082,7 +1082,7 @@
       "longitude": -73.94146978855133
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000145,
       "latitude": 40.68640155543058,
       "binStatus": "Available",
@@ -2279,7 +2279,7 @@
       "longitude": -73.98008527492154
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 0,
       "serialNumber": 505100042,
       "latitude": 40.73752862143271,
       "binStatus": "Available",
@@ -2531,12 +2531,12 @@
       "longitude": -73.99849525644926
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 0,
       "serialNumber": 505100029,
       "latitude": 40.710663476710224,
-      "binStatus": "Full",
+      "binStatus": "Available",
       "description": "BIN 249 - SE CO Gold St & Frankfort St.",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -74.00341004133224
     },
     {
@@ -2549,12 +2549,12 @@
       "longitude": -74.01322457939386
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 505100071,
       "latitude": 40.73149350965934,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 259 - SW CO University & 8th Street",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.99466765892298
     },
     {
@@ -2765,12 +2765,12 @@
       "longitude": -73.98495496580612
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 0,
       "serialNumber": 505100055,
       "latitude": 40.76405416975698,
-      "binStatus": "Full",
+      "binStatus": "Available",
       "description": "BIN 291 - NE CO E 63 St & 3 Ave",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.96450973157151
     },
     {
@@ -2810,10 +2810,10 @@
       "longitude": -73.96423428646112
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100089,
       "latitude": 40.77432420761129,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 362 - NW CO Amsterdam ave & W 65 St",
       "availableForUse": true,
       "longitude": -73.98491537817117
@@ -2954,12 +2954,12 @@
       "longitude": -73.9833025251433
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 505100086,
       "latitude": 40.781894893686875,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 366 - NE CO W 77 St & Amsterdam Ave",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.97906581678058
     },
     {
@@ -3044,7 +3044,7 @@
       "longitude": -73.9614462477865
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 60,
       "serialNumber": 505100091,
       "latitude": 40.74913400691257,
       "binStatus": "Available",
@@ -3116,7 +3116,7 @@
       "longitude": -73.9806513567258
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 0,
       "serialNumber": 505100126,
       "latitude": 40.789118885800946,
       "binStatus": "Available",
@@ -3359,10 +3359,10 @@
       "longitude": -73.95175657391553
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 0,
       "serialNumber": 505100121,
       "latitude": 40.7909709189525,
-      "binStatus": "Nearly Full",
+      "binStatus": "Available",
       "description": "BIN 371 - NW CO W 91 St & Amsterdam Ave",
       "availableForUse": true,
       "longitude": -73.97276669918094
