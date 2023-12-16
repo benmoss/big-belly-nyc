@@ -326,7 +326,7 @@
       "longitude": -73.92599746584892
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 0,
       "serialNumber": 503000021,
       "latitude": 40.785809419537095,
       "binStatus": "Available",
@@ -2315,10 +2315,10 @@
       "longitude": -73.9538887710376
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 0,
       "serialNumber": 505100015,
       "latitude": 40.76216672199596,
-      "binStatus": "Nearly Full",
+      "binStatus": "Available",
       "description": "BIN 349 - NE CO 11 Ave & W 44 St",
       "availableForUse": true,
       "longitude": -73.99722146507379
@@ -2351,12 +2351,12 @@
       "longitude": -73.98598125432342
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 0,
       "serialNumber": 505100010,
       "latitude": 40.75280253801481,
-      "binStatus": "Full",
+      "binStatus": "Available",
       "description": "BIN 346 - NW CO 9 Ave & W 33 St",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.99692150445948
     },
     {
@@ -3296,10 +3296,10 @@
       "longitude": -73.98249430253485
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 0,
       "serialNumber": 505100142,
       "latitude": 40.73887358712755,
-      "binStatus": "Nearly Full",
+      "binStatus": "Available",
       "description": "BIN 390 - NE CO E 22 St & Lexington Ave",
       "availableForUse": true,
       "longitude": -73.98511663223668
@@ -3395,12 +3395,12 @@
       "longitude": -74.00684701383747
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 505100135,
       "latitude": 40.758930399023754,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 350 - SE CO 43RD ST & 9TH AVE",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.99201305589226
     },
     {
