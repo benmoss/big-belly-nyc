@@ -2810,10 +2810,10 @@
       "longitude": -73.96423428646112
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100089,
       "latitude": 40.77432420761129,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 362 - NW CO Amsterdam ave & W 65 St",
       "availableForUse": true,
       "longitude": -73.98491537817117
@@ -3134,12 +3134,12 @@
       "longitude": -73.95414933006201
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 505100124,
       "latitude": 40.73044605992985,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 333 - NW CO Carmine ST & Bleeker St",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -74.0026189895217
     },
     {
@@ -3440,7 +3440,7 @@
       "longitude": -73.99363601223293
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 505100148,
       "latitude": 40.735894111584756,
       "binStatus": "Available",
