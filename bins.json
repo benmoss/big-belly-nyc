@@ -146,7 +146,7 @@
       "longitude": -73.90993109059836
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 40,
       "serialNumber": 3590009,
       "latitude": 40.88637790151751,
       "binStatus": "Available",
@@ -173,7 +173,7 @@
       "longitude": -73.95370032638311
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 503000027,
       "latitude": 40.76267874186988,
       "binStatus": "Available",
@@ -299,12 +299,12 @@
       "longitude": -73.91832768131844
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 503000017,
       "latitude": 40.81773208281474,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 42 - SE West 136th Street & Edgecombe Avenue",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.94737802445889
     },
     {
@@ -416,10 +416,10 @@
       "longitude": -73.92743781208992
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 503000018,
       "latitude": 40.83478846373379,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 56 - SW Amsterdam Avenue & West 160th Street",
       "availableForUse": true,
       "longitude": -73.94085858017206
@@ -470,10 +470,10 @@
       "longitude": -73.92266314476728
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 503000055,
       "latitude": 40.85039540597644,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 60 - NE Wadsworth Avenue & West 182nd Street",
       "availableForUse": true,
       "longitude": -73.93447995185852
@@ -938,10 +938,10 @@
       "longitude": -73.9447372895371
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 503000074,
       "latitude": 40.80957426897732,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 54 - NE East 130th Street & 5th Avenue",
       "availableForUse": true,
       "longitude": -73.93987722694874
@@ -1433,7 +1433,7 @@
       "longitude": -73.90980195254087
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000181,
       "latitude": 40.68065836586844,
       "binStatus": "Available",
@@ -1919,10 +1919,10 @@
       "longitude": -73.91177110144258
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 503000254,
       "latitude": 40.67509191438939,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 195 - NE Franklin Avenue & Prospect Place",
       "availableForUse": true,
       "longitude": -73.95637851208448
@@ -2144,7 +2144,7 @@
       "longitude": -74.07558023929596
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000216,
       "latitude": 40.84382557774167,
       "binStatus": "Available",
@@ -2324,7 +2324,7 @@
       "longitude": -73.94685207786003
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 60,
       "serialNumber": 505100020,
       "latitude": 40.72799056580962,
       "binStatus": "Available",
@@ -2441,7 +2441,7 @@
       "longitude": -74.00695323944092
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 60,
       "serialNumber": 505100003,
       "latitude": 40.73776704120356,
       "binStatus": "Available",
@@ -2477,7 +2477,7 @@
       "longitude": -74.01704739779234
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 0,
       "serialNumber": 505100009,
       "latitude": 40.7164061130962,
       "binStatus": "Available",
@@ -2540,12 +2540,12 @@
       "longitude": -74.01322457939386
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 505100071,
       "latitude": 40.73149350965934,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 259 - SW CO University & 8th Street",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.99466765892298
     },
     {
@@ -2675,10 +2675,10 @@
       "longitude": -73.98983497462179
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100025,
       "latitude": 40.74240669511277,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 343 - NW CO 8TH AVE & 18TH ST",
       "availableForUse": true,
       "longitude": -74.0007785662345
@@ -2720,10 +2720,10 @@
       "longitude": -74.01312500238419
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 0,
       "serialNumber": 505100057,
       "latitude": 40.77544607677087,
-      "binStatus": "Nearly Full",
+      "binStatus": "Available",
       "description": "BIN 266 - NW CO 2nd Ave & 82nd Street",
       "availableForUse": true,
       "longitude": -73.9535946787067
@@ -3035,12 +3035,12 @@
       "longitude": -73.9614462477865
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 505100091,
       "latitude": 40.74913400691257,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 297 - NW CO of Lexington Ave & E 38 St",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.97793704431773
     },
     {
@@ -3062,10 +3062,10 @@
       "longitude": -73.95966351954947
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 60,
       "serialNumber": 505100102,
       "latitude": 40.74448956998408,
-      "binStatus": "Nearly Full",
+      "binStatus": "Available",
       "description": "BIN 298 - NE CO 1 Ave & E 35 St",
       "availableForUse": true,
       "longitude": -73.9728414833659
@@ -3395,10 +3395,10 @@
       "longitude": -73.99201305589226
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100123,
       "latitude": 40.78331643218788,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 377 - NW CO Broadway & W 78 St",
       "availableForUse": true,
       "longitude": -73.98062197434946
@@ -3440,7 +3440,7 @@
       "longitude": -73.98222696429983
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 60,
       "serialNumber": 505100112,
       "latitude": 40.741522457226544,
       "binStatus": "Available",
@@ -3449,10 +3449,10 @@
       "longitude": -73.98135114745574
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100119,
       "latitude": 40.77611866432287,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 359 - SW CO Columbus Ave & 70th Street",
       "availableForUse": true,
       "longitude": -73.9799463692325
