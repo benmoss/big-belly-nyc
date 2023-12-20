@@ -209,10 +209,10 @@
       "longitude": -73.86632109842786
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 0,
       "serialNumber": 503000028,
       "latitude": 40.798054852781554,
-      "binStatus": "Nearly Full",
+      "binStatus": "Available",
       "description": "BIN 32 - SW West 112 Street\t& 5th Avenue",
       "availableForUse": true,
       "longitude": -73.94852463470318
@@ -488,12 +488,12 @@
       "longitude": -73.95314779132605
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 0,
       "serialNumber": 503000050,
       "latitude": 40.829794034320685,
-      "binStatus": "Full",
+      "binStatus": "Available",
       "description": "BIN 26 - NW Amsterdam Avenue & W 152 Street",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.94453756511211
     },
     {
@@ -533,7 +533,7 @@
       "longitude": -73.94713159650564
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 0,
       "serialNumber": 503000044,
       "latitude": 40.80556261860785,
       "binStatus": "Available",
@@ -596,12 +596,12 @@
       "longitude": -73.9660133421421
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 0,
       "serialNumber": 503000039,
       "latitude": 40.82647613312916,
-      "binStatus": "Full",
+      "binStatus": "Available",
       "description": "BIN 25 - SW West 147th Street & Amsterdam Avenue",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.94687759676215
     },
     {
@@ -641,12 +641,12 @@
       "longitude": -73.93176387995481
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 503000036,
       "latitude": 40.6778510426927,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 187 - NW Vanderbilt Avenue & Prospect Place",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.96890208125114
     },
     {
@@ -902,12 +902,12 @@
       "longitude": -73.88263955712318
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 0,
       "serialNumber": 503000098,
       "latitude": 40.80545914536109,
-      "binStatus": "Full",
+      "binStatus": "Available",
       "description": "BIN 29 - SW West 114th Street & Amsterdam Avenue",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.96220094562807
     },
     {
@@ -2180,7 +2180,7 @@
       "longitude": -73.9109194278717
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 60,
       "serialNumber": 503000212,
       "latitude": 40.70585647534992,
       "binStatus": "Available",
@@ -2216,21 +2216,21 @@
       "longitude": -73.93532887101173
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100078,
       "latitude": 40.77113841285102,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 361 - NW CO W 60 St & Amsterdam Ave",
       "availableForUse": true,
       "longitude": -73.98717944724858
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 505100039,
       "latitude": 40.781609451116324,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 274 - SE CO E 92 St & 2 Ave",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.94892745726821
     },
     {
@@ -2405,10 +2405,10 @@
       "longitude": -73.9498927384089
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100013,
       "latitude": 40.73565255133342,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 330 - SW CO 7th Avenue South & Perry St",
       "availableForUse": true,
       "longitude": -74.00171998103215
@@ -2585,12 +2585,12 @@
       "longitude": -74.0077318323766
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 0,
       "serialNumber": 505100061,
       "latitude": 40.70860458493924,
-      "binStatus": "Full",
+      "binStatus": "Available",
       "description": "BIN 252 - SW CO Broadway & Cedar Street",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -74.0108494516408
     },
     {
@@ -2612,7 +2612,7 @@
       "longitude": -73.94763141892919
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 60,
       "serialNumber": 505100034,
       "latitude": 40.762820138671465,
       "binStatus": "Available",
@@ -2711,7 +2711,7 @@
       "longitude": -73.99222918721208
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 0,
       "serialNumber": 505100006,
       "latitude": 40.717415222837694,
       "binStatus": "Available",
@@ -3026,7 +3026,7 @@
       "longitude": -73.96586280976997
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 0,
       "serialNumber": 505100067,
       "latitude": 40.77168450396742,
       "binStatus": "Available",
@@ -3260,12 +3260,12 @@
       "longitude": -73.98776125245462
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 505100144,
       "latitude": 40.78596763857327,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 358 - NW CO W 82 St & Broadway",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.97864520220962
     },
     {
