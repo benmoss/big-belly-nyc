@@ -290,12 +290,12 @@
       "longitude": -73.93766775727272
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 0,
       "serialNumber": 503000013,
       "latitude": 40.86843300418909,
-      "binStatus": "Full",
+      "binStatus": "Available",
       "description": "BIN 65 - NE West 212th Street & Broadway",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.91832768131844
     },
     {
@@ -380,12 +380,12 @@
       "longitude": -73.88136584311724
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 0,
       "serialNumber": 503000022,
       "latitude": 40.866201512573475,
-      "binStatus": "Full",
+      "binStatus": "Available",
       "description": "BIN 64 - SE Broadway & Academy Street",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.92508216202259
     },
     {
@@ -560,7 +560,7 @@
       "longitude": -73.92879232764244
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000042,
       "latitude": 40.764174520197706,
       "binStatus": "Available",
@@ -1613,10 +1613,10 @@
       "longitude": -73.928127810359
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 503000204,
       "latitude": 40.69300170948447,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 130 - SE Bedford Avenue & Willoughby Avenue",
       "availableForUse": true,
       "longitude": -73.9556797966361
@@ -1658,7 +1658,7 @@
       "longitude": -73.94542437046766
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 40,
       "serialNumber": 503000218,
       "latitude": 40.694661178530154,
       "binStatus": "Available",
@@ -1910,7 +1910,7 @@
       "longitude": -73.95274545997381
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000247,
       "latitude": 40.69513132458968,
       "binStatus": "Available",
@@ -2000,7 +2000,7 @@
       "longitude": -73.97343333810568
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000249,
       "latitude": 40.67568845111274,
       "binStatus": "Available",
@@ -2054,7 +2054,7 @@
       "longitude": -74.14456080612285
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 40,
       "serialNumber": 503000266,
       "latitude": 40.70289868141765,
       "binStatus": "Available",
@@ -2225,16 +2225,16 @@
       "longitude": -73.98717944724858
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 0,
       "serialNumber": 505100039,
       "latitude": 40.781609451116324,
-      "binStatus": "Full",
+      "binStatus": "Available",
       "description": "BIN 274 - SE CO E 92 St & 2 Ave",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.94892745726821
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 505100018,
       "latitude": 40.77294782166341,
       "binStatus": "Available",
@@ -2315,12 +2315,12 @@
       "longitude": -73.99722146507379
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 0,
       "serialNumber": 505100014,
       "latitude": 40.78010940688603,
-      "binStatus": "Full",
+      "binStatus": "Available",
       "description": "BIN 267 - NE CO 1st Ave & 91ST St",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.94685207786003
     },
     {
@@ -2801,7 +2801,7 @@
       "longitude": -73.96423428646112
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 0,
       "serialNumber": 505100089,
       "latitude": 40.77432420761129,
       "binStatus": "Available",
@@ -3053,7 +3053,7 @@
       "longitude": -73.98167006603096
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 505100100,
       "latitude": 40.773718493770346,
       "binStatus": "Available",
@@ -3125,7 +3125,7 @@
       "longitude": -73.95414933006201
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 0,
       "serialNumber": 505100124,
       "latitude": 40.73044605992985,
       "binStatus": "Available",
