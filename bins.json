@@ -74,7 +74,7 @@
       "longitude": -73.89971678571764
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 3590019,
       "latitude": 40.745991757187745,
       "binStatus": "Available",
@@ -203,9 +203,9 @@
       "latestFullness": 0,
       "serialNumber": 503000026,
       "latitude": 40.83769228374965,
-      "binStatus": "Available",
+      "binStatus": "Out of Service",
       "description": "BIN 98 - NE Taylor Avenue & Archer Street",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.86632109842786
     },
     {
@@ -221,9 +221,9 @@
       "latestFullness": 20,
       "serialNumber": 503000004,
       "latitude": 40.75444696790806,
-      "binStatus": "Available",
+      "binStatus": "Out of Service",
       "description": "BIN 224 - NW Broadway & 51st Street",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.90916280189015
     },
     {
@@ -362,7 +362,7 @@
       "longitude": -73.90380453318357
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000032,
       "latitude": 40.76149921367936,
       "binStatus": "Available",
@@ -401,9 +401,9 @@
       "latestFullness": 40,
       "serialNumber": 503000033,
       "latitude": 40.86054008940285,
-      "binStatus": "Available",
+      "binStatus": "Out of Service",
       "description": "BIN 63 - SE Sickles Street & Nagle Avenue",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.9273372319724
     },
     {
@@ -488,7 +488,7 @@
       "longitude": -73.95314779132605
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 503000050,
       "latitude": 40.829794034320685,
       "binStatus": "Available",
@@ -887,13 +887,13 @@
       "latestFullness": 0,
       "serialNumber": 503000095,
       "latitude": 40.82739891873525,
-      "binStatus": "Available",
+      "binStatus": "Out of Service",
       "description": "BIN 67 - NW Morris Avenue & East 163rd Street",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.91744524240494
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000096,
       "latitude": 40.8721462108312,
       "binStatus": "Available",
@@ -965,7 +965,7 @@
       "longitude": -73.92586905509233
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 60,
       "serialNumber": 503000138,
       "latitude": 40.678764370117854,
       "binStatus": "Available",
@@ -1361,7 +1361,7 @@
       "longitude": -73.91968253999949
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000163,
       "latitude": 40.67812844942252,
       "binStatus": "Available",
@@ -1499,9 +1499,9 @@
       "latestFullness": 0,
       "serialNumber": 503000194,
       "latitude": 40.68457611432452,
-      "binStatus": "Available",
+      "binStatus": "Out of Service",
       "description": "BIN 123 - SW Tompkins Avenue & Putnam Avenue",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.94418887794018
     },
     {
@@ -1883,7 +1883,7 @@
       "longitude": -73.90651490539312
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000246,
       "latitude": 40.67049107908947,
       "binStatus": "Available",
@@ -1892,7 +1892,7 @@
       "longitude": -73.94772704690695
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000251,
       "latitude": 40.67459377925092,
       "binStatus": "Available",
@@ -2216,7 +2216,7 @@
       "longitude": -73.98717944724858
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 505100039,
       "latitude": 40.781609451116324,
       "binStatus": "Available",
@@ -2225,7 +2225,7 @@
       "longitude": -73.94892745726821
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 505100018,
       "latitude": 40.77294782166341,
       "binStatus": "Available",
@@ -2288,7 +2288,7 @@
       "longitude": -73.95631212223466
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 505100041,
       "latitude": 40.7703540345238,
       "binStatus": "Available",
@@ -2360,12 +2360,12 @@
       "longitude": -73.99195962283002
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 505100019,
       "latitude": 40.731496522321486,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 315 - NW CO 4 Ave & E 10 St",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.99051628208568
     },
     {
@@ -2387,7 +2387,7 @@
       "longitude": -74.00212241864305
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 60,
       "serialNumber": 505100004,
       "latitude": 40.784683566970614,
       "binStatus": "Available",
@@ -2561,7 +2561,7 @@
       "latestFullness": 100,
       "serialNumber": 505100036,
       "latitude": 40.74644184775195,
-      "binStatus": "Full",
+      "binStatus": "Out of Service",
       "description": "BIN 344 - SE CO 8 Ave & W 25 St",
       "availableForUse": false,
       "longitude": -73.99747696934338
@@ -2579,9 +2579,9 @@
       "latestFullness": 60,
       "serialNumber": 505100061,
       "latitude": 40.70860458493924,
-      "binStatus": "Available",
+      "binStatus": "Out of Service",
       "description": "BIN 252 - SW CO Broadway & Cedar Street",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -74.0108494516408
     },
     {
@@ -2651,13 +2651,13 @@
       "latestFullness": 0,
       "serialNumber": 505100011,
       "latitude": 40.75544386726651,
-      "binStatus": "Available",
+      "binStatus": "Out of Service",
       "description": "BIN 296 - NW CO of Lexington Ave & E 48 St",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.97332561607193
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 505100028,
       "latitude": 40.7621600211368,
       "binStatus": "Available",
@@ -2774,7 +2774,7 @@
       "longitude": -73.9519761287763
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 505100075,
       "latitude": 40.778060906549015,
       "binStatus": "Available",
@@ -2801,7 +2801,7 @@
       "longitude": -73.98491537817117
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 505100096,
       "latitude": 40.77217779943119,
       "binStatus": "Available",
@@ -2837,7 +2837,7 @@
       "longitude": -73.98540060636678
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 40,
       "serialNumber": 505100092,
       "latitude": 40.78957914389564,
       "binStatus": "Available",
@@ -2891,7 +2891,7 @@
       "longitude": -73.99090145996239
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 505100106,
       "latitude": 40.78586060688359,
       "binStatus": "Available",
@@ -2918,7 +2918,7 @@
       "longitude": -73.97107263571145
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 40,
       "serialNumber": 505100107,
       "latitude": 40.73674344375692,
       "binStatus": "Available",
@@ -3044,7 +3044,7 @@
       "longitude": -73.98167006603096
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 60,
       "serialNumber": 505100100,
       "latitude": 40.773718493770346,
       "binStatus": "Available",
@@ -3062,7 +3062,7 @@
       "longitude": -73.9728414833659
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 505100101,
       "latitude": 40.77228183243049,
       "binStatus": "Available",
@@ -3155,9 +3155,9 @@
       "latestFullness": 0,
       "serialNumber": 505100105,
       "latitude": 40.76175746497325,
-      "binStatus": "Available",
+      "binStatus": "Out of Service",
       "description": "BIN 293 - NW CO of Lexington Ave & E 58 St",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.96866042855898
     },
     {
@@ -3224,10 +3224,10 @@
       "longitude": -73.96400324926272
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100143,
       "latitude": 40.77674450161177,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 392 - NW CO York Ave & E 87 St",
       "availableForUse": true,
       "longitude": -73.9464701336139
@@ -3251,7 +3251,7 @@
       "longitude": -73.98776125245462
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 60,
       "serialNumber": 505100144,
       "latitude": 40.78596763857327,
       "binStatus": "Available",
@@ -3314,7 +3314,7 @@
       "longitude": -73.98983752643882
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 505100141,
       "latitude": 40.74960582599206,
       "binStatus": "Available",
