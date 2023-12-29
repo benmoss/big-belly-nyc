@@ -20,7 +20,7 @@
       "longitude": -73.92287585085252
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 0,
       "serialNumber": 3590013,
       "latitude": 40.74689511721386,
       "binStatus": "Available",
@@ -83,7 +83,7 @@
       "longitude": -73.90727262943983
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 0,
       "serialNumber": 3590015,
       "latitude": 40.746483770342856,
       "binStatus": "Available",
@@ -164,12 +164,12 @@
       "longitude": -73.89247186481953
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 0,
       "serialNumber": 503000029,
       "latitude": 40.80207202156791,
-      "binStatus": "Full",
+      "binStatus": "Available",
       "description": "BIN 33 - NW West 114 Street & Adam Clayton Powell Jr Blvd",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.95370032638311
     },
     {
@@ -209,7 +209,7 @@
       "longitude": -73.86632109842786
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 0,
       "serialNumber": 503000028,
       "latitude": 40.798054852781554,
       "binStatus": "Available",
@@ -524,10 +524,10 @@
       "longitude": -73.93815591931343
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 503000052,
       "latitude": 40.805835432729474,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 36 - SW West 122 Street & Malcolm X Blvd",
       "availableForUse": true,
       "longitude": -73.94713159650564
@@ -587,12 +587,12 @@
       "longitude": -73.9623499576847
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 0,
       "serialNumber": 503000040,
       "latitude": 40.80557429253741,
-      "binStatus": "Full",
+      "binStatus": "Available",
       "description": "BIN 30 - SW West 112 Street & Broadway",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.9660133421421
     },
     {
@@ -641,10 +641,10 @@
       "longitude": -73.93176387995481
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 0,
       "serialNumber": 503000036,
       "latitude": 40.6778510426927,
-      "binStatus": "Nearly Full",
+      "binStatus": "Available",
       "description": "BIN 187 - NW Vanderbilt Avenue & Prospect Place",
       "availableForUse": true,
       "longitude": -73.96890208125114
@@ -686,12 +686,12 @@
       "longitude": -73.93193346987313
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 0,
       "serialNumber": 503000062,
       "latitude": 40.80507840250284,
-      "binStatus": "Full",
+      "binStatus": "Available",
       "description": "BIN 35 - SW St. Nicholas Avenue & West 118 Street",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.95281787961721
     },
     {
@@ -947,7 +947,7 @@
       "longitude": -73.93987722694874
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 503000078,
       "latitude": 40.81357603431238,
       "binStatus": "Available",
@@ -1262,12 +1262,12 @@
       "longitude": -73.90958435833454
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 0,
       "serialNumber": 503000168,
       "latitude": 40.6755571241916,
-      "binStatus": "Full",
+      "binStatus": "Available",
       "description": "BIN 188 - NW Vanderbilt Avenue & Plaza Street East",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.96974126370019
     },
     {
@@ -1316,12 +1316,12 @@
       "longitude": -73.91542855650187
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 0,
       "serialNumber": 503000175,
       "latitude": 40.68014247411724,
-      "binStatus": "Full",
+      "binStatus": "Available",
       "description": "BIN 186 - SW Vanderbilt Avenue & Dean Street",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.96811317652464
     },
     {
@@ -1982,12 +1982,12 @@
       "longitude": -73.92220901788035
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 0,
       "serialNumber": 503000263,
       "latitude": 40.67867868263691,
-      "binStatus": "Full",
+      "binStatus": "Available",
       "description": "BIN 220 - NE Flatbush Avenue & Prospect Place",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.97343333810568
     },
     {
@@ -2561,7 +2561,7 @@
       "latestFullness": 100,
       "serialNumber": 505100036,
       "latitude": 40.74644184775195,
-      "binStatus": "Out of Service",
+      "binStatus": "Full",
       "description": "BIN 344 - SE CO 8 Ave & W 25 St",
       "availableForUse": false,
       "longitude": -73.99747696934338
@@ -2918,7 +2918,7 @@
       "longitude": -73.97107263571145
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 0,
       "serialNumber": 505100107,
       "latitude": 40.73674344375692,
       "binStatus": "Available",
@@ -3179,7 +3179,7 @@
       "longitude": -73.96135753145826
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 0,
       "serialNumber": 505100113,
       "latitude": 40.741606235945184,
       "binStatus": "Available",
@@ -3278,7 +3278,7 @@
       "longitude": -73.98249430253485
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 0,
       "serialNumber": 505100142,
       "latitude": 40.73887358712755,
       "binStatus": "Available",
@@ -3422,7 +3422,7 @@
       "longitude": -73.99363601223293
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 0,
       "serialNumber": 505100148,
       "latitude": 40.735894111584756,
       "binStatus": "Available",
@@ -3440,12 +3440,12 @@
       "longitude": -73.98135114745574
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 0,
       "serialNumber": 505100119,
       "latitude": 40.77611866432287,
-      "binStatus": "Full",
+      "binStatus": "Available",
       "description": "BIN 359 - SW CO Columbus Ave & 70th Street",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.9799463692325
     },
     {
