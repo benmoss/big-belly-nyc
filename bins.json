@@ -164,12 +164,12 @@
       "longitude": -73.89247186481953
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 503000029,
       "latitude": 40.80207202156791,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 33 - NW West 114 Street & Adam Clayton Powell Jr Blvd",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.95370032638311
     },
     {
@@ -236,7 +236,7 @@
       "longitude": -73.94638694822788
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 0,
       "serialNumber": 503000008,
       "latitude": 40.761548735935826,
       "binStatus": "Available",
@@ -290,7 +290,7 @@
       "longitude": -73.93766775727272
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 60,
       "serialNumber": 503000013,
       "latitude": 40.86843300418909,
       "binStatus": "Available",
@@ -533,7 +533,7 @@
       "longitude": -73.94713159650564
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000044,
       "latitude": 40.80556261860785,
       "binStatus": "Available",
@@ -887,9 +887,9 @@
       "latestFullness": 0,
       "serialNumber": 503000095,
       "latitude": 40.82739891873525,
-      "binStatus": "Out of Service",
+      "binStatus": "Available",
       "description": "BIN 67 - NW Morris Avenue & East 163rd Street",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.91744524240494
     },
     {
@@ -1100,7 +1100,7 @@
       "longitude": -73.90656117349863
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 0,
       "serialNumber": 503000148,
       "latitude": 40.701373514374744,
       "binStatus": "Available",
@@ -1235,7 +1235,7 @@
       "longitude": -73.9271404221654
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 0,
       "serialNumber": 503000156,
       "latitude": 40.70249991438864,
       "binStatus": "Available",
@@ -1298,7 +1298,7 @@
       "longitude": -73.94148588180542
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000171,
       "latitude": 40.69608852271517,
       "binStatus": "Available",
@@ -1388,7 +1388,7 @@
       "longitude": -73.96627854555845
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 0,
       "serialNumber": 503000180,
       "latitude": 40.69293663142478,
       "binStatus": "Available",
@@ -1442,7 +1442,7 @@
       "longitude": -73.93454968929291
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 0,
       "serialNumber": 503000185,
       "latitude": 40.704219889937,
       "binStatus": "Available",
@@ -2360,12 +2360,12 @@
       "longitude": -73.99195962283002
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 0,
       "serialNumber": 505100019,
       "latitude": 40.731496522321486,
-      "binStatus": "Full",
+      "binStatus": "Available",
       "description": "BIN 315 - NW CO 4 Ave & E 10 St",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.99051628208568
     },
     {
@@ -2378,10 +2378,10 @@
       "longitude": -73.99540269748928
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100031,
       "latitude": 40.72948121652991,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 328 - SE CO Bleecker St & 6 Ave",
       "availableForUse": true,
       "longitude": -74.00212241864305
@@ -2405,12 +2405,12 @@
       "longitude": -74.00171998103215
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 505100051,
       "latitude": 40.72504420607064,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 323 - SE CO 1 Ave & E 4 St",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.9869912541827
     },
     {
@@ -2450,7 +2450,7 @@
       "longitude": -74.00655866692779
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 505100024,
       "latitude": 40.73699589127157,
       "binStatus": "Available",
@@ -2675,7 +2675,7 @@
       "longitude": -74.0007785662345
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 0,
       "serialNumber": 505100064,
       "latitude": 40.718560301291866,
       "binStatus": "Available",
@@ -2882,10 +2882,10 @@
       "longitude": -73.9809653781084
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 0,
       "serialNumber": 505100088,
       "latitude": 40.72865169703771,
-      "binStatus": "Nearly Full",
+      "binStatus": "Available",
       "description": "BIN 316 - NW CO 3rd Ave & E 6th St",
       "availableForUse": true,
       "longitude": -73.99090145996239
@@ -2900,19 +2900,19 @@
       "longitude": -73.95335140977043
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 0,
       "serialNumber": 505100087,
       "latitude": 40.798370790247,
-      "binStatus": "Full",
+      "binStatus": "Available",
       "description": "BIN 384 - SE CO Broadway & W 102 St",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.96888427642509
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 0,
       "serialNumber": 505100093,
       "latitude": 40.7953036151945,
-      "binStatus": "Nearly Full",
+      "binStatus": "Available",
       "description": "BIN 383 - NE CO Broadway & W 97 St",
       "availableForUse": true,
       "longitude": -73.97107263571145
@@ -3035,12 +3035,12 @@
       "longitude": -73.97793704431773
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 505100066,
       "latitude": 40.71424651872,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 256 - NW CO Grand St & Henry St",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.98167006603096
     },
     {
@@ -3134,7 +3134,7 @@
       "longitude": -73.96841285680578
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 0,
       "serialNumber": 505100129,
       "latitude": 40.779702163230795,
       "binStatus": "Available",
@@ -3197,7 +3197,7 @@
       "longitude": -73.97792649980364
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 0,
       "serialNumber": 505100127,
       "latitude": 40.79516392024059,
       "binStatus": "Available",
@@ -3242,7 +3242,7 @@
       "longitude": -73.99037571712044
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 505100136,
       "latitude": 40.764814574064715,
       "binStatus": "Available",
@@ -3251,7 +3251,7 @@
       "longitude": -73.98776125245462
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 0,
       "serialNumber": 505100144,
       "latitude": 40.78596763857327,
       "binStatus": "Available",
@@ -3386,10 +3386,10 @@
       "longitude": -73.99201305589226
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 0,
       "serialNumber": 505100123,
       "latitude": 40.78331643218788,
-      "binStatus": "Nearly Full",
+      "binStatus": "Available",
       "description": "BIN 377 - NW CO Broadway & W 78 St",
       "availableForUse": true,
       "longitude": -73.98062197434946
@@ -3449,16 +3449,16 @@
       "longitude": -73.9799463692325
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 0,
       "serialNumber": 505100115,
       "latitude": 40.78876861933553,
-      "binStatus": "Nearly Full",
+      "binStatus": "Available",
       "description": "BIN 380 - SE CO Broadway & W 87 St",
       "availableForUse": true,
       "longitude": -73.97587379945203
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 0,
       "serialNumber": 505100128,
       "latitude": 40.72662593513809,
       "binStatus": "Available",
