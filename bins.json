@@ -722,7 +722,7 @@
       "longitude": -73.93138837069273
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000068,
       "latitude": 40.64305722769547,
       "binStatus": "Available",
@@ -893,7 +893,7 @@
       "longitude": -73.91744524240494
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000096,
       "latitude": 40.8721462108312,
       "binStatus": "Available",
@@ -1406,7 +1406,7 @@
       "longitude": -73.91234535723925
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 503000172,
       "latitude": 40.69744237426521,
       "binStatus": "Available",
@@ -1499,9 +1499,9 @@
       "latestFullness": 0,
       "serialNumber": 503000194,
       "latitude": 40.68457611432452,
-      "binStatus": "Available",
+      "binStatus": "Out of Service",
       "description": "BIN 123 - SW Tompkins Avenue & Putnam Avenue",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.94418887794018
     },
     {
@@ -3143,7 +3143,7 @@
       "longitude": -73.98189624416173
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 505100114,
       "latitude": 40.76550445210295,
       "binStatus": "Available",
@@ -3386,10 +3386,10 @@
       "longitude": -73.99201305589226
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100123,
       "latitude": 40.78331643218788,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 377 - NW CO Broadway & W 78 St",
       "availableForUse": true,
       "longitude": -73.98062197434946
