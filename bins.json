@@ -299,10 +299,10 @@
       "longitude": -73.91832768131844
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 503000017,
       "latitude": 40.81773208281474,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 42 - SE West 136th Street & Edgecombe Avenue",
       "availableForUse": true,
       "longitude": -73.94737802445889
@@ -641,12 +641,12 @@
       "longitude": -73.93176387995481
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 503000036,
       "latitude": 40.6778510426927,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 187 - NW Vanderbilt Avenue & Prospect Place",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.96890208125114
     },
     {
@@ -902,12 +902,12 @@
       "longitude": -73.88263955712318
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 503000098,
       "latitude": 40.80545914536109,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 29 - SW West 114th Street & Amsterdam Avenue",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.96220094562807
     },
     {
@@ -1064,7 +1064,7 @@
       "longitude": -73.9499693736434
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 503000129,
       "latitude": 40.685812233251795,
       "binStatus": "Available",
@@ -2846,7 +2846,7 @@
       "longitude": -73.97379656746796
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 505100095,
       "latitude": 40.74408502157723,
       "binStatus": "Available",
@@ -2873,7 +2873,7 @@
       "longitude": -73.99017938079861
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 505100080,
       "latitude": 40.7380040181738,
       "binStatus": "Available",
@@ -3008,10 +3008,10 @@
       "longitude": -73.96910423686519
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100111,
       "latitude": 40.758836000578,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 294 - NW CO E 56 St & 2 Ave",
       "availableForUse": true,
       "longitude": -73.96586280976997
@@ -3080,7 +3080,7 @@
       "longitude": -73.97335456220875
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 505100130,
       "latitude": 40.77020285341155,
       "binStatus": "Available",
@@ -3215,10 +3215,10 @@
       "longitude": -73.99655276134223
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100133,
       "latitude": 40.79786101513957,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 381 - SW CO W 104 St & Columbus Ave",
       "availableForUse": true,
       "longitude": -73.96400324926272
@@ -3368,7 +3368,7 @@
       "longitude": -73.99506114554103
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 505100150,
       "latitude": 40.729589714367386,
       "binStatus": "Available",
