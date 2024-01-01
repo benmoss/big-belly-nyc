@@ -380,12 +380,12 @@
       "longitude": -73.88136584311724
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 0,
       "serialNumber": 503000022,
       "latitude": 40.866201512573475,
-      "binStatus": "Full",
+      "binStatus": "Available",
       "description": "BIN 64 - SE Broadway & Academy Street",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.92508216202259
     },
     {
@@ -398,12 +398,12 @@
       "longitude": -73.92383761703968
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 0,
       "serialNumber": 503000033,
       "latitude": 40.86054008940285,
-      "binStatus": "Full",
+      "binStatus": "Available",
       "description": "BIN 63 - SE Sickles Street & Nagle Avenue",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.9273372319724
     },
     {
@@ -488,12 +488,12 @@
       "longitude": -73.95314779132605
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 503000050,
       "latitude": 40.829794034320685,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 26 - NW Amsterdam Avenue & W 152 Street",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.94453756511211
     },
     {
@@ -2432,7 +2432,7 @@
       "longitude": -74.00695323944092
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 505100003,
       "latitude": 40.73776704120356,
       "binStatus": "Available",
@@ -2576,10 +2576,10 @@
       "longitude": -74.0077318323766
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 0,
       "serialNumber": 505100061,
       "latitude": 40.70860458493924,
-      "binStatus": "Nearly Full",
+      "binStatus": "Available",
       "description": "BIN 252 - SW CO Broadway & Cedar Street",
       "availableForUse": true,
       "longitude": -74.0108494516408
