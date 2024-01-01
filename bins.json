@@ -497,16 +497,16 @@
       "longitude": -73.94453756511211
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 0,
       "serialNumber": 503000048,
       "latitude": 40.7966226877643,
-      "binStatus": "Full",
+      "binStatus": "Available",
       "description": "BIN 47 - SE East 112th Street & Park Avenue",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.94493098288339
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 0,
       "serialNumber": 503000049,
       "latitude": 40.79160725166976,
       "binStatus": "Available",
@@ -947,12 +947,12 @@
       "longitude": -73.93987722694874
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 80,
       "serialNumber": 503000078,
       "latitude": 40.81357603431238,
-      "binStatus": "Full",
+      "binStatus": "Nearly Full",
       "description": "BIN 38 - NW West 132 Street & Adam Clayton Powell Jr Blvd",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.94525472074747
     },
     {
@@ -2747,7 +2747,7 @@
       "longitude": -73.98495496580612
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 505100055,
       "latitude": 40.76405416975698,
       "binStatus": "Available",
