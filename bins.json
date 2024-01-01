@@ -155,7 +155,7 @@
       "longitude": -73.91430705785751
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 3590006,
       "latitude": 40.88282894758702,
       "binStatus": "Available",
@@ -929,12 +929,12 @@
       "longitude": -73.95624071359634
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 503000076,
       "latitude": 40.791411617905716,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 44 - SE East 106th Street & 3rd Avenue",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.9447372895371
     },
     {
@@ -1082,12 +1082,12 @@
       "longitude": -73.92984341830015
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 503000127,
       "latitude": 40.706692511000654,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 177 - SW St. Nicholas Avenue & Willoughby Avenue",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.92045420260473
     },
     {
@@ -2045,7 +2045,7 @@
       "longitude": -74.14456080612285
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 503000266,
       "latitude": 40.70289868141765,
       "binStatus": "Available",
@@ -2567,12 +2567,12 @@
       "longitude": -73.99747696934338
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 505100044,
       "latitude": 40.73121273762785,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 335 - NE CO Morton ST & Greenwich ST",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -74.0077318323766
     },
     {
@@ -3233,10 +3233,10 @@
       "longitude": -73.9464701336139
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100138,
       "latitude": 40.76639459170164,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 353 - SE CO 10 Ave & W 53 St",
       "availableForUse": true,
       "longitude": -73.99037571712044
@@ -3305,10 +3305,10 @@
       "longitude": -73.98753543655222
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100146,
       "latitude": 40.74723684953337,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 340 - SW CO 6 Ave & W 30 St",
       "availableForUse": true,
       "longitude": -73.98983752643882
