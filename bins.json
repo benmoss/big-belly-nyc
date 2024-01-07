@@ -308,10 +308,10 @@
       "longitude": -73.94737802445889
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 503000019,
       "latitude": 40.76701705596692,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 12 - NW Crescent Street & 30th Drive",
       "availableForUse": true,
       "longitude": -73.92599746584892
@@ -560,7 +560,7 @@
       "longitude": -73.92879232764244
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 503000042,
       "latitude": 40.764174520197706,
       "binStatus": "Available",
@@ -623,19 +623,19 @@
       "longitude": -73.92041435458692
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 503000035,
       "latitude": 40.820298050767335,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 40 - NW West 141st Street & Fredrick Douglas Blvd",
       "availableForUse": true,
       "longitude": -73.94394144415855
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 503000034,
       "latitude": 40.774054817889976,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 229 - SW 8th Street & 27th Ave",
       "availableForUse": true,
       "longitude": -73.93176387995481
@@ -1145,10 +1145,10 @@
       "longitude": -73.90397150069475
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 503000132,
       "latitude": 40.70324915068062,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 181 - SW St. Nicholas Avenue & Greene Avenue",
       "availableForUse": true,
       "longitude": -73.91453684044001
@@ -1388,7 +1388,7 @@
       "longitude": -73.96627854555845
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 503000180,
       "latitude": 40.69293663142478,
       "binStatus": "Available",
@@ -1577,10 +1577,10 @@
       "longitude": -73.8490579649806
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 503000201,
       "latitude": 40.68434297291138,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 127 - NE Bedford Avenue & Madison Street",
       "availableForUse": true,
       "longitude": -73.95393367856741
@@ -1613,10 +1613,10 @@
       "longitude": -73.928127810359
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 503000204,
       "latitude": 40.69300170948447,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 130 - SE Bedford Avenue & Willoughby Avenue",
       "availableForUse": true,
       "longitude": -73.9556797966361
@@ -2108,12 +2108,12 @@
       "longitude": -73.95756002515554
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 503000273,
       "latitude": 40.67710908208188,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 217 - NE Rogers Avenue & Dean Street",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.95261202007532
     },
     {
@@ -2207,10 +2207,10 @@
       "longitude": -73.93532887101173
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100078,
       "latitude": 40.77113841285102,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 361 - NW CO W 60 St & Amsterdam Ave",
       "availableForUse": true,
       "longitude": -73.98717944724858
@@ -2576,10 +2576,10 @@
       "longitude": -74.0077318323766
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100061,
       "latitude": 40.70860458493924,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 252 - SW CO Broadway & Cedar Street",
       "availableForUse": true,
       "longitude": -74.0108494516408
@@ -2639,12 +2639,12 @@
       "longitude": -73.95855413649969
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 505100063,
       "latitude": 40.71256505742161,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 251 - NE CO Broadway & Park Place (City hall park side)",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -74.00756552771458
     },
     {
@@ -2963,12 +2963,12 @@
       "longitude": -73.96686314261594
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 505100068,
       "latitude": 40.7116258563826,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 258 - SE CO Montgomery St & Cherry St",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.9850452796422
     },
     {
@@ -3368,12 +3368,12 @@
       "longitude": -73.99506114554103
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 505100150,
       "latitude": 40.729589714367386,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 329 - SE CO Clarkson & Hudson",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -74.00684701383747
     },
     {
