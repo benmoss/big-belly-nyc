@@ -1883,12 +1883,12 @@
       "longitude": -73.90651490539312
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 503000246,
       "latitude": 40.67049107908947,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 197 - NW New York Avenue & Lincoln Place",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.94772704690695
     },
     {
@@ -2756,10 +2756,10 @@
       "longitude": -73.96450973157151
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100060,
       "latitude": 40.71026346371404,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 257 - NW CO Catherine St & Cherry St",
       "availableForUse": true,
       "longitude": -73.99644857287824
@@ -3101,9 +3101,9 @@
       "latestFullness": 0,
       "serialNumber": 505100126,
       "latitude": 40.789118885800946,
-      "binStatus": "Out of Service",
+      "binStatus": "Available",
       "description": "BIN 372 - SW CO W 92 St & Central Park W",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.96666802317641
     },
     {
