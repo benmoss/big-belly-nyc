@@ -2,7 +2,7 @@
   "errorCode": "STATUS_OK",
   "compostAssets": [
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 3590004,
       "latitude": 40.740982515732185,
       "binStatus": "Available",
@@ -254,7 +254,7 @@
       "longitude": -73.94863547733536
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 60,
       "serialNumber": 503000010,
       "latitude": 40.76236771749731,
       "binStatus": "Available",
@@ -875,10 +875,10 @@
       "longitude": -73.90734169632196
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 503000094,
       "latitude": 40.7666826313674,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 11 - SW 31st Avenue & 23rd Street",
       "availableForUse": true,
       "longitude": -73.92875041812658
@@ -1145,7 +1145,7 @@
       "longitude": -73.90397150069475
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 60,
       "serialNumber": 503000132,
       "latitude": 40.70324915068062,
       "binStatus": "Available",
@@ -2702,7 +2702,7 @@
       "longitude": -73.99222918721208
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 505100006,
       "latitude": 40.717415222837694,
       "binStatus": "Available",
@@ -3107,10 +3107,10 @@
       "longitude": -73.96666802317641
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 0,
       "serialNumber": 505100132,
       "latitude": 40.757513465018945,
-      "binStatus": "Nearly Full",
+      "binStatus": "Available",
       "description": "BIN 325 - SW CO W Main Street and Main Street (by Tram Terminal)",
       "availableForUse": true,
       "longitude": -73.95414933006201
