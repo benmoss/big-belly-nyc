@@ -461,7 +461,7 @@
       "longitude": -73.92496582120657
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000054,
       "latitude": 40.76387664872765,
       "binStatus": "Available",
@@ -902,7 +902,7 @@
       "longitude": -73.88263955712318
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 503000098,
       "latitude": 40.80545914536109,
       "binStatus": "Available",
@@ -1235,7 +1235,7 @@
       "longitude": -73.9271404221654
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000156,
       "latitude": 40.70249991438864,
       "binStatus": "Available",
@@ -1316,7 +1316,7 @@
       "longitude": -73.91542855650187
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 60,
       "serialNumber": 503000175,
       "latitude": 40.68014247411724,
       "binStatus": "Available",
@@ -1667,7 +1667,7 @@
       "longitude": -73.93744513392448
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 40,
       "serialNumber": 503000219,
       "latitude": 40.75685380877115,
       "binStatus": "Available",
@@ -1865,7 +1865,7 @@
       "longitude": -73.95897587267723
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000245,
       "latitude": 40.673484595144046,
       "binStatus": "Available",
@@ -1892,7 +1892,7 @@
       "longitude": -73.94772704690695
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 40,
       "serialNumber": 503000251,
       "latitude": 40.67459377925092,
       "binStatus": "Available",
@@ -2045,7 +2045,7 @@
       "longitude": -74.14456080612285
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000266,
       "latitude": 40.70289868141765,
       "binStatus": "Available",
@@ -2288,12 +2288,12 @@
       "longitude": -73.95631212223466
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 505100041,
       "latitude": 40.7703540345238,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 275 - NE CO 1 Ave & E 76 Street",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.9538887710376
     },
     {
@@ -2396,12 +2396,12 @@
       "longitude": -73.9498927384089
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 505100013,
       "latitude": 40.73565255133342,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 330 - SW CO 7th Avenue South & Perry St",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -74.00171998103215
     },
     {
@@ -2432,10 +2432,10 @@
       "longitude": -74.00695323944092
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 0,
       "serialNumber": 505100003,
       "latitude": 40.73776704120356,
-      "binStatus": "Nearly Full",
+      "binStatus": "Available",
       "description": "BIN 332 - SE CO 7 Ave & W 13 St",
       "availableForUse": true,
       "longitude": -74.00006544331396
@@ -2828,10 +2828,10 @@
       "longitude": -73.98540060636678
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100092,
       "latitude": 40.78957914389564,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 369 - SW CO W 89 St & Amsterdam Ave",
       "availableForUse": true,
       "longitude": -73.97379656746796
@@ -3089,7 +3089,7 @@
       "longitude": -73.9806513567258
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 505100126,
       "latitude": 40.789118885800946,
       "binStatus": "Available",
@@ -3107,10 +3107,10 @@
       "longitude": -73.95414933006201
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100124,
       "latitude": 40.73044605992985,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 333 - NW CO Carmine ST & Bleeker St",
       "availableForUse": true,
       "longitude": -74.0026189895217
@@ -3197,10 +3197,10 @@
       "longitude": -73.97343810525932
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100139,
       "latitude": 40.74272368457833,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 341 - SE CO 7th Avenue & 21st Street",
       "availableForUse": true,
       "longitude": -73.99655276134223
@@ -3278,7 +3278,7 @@
       "longitude": -73.98511663223668
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 505100137,
       "latitude": 40.74339417050297,
       "binStatus": "Available",
@@ -3368,7 +3368,7 @@
       "longitude": -74.00684701383747
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 505100135,
       "latitude": 40.758930399023754,
       "binStatus": "Available",
@@ -3431,12 +3431,12 @@
       "longitude": -73.98135114745574
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 505100119,
       "latitude": 40.77611866432287,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 359 - SW CO Columbus Ave & 70th Street",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.9799463692325
     },
     {
