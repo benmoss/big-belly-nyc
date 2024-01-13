@@ -1055,7 +1055,7 @@
       "longitude": -73.91719682217655
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 0,
       "serialNumber": 503000143,
       "latitude": 40.6825487482924,
       "binStatus": "Available",
@@ -1154,7 +1154,7 @@
       "longitude": -73.91453684044001
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 0,
       "serialNumber": 503000165,
       "latitude": 40.69828985201461,
       "binStatus": "Available",
@@ -1721,7 +1721,7 @@
       "longitude": -73.91965739428997
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 503000225,
       "latitude": 40.6865703680712,
       "binStatus": "Available",
@@ -1829,12 +1829,12 @@
       "longitude": -73.94294936209917
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 0,
       "serialNumber": 503000240,
       "latitude": 40.67428152112551,
-      "binStatus": "Full",
+      "binStatus": "Available",
       "description": "BIN 198 - NW New York Avenue & Prospect Place",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.94742764532566
     },
     {
@@ -1883,12 +1883,12 @@
       "longitude": -73.90651490539312
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 0,
       "serialNumber": 503000246,
       "latitude": 40.67049107908947,
-      "binStatus": "Full",
+      "binStatus": "Available",
       "description": "BIN 197 - NW New York Avenue & Lincoln Place",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.94772704690695
     },
     {
@@ -2009,10 +2009,10 @@
       "longitude": -74.06930956989527
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 0,
       "serialNumber": 503000261,
       "latitude": 40.67676683153248,
-      "binStatus": "Nearly Full",
+      "binStatus": "Available",
       "description": "BIN 199 - NW New York Avenue & Dean Street",
       "availableForUse": true,
       "longitude": -73.9471010863781
@@ -3161,7 +3161,7 @@
       "longitude": -73.9780299987419
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 505100104,
       "latitude": 40.76846754015715,
       "binStatus": "Available",
