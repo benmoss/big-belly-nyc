@@ -785,10 +785,10 @@
       "longitude": -73.93777001649141
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 503000075,
       "latitude": 40.76355515935151,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 04 - SE 33rd Street & 31st Avenue",
       "availableForUse": true,
       "longitude": -73.92199024558067
@@ -929,10 +929,10 @@
       "longitude": -73.95624071359634
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 503000076,
       "latitude": 40.791411617905716,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 44 - SE East 106th Street & 3rd Avenue",
       "availableForUse": true,
       "longitude": -73.9447372895371
@@ -1433,12 +1433,12 @@
       "longitude": -73.90980195254087
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 503000181,
       "latitude": 40.68065836586844,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 115 - NE Lewis Avenue & Bainbridge Street",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.93454968929291
     },
     {
@@ -1550,7 +1550,7 @@
       "longitude": -73.9436212554574
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 503000206,
       "latitude": 40.68764908091782,
       "binStatus": "Available",
@@ -1712,7 +1712,7 @@
       "longitude": -73.88819441199303
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000226,
       "latitude": 40.69043184045754,
       "binStatus": "Available",
@@ -1766,7 +1766,7 @@
       "longitude": -73.88005122542381
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 503000232,
       "latitude": 40.68513798940631,
       "binStatus": "Available",
@@ -1856,12 +1856,12 @@
       "longitude": -73.93390157678125
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 503000241,
       "latitude": 40.6774118895118,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 218 SE Classon Avenue & Bergen Street",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.95897587267723
     },
     {
@@ -2414,12 +2414,12 @@
       "longitude": -73.9869912541827
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 505100045,
       "latitude": 40.74639647509707,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 342 - SW CO 10 Ave & W 21 St",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -74.00526163846435
     },
     {
@@ -2621,12 +2621,12 @@
       "longitude": -73.95822445057821
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 505100053,
       "latitude": 40.7214226207243,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 263 - NW CO Elizabeth St & Spring St",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.99473222632365
     },
     {
@@ -2783,12 +2783,12 @@
       "longitude": -73.95466305211644
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 80,
       "serialNumber": 505100089,
       "latitude": 40.77432420761129,
-      "binStatus": "Full",
+      "binStatus": "Nearly Full",
       "description": "BIN 362 - NW CO Amsterdam ave & W 65 St",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.98491537817117
     },
     {
@@ -2855,12 +2855,12 @@
       "longitude": -73.98593114887535
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 505100083,
       "latitude": 40.72496280254391,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 324 - NE CO 2 Ave & E 2 St",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.99017938079861
     },
     {
@@ -3170,7 +3170,7 @@
       "longitude": -73.96135753145826
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 60,
       "serialNumber": 505100113,
       "latitude": 40.741606235945184,
       "binStatus": "Available",
