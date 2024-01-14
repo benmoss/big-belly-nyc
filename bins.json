@@ -479,7 +479,7 @@
       "longitude": -73.93447995185852
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000056,
       "latitude": 40.817629573974216,
       "binStatus": "Available",
@@ -722,10 +722,10 @@
       "longitude": -73.93138837069273
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 503000068,
       "latitude": 40.64305722769547,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 233 - SE Stuyvesant Place & Schuyler Street",
       "availableForUse": true,
       "longitude": -74.07695855945349
@@ -1082,12 +1082,12 @@
       "longitude": -73.92984341830015
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 503000127,
       "latitude": 40.706692511000654,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 177 - SW St. Nicholas Avenue & Willoughby Avenue",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.92045420260473
     },
     {
@@ -1235,7 +1235,7 @@
       "longitude": -73.9271404221654
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 503000156,
       "latitude": 40.70249991438864,
       "binStatus": "Available",
@@ -1442,10 +1442,10 @@
       "longitude": -73.93454968929291
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 80,
       "serialNumber": 503000185,
       "latitude": 40.704219889937,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 180 - NW St. Nicholas Avenue & Himrod Street",
       "availableForUse": true,
       "longitude": -73.91591713080048
@@ -2477,12 +2477,12 @@
       "longitude": -74.0109745413065
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 505100023,
       "latitude": 40.7346470054958,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 311 - SW CO W 12 St & 5 Ave",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.99481938922054
     },
     {
@@ -3233,12 +3233,12 @@
       "longitude": -73.99037571712044
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 505100136,
       "latitude": 40.764814574064715,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 354 - NE CO 9 Ave & W 52 St",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.98776125245462
     },
     {
@@ -3431,12 +3431,12 @@
       "longitude": -73.98135114745574
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 0,
       "serialNumber": 505100119,
       "latitude": 40.77611866432287,
-      "binStatus": "Full",
+      "binStatus": "Available",
       "description": "BIN 359 - SW CO Columbus Ave & 70th Street",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.9799463692325
     },
     {
