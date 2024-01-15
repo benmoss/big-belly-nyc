@@ -308,10 +308,10 @@
       "longitude": -73.94737802445889
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 503000019,
       "latitude": 40.76701705596692,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 12 - NW Crescent Street & 30th Drive",
       "availableForUse": true,
       "longitude": -73.92599746584892
@@ -506,10 +506,10 @@
       "longitude": -73.94493098288339
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 503000049,
       "latitude": 40.79160725166976,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 46 - SW E 109th Street & 1st Avenue",
       "availableForUse": true,
       "longitude": -73.93884859979153
@@ -650,10 +650,10 @@
       "longitude": -73.96890208125114
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 503000047,
       "latitude": 40.80229053822756,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 52 - SE E 123rd Street & 3rd Avenue",
       "availableForUse": true,
       "longitude": -73.93677324056625
@@ -794,7 +794,7 @@
       "longitude": -73.92199024558067
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 503000081,
       "latitude": 40.79314191706756,
       "binStatus": "Available",
@@ -1001,10 +1001,10 @@
       "longitude": -73.90436712652445
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 503000130,
       "latitude": 40.70036020447339,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 147 - NW Central Avenue & Troutman Street",
       "availableForUse": true,
       "longitude": -73.92899550497532
@@ -1226,10 +1226,10 @@
       "longitude": -73.92284251749516
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 503000159,
       "latitude": 40.68815347424036,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 111 - SW Patchen Avenue & Monroe Street",
       "availableForUse": true,
       "longitude": -73.9271404221654
@@ -1550,10 +1550,10 @@
       "longitude": -73.9436212554574
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 503000206,
       "latitude": 40.68764908091782,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 122 - SW Tompkins Avenue & Quincy Street",
       "availableForUse": true,
       "longitude": -73.94487351179123
@@ -1649,10 +1649,10 @@
       "longitude": -73.82940910756588
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 503000221,
       "latitude": 40.69040997746076,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 121 - SW Tompkins Avenue & Lafayette Avenue",
       "availableForUse": true,
       "longitude": -73.94542437046766
@@ -1784,7 +1784,7 @@
       "longitude": -73.89310654252768
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 503000186,
       "latitude": 40.6858662258759,
       "binStatus": "Available",
@@ -1820,10 +1820,10 @@
       "longitude": -74.07850451767445
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 503000239,
       "latitude": 40.69389322166022,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 142 - SE Throop Avenue & Hart Street",
       "availableForUse": true,
       "longitude": -73.94294936209917
@@ -1991,7 +1991,7 @@
       "longitude": -73.97343333810568
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000249,
       "latitude": 40.67568845111274,
       "binStatus": "Available",
@@ -2144,7 +2144,7 @@
       "longitude": -73.78518752753735
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 503000197,
       "latitude": 40.68749730455891,
       "binStatus": "Available",
@@ -2270,10 +2270,10 @@
       "longitude": -73.99693615022026
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100005,
       "latitude": 40.70815249011514,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 246 - NW CO Peck Slip & Water St",
       "availableForUse": true,
       "longitude": -74.00206860154867
@@ -2333,12 +2333,12 @@
       "longitude": -73.98598125432342
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 505100010,
       "latitude": 40.75280253801481,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 346 - NW CO 9 Ave & W 33 St",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.99692150445948
     },
     {
@@ -2567,12 +2567,12 @@
       "longitude": -73.99747696934338
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 505100044,
       "latitude": 40.73121273762785,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 335 - NE CO Morton ST & Greenwich ST",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -74.0077318323766
     },
     {
