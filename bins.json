@@ -515,7 +515,7 @@
       "longitude": -73.93884859979153
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000051,
       "latitude": 40.83816928203937,
       "binStatus": "Available",
@@ -920,7 +920,7 @@
       "longitude": -73.90491127967834
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000100,
       "latitude": 40.818994146499016,
       "binStatus": "Available",
@@ -1856,10 +1856,10 @@
       "longitude": -73.93390157678125
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 503000241,
       "latitude": 40.6774118895118,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 218 SE Classon Avenue & Bergen Street",
       "availableForUse": true,
       "longitude": -73.95897587267723
@@ -2252,12 +2252,12 @@
       "longitude": -73.94848935814979
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 505100040,
       "latitude": 40.77068591297934,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 363 - NW CO W 63 St & Central Park W",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.98008527492154
     },
     {
@@ -2477,12 +2477,12 @@
       "longitude": -74.0109745413065
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 505100023,
       "latitude": 40.7346470054958,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 311 - SW CO W 12 St & 5 Ave",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.99481938922054
     },
     {
@@ -2855,12 +2855,12 @@
       "longitude": -73.98593114887535
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 505100083,
       "latitude": 40.72496280254391,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 324 - NE CO 2 Ave & E 2 St",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.99017938079861
     },
     {
@@ -3296,7 +3296,7 @@
       "longitude": -73.98753543655222
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 505100146,
       "latitude": 40.74723684953337,
       "binStatus": "Available",
