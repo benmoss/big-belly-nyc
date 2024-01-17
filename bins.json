@@ -416,12 +416,12 @@
       "longitude": -73.92743781208992
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 0,
       "serialNumber": 503000018,
       "latitude": 40.83478846373379,
-      "binStatus": "Full",
+      "binStatus": "Available",
       "description": "BIN 56 - SW Amsterdam Avenue & West 160th Street",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.94085858017206
     },
     {
@@ -623,12 +623,12 @@
       "longitude": -73.92041435458692
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 0,
       "serialNumber": 503000035,
       "latitude": 40.820298050767335,
-      "binStatus": "Full",
+      "binStatus": "Available",
       "description": "BIN 40 - NW West 141st Street & Fredrick Douglas Blvd",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.94394144415855
     },
     {
@@ -1325,10 +1325,10 @@
       "longitude": -73.96811317652464
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 503000162,
       "latitude": 40.704966472832965,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 179 - SW St. Nicholas Avenue & Stockholm Street",
       "availableForUse": true,
       "longitude": -73.91751361469018
@@ -1361,7 +1361,7 @@
       "longitude": -73.91968253999949
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 503000163,
       "latitude": 40.67812844942252,
       "binStatus": "Available",
