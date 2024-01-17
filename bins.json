@@ -155,7 +155,7 @@
       "longitude": -73.91430705785751
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 0,
       "serialNumber": 3590006,
       "latitude": 40.88282894758702,
       "binStatus": "Available",
@@ -191,12 +191,12 @@
       "longitude": -74.11656774580479
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 0,
       "serialNumber": 503000002,
       "latitude": 40.802377335586115,
-      "binStatus": "Full",
+      "binStatus": "Available",
       "description": "BIN 51 - NE East 120 Street & Madison Avenue",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.94273579120636
     },
     {
@@ -569,7 +569,7 @@
       "longitude": -73.92345808446407
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000046,
       "latitude": 40.81219790128479,
       "binStatus": "Available",
@@ -767,7 +767,7 @@
       "longitude": -73.93320322036743
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 0,
       "serialNumber": 503000072,
       "latitude": 40.797433004550236,
       "binStatus": "Available",
@@ -1028,7 +1028,7 @@
       "longitude": -73.93525745719671
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 503000144,
       "latitude": 40.7019656047617,
       "binStatus": "Available",
@@ -1091,7 +1091,7 @@
       "longitude": -73.92045420260473
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 503000147,
       "latitude": 40.687583234935204,
       "binStatus": "Available",
@@ -2108,12 +2108,12 @@
       "longitude": -73.95756002515554
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 503000273,
       "latitude": 40.67710908208188,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 217 - NE Rogers Avenue & Dean Street",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.95261202007532
     },
     {
@@ -2432,12 +2432,12 @@
       "longitude": -74.00695323944092
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 0,
       "serialNumber": 505100003,
       "latitude": 40.73776704120356,
-      "binStatus": "Full",
+      "binStatus": "Available",
       "description": "BIN 332 - SE CO 7 Ave & W 13 St",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -74.00006544331396
     },
     {
@@ -2495,12 +2495,12 @@
       "longitude": -74.00274561377924
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 0,
       "serialNumber": 505100047,
       "latitude": 40.73539348561974,
-      "binStatus": "Full",
+      "binStatus": "Available",
       "description": "BIN 309 - NE CO Irving PL & E 16 St",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.98759673124307
     },
     {
@@ -2621,12 +2621,12 @@
       "longitude": -73.95822445057821
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 505100053,
       "latitude": 40.7214226207243,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 263 - NW CO Elizabeth St & Spring St",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.99473222632365
     },
     {
@@ -2828,12 +2828,12 @@
       "longitude": -73.98540060636678
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 0,
       "serialNumber": 505100092,
       "latitude": 40.78957914389564,
-      "binStatus": "Full",
+      "binStatus": "Available",
       "description": "BIN 369 - SW CO W 89 St & Amsterdam Ave",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.97379656746796
     },
     {
@@ -2909,10 +2909,10 @@
       "longitude": -73.97107263571145
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 0,
       "serialNumber": 505100107,
       "latitude": 40.73674344375692,
-      "binStatus": "Nearly Full",
+      "binStatus": "Available",
       "description": "BIN 308 - NW CO Park Ave S/Union Square East & E 17 St",
       "availableForUse": true,
       "longitude": -73.98908566787568
@@ -3116,12 +3116,12 @@
       "longitude": -74.0026189895217
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 0,
       "serialNumber": 505100125,
       "latitude": 40.786641828294435,
-      "binStatus": "Full",
+      "binStatus": "Available",
       "description": "BIN 368 - NW CO W 88 St & Central Park W",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.96841285680578
     },
     {
@@ -3449,12 +3449,12 @@
       "longitude": -73.97587379945203
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 0,
       "serialNumber": 505100128,
       "latitude": 40.72662593513809,
-      "binStatus": "Full",
+      "binStatus": "Available",
       "description": "BIN 327 - SW CO Bond St & Lafayette St",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.99427816002996
     }
   ]
