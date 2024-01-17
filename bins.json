@@ -302,9 +302,9 @@
       "latestFullness": 20,
       "serialNumber": 503000017,
       "latitude": 40.81773208281474,
-      "binStatus": "Available",
+      "binStatus": "Out of Service",
       "description": "BIN 42 - SE West 136th Street & Edgecombe Avenue",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.94737802445889
     },
     {
@@ -740,12 +740,12 @@
       "longitude": -73.92632732264548
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 0,
       "serialNumber": 503000070,
       "latitude": 40.83161371635521,
-      "binStatus": "Full",
+      "binStatus": "Available",
       "description": "BIN 55 - NE Amsterdam Avenue & West 155th Street",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.94291717559099
     },
     {
@@ -812,12 +812,12 @@
       "longitude": -73.93855724483728
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 0,
       "serialNumber": 503000085,
       "latitude": 40.80984148378304,
-      "binStatus": "Full",
+      "binStatus": "Available",
       "description": "BIN 37 - NW West 126th Street & Adam Clayton Powell Jr Blvd",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.94765663892031
     },
     {
@@ -1082,10 +1082,10 @@
       "longitude": -73.92984341830015
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 0,
       "serialNumber": 503000127,
       "latitude": 40.706692511000654,
-      "binStatus": "Nearly Full",
+      "binStatus": "Available",
       "description": "BIN 177 - SW St. Nicholas Avenue & Willoughby Avenue",
       "availableForUse": true,
       "longitude": -73.92045420260473
@@ -1145,10 +1145,10 @@
       "longitude": -73.90397150069475
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 503000132,
       "latitude": 40.70324915068062,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 181 - SW St. Nicholas Avenue & Greene Avenue",
       "availableForUse": true,
       "longitude": -73.91453684044001
@@ -2171,7 +2171,7 @@
       "longitude": -73.9109194278717
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 0,
       "serialNumber": 503000212,
       "latitude": 40.70585647534992,
       "binStatus": "Available",
@@ -2747,7 +2747,7 @@
       "longitude": -73.98495496580612
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 505100055,
       "latitude": 40.76405416975698,
       "binStatus": "Available",
