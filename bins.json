@@ -641,7 +641,7 @@
       "longitude": -73.93176387995481
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 503000036,
       "latitude": 40.6778510426927,
       "binStatus": "Available",
@@ -929,7 +929,7 @@
       "longitude": -73.95624071359634
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 503000076,
       "latitude": 40.791411617905716,
       "binStatus": "Available",
@@ -1154,7 +1154,7 @@
       "longitude": -73.91453684044001
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000165,
       "latitude": 40.69828985201461,
       "binStatus": "Available",
@@ -1298,7 +1298,7 @@
       "longitude": -73.94148588180542
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000171,
       "latitude": 40.69608852271517,
       "binStatus": "Available",
@@ -1496,7 +1496,7 @@
       "longitude": -73.9536564052105
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 503000194,
       "latitude": 40.68457611432452,
       "binStatus": "Available",
@@ -1532,7 +1532,7 @@
       "longitude": -73.83048333227634
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000209,
       "latitude": 40.77285588396095,
       "binStatus": "Available",
@@ -2414,10 +2414,10 @@
       "longitude": -73.9869912541827
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100045,
       "latitude": 40.74639647509707,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 342 - SW CO 10 Ave & W 21 St",
       "availableForUse": true,
       "longitude": -74.00526163846435
@@ -2675,10 +2675,10 @@
       "longitude": -74.0007785662345
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100064,
       "latitude": 40.718560301291866,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 261 - NW CO Hester ST & Baxter St",
       "availableForUse": true,
       "longitude": -73.99876398340452
@@ -2792,12 +2792,12 @@
       "longitude": -73.98491537817117
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 505100096,
       "latitude": 40.77217779943119,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 360 - SW CO West End Ave & W 60 St",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.99013103325534
     },
     {
@@ -2873,10 +2873,10 @@
       "longitude": -73.9809653781084
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100088,
       "latitude": 40.72865169703771,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 316 - NW CO 3rd Ave & E 6th St",
       "availableForUse": true,
       "longitude": -73.99090145996239
