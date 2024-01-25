@@ -14,9 +14,9 @@
       "latestFullness": 0,
       "serialNumber": 3590010,
       "latitude": 40.74060865008307,
-      "binStatus": "Available",
+      "binStatus": "Out of Service",
       "description": "BIN 409 - NE Greenpoint Ave & 42nd St",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.92287585085252
     },
     {
@@ -1190,7 +1190,7 @@
       "longitude": -73.96311119198799
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000152,
       "latitude": 40.68415381504779,
       "binStatus": "Available",
@@ -1370,7 +1370,7 @@
       "longitude": -73.91918834298849
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 503000178,
       "latitude": 40.671282700678354,
       "binStatus": "Available",
@@ -1397,7 +1397,7 @@
       "longitude": -73.90797402709723
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 40,
       "serialNumber": 503000188,
       "latitude": 40.690796900599814,
       "binStatus": "Available",
@@ -1433,7 +1433,7 @@
       "longitude": -73.90980195254087
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 60,
       "serialNumber": 503000181,
       "latitude": 40.68065836586844,
       "binStatus": "Available",
@@ -1631,7 +1631,7 @@
       "longitude": -73.85504934936762
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 0,
       "serialNumber": 503000215,
       "latitude": 40.865482950603266,
       "binStatus": "Available",
@@ -1910,10 +1910,10 @@
       "longitude": -73.91177110144258
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 503000254,
       "latitude": 40.67509191438939,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 195 - NE Franklin Avenue & Prospect Place",
       "availableForUse": true,
       "longitude": -73.95637851208448
