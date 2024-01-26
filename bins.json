@@ -203,9 +203,9 @@
       "latestFullness": 0,
       "serialNumber": 503000026,
       "latitude": 40.83769228374965,
-      "binStatus": "Out of Service",
+      "binStatus": "Available",
       "description": "BIN 98 - NE Taylor Avenue & Archer Street",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.86632109842786
     },
     {
@@ -596,7 +596,7 @@
       "longitude": -73.9660133421421
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000039,
       "latitude": 40.82647613312916,
       "binStatus": "Available",
@@ -2468,7 +2468,7 @@
       "longitude": -74.01704739779234
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 505100009,
       "latitude": 40.7164061130962,
       "binStatus": "Available",
@@ -3350,10 +3350,10 @@
       "longitude": -73.97196531694908
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100140,
       "latitude": 40.760441717606135,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 351 - NW CO 10 Ave & W 43 St",
       "availableForUse": true,
       "longitude": -73.99506114554103
@@ -3368,7 +3368,7 @@
       "longitude": -74.00684701383747
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 505100135,
       "latitude": 40.758930399023754,
       "binStatus": "Available",
@@ -3386,7 +3386,7 @@
       "longitude": -73.98062197434946
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 60,
       "serialNumber": 505100118,
       "latitude": 40.769273183978356,
       "binStatus": "Available",
