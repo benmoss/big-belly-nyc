@@ -536,9 +536,9 @@
       "latestFullness": 0,
       "serialNumber": 503000044,
       "latitude": 40.80556261860785,
-      "binStatus": "Out of Service",
+      "binStatus": "Available",
       "description": "BIN 53 - NE East 127th Street & Lexington Avenue",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.93639236688614
     },
     {
@@ -2270,7 +2270,7 @@
       "longitude": -73.99693615022026
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 505100005,
       "latitude": 40.70815249011514,
       "binStatus": "Available",
@@ -2576,10 +2576,10 @@
       "longitude": -74.0077318323766
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100061,
       "latitude": 40.70860458493924,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 252 - SW CO Broadway & Cedar Street",
       "availableForUse": true,
       "longitude": -74.0108494516408
@@ -3251,7 +3251,7 @@
       "longitude": -73.97864520220962
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 505100147,
       "latitude": 40.767171552566246,
       "binStatus": "Available",
