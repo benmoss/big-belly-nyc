@@ -335,7 +335,7 @@
       "longitude": -73.93805466592312
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000006,
       "latitude": 40.855684792533886,
       "binStatus": "Available",
@@ -344,7 +344,7 @@
       "longitude": -73.93778998622929
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 0,
       "serialNumber": 503000023,
       "latitude": 40.84608111296369,
       "binStatus": "Available",
@@ -929,10 +929,10 @@
       "longitude": -73.95624071359634
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 0,
       "serialNumber": 503000076,
       "latitude": 40.791411617905716,
-      "binStatus": "Nearly Full",
+      "binStatus": "Available",
       "description": "BIN 44 - SE East 106th Street & 3rd Avenue",
       "availableForUse": true,
       "longitude": -73.9447372895371
@@ -1451,12 +1451,12 @@
       "longitude": -73.91591713080048
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 503000184,
       "latitude": 40.673104182956976,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 189 - NE Underhill Avenue & Eastern Parkway",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.96755293011665
     },
     {
@@ -1784,7 +1784,7 @@
       "longitude": -73.89310654252768
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000186,
       "latitude": 40.6858662258759,
       "binStatus": "Available",
@@ -2333,7 +2333,7 @@
       "longitude": -73.98598125432342
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 0,
       "serialNumber": 505100010,
       "latitude": 40.75280253801481,
       "binStatus": "Available",
@@ -2378,7 +2378,7 @@
       "longitude": -73.99540269748928
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 0,
       "serialNumber": 505100031,
       "latitude": 40.72948121652991,
       "binStatus": "Available",
@@ -2486,10 +2486,10 @@
       "longitude": -73.99481938922054
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 0,
       "serialNumber": 505100037,
       "latitude": 40.739169439589006,
-      "binStatus": "Nearly Full",
+      "binStatus": "Available",
       "description": "BIN 331 - SE CO Greenwich Ave & 8th Ave",
       "availableForUse": true,
       "longitude": -74.00274561377924
@@ -3107,10 +3107,10 @@
       "longitude": -73.95414933006201
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 0,
       "serialNumber": 505100124,
       "latitude": 40.73044605992985,
-      "binStatus": "Nearly Full",
+      "binStatus": "Available",
       "description": "BIN 333 - NW CO Carmine ST & Bleeker St",
       "availableForUse": true,
       "longitude": -74.0026189895217
@@ -3413,10 +3413,10 @@
       "longitude": -73.99363601223293
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100148,
       "latitude": 40.735894111584756,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 391 - SE CO 2 Ave & E 20 St",
       "availableForUse": true,
       "longitude": -73.98222696429983
