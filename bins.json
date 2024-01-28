@@ -47,12 +47,12 @@
       "longitude": -73.92288388211199
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 60,
       "serialNumber": 3590018,
       "latitude": 40.741339169940716,
-      "binStatus": "Out of Service",
+      "binStatus": "Available",
       "description": "BIN 397 - SE Queens Blvd & 60th St.",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.90472318977118
     },
     {
@@ -101,10 +101,10 @@
       "longitude": -73.92166045665941
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 3590012,
       "latitude": 40.884080646656564,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "Bin 413 - NW W 232nd St & Arlington Ave",
       "availableForUse": true,
       "longitude": -73.91260653734207
@@ -221,9 +221,9 @@
       "latestFullness": 0,
       "serialNumber": 503000004,
       "latitude": 40.75444696790806,
-      "binStatus": "Out of Service",
+      "binStatus": "Available",
       "description": "BIN 224 - NW Broadway & 51st Street",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.90916280189015
     },
     {
@@ -389,7 +389,7 @@
       "longitude": -73.92508216202259
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 60,
       "serialNumber": 503000031,
       "latitude": 40.70206803795076,
       "binStatus": "Available",
@@ -1964,10 +1964,10 @@
       "longitude": -73.96024390254057
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 503000264,
       "latitude": 40.67279917738334,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 215 - NW Rogers Avenue & Sterling Place",
       "availableForUse": true,
       "longitude": -73.95310335432222
@@ -3404,10 +3404,10 @@
       "longitude": -73.97035768079368
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 0,
       "serialNumber": 505100145,
       "latitude": 40.74163391924499,
-      "binStatus": "Nearly Full",
+      "binStatus": "Available",
       "description": "BIN 338 - N/E CO 21st Street and 6th Ave",
       "availableForUse": true,
       "longitude": -73.99363601223293
