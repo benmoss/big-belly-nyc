@@ -428,9 +428,9 @@
       "latestFullness": 0,
       "serialNumber": 503000058,
       "latitude": 40.76737357054309,
-      "binStatus": "Out of Service",
+      "binStatus": "Available",
       "description": "BIN 14 - NE 21st Street & 31st Avenue",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.92958357930183
     },
     {
@@ -533,7 +533,7 @@
       "longitude": -73.94713159650564
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000044,
       "latitude": 40.80556261860785,
       "binStatus": "Available",
@@ -680,9 +680,9 @@
       "latestFullness": 0,
       "serialNumber": 503000061,
       "latitude": 40.76808087642403,
-      "binStatus": "Out of Service",
+      "binStatus": "Available",
       "description": "BIN 15 - SE 31st Avenue & 14th Street",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.93193346987313
     },
     {
@@ -1100,7 +1100,7 @@
       "longitude": -73.90656117349863
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000148,
       "latitude": 40.701373514374744,
       "binStatus": "Available",
@@ -1892,10 +1892,10 @@
       "longitude": -73.94772704690695
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 503000251,
       "latitude": 40.67459377925092,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 216 - NE Rogers Avenue & Prospect Place",
       "availableForUse": true,
       "longitude": -73.95274545997381
@@ -2765,10 +2765,10 @@
       "longitude": -73.99644857287824
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100056,
       "latitude": 40.77779121756704,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 265 - SW CO 2nd Avenue & 86th Street",
       "availableForUse": true,
       "longitude": -73.9519761287763
@@ -2900,7 +2900,7 @@
       "longitude": -73.96888427642509
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 505100093,
       "latitude": 40.7953036151945,
       "binStatus": "Available",
