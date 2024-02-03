@@ -1550,12 +1550,12 @@
       "longitude": -73.9326124638319
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 0,
       "serialNumber": 503000207,
       "latitude": 40.68175217538853,
-      "binStatus": "Full",
+      "binStatus": "Available",
       "description": "BIN 124 - SW Tompkins Avenue & Macon Street",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.9436212554574
     },
     {
@@ -2342,7 +2342,7 @@
       "longitude": -73.98598125432342
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 505100010,
       "latitude": 40.75280253801481,
       "binStatus": "Available",
@@ -3251,7 +3251,7 @@
       "longitude": -73.97864520220962
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 505100147,
       "latitude": 40.767171552566246,
       "binStatus": "Available",
