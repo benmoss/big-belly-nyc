@@ -560,7 +560,7 @@
       "longitude": -73.92911855131388
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 503000041,
       "latitude": 40.81994765597217,
       "binStatus": "Available",
@@ -569,10 +569,10 @@
       "longitude": -73.92879232764244
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 503000042,
       "latitude": 40.764174520197706,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 20 - SE 31st Street & 31st Avenue",
       "availableForUse": true,
       "longitude": -73.92345808446407
@@ -2324,12 +2324,12 @@
       "longitude": -73.94685207786003
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 505100020,
       "latitude": 40.72799056580962,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 317 - SE CO Ave B & E 12 St",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.97899926258084
     },
     {
@@ -2603,12 +2603,12 @@
       "longitude": -73.97665659471008
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 505100026,
       "latitude": 40.78340997537408,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 272 - NW 2nd Ave & 95th St",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.94763141892919
     },
     {
@@ -3179,12 +3179,12 @@
       "longitude": -73.98558684719369
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 505100098,
       "latitude": 40.741609115050146,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 301 - NE CO 2 Ave & E 29 ST",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.97792649980364
     },
     {
@@ -3305,7 +3305,7 @@
       "longitude": -73.98983752643882
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 60,
       "serialNumber": 505100141,
       "latitude": 40.74960582599206,
       "binStatus": "Available",
