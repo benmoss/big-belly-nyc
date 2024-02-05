@@ -182,12 +182,12 @@
       "longitude": -73.95370032638311
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 503000027,
       "latitude": 40.76267874186988,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 03 - SE 31st Avenue & 35th Street",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.92014228572059
     },
     {
@@ -1226,7 +1226,7 @@
       "longitude": -73.95497169345617
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 503000126,
       "latitude": 40.69237838108274,
       "binStatus": "Available",
@@ -2522,10 +2522,10 @@
       "longitude": -73.99849525644926
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100029,
       "latitude": 40.710663476710224,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 249 - SE CO Gold St & Frankfort St.",
       "availableForUse": true,
       "longitude": -74.00341004133224
@@ -2693,7 +2693,7 @@
       "longitude": -73.98896138948061
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 505100072,
       "latitude": 40.71327373740936,
       "binStatus": "Available",
