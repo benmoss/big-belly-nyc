@@ -506,7 +506,7 @@
       "longitude": -73.94453756511211
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 40,
       "serialNumber": 503000048,
       "latitude": 40.7966226877643,
       "binStatus": "Available",
@@ -542,7 +542,7 @@
       "longitude": -73.94713159650564
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 40,
       "serialNumber": 503000044,
       "latitude": 40.80556261860785,
       "binStatus": "Available",
@@ -677,7 +677,7 @@
       "longitude": -73.86818949133158
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 40,
       "serialNumber": 503000063,
       "latitude": 40.76656936634833,
       "binStatus": "Available",
@@ -821,7 +821,7 @@
       "longitude": -73.93855724483728
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 40,
       "serialNumber": 503000085,
       "latitude": 40.80984148378304,
       "binStatus": "Available",
@@ -857,7 +857,7 @@
       "longitude": -73.91521599143744
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000093,
       "latitude": 40.76223009405083,
       "binStatus": "Available",
@@ -1082,7 +1082,7 @@
       "longitude": -73.94146978855133
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000145,
       "latitude": 40.68640155543058,
       "binStatus": "Available",
@@ -1667,7 +1667,7 @@
       "longitude": -73.94542437046766
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 40,
       "serialNumber": 503000218,
       "latitude": 40.694661178530154,
       "binStatus": "Available",
@@ -2018,7 +2018,7 @@
       "longitude": -74.06930956989527
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 503000261,
       "latitude": 40.67676683153248,
       "binStatus": "Available",
@@ -2585,7 +2585,7 @@
       "longitude": -74.0077318323766
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 505100061,
       "latitude": 40.70860458493924,
       "binStatus": "Available",
@@ -2801,10 +2801,10 @@
       "longitude": -73.99013103325534
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100081,
       "latitude": 40.78693626205199,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 367 - SW CO Amsterdam Ave & W 85 St",
       "availableForUse": true,
       "longitude": -73.97570673483682
@@ -2846,12 +2846,12 @@
       "longitude": -73.9766103569379
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 505100074,
       "latitude": 40.77844967182979,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 364 - NW CO West End Ave & W 70 St",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.98593114887535
     },
     {
@@ -2990,7 +2990,7 @@
       "longitude": -73.92903912094495
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 60,
       "serialNumber": 505100094,
       "latitude": 40.79091410359447,
       "binStatus": "Available",
@@ -2999,12 +2999,12 @@
       "longitude": -73.96910423686519
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 505100111,
       "latitude": 40.758836000578,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 294 - NW CO E 56 St & 2 Ave",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.96586280976997
     },
     {
@@ -3035,10 +3035,10 @@
       "longitude": -73.98167006603096
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100100,
       "latitude": 40.773718493770346,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 285 - NE CO 77th & Lexington Ave",
       "availableForUse": true,
       "longitude": -73.95966351954947
@@ -3089,7 +3089,7 @@
       "longitude": -73.9806513567258
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 40,
       "serialNumber": 505100126,
       "latitude": 40.789118885800946,
       "binStatus": "Available",
@@ -3125,10 +3125,10 @@
       "longitude": -73.96841285680578
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100129,
       "latitude": 40.779702163230795,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 376 - NW CO Broadway & W 73 St",
       "availableForUse": true,
       "longitude": -73.98189624416173
@@ -3314,10 +3314,10 @@
       "longitude": -74.00261308139008
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100122,
       "latitude": 40.77622161241313,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 379 - SW CO W 72 St & Central Park W",
       "availableForUse": true,
       "longitude": -73.97619309561924
