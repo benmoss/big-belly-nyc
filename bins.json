@@ -254,7 +254,7 @@
       "longitude": -73.93188491463661
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 40,
       "serialNumber": 503000003,
       "latitude": 40.803170053254796,
       "binStatus": "Available",
@@ -416,7 +416,7 @@
       "longitude": -73.9273372319724
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 503000057,
       "latitude": 40.85571566774662,
       "binStatus": "Available",
@@ -425,10 +425,10 @@
       "longitude": -73.92743781208992
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 503000018,
       "latitude": 40.83478846373379,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 56 - SW Amsterdam Avenue & West 160th Street",
       "availableForUse": true,
       "longitude": -73.94085858017206
@@ -479,12 +479,12 @@
       "longitude": -73.92266314476728
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 503000055,
       "latitude": 40.85039540597644,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 60 - NE Wadsworth Avenue & West 182nd Street",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.93447995185852
     },
     {
@@ -911,10 +911,10 @@
       "longitude": -73.88263955712318
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 503000098,
       "latitude": 40.80545914536109,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 29 - SW West 114th Street & Amsterdam Avenue",
       "availableForUse": true,
       "longitude": -73.96220094562807
@@ -1280,7 +1280,7 @@
       "longitude": -73.96974126370019
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000169,
       "latitude": 40.690318203640174,
       "binStatus": "Available",
@@ -1658,10 +1658,10 @@
       "longitude": -73.82940910756588
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 503000221,
       "latitude": 40.69040997746076,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 121 - SW Tompkins Avenue & Lafayette Avenue",
       "availableForUse": true,
       "longitude": -73.94542437046766
@@ -2441,10 +2441,10 @@
       "longitude": -74.00695323944092
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100003,
       "latitude": 40.73776704120356,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 332 - SE CO 7 Ave & W 13 St",
       "availableForUse": true,
       "longitude": -74.00006544331396
@@ -2486,10 +2486,10 @@
       "longitude": -74.0109745413065
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100023,
       "latitude": 40.7346470054958,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 311 - SW CO W 12 St & 5 Ave",
       "availableForUse": true,
       "longitude": -73.99481938922054
@@ -2504,7 +2504,7 @@
       "longitude": -74.00274561377924
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 505100047,
       "latitude": 40.73539348561974,
       "binStatus": "Available",
@@ -2594,10 +2594,10 @@
       "longitude": -74.0108494516408
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100033,
       "latitude": 40.78070495280861,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 365 - SW Co W 77 St & Columbus Ave",
       "availableForUse": true,
       "longitude": -73.97665659471008
@@ -2873,7 +2873,7 @@
       "longitude": -73.9809653781084
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 60,
       "serialNumber": 505100088,
       "latitude": 40.72865169703771,
       "binStatus": "Available",
@@ -3224,7 +3224,7 @@
       "longitude": -73.9464701336139
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 505100138,
       "latitude": 40.76639459170164,
       "binStatus": "Available",
@@ -3269,12 +3269,12 @@
       "longitude": -73.98249430253485
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 505100142,
       "latitude": 40.73887358712755,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 390 - NE CO E 22 St & Lexington Ave",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.98511663223668
     },
     {
@@ -3296,7 +3296,7 @@
       "longitude": -73.98753543655222
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 505100146,
       "latitude": 40.74723684953337,
       "binStatus": "Available",
@@ -3422,10 +3422,10 @@
       "longitude": -73.98222696429983
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 0,
       "serialNumber": 505100112,
       "latitude": 40.741522457226544,
-      "binStatus": "Nearly Full",
+      "binStatus": "Available",
       "description": "BIN 306 - NW CO 3rd Avenue & 27th Street",
       "availableForUse": true,
       "longitude": -73.98135114745574
