@@ -56,7 +56,7 @@
       "longitude": -73.90472318977118
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 3590020,
       "latitude": 40.746148800069264,
       "binStatus": "Available",
@@ -209,7 +209,7 @@
       "longitude": -73.94273579120636
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000026,
       "latitude": 40.83769228374965,
       "binStatus": "Available",
@@ -497,7 +497,7 @@
       "longitude": -73.95314779132605
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 0,
       "serialNumber": 503000050,
       "latitude": 40.829794034320685,
       "binStatus": "Available",
@@ -506,7 +506,7 @@
       "longitude": -73.94453756511211
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000048,
       "latitude": 40.7966226877643,
       "binStatus": "Available",
@@ -758,10 +758,10 @@
       "longitude": -73.94291717559099
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 503000069,
       "latitude": 40.762088122135914,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 06 - NW 31st Street & Broadway",
       "availableForUse": true,
       "longitude": -73.92557334154844
@@ -1442,7 +1442,7 @@
       "longitude": -73.90980195254087
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 40,
       "serialNumber": 503000181,
       "latitude": 40.68065836586844,
       "binStatus": "Available",
@@ -2333,12 +2333,12 @@
       "longitude": -73.97899926258084
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 505100012,
       "latitude": 40.731190506042964,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 314 - NW CO 2nd Ave & 12th Street",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.98598125432342
     },
     {
@@ -2693,12 +2693,12 @@
       "longitude": -73.98896138948061
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 505100072,
       "latitude": 40.71327373740936,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 262 - NW CO Henry St & Pike St",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.99222918721208
     },
     {
@@ -2819,12 +2819,12 @@
       "longitude": -73.97465123299237
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 100,
       "serialNumber": 505100079,
       "latitude": 40.72376127391616,
-      "binStatus": "Available",
+      "binStatus": "Full",
       "description": "BIN 322 - NW CO Ave A & E 3 St",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.98540060636678
     },
     {
@@ -3008,7 +3008,7 @@
       "longitude": -73.96586280976997
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 60,
       "serialNumber": 505100067,
       "latitude": 40.77168450396742,
       "binStatus": "Available",
@@ -3080,10 +3080,10 @@
       "longitude": -73.99166207937031
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100097,
       "latitude": 40.72556517707213,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 318 - SE CO Ave B & E 8 St",
       "availableForUse": true,
       "longitude": -73.9806513567258
@@ -3278,10 +3278,10 @@
       "longitude": -73.98511663223668
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100137,
       "latitude": 40.74339417050297,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 339 - SW CO 5 Ave & W 26 St",
       "availableForUse": true,
       "longitude": -73.98831240762495
