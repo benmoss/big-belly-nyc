@@ -794,10 +794,10 @@
       "longitude": -73.93777001649141
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 503000075,
       "latitude": 40.76355515935151,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 04 - SE 33rd Street & 31st Avenue",
       "availableForUse": true,
       "longitude": -73.92199024558067
@@ -1190,12 +1190,12 @@
       "longitude": -73.93099308013916
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 0,
       "serialNumber": 503000150,
       "latitude": 40.67358758069033,
-      "binStatus": "Full",
+      "binStatus": "Available",
       "description": "BIN 193 - NW Washington Avenue & St. Johns Place",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.96311119198799
     },
     {
@@ -1559,7 +1559,7 @@
       "longitude": -73.9436212554574
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000206,
       "latitude": 40.68764908091782,
       "binStatus": "Available",
@@ -2270,12 +2270,12 @@
       "longitude": -73.98008527492154
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 505100042,
       "latitude": 40.73752862143271,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 310 - NW 6 Ave & 14th Street",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.99693615022026
     },
     {
@@ -2693,12 +2693,12 @@
       "longitude": -73.98896138948061
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 505100072,
       "latitude": 40.71327373740936,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 262 - NW CO Henry St & Pike St",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.99222918721208
     },
     {
