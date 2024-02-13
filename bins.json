@@ -236,7 +236,7 @@
       "longitude": -73.90916280189015
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000007,
       "latitude": 40.695555464715596,
       "binStatus": "Available",
@@ -245,12 +245,12 @@
       "longitude": -73.94638694822788
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 0,
       "serialNumber": 503000008,
       "latitude": 40.761548735935826,
-      "binStatus": "Full",
+      "binStatus": "Available",
       "description": "BIN 05 - SW 24th Street & 34th Avenue",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.93188491463661
     },
     {
@@ -362,10 +362,10 @@
       "longitude": -73.94016187638044
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 503000025,
       "latitude": 40.854894794369606,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 77 - NE East 181st Street & Morris Avenue",
       "availableForUse": true,
       "longitude": -73.90380453318357
@@ -1109,7 +1109,7 @@
       "longitude": -73.90656117349863
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 0,
       "serialNumber": 503000148,
       "latitude": 40.701373514374744,
       "binStatus": "Available",
@@ -1154,7 +1154,7 @@
       "longitude": -73.90397150069475
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 0,
       "serialNumber": 503000132,
       "latitude": 40.70324915068062,
       "binStatus": "Available",
@@ -1244,7 +1244,7 @@
       "longitude": -73.9271404221654
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 0,
       "serialNumber": 503000156,
       "latitude": 40.70249991438864,
       "binStatus": "Available",
@@ -1334,7 +1334,7 @@
       "longitude": -73.96811317652464
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 0,
       "serialNumber": 503000162,
       "latitude": 40.704966472832965,
       "binStatus": "Available",
@@ -1451,7 +1451,7 @@
       "longitude": -73.93454968929291
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 0,
       "serialNumber": 503000185,
       "latitude": 40.704219889937,
       "binStatus": "Available",
@@ -2126,7 +2126,7 @@
       "longitude": -73.95261202007532
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 0,
       "serialNumber": 503000275,
       "latitude": 40.75290526233439,
       "binStatus": "Available",
@@ -2180,7 +2180,7 @@
       "longitude": -73.9109194278717
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 0,
       "serialNumber": 503000212,
       "latitude": 40.70585647534992,
       "binStatus": "Available",
@@ -2324,7 +2324,7 @@
       "longitude": -73.94685207786003
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 505100020,
       "latitude": 40.72799056580962,
       "binStatus": "Available",
@@ -2909,12 +2909,12 @@
       "longitude": -73.97107263571145
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 505100107,
       "latitude": 40.73674344375692,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 308 - NW CO Park Ave S/Union Square East & E 17 St",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.98908566787568
     },
     {
@@ -3071,10 +3071,10 @@
       "longitude": -73.97335456220875
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100130,
       "latitude": 40.77020285341155,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 357 - SW CO 11th Ave & W 57th St",
       "availableForUse": true,
       "longitude": -73.99166207937031
@@ -3278,12 +3278,12 @@
       "longitude": -73.98511663223668
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 505100137,
       "latitude": 40.74339417050297,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 339 - SW CO 5 Ave & W 26 St",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.98831240762495
     },
     {
