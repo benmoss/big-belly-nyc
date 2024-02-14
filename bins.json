@@ -956,7 +956,7 @@
       "longitude": -73.93987722694874
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 503000078,
       "latitude": 40.81357603431238,
       "binStatus": "Available",
@@ -1919,7 +1919,7 @@
       "longitude": -73.91177110144258
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000254,
       "latitude": 40.67509191438939,
       "binStatus": "Available",
@@ -2018,7 +2018,7 @@
       "longitude": -74.06930956989527
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000261,
       "latitude": 40.67676683153248,
       "binStatus": "Available",
@@ -2324,7 +2324,7 @@
       "longitude": -73.94685207786003
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 505100020,
       "latitude": 40.72799056580962,
       "binStatus": "Available",
@@ -2666,12 +2666,12 @@
       "longitude": -73.98983497462179
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 505100025,
       "latitude": 40.74240669511277,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 343 - NW CO 8TH AVE & 18TH ST",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -74.0007785662345
     },
     {
@@ -2810,10 +2810,10 @@
       "longitude": -73.97570673483682
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100090,
       "latitude": 40.750719268455946,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 395 - SW CO 3 Ave & E 42 St",
       "availableForUse": true,
       "longitude": -73.97465123299237
@@ -3296,10 +3296,10 @@
       "longitude": -73.98753543655222
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100146,
       "latitude": 40.74723684953337,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 340 - SW CO 6 Ave & W 30 St",
       "availableForUse": true,
       "longitude": -73.98983752643882
