@@ -524,7 +524,7 @@
       "longitude": -73.93884859979153
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 0,
       "serialNumber": 503000051,
       "latitude": 40.83816928203937,
       "binStatus": "Available",
@@ -695,12 +695,12 @@
       "longitude": -73.93193346987313
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 0,
       "serialNumber": 503000062,
       "latitude": 40.80507840250284,
-      "binStatus": "Full",
+      "binStatus": "Available",
       "description": "BIN 35 - SW St. Nicholas Avenue & West 118 Street",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.95281787961721
     },
     {
@@ -848,7 +848,7 @@
       "longitude": -73.93804447746935
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000087,
       "latitude": 40.84052114217759,
       "binStatus": "Available",
@@ -1010,7 +1010,7 @@
       "longitude": -73.90436712652445
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000130,
       "latitude": 40.70036020447339,
       "binStatus": "Available",
@@ -1928,7 +1928,7 @@
       "longitude": -73.95637851208448
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 40,
       "serialNumber": 503000257,
       "latitude": 40.670817086934036,
       "binStatus": "Available",
@@ -2135,10 +2135,10 @@
       "longitude": -73.94352234899998
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 0,
       "serialNumber": 503000274,
       "latitude": 40.643029752327344,
-      "binStatus": "Nearly Full",
+      "binStatus": "Available",
       "description": "BIN 232 - NE Richmond Terrace & Ferry Terminal Viaduct",
       "availableForUse": true,
       "longitude": -74.07558023929596
@@ -2297,12 +2297,12 @@
       "longitude": -73.95631212223466
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 0,
       "serialNumber": 505100041,
       "latitude": 40.7703540345238,
-      "binStatus": "Full",
+      "binStatus": "Available",
       "description": "BIN 275 - NE CO 1 Ave & E 76 Street",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.9538887710376
     },
     {
@@ -2495,21 +2495,21 @@
       "longitude": -73.99481938922054
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 0,
       "serialNumber": 505100037,
       "latitude": 40.739169439589006,
-      "binStatus": "Full",
+      "binStatus": "Available",
       "description": "BIN 331 - SE CO Greenwich Ave & 8th Ave",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -74.00274561377924
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 505100047,
       "latitude": 40.73539348561974,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 309 - NE CO Irving PL & E 16 St",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.98759673124307
     },
     {
@@ -2612,10 +2612,10 @@
       "longitude": -73.94763141892919
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100034,
       "latitude": 40.762820138671465,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 352 - NE CO  W 47th Street & 10th Ave",
       "availableForUse": true,
       "longitude": -73.99302401909992
@@ -2684,12 +2684,12 @@
       "longitude": -73.99876398340452
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 0,
       "serialNumber": 505100058,
       "latitude": 40.716735019858994,
-      "binStatus": "Full",
+      "binStatus": "Available",
       "description": "BIN 260 - NE CO Grand St & Essex St",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.98896138948061
     },
     {
@@ -2828,12 +2828,12 @@
       "longitude": -73.98540060636678
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 0,
       "serialNumber": 505100092,
       "latitude": 40.78957914389564,
-      "binStatus": "Full",
+      "binStatus": "Available",
       "description": "BIN 369 - SW CO W 89 St & Amsterdam Ave",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.97379656746796
     },
     {
@@ -3161,12 +3161,12 @@
       "longitude": -73.9780299987419
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 0,
       "serialNumber": 505100104,
       "latitude": 40.76846754015715,
-      "binStatus": "Full",
+      "binStatus": "Available",
       "description": "BIN 287 - NE CO 70th Street & 3rd Avenue",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.96135753145826
     },
     {
@@ -3332,12 +3332,12 @@
       "longitude": -73.95175657391553
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 0,
       "serialNumber": 505100121,
       "latitude": 40.7909709189525,
-      "binStatus": "Full",
+      "binStatus": "Available",
       "description": "BIN 371 - NW CO W 91 St & Amsterdam Ave",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.97276669918094
     },
     {
