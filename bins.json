@@ -344,10 +344,10 @@
       "longitude": -73.93805466592312
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 80,
       "serialNumber": 503000006,
       "latitude": 40.855684792533886,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 61 - NE Cabrini Blvd. & West 187th Street",
       "availableForUse": true,
       "longitude": -73.93778998622929
@@ -416,7 +416,7 @@
       "longitude": -73.9273372319724
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000057,
       "latitude": 40.85571566774662,
       "binStatus": "Available",
@@ -452,7 +452,7 @@
       "longitude": -73.87542713633172
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000060,
       "latitude": 40.81491836063367,
       "binStatus": "Available",
@@ -2405,7 +2405,7 @@
       "longitude": -73.9498927384089
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 505100013,
       "latitude": 40.73565255133342,
       "binStatus": "Available",
@@ -2477,7 +2477,7 @@
       "longitude": -74.01704739779234
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 505100009,
       "latitude": 40.7164061130962,
       "binStatus": "Available",
@@ -2513,7 +2513,7 @@
       "longitude": -73.98759673124307
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 505100046,
       "latitude": 40.73534879130396,
       "binStatus": "Available",
@@ -2756,7 +2756,7 @@
       "longitude": -73.96450973157151
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 505100060,
       "latitude": 40.71026346371404,
       "binStatus": "Available",
@@ -2846,7 +2846,7 @@
       "longitude": -73.9766103569379
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 40,
       "serialNumber": 505100074,
       "latitude": 40.77844967182979,
       "binStatus": "Available",
@@ -3125,7 +3125,7 @@
       "longitude": -73.96841285680578
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 505100129,
       "latitude": 40.779702163230795,
       "binStatus": "Available",
@@ -3449,12 +3449,12 @@
       "longitude": -73.97587379945203
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 0,
       "serialNumber": 505100128,
       "latitude": 40.72662593513809,
-      "binStatus": "Full",
+      "binStatus": "Available",
       "description": "BIN 327 - SW CO Bond St & Lafayette St",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.99427816002996
     }
   ]
