@@ -686,7 +686,7 @@
       "longitude": -73.92594543138473
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000061,
       "latitude": 40.76808087642403,
       "binStatus": "Available",
@@ -1217,7 +1217,7 @@
       "longitude": -73.92600182443857
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000158,
       "latitude": 40.68871201420607,
       "binStatus": "Available",
@@ -2873,12 +2873,12 @@
       "longitude": -73.9809653781084
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 505100088,
       "latitude": 40.72865169703771,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 316 - NW CO 3rd Ave & E 6th St",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.99090145996239
     },
     {
@@ -3071,12 +3071,12 @@
       "longitude": -73.97335456220875
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 0,
       "serialNumber": 505100130,
       "latitude": 40.77020285341155,
-      "binStatus": "Full",
+      "binStatus": "Available",
       "description": "BIN 357 - SW CO 11th Ave & W 57th St",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.99166207937031
     },
     {
@@ -3296,10 +3296,10 @@
       "longitude": -73.98753543655222
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100146,
       "latitude": 40.74723684953337,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 340 - SW CO 6 Ave & W 30 St",
       "availableForUse": true,
       "longitude": -73.98983752643882
