@@ -236,7 +236,7 @@
       "longitude": -73.90916280189015
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000007,
       "latitude": 40.695555464715596,
       "binStatus": "Available",
@@ -551,7 +551,7 @@
       "longitude": -73.93639236688614
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 60,
       "serialNumber": 503000045,
       "latitude": 40.768332138355355,
       "binStatus": "Available",
@@ -650,12 +650,12 @@
       "longitude": -73.93176387995481
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 100,
       "serialNumber": 503000036,
       "latitude": 40.6778510426927,
-      "binStatus": "Available",
+      "binStatus": "Full",
       "description": "BIN 187 - NW Vanderbilt Avenue & Prospect Place",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.96890208125114
     },
     {
@@ -677,7 +677,7 @@
       "longitude": -73.86818949133158
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 60,
       "serialNumber": 503000063,
       "latitude": 40.76656936634833,
       "binStatus": "Available",
@@ -839,7 +839,7 @@
       "longitude": -73.90847526490688
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 60,
       "serialNumber": 503000089,
       "latitude": 40.85534820347924,
       "binStatus": "Available",
@@ -1271,16 +1271,16 @@
       "longitude": -73.90958435833454
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 100,
       "serialNumber": 503000168,
       "latitude": 40.6755571241916,
-      "binStatus": "Available",
+      "binStatus": "Full",
       "description": "BIN 188 - NW Vanderbilt Avenue & Plaza Street East",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.96974126370019
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 503000169,
       "latitude": 40.690318203640174,
       "binStatus": "Available",
@@ -1820,7 +1820,7 @@
       "longitude": -73.92542146146297
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 503000234,
       "latitude": 40.62214723793611,
       "binStatus": "Available",
@@ -2108,7 +2108,7 @@
       "longitude": -73.93931295722723
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 60,
       "serialNumber": 503000276,
       "latitude": 40.67165676594622,
       "binStatus": "Available",
@@ -2198,7 +2198,7 @@
       "longitude": -73.93855053931475
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000202,
       "latitude": 40.66971391909037,
       "binStatus": "Available",
@@ -2351,7 +2351,7 @@
       "longitude": -73.99692150445948
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 60,
       "serialNumber": 505100049,
       "latitude": 40.70676048283521,
       "binStatus": "Available",
@@ -2378,7 +2378,7 @@
       "longitude": -73.99051628208568
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 60,
       "serialNumber": 505100008,
       "latitude": 40.7391347154904,
       "binStatus": "Available",
@@ -2639,7 +2639,7 @@
       "longitude": -73.95855413649969
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 60,
       "serialNumber": 505100063,
       "latitude": 40.71256505742161,
       "binStatus": "Available",
@@ -2666,12 +2666,12 @@
       "longitude": -73.98983497462179
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 505100025,
       "latitude": 40.74240669511277,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 343 - NW CO 8TH AVE & 18TH ST",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -74.0007785662345
     },
     {
@@ -2729,7 +2729,7 @@
       "longitude": -74.0047200044207
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 60,
       "serialNumber": 505100059,
       "latitude": 40.718786682897935,
       "binStatus": "Available",
@@ -2828,7 +2828,7 @@
       "longitude": -73.98540060636678
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 60,
       "serialNumber": 505100092,
       "latitude": 40.78957914389564,
       "binStatus": "Available",
@@ -2837,10 +2837,10 @@
       "longitude": -73.97379656746796
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 80,
       "serialNumber": 505100095,
       "latitude": 40.74408502157723,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 300 - SW CO E 33 St & 2 Ave",
       "availableForUse": true,
       "longitude": -73.9766103569379
@@ -2855,7 +2855,7 @@
       "longitude": -73.98593114887535
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 60,
       "serialNumber": 505100083,
       "latitude": 40.72496280254391,
       "binStatus": "Available",
@@ -2990,12 +2990,12 @@
       "longitude": -73.92903912094495
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 505100094,
       "latitude": 40.79091410359447,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 382 - SW CO W 93 St & Columbus Ave",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.96910423686519
     },
     {
@@ -3206,7 +3206,7 @@
       "longitude": -73.99655276134223
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 505100133,
       "latitude": 40.79786101513957,
       "binStatus": "Available",
@@ -3251,7 +3251,7 @@
       "longitude": -73.97864520220962
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 60,
       "serialNumber": 505100147,
       "latitude": 40.767171552566246,
       "binStatus": "Available",
@@ -3269,7 +3269,7 @@
       "longitude": -73.98249430253485
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 505100142,
       "latitude": 40.73887358712755,
       "binStatus": "Available",
