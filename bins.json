@@ -416,7 +416,7 @@
       "longitude": -73.9273372319724
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000057,
       "latitude": 40.85571566774662,
       "binStatus": "Available",
@@ -902,7 +902,7 @@
       "longitude": -73.91744524240494
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000096,
       "latitude": 40.8721462108312,
       "binStatus": "Available",
@@ -1361,7 +1361,7 @@
       "longitude": -73.89874320477247
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000176,
       "latitude": 40.680852618800145,
       "binStatus": "Available",
@@ -2333,10 +2333,10 @@
       "longitude": -73.97899926258084
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100012,
       "latitude": 40.731190506042964,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 314 - NW CO 2nd Ave & 12th Street",
       "availableForUse": true,
       "longitude": -73.98598125432342
@@ -2450,10 +2450,10 @@
       "longitude": -74.00006544331396
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100022,
       "latitude": 40.73287635373648,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 334 - SW CO Hudson St & Christopher St",
       "availableForUse": true,
       "longitude": -74.00655866692779
@@ -3035,12 +3035,12 @@
       "longitude": -73.98167006603096
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 505100100,
       "latitude": 40.773718493770346,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 285 - NE CO 77th & Lexington Ave",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.95966351954947
     },
     {
