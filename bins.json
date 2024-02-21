@@ -902,12 +902,12 @@
       "longitude": -73.91744524240494
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 0,
       "serialNumber": 503000096,
       "latitude": 40.8721462108312,
-      "binStatus": "Full",
+      "binStatus": "Available",
       "description": "BIN 91 - NW Bainbridge Avenue & East Mosholu Parkway S",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.88263955712318
     },
     {
@@ -974,7 +974,7 @@
       "longitude": -73.92586905509233
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000138,
       "latitude": 40.678764370117854,
       "binStatus": "Available",
@@ -2045,10 +2045,10 @@
       "longitude": -74.0864036232233
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 503000272,
       "latitude": 40.62262016360215,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 239 - NW Houston Street & Willowbrook Road",
       "availableForUse": true,
       "longitude": -74.14456080612285
@@ -3368,7 +3368,7 @@
       "longitude": -74.00684701383747
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 0,
       "serialNumber": 505100135,
       "latitude": 40.758930399023754,
       "binStatus": "Available",
