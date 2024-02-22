@@ -200,12 +200,12 @@
       "longitude": -74.11656774580479
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 503000002,
       "latitude": 40.802377335586115,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 51 - NE East 120 Street & Madison Avenue",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.94273579120636
     },
     {
@@ -254,12 +254,12 @@
       "longitude": -73.93188491463661
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 0,
       "serialNumber": 503000003,
       "latitude": 40.803170053254796,
-      "binStatus": "Full",
+      "binStatus": "Available",
       "description": "BIN 34 - SE West 118 Street & Lenox Avenue",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.94863547733536
     },
     {
@@ -533,12 +533,12 @@
       "longitude": -73.93815591931343
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 0,
       "serialNumber": 503000052,
       "latitude": 40.805835432729474,
-      "binStatus": "Full",
+      "binStatus": "Available",
       "description": "BIN 36 - SW West 122 Street & Malcolm X Blvd",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.94713159650564
     },
     {
@@ -695,12 +695,12 @@
       "longitude": -73.93193346987313
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 0,
       "serialNumber": 503000062,
       "latitude": 40.80507840250284,
-      "binStatus": "Full",
+      "binStatus": "Available",
       "description": "BIN 35 - SW St. Nicholas Avenue & West 118 Street",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.95281787961721
     },
     {
@@ -821,10 +821,10 @@
       "longitude": -73.93855724483728
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 0,
       "serialNumber": 503000085,
       "latitude": 40.80984148378304,
-      "binStatus": "Nearly Full",
+      "binStatus": "Available",
       "description": "BIN 37 - NW West 126th Street & Adam Clayton Powell Jr Blvd",
       "availableForUse": true,
       "longitude": -73.94765663892031
@@ -938,7 +938,7 @@
       "longitude": -73.95624071359634
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 503000076,
       "latitude": 40.791411617905716,
       "binStatus": "Available",
@@ -2243,12 +2243,12 @@
       "longitude": -73.94638707990978
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 0,
       "serialNumber": 505100038,
       "latitude": 40.780081383690586,
-      "binStatus": "Full",
+      "binStatus": "Available",
       "description": "BIN 277 - SW CO 3rd Ave & East 88th St",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.9532222620251
     },
     {
@@ -2423,12 +2423,12 @@
       "longitude": -73.9869912541827
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 0,
       "serialNumber": 505100045,
       "latitude": 40.74639647509707,
-      "binStatus": "Full",
+      "binStatus": "Available",
       "description": "BIN 342 - SW CO 10 Ave & W 21 St",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -74.00526163846435
     },
     {
@@ -2504,7 +2504,7 @@
       "longitude": -74.00274561377924
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 0,
       "serialNumber": 505100047,
       "latitude": 40.73539348561974,
       "binStatus": "Available",
@@ -2567,12 +2567,12 @@
       "longitude": -73.95019042066897
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 0,
       "serialNumber": 505100036,
       "latitude": 40.74644184775195,
-      "binStatus": "Full",
+      "binStatus": "Available",
       "description": "BIN 344 - SE CO 8 Ave & W 25 St",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.99747696934338
     },
     {
@@ -2666,7 +2666,7 @@
       "longitude": -73.98983497462179
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 0,
       "serialNumber": 505100025,
       "latitude": 40.74240669511277,
       "binStatus": "Available",
@@ -2909,7 +2909,7 @@
       "longitude": -73.97107263571145
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 0,
       "serialNumber": 505100107,
       "latitude": 40.73674344375692,
       "binStatus": "Available",
