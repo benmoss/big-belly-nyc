@@ -146,7 +146,7 @@
       "longitude": -73.90993109059836
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 0,
       "serialNumber": 3590009,
       "latitude": 40.88637790151751,
       "binStatus": "Available",
@@ -155,7 +155,7 @@
       "longitude": -73.91430705785751
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 60,
       "serialNumber": 3590002,
       "latitude": 40.7214226207243,
       "binStatus": "Available",
@@ -308,7 +308,7 @@
       "longitude": -73.91832768131844
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 60,
       "serialNumber": 503000017,
       "latitude": 40.81773208281474,
       "binStatus": "Available",
@@ -956,7 +956,7 @@
       "longitude": -73.93987722694874
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 503000078,
       "latitude": 40.81357603431238,
       "binStatus": "Available",
@@ -1019,7 +1019,7 @@
       "longitude": -73.92899550497532
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 40,
       "serialNumber": 503000136,
       "latitude": 40.67726495043478,
       "binStatus": "Available",
@@ -1730,7 +1730,7 @@
       "longitude": -73.91965739428997
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000225,
       "latitude": 40.6865703680712,
       "binStatus": "Available",
@@ -1910,7 +1910,7 @@
       "longitude": -73.95274545997381
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000247,
       "latitude": 40.69513132458968,
       "binStatus": "Available",
@@ -1991,10 +1991,10 @@
       "longitude": -73.92220901788035
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 503000263,
       "latitude": 40.67867868263691,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 220 - NE Flatbush Avenue & Prospect Place",
       "availableForUse": true,
       "longitude": -73.97343333810568
@@ -2315,12 +2315,12 @@
       "longitude": -73.99722146507379
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 505100014,
       "latitude": 40.78010940688603,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 267 - NE CO 1st Ave & 91ST St",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.94685207786003
     },
     {
@@ -2531,7 +2531,7 @@
       "longitude": -74.00341004133224
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 60,
       "serialNumber": 505100017,
       "latitude": 40.705075385840445,
       "binStatus": "Available",
@@ -2675,19 +2675,19 @@
       "longitude": -74.0007785662345
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100064,
       "latitude": 40.718560301291866,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 261 - NW CO Hester ST & Baxter St",
       "availableForUse": true,
       "longitude": -73.99876398340452
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100058,
       "latitude": 40.716735019858994,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 260 - NE CO Grand St & Essex St",
       "availableForUse": true,
       "longitude": -73.98896138948061
@@ -3116,12 +3116,12 @@
       "longitude": -74.0026189895217
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 505100125,
       "latitude": 40.786641828294435,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 368 - NW CO W 88 St & Central Park W",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.96841285680578
     },
     {
@@ -3206,7 +3206,7 @@
       "longitude": -73.99655276134223
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 60,
       "serialNumber": 505100133,
       "latitude": 40.79786101513957,
       "binStatus": "Available",
@@ -3332,10 +3332,10 @@
       "longitude": -73.95175657391553
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100121,
       "latitude": 40.7909709189525,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 371 - NW CO W 91 St & Amsterdam Ave",
       "availableForUse": true,
       "longitude": -73.97276669918094
@@ -3449,7 +3449,7 @@
       "longitude": -73.97587379945203
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 60,
       "serialNumber": 505100128,
       "latitude": 40.72662593513809,
       "binStatus": "Available",
