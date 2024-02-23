@@ -398,7 +398,7 @@
       "longitude": -73.92508216202259
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000031,
       "latitude": 40.70206803795076,
       "binStatus": "Available",
@@ -650,7 +650,7 @@
       "longitude": -73.93176387995481
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 503000036,
       "latitude": 40.6778510426927,
       "binStatus": "Available",
@@ -785,7 +785,7 @@
       "longitude": -73.93471363931894
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 503000073,
       "latitude": 40.813082487843964,
       "binStatus": "Available",
@@ -884,7 +884,7 @@
       "longitude": -73.90734169632196
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000094,
       "latitude": 40.7666826313674,
       "binStatus": "Available",
@@ -1460,12 +1460,12 @@
       "longitude": -73.91591713080048
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 503000184,
       "latitude": 40.673104182956976,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 189 - NE Underhill Avenue & Eastern Parkway",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.96755293011665
     },
     {
@@ -1496,7 +1496,7 @@
       "longitude": -73.85720618069172
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000200,
       "latitude": 40.68219457581468,
       "binStatus": "Available",
@@ -2234,10 +2234,10 @@
       "longitude": -73.94892745726821
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100018,
       "latitude": 40.77294782166341,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 270 - SW CO 83rd & East End",
       "availableForUse": true,
       "longitude": -73.94638707990978
@@ -2252,12 +2252,12 @@
       "longitude": -73.9532222620251
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 505100048,
       "latitude": 40.778333070963065,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 271 - NW CO 1st Ave & 88th St",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.94848935814979
     },
     {
@@ -2288,7 +2288,7 @@
       "longitude": -74.00206860154867
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 505100050,
       "latitude": 40.77142731268294,
       "binStatus": "Available",
@@ -2423,7 +2423,7 @@
       "longitude": -73.9869912541827
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 505100045,
       "latitude": 40.74639647509707,
       "binStatus": "Available",
@@ -2621,7 +2621,7 @@
       "longitude": -73.99302401909992
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 505100002,
       "latitude": 40.76863578734461,
       "binStatus": "Available",
@@ -2675,7 +2675,7 @@
       "longitude": -74.0007785662345
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 60,
       "serialNumber": 505100064,
       "latitude": 40.718560301291866,
       "binStatus": "Available",
@@ -2774,12 +2774,12 @@
       "longitude": -73.9519761287763
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 505100075,
       "latitude": 40.778060906549015,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 394 - SW CO E 85 St & 3 Ave",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.95466305211644
     },
     {
@@ -2891,12 +2891,12 @@
       "longitude": -73.95335140977043
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 505100087,
       "latitude": 40.798370790247,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 384 - SE CO Broadway & W 102 St",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.96888427642509
     },
     {
@@ -3269,7 +3269,7 @@
       "longitude": -73.98249430253485
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 505100142,
       "latitude": 40.73887358712755,
       "binStatus": "Available",
@@ -3323,16 +3323,16 @@
       "longitude": -73.97619309561924
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100149,
       "latitude": 40.77380204413203,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 393 - NW CO 1 Ave & E 81 St",
       "availableForUse": true,
       "longitude": -73.95175657391553
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 60,
       "serialNumber": 505100121,
       "latitude": 40.7909709189525,
       "binStatus": "Available",
@@ -3350,7 +3350,7 @@
       "longitude": -73.97196531694908
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 505100140,
       "latitude": 40.760441717606135,
       "binStatus": "Available",
