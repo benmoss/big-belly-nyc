@@ -668,7 +668,7 @@
       "longitude": -73.86818949133158
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 60,
       "serialNumber": 503000063,
       "latitude": 40.76656936634833,
       "binStatus": "Available",
@@ -740,7 +740,7 @@
       "longitude": -73.92632732264548
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 60,
       "serialNumber": 503000070,
       "latitude": 40.83161371635521,
       "binStatus": "Available",
@@ -893,12 +893,12 @@
       "longitude": -73.91744524240494
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 0,
       "serialNumber": 503000096,
       "latitude": 40.8721462108312,
-      "binStatus": "Full",
+      "binStatus": "Available",
       "description": "BIN 91 - NW Bainbridge Avenue & East Mosholu Parkway S",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.88263955712318
     },
     {
@@ -983,7 +983,7 @@
       "longitude": -73.92874404788017
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 503000131,
       "latitude": 40.688233556498346,
       "binStatus": "Available",
@@ -1316,12 +1316,12 @@
       "longitude": -73.91542855650187
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 503000175,
       "latitude": 40.68014247411724,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 186 - SW Vanderbilt Avenue & Dean Street",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.96811317652464
     },
     {
@@ -2351,7 +2351,7 @@
       "longitude": -74.00691708161023
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 0,
       "serialNumber": 505100052,
       "latitude": 40.71989182112748,
       "binStatus": "Available",
@@ -2540,12 +2540,12 @@
       "longitude": -73.99466765892298
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 505100032,
       "latitude": 40.765863654327504,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 279 - SW CO Main St & River Road",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.9463083404101
     },
     {
@@ -2756,21 +2756,21 @@
       "longitude": -73.99644857287824
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 0,
       "serialNumber": 505100056,
       "latitude": 40.77779121756704,
-      "binStatus": "Full",
+      "binStatus": "Available",
       "description": "BIN 265 - SW CO 2nd Avenue & 86th Street",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.9519761287763
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 0,
       "serialNumber": 505100075,
       "latitude": 40.778060906549015,
-      "binStatus": "Full",
+      "binStatus": "Available",
       "description": "BIN 394 - SW CO E 85 St & 3 Ave",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.95466305211644
     },
     {
@@ -2882,7 +2882,7 @@
       "longitude": -73.95335140977043
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 505100087,
       "latitude": 40.798370790247,
       "binStatus": "Available",
@@ -3071,7 +3071,7 @@
       "longitude": -73.99166207937031
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 60,
       "serialNumber": 505100097,
       "latitude": 40.72556517707213,
       "binStatus": "Available",
@@ -3161,7 +3161,7 @@
       "longitude": -73.96135753145826
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 0,
       "serialNumber": 505100113,
       "latitude": 40.741606235945184,
       "binStatus": "Available",
@@ -3269,7 +3269,7 @@
       "longitude": -73.98511663223668
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 0,
       "serialNumber": 505100137,
       "latitude": 40.74339417050297,
       "binStatus": "Available",
@@ -3287,10 +3287,10 @@
       "longitude": -73.98753543655222
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 0,
       "serialNumber": 505100146,
       "latitude": 40.74723684953337,
-      "binStatus": "Nearly Full",
+      "binStatus": "Available",
       "description": "BIN 340 - SW CO 6 Ave & W 30 St",
       "availableForUse": true,
       "longitude": -73.98983752643882
@@ -3395,10 +3395,10 @@
       "longitude": -73.97035768079368
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 0,
       "serialNumber": 505100145,
       "latitude": 40.74163391924499,
-      "binStatus": "Nearly Full",
+      "binStatus": "Available",
       "description": "BIN 338 - N/E CO 21st Street and 6th Ave",
       "availableForUse": true,
       "longitude": -73.99363601223293
