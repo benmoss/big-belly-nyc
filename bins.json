@@ -416,12 +416,12 @@
       "longitude": -73.92743781208992
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 0,
       "serialNumber": 503000018,
       "latitude": 40.83478846373379,
-      "binStatus": "Full",
+      "binStatus": "Available",
       "description": "BIN 56 - SW Amsterdam Avenue & West 160th Street",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.94085858017206
     },
     {
@@ -497,7 +497,7 @@
       "longitude": -73.94453756511211
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 0,
       "serialNumber": 503000048,
       "latitude": 40.7966226877643,
       "binStatus": "Available",
@@ -866,7 +866,7 @@
       "longitude": -73.92934955656528
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 40,
       "serialNumber": 503000092,
       "latitude": 40.695079598177166,
       "binStatus": "Available",
@@ -1478,7 +1478,7 @@
       "longitude": -73.88634603470564
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 0,
       "serialNumber": 503000183,
       "latitude": 40.81799951849948,
       "binStatus": "Available",
@@ -1487,7 +1487,7 @@
       "longitude": -73.85720618069172
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 60,
       "serialNumber": 503000200,
       "latitude": 40.68219457581468,
       "binStatus": "Available",
@@ -1721,7 +1721,7 @@
       "longitude": -73.91965739428997
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 503000225,
       "latitude": 40.6865703680712,
       "binStatus": "Available",
@@ -1829,10 +1829,10 @@
       "longitude": -73.94294936209917
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 503000240,
       "latitude": 40.67428152112551,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 198 - NW New York Avenue & Prospect Place",
       "availableForUse": true,
       "longitude": -73.94742764532566
@@ -1955,10 +1955,10 @@
       "longitude": -74.14217077195644
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 503000244,
       "latitude": 40.67498593224985,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 194 - NW Classon Avenue & Park Place",
       "availableForUse": true,
       "longitude": -73.96024390254057
@@ -2108,7 +2108,7 @@
       "longitude": -73.95756002515554
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 503000273,
       "latitude": 40.67710908208188,
       "binStatus": "Available",
@@ -2225,12 +2225,12 @@
       "longitude": -73.94892745726821
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 0,
       "serialNumber": 505100018,
       "latitude": 40.77294782166341,
-      "binStatus": "Full",
+      "binStatus": "Available",
       "description": "BIN 270 - SW CO 83rd & East End",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.94638707990978
     },
     {
@@ -2495,7 +2495,7 @@
       "longitude": -74.00274561377924
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 0,
       "serialNumber": 505100047,
       "latitude": 40.73539348561974,
       "binStatus": "Available",
@@ -3089,12 +3089,12 @@
       "longitude": -73.96666802317641
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 505100132,
       "latitude": 40.757513465018945,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 325 - SW CO W Main Street and Main Street (by Tram Terminal)",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.95414933006201
     },
     {
@@ -3170,7 +3170,7 @@
       "longitude": -73.98558684719369
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 505100098,
       "latitude": 40.741609115050146,
       "binStatus": "Available",
@@ -3323,10 +3323,10 @@
       "longitude": -73.95175657391553
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 0,
       "serialNumber": 505100121,
       "latitude": 40.7909709189525,
-      "binStatus": "Nearly Full",
+      "binStatus": "Available",
       "description": "BIN 371 - NW CO W 91 St & Amsterdam Ave",
       "availableForUse": true,
       "longitude": -73.97276669918094
