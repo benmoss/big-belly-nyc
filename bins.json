@@ -443,7 +443,7 @@
       "longitude": -73.87542713633172
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 0,
       "serialNumber": 503000060,
       "latitude": 40.81491836063367,
       "binStatus": "Available",
@@ -722,7 +722,7 @@
       "longitude": -73.93138837069273
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 0,
       "serialNumber": 503000068,
       "latitude": 40.64305722769547,
       "binStatus": "Available",
@@ -749,12 +749,12 @@
       "longitude": -73.94291717559099
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 503000069,
       "latitude": 40.762088122135914,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 06 - NW 31st Street & Broadway",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.92557334154844
     },
     {
@@ -947,7 +947,7 @@
       "longitude": -73.93987722694874
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 503000078,
       "latitude": 40.81357603431238,
       "binStatus": "Available",
@@ -1442,7 +1442,7 @@
       "longitude": -73.93454968929291
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 40,
       "serialNumber": 503000185,
       "latitude": 40.704219889937,
       "binStatus": "Available",
@@ -1649,7 +1649,7 @@
       "longitude": -73.82940910756588
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 40,
       "serialNumber": 503000221,
       "latitude": 40.69040997746076,
       "binStatus": "Available",
@@ -1667,7 +1667,7 @@
       "longitude": -73.93744513392448
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 503000219,
       "latitude": 40.75685380877115,
       "binStatus": "Available",
@@ -1811,7 +1811,7 @@
       "longitude": -73.92542146146297
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 0,
       "serialNumber": 503000234,
       "latitude": 40.62214723793611,
       "binStatus": "Available",
@@ -2126,7 +2126,7 @@
       "longitude": -73.94352234899998
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 0,
       "serialNumber": 503000274,
       "latitude": 40.643029752327344,
       "binStatus": "Available",
@@ -2216,19 +2216,19 @@
       "longitude": -73.98717944724858
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100039,
       "latitude": 40.781609451116324,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 274 - SE CO E 92 St & 2 Ave",
       "availableForUse": true,
       "longitude": -73.94892745726821
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 0,
       "serialNumber": 505100018,
       "latitude": 40.77294782166341,
-      "binStatus": "Nearly Full",
+      "binStatus": "Available",
       "description": "BIN 270 - SW CO 83rd & East End",
       "availableForUse": true,
       "longitude": -73.94638707990978
@@ -2360,10 +2360,10 @@
       "longitude": -73.99195962283002
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100019,
       "latitude": 40.731496522321486,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 315 - NW CO 4 Ave & E 10 St",
       "availableForUse": true,
       "longitude": -73.99051628208568
@@ -2405,7 +2405,7 @@
       "longitude": -74.00171998103215
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 0,
       "serialNumber": 505100051,
       "latitude": 40.72504420607064,
       "binStatus": "Available",
@@ -2495,7 +2495,7 @@
       "longitude": -74.00274561377924
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 0,
       "serialNumber": 505100047,
       "latitude": 40.73539348561974,
       "binStatus": "Available",
@@ -2594,7 +2594,7 @@
       "longitude": -73.97665659471008
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 505100026,
       "latitude": 40.78340997537408,
       "binStatus": "Available",
@@ -2612,19 +2612,19 @@
       "longitude": -73.99302401909992
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 505100002,
       "latitude": 40.76863578734461,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 268 - SE CO 2nd Avenue & 72nd Street",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.95822445057821
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100016,
       "latitude": 40.76404560103803,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 269 - NE CO E 66 St & 1 Ave",
       "availableForUse": true,
       "longitude": -73.95855413649969
@@ -2819,7 +2819,7 @@
       "longitude": -73.98540060636678
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 0,
       "serialNumber": 505100092,
       "latitude": 40.78957914389564,
       "binStatus": "Available",
@@ -3116,10 +3116,10 @@
       "longitude": -73.96841285680578
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100129,
       "latitude": 40.779702163230795,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 376 - NW CO Broadway & W 73 St",
       "availableForUse": true,
       "longitude": -73.98189624416173
@@ -3395,10 +3395,10 @@
       "longitude": -73.97035768079368
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 0,
       "serialNumber": 505100145,
       "latitude": 40.74163391924499,
-      "binStatus": "Nearly Full",
+      "binStatus": "Available",
       "description": "BIN 338 - N/E CO 21st Street and 6th Ave",
       "availableForUse": true,
       "longitude": -73.99363601223293
@@ -3431,10 +3431,10 @@
       "longitude": -73.9799463692325
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 0,
       "serialNumber": 505100115,
       "latitude": 40.78876861933553,
-      "binStatus": "Nearly Full",
+      "binStatus": "Available",
       "description": "BIN 380 - SE CO Broadway & W 87 St",
       "availableForUse": true,
       "longitude": -73.97587379945203
