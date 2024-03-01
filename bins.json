@@ -785,10 +785,10 @@
       "longitude": -73.93777001649141
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 503000075,
       "latitude": 40.76355515935151,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 04 - SE 33rd Street & 31st Avenue",
       "availableForUse": true,
       "longitude": -73.92199024558067
@@ -2009,12 +2009,12 @@
       "longitude": -74.06930956989527
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 503000261,
       "latitude": 40.67676683153248,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 199 - NW New York Avenue & Dean Street",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.9471010863781
     },
     {
@@ -2225,7 +2225,7 @@
       "longitude": -73.94892745726821
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 505100018,
       "latitude": 40.77294782166341,
       "binStatus": "Available",
@@ -2351,10 +2351,10 @@
       "longitude": -74.00691708161023
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 0,
       "serialNumber": 505100052,
       "latitude": 40.71989182112748,
-      "binStatus": "Nearly Full",
+      "binStatus": "Available",
       "description": "BIN 255 -  NE CO Delancey St & Forsyth St",
       "availableForUse": true,
       "longitude": -73.99195962283002
@@ -2486,7 +2486,7 @@
       "longitude": -73.99481938922054
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 505100037,
       "latitude": 40.739169439589006,
       "binStatus": "Available",
