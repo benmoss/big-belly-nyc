@@ -29,7 +29,7 @@
       "longitude": -73.9175371080637
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 60,
       "serialNumber": 3590014,
       "latitude": 40.745373137079994,
       "binStatus": "Available",
@@ -272,7 +272,7 @@
       "longitude": -73.92011906951666
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 503000012,
       "latitude": 40.820960776484476,
       "binStatus": "Available",
@@ -443,7 +443,7 @@
       "longitude": -73.87542713633172
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 0,
       "serialNumber": 503000060,
       "latitude": 40.81491836063367,
       "binStatus": "Available",
@@ -479,7 +479,7 @@
       "longitude": -73.93447995185852
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 0,
       "serialNumber": 503000056,
       "latitude": 40.817629573974216,
       "binStatus": "Available",
@@ -650,7 +650,7 @@
       "longitude": -73.96890208125114
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000047,
       "latitude": 40.80229053822756,
       "binStatus": "Available",
@@ -902,12 +902,12 @@
       "longitude": -73.88263955712318
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 503000098,
       "latitude": 40.80545914536109,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 29 - SW West 114th Street & Amsterdam Avenue",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.96220094562807
     },
     {
@@ -1010,7 +1010,7 @@
       "longitude": -73.92899550497532
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 60,
       "serialNumber": 503000136,
       "latitude": 40.67726495043478,
       "binStatus": "Available",
@@ -1469,7 +1469,7 @@
       "longitude": -73.91690745949745
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 0,
       "serialNumber": 503000192,
       "latitude": 40.852149853823676,
       "binStatus": "Available",
@@ -1739,7 +1739,7 @@
       "longitude": -73.93027022480965
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 0,
       "serialNumber": 503000229,
       "latitude": 40.82775764614125,
       "binStatus": "Available",
@@ -1820,7 +1820,7 @@
       "longitude": -74.07850451767445
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 40,
       "serialNumber": 503000239,
       "latitude": 40.69389322166022,
       "binStatus": "Available",
@@ -2270,7 +2270,7 @@
       "longitude": -73.99693615022026
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 0,
       "serialNumber": 505100005,
       "latitude": 40.70815249011514,
       "binStatus": "Available",
@@ -2441,10 +2441,10 @@
       "longitude": -74.00006544331396
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 0,
       "serialNumber": 505100022,
       "latitude": 40.73287635373648,
-      "binStatus": "Nearly Full",
+      "binStatus": "Available",
       "description": "BIN 334 - SW CO Hudson St & Christopher St",
       "availableForUse": true,
       "longitude": -74.00655866692779
@@ -2567,7 +2567,7 @@
       "longitude": -73.99747696934338
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 0,
       "serialNumber": 505100044,
       "latitude": 40.73121273762785,
       "binStatus": "Available",
@@ -2675,12 +2675,12 @@
       "longitude": -73.99876398340452
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 0,
       "serialNumber": 505100058,
       "latitude": 40.716735019858994,
-      "binStatus": "Full",
+      "binStatus": "Available",
       "description": "BIN 260 - NE CO Grand St & Essex St",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.98896138948061
     },
     {
@@ -2702,19 +2702,19 @@
       "longitude": -74.01312500238419
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 505100057,
       "latitude": 40.77544607677087,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 266 - NW CO 2nd Ave & 82nd Street",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.9535946787067
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100069,
       "latitude": 40.724874101417406,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 254 - SW CO 6 Ave & Dominick St",
       "availableForUse": true,
       "longitude": -74.0047200044207
@@ -2747,7 +2747,7 @@
       "longitude": -73.96450973157151
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 0,
       "serialNumber": 505100060,
       "latitude": 40.71026346371404,
       "binStatus": "Available",
@@ -2918,12 +2918,12 @@
       "longitude": -73.9833025251433
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 505100086,
       "latitude": 40.781894893686875,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 366 - NE CO W 77 St & Amsterdam Ave",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.97906581678058
     },
     {
@@ -3413,7 +3413,7 @@
       "longitude": -73.98222696429983
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 0,
       "serialNumber": 505100112,
       "latitude": 40.741522457226544,
       "binStatus": "Available",
