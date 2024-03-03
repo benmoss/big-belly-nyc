@@ -596,7 +596,7 @@
       "longitude": -73.9660133421421
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 60,
       "serialNumber": 503000039,
       "latitude": 40.82647613312916,
       "binStatus": "Available",
@@ -704,7 +704,7 @@
       "longitude": -73.92701134085655
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 503000065,
       "latitude": 40.76524333304795,
       "binStatus": "Available",
@@ -740,12 +740,12 @@
       "longitude": -73.92632732264548
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 503000070,
       "latitude": 40.83161371635521,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 55 - NE Amsterdam Avenue & West 155th Street",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.94291717559099
     },
     {
@@ -938,7 +938,7 @@
       "longitude": -73.9447372895371
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 40,
       "serialNumber": 503000074,
       "latitude": 40.80957426897732,
       "binStatus": "Available",
@@ -965,12 +965,12 @@
       "longitude": -73.92586905509233
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 503000138,
       "latitude": 40.678764370117854,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 191 - NE Underhill Avenue & Bergen Street",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.96537832915783
     },
     {
@@ -983,10 +983,10 @@
       "longitude": -73.92874404788017
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 503000131,
       "latitude": 40.688233556498346,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 143 - SW Nostrand Avenue & Greene Avenue",
       "availableForUse": true,
       "longitude": -73.95123168826103
@@ -1154,7 +1154,7 @@
       "longitude": -73.91453684044001
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000165,
       "latitude": 40.69828985201461,
       "binStatus": "Available",
@@ -1289,7 +1289,7 @@
       "longitude": -73.90959072858095
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000170,
       "latitude": 40.676454329310545,
       "binStatus": "Available",
@@ -1406,7 +1406,7 @@
       "longitude": -73.91234535723925
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 503000172,
       "latitude": 40.69744237426521,
       "binStatus": "Available",
@@ -1532,7 +1532,7 @@
       "longitude": -73.83048333227634
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 40,
       "serialNumber": 503000209,
       "latitude": 40.77285588396095,
       "binStatus": "Available",
@@ -1892,7 +1892,7 @@
       "longitude": -73.94772704690695
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 503000251,
       "latitude": 40.67459377925092,
       "binStatus": "Available",
@@ -1928,7 +1928,7 @@
       "longitude": -73.95329229533672
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 503000258,
       "latitude": 40.8111366429278,
       "binStatus": "Available",
@@ -2234,16 +2234,16 @@
       "longitude": -73.94638707990978
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 505100038,
       "latitude": 40.780081383690586,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 277 - SW CO 3rd Ave & East 88th St",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.9532222620251
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 60,
       "serialNumber": 505100048,
       "latitude": 40.778333070963065,
       "binStatus": "Available",
@@ -2549,10 +2549,10 @@
       "longitude": -73.9463083404101
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100035,
       "latitude": 40.77152776150592,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 276 - NE CO York Avenue & 79th Street",
       "availableForUse": true,
       "longitude": -73.95019042066897
@@ -2765,12 +2765,12 @@
       "longitude": -73.9519761287763
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 505100075,
       "latitude": 40.778060906549015,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 394 - SW CO E 85 St & 3 Ave",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.95466305211644
     },
     {
@@ -2873,12 +2873,12 @@
       "longitude": -73.99090145996239
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 505100106,
       "latitude": 40.78586060688359,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 280 - SW CO E 95 Street & Park Ave",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.95335140977043
     },
     {
@@ -2891,10 +2891,10 @@
       "longitude": -73.96888427642509
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100093,
       "latitude": 40.7953036151945,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 383 - NE CO Broadway & W 97 St",
       "availableForUse": true,
       "longitude": -73.97107263571145
@@ -2909,7 +2909,7 @@
       "longitude": -73.98908566787568
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 40,
       "serialNumber": 505100108,
       "latitude": 40.72615124076925,
       "binStatus": "Available",
@@ -3017,7 +3017,7 @@
       "longitude": -73.97793704431773
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 60,
       "serialNumber": 505100066,
       "latitude": 40.71424651872,
       "binStatus": "Available",
