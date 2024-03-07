@@ -191,10 +191,10 @@
       "longitude": -74.11656774580479
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 0,
       "serialNumber": 503000002,
       "latitude": 40.802377335586115,
-      "binStatus": "Nearly Full",
+      "binStatus": "Available",
       "description": "BIN 51 - NE East 120 Street & Madison Avenue",
       "availableForUse": true,
       "longitude": -73.94273579120636
@@ -416,7 +416,7 @@
       "longitude": -73.92743781208992
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 0,
       "serialNumber": 503000018,
       "latitude": 40.83478846373379,
       "binStatus": "Available",
@@ -974,7 +974,7 @@
       "longitude": -73.96537832915783
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 40,
       "serialNumber": 503000140,
       "latitude": 40.681352486961536,
       "binStatus": "Available",
@@ -1118,7 +1118,7 @@
       "longitude": -73.9155288040638
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000149,
       "latitude": 40.683936689634,
       "binStatus": "Available",
@@ -2261,7 +2261,7 @@
       "longitude": -73.98008527492154
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 505100042,
       "latitude": 40.73752862143271,
       "binStatus": "Available",
@@ -2333,7 +2333,7 @@
       "longitude": -73.98598125432342
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 505100010,
       "latitude": 40.75280253801481,
       "binStatus": "Available",
@@ -2351,7 +2351,7 @@
       "longitude": -74.00691708161023
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 40,
       "serialNumber": 505100052,
       "latitude": 40.71989182112748,
       "binStatus": "Available",
@@ -2360,10 +2360,10 @@
       "longitude": -73.99195962283002
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 0,
       "serialNumber": 505100019,
       "latitude": 40.731496522321486,
-      "binStatus": "Nearly Full",
+      "binStatus": "Available",
       "description": "BIN 315 - NW CO 4 Ave & E 10 St",
       "availableForUse": true,
       "longitude": -73.99051628208568
@@ -2819,10 +2819,10 @@
       "longitude": -73.98540060636678
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 0,
       "serialNumber": 505100092,
       "latitude": 40.78957914389564,
-      "binStatus": "Nearly Full",
+      "binStatus": "Available",
       "description": "BIN 369 - SW CO W 89 St & Amsterdam Ave",
       "availableForUse": true,
       "longitude": -73.97379656746796
@@ -3251,7 +3251,7 @@
       "longitude": -73.9864215009938
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 505100134,
       "latitude": 40.7312028692314,
       "binStatus": "Available",
@@ -3269,7 +3269,7 @@
       "longitude": -73.98511663223668
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 60,
       "serialNumber": 505100137,
       "latitude": 40.74339417050297,
       "binStatus": "Available",
@@ -3323,10 +3323,10 @@
       "longitude": -73.95175657391553
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 0,
       "serialNumber": 505100121,
       "latitude": 40.7909709189525,
-      "binStatus": "Nearly Full",
+      "binStatus": "Available",
       "description": "BIN 371 - NW CO W 91 St & Amsterdam Ave",
       "availableForUse": true,
       "longitude": -73.97276669918094
@@ -3341,10 +3341,10 @@
       "longitude": -73.97196531694908
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 0,
       "serialNumber": 505100140,
       "latitude": 40.760441717606135,
-      "binStatus": "Nearly Full",
+      "binStatus": "Available",
       "description": "BIN 351 - NW CO 10 Ave & W 43 St",
       "availableForUse": true,
       "longitude": -73.99506114554103
@@ -3377,10 +3377,10 @@
       "longitude": -73.98062197434946
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 0,
       "serialNumber": 505100118,
       "latitude": 40.769273183978356,
-      "binStatus": "Nearly Full",
+      "binStatus": "Available",
       "description": "BIN 355 - NW CO  9th Ave & West 59th Street",
       "availableForUse": true,
       "longitude": -73.98478295989479
@@ -3422,12 +3422,12 @@
       "longitude": -73.98135114745574
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 505100119,
       "latitude": 40.77611866432287,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 359 - SW CO Columbus Ave & 70th Street",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.9799463692325
     },
     {
