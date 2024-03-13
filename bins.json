@@ -182,7 +182,7 @@
       "longitude": -73.95370032638311
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000027,
       "latitude": 40.76267874186988,
       "binStatus": "Available",
@@ -1091,7 +1091,7 @@
       "longitude": -73.92984341830015
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 40,
       "serialNumber": 503000127,
       "latitude": 40.706692511000654,
       "binStatus": "Available",
@@ -1658,7 +1658,7 @@
       "longitude": -73.82940910756588
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 503000221,
       "latitude": 40.69040997746076,
       "binStatus": "Available",
@@ -2315,7 +2315,7 @@
       "longitude": -73.99722146507379
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 505100014,
       "latitude": 40.78010940688603,
       "binStatus": "Available",
@@ -2486,7 +2486,7 @@
       "longitude": -74.0109745413065
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 60,
       "serialNumber": 505100023,
       "latitude": 40.7346470054958,
       "binStatus": "Available",
@@ -2495,10 +2495,10 @@
       "longitude": -73.99481938922054
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100037,
       "latitude": 40.739169439589006,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 331 - SE CO Greenwich Ave & 8th Ave",
       "availableForUse": true,
       "longitude": -74.00274561377924
@@ -2774,10 +2774,10 @@
       "longitude": -73.9519761287763
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100075,
       "latitude": 40.778060906549015,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 394 - SW CO E 85 St & 3 Ave",
       "availableForUse": true,
       "longitude": -73.95466305211644
@@ -2900,7 +2900,7 @@
       "longitude": -73.96888427642509
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 60,
       "serialNumber": 505100093,
       "latitude": 40.7953036151945,
       "binStatus": "Available",
@@ -2954,7 +2954,7 @@
       "longitude": -73.96686314261594
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 505100068,
       "latitude": 40.7116258563826,
       "binStatus": "Available",
@@ -2963,7 +2963,7 @@
       "longitude": -73.9850452796422
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 40,
       "serialNumber": 505100110,
       "latitude": 40.75405449748158,
       "binStatus": "Available",
@@ -3026,12 +3026,12 @@
       "longitude": -73.97793704431773
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 505100066,
       "latitude": 40.71424651872,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 256 - NW CO Grand St & Henry St",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.98167006603096
     },
     {
@@ -3107,7 +3107,7 @@
       "longitude": -73.95414933006201
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 505100124,
       "latitude": 40.73044605992985,
       "binStatus": "Available",
@@ -3206,7 +3206,7 @@
       "longitude": -73.99655276134223
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 505100133,
       "latitude": 40.79786101513957,
       "binStatus": "Available",
@@ -3377,10 +3377,10 @@
       "longitude": -73.99201305589226
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100123,
       "latitude": 40.78331643218788,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 377 - NW CO Broadway & W 78 St",
       "availableForUse": true,
       "longitude": -73.98062197434946
@@ -3404,7 +3404,7 @@
       "longitude": -73.97035768079368
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 505100145,
       "latitude": 40.74163391924499,
       "binStatus": "Available",
