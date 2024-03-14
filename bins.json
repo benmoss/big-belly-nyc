@@ -56,7 +56,7 @@
       "longitude": -73.90472318977118
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 20,
       "serialNumber": 3590020,
       "latitude": 40.746148800069264,
       "binStatus": "Available",
@@ -443,7 +443,7 @@
       "longitude": -73.92958357930183
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000059,
       "latitude": 40.87534010684036,
       "binStatus": "Available",
@@ -515,7 +515,7 @@
       "longitude": -73.94493098288339
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000049,
       "latitude": 40.79160725166976,
       "binStatus": "Available",
@@ -533,12 +533,12 @@
       "longitude": -73.93815591931343
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 503000052,
       "latitude": 40.805835432729474,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 36 - SW West 122 Street & Malcolm X Blvd",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.94713159650564
     },
     {
@@ -596,12 +596,12 @@
       "longitude": -73.9623499576847
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 503000040,
       "latitude": 40.80557429253741,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 30 - SW West 112 Street & Broadway",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.9660133421421
     },
     {
@@ -632,7 +632,7 @@
       "longitude": -73.92041435458692
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000035,
       "latitude": 40.820298050767335,
       "binStatus": "Available",
@@ -875,7 +875,7 @@
       "longitude": -73.92934955656528
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000092,
       "latitude": 40.695079598177166,
       "binStatus": "Available",
@@ -956,7 +956,7 @@
       "longitude": -73.93987722694874
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 503000078,
       "latitude": 40.81357603431238,
       "binStatus": "Available",
@@ -1469,7 +1469,7 @@
       "longitude": -73.96755293011665
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000182,
       "latitude": 40.688928869836005,
       "binStatus": "Available",
@@ -1622,7 +1622,7 @@
       "longitude": -73.928127810359
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000204,
       "latitude": 40.69300170948447,
       "binStatus": "Available",
@@ -1955,7 +1955,7 @@
       "longitude": -73.93360521644354
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000256,
       "latitude": 40.63370350108601,
       "binStatus": "Available",
@@ -2432,10 +2432,10 @@
       "longitude": -74.00526163846435
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100027,
       "latitude": 40.71904231972568,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 250 - SE CO Varick St. & Franklin St.",
       "availableForUse": true,
       "longitude": -74.00695323944092
@@ -2585,7 +2585,7 @@
       "longitude": -74.0077318323766
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 60,
       "serialNumber": 505100061,
       "latitude": 40.70860458493924,
       "binStatus": "Available",
@@ -2765,7 +2765,7 @@
       "longitude": -73.99644857287824
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 60,
       "serialNumber": 505100056,
       "latitude": 40.77779121756704,
       "binStatus": "Available",
@@ -2846,12 +2846,12 @@
       "longitude": -73.9766103569379
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 505100074,
       "latitude": 40.77844967182979,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 364 - NW CO West End Ave & W 70 St",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.98593114887535
     },
     {
@@ -2990,7 +2990,7 @@
       "longitude": -73.92903912094495
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 60,
       "serialNumber": 505100094,
       "latitude": 40.79091410359447,
       "binStatus": "Available",
@@ -3044,7 +3044,7 @@
       "longitude": -73.95966351954947
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 505100102,
       "latitude": 40.74448956998408,
       "binStatus": "Available",
@@ -3278,10 +3278,10 @@
       "longitude": -73.98511663223668
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100137,
       "latitude": 40.74339417050297,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 339 - SW CO 5 Ave & W 26 St",
       "availableForUse": true,
       "longitude": -73.98831240762495
@@ -3332,7 +3332,7 @@
       "longitude": -73.95175657391553
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 505100121,
       "latitude": 40.7909709189525,
       "binStatus": "Available",
@@ -3404,7 +3404,7 @@
       "longitude": -73.97035768079368
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 40,
       "serialNumber": 505100145,
       "latitude": 40.74163391924499,
       "binStatus": "Available",
