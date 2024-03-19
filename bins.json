@@ -227,7 +227,7 @@
       "longitude": -73.94852463470318
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000004,
       "latitude": 40.75444696790806,
       "binStatus": "Available",
@@ -299,7 +299,7 @@
       "longitude": -73.93766775727272
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 503000013,
       "latitude": 40.86843300418909,
       "binStatus": "Available",
@@ -461,7 +461,7 @@
       "longitude": -73.95299658179283
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 40,
       "serialNumber": 503000053,
       "latitude": 40.764994993021595,
       "binStatus": "Available",
@@ -479,10 +479,10 @@
       "longitude": -73.92266314476728
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 503000055,
       "latitude": 40.85039540597644,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 60 - NE Wadsworth Avenue & West 182nd Street",
       "availableForUse": true,
       "longitude": -73.93447995185852
@@ -785,7 +785,7 @@
       "longitude": -73.93471363931894
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 503000073,
       "latitude": 40.813082487843964,
       "binStatus": "Available",
@@ -803,7 +803,7 @@
       "longitude": -73.92199024558067
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 40,
       "serialNumber": 503000081,
       "latitude": 40.79314191706756,
       "binStatus": "Available",
@@ -1073,7 +1073,7 @@
       "longitude": -73.94146978855133
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000145,
       "latitude": 40.68640155543058,
       "binStatus": "Available",
@@ -1829,7 +1829,7 @@
       "longitude": -73.94294936209917
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 60,
       "serialNumber": 503000240,
       "latitude": 40.67428152112551,
       "binStatus": "Available",
@@ -1910,12 +1910,12 @@
       "longitude": -73.91177110144258
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 503000254,
       "latitude": 40.67509191438939,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 195 - NE Franklin Avenue & Prospect Place",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.95637851208448
     },
     {
@@ -1928,10 +1928,10 @@
       "longitude": -73.95329229533672
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 503000258,
       "latitude": 40.8111366429278,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 28 - SE West 123 Street & Amsterdam Avenue",
       "availableForUse": true,
       "longitude": -73.95765916089715
@@ -2234,12 +2234,12 @@
       "longitude": -73.94638707990978
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 505100038,
       "latitude": 40.780081383690586,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 277 - SW CO 3rd Ave & East 88th St",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.9532222620251
     },
     {
@@ -2468,7 +2468,7 @@
       "longitude": -74.01704739779234
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 505100009,
       "latitude": 40.7164061130962,
       "binStatus": "Available",
@@ -2666,10 +2666,10 @@
       "longitude": -74.0007785662345
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 0,
       "serialNumber": 505100064,
       "latitude": 40.718560301291866,
-      "binStatus": "Nearly Full",
+      "binStatus": "Available",
       "description": "BIN 261 - NW CO Hester ST & Baxter St",
       "availableForUse": true,
       "longitude": -73.99876398340452
@@ -2918,7 +2918,7 @@
       "longitude": -73.9833025251433
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 0,
       "serialNumber": 505100086,
       "latitude": 40.781894893686875,
       "binStatus": "Available",
@@ -2990,10 +2990,10 @@
       "longitude": -73.96910423686519
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100111,
       "latitude": 40.758836000578,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 294 - NW CO E 56 St & 2 Ave",
       "availableForUse": true,
       "longitude": -73.96586280976997
@@ -3269,7 +3269,7 @@
       "longitude": -73.98511663223668
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 60,
       "serialNumber": 505100137,
       "latitude": 40.74339417050297,
       "binStatus": "Available",
@@ -3305,7 +3305,7 @@
       "longitude": -74.00261308139008
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 505100122,
       "latitude": 40.77622161241313,
       "binStatus": "Available",
@@ -3368,7 +3368,7 @@
       "longitude": -73.99201305589226
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 0,
       "serialNumber": 505100123,
       "latitude": 40.78331643218788,
       "binStatus": "Available",
