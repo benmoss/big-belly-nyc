@@ -56,7 +56,7 @@
       "longitude": -73.90472318977118
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 60,
       "serialNumber": 3590020,
       "latitude": 40.746148800069264,
       "binStatus": "Available",
@@ -128,7 +128,7 @@
       "longitude": -73.92154820692338
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 3590008,
       "latitude": 40.741475328023036,
       "binStatus": "Available",
@@ -155,10 +155,10 @@
       "longitude": -73.91430705785751
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 3590002,
       "latitude": 40.7214226207243,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 263 - NW CO Elizabeth St & Spring St",
       "availableForUse": true,
       "longitude": -73.99473222632365
@@ -200,7 +200,7 @@
       "longitude": -74.11656774580479
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000002,
       "latitude": 40.802377335586115,
       "binStatus": "Available",
@@ -758,10 +758,10 @@
       "longitude": -73.94291717559099
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 503000069,
       "latitude": 40.762088122135914,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 06 - NW 31st Street & Broadway",
       "availableForUse": true,
       "longitude": -73.92557334154844
@@ -1883,12 +1883,12 @@
       "longitude": -73.90651490539312
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 0,
       "serialNumber": 503000246,
       "latitude": 40.67049107908947,
-      "binStatus": "Full",
+      "binStatus": "Available",
       "description": "BIN 197 - NW New York Avenue & Lincoln Place",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.94772704690695
     },
     {
@@ -2027,7 +2027,7 @@
       "longitude": -73.92812234686723
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000269,
       "latitude": 40.64137790224041,
       "binStatus": "Available",
@@ -2063,7 +2063,7 @@
       "longitude": -73.92796251922846
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 40,
       "serialNumber": 503000271,
       "latitude": 40.74194368731704,
       "binStatus": "Available",
@@ -2450,7 +2450,7 @@
       "longitude": -74.00655866692779
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 0,
       "serialNumber": 505100024,
       "latitude": 40.73699589127157,
       "binStatus": "Available",
@@ -2675,7 +2675,7 @@
       "longitude": -73.99876398340452
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 505100058,
       "latitude": 40.716735019858994,
       "binStatus": "Available",
@@ -3413,10 +3413,10 @@
       "longitude": -73.98222696429983
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 0,
       "serialNumber": 505100112,
       "latitude": 40.741522457226544,
-      "binStatus": "Nearly Full",
+      "binStatus": "Available",
       "description": "BIN 306 - NW CO 3rd Avenue & 27th Street",
       "availableForUse": true,
       "longitude": -73.98135114745574
