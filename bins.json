@@ -155,12 +155,12 @@
       "longitude": -73.91430705785751
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 0,
       "serialNumber": 3590002,
       "latitude": 40.7214226207243,
-      "binStatus": "Full",
+      "binStatus": "Available",
       "description": "BIN 263 - NW CO Elizabeth St & Spring St",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.99473222632365
     },
     {
@@ -200,10 +200,10 @@
       "longitude": -74.11656774580479
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 503000002,
       "latitude": 40.802377335586115,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 51 - NE East 120 Street & Madison Avenue",
       "availableForUse": true,
       "longitude": -73.94273579120636
@@ -245,10 +245,10 @@
       "longitude": -73.94638694822788
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 0,
       "serialNumber": 503000008,
       "latitude": 40.761548735935826,
-      "binStatus": "Nearly Full",
+      "binStatus": "Available",
       "description": "BIN 05 - SW 24th Street & 34th Avenue",
       "availableForUse": true,
       "longitude": -73.93188491463661
@@ -299,7 +299,7 @@
       "longitude": -73.95101174712181
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 0,
       "serialNumber": 503000014,
       "latitude": 40.762625726342314,
       "binStatus": "Available",
@@ -416,16 +416,16 @@
       "longitude": -73.92383761703968
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 503000033,
       "latitude": 40.86054008940285,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 63 - SE Sickles Street & Nagle Avenue",
       "availableForUse": true,
       "longitude": -73.9273372319724
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000057,
       "latitude": 40.85571566774662,
       "binStatus": "Available",
@@ -551,7 +551,7 @@
       "longitude": -73.94713159650564
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 0,
       "serialNumber": 503000044,
       "latitude": 40.80556261860785,
       "binStatus": "Available",
@@ -668,7 +668,7 @@
       "longitude": -73.96890208125114
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 0,
       "serialNumber": 503000047,
       "latitude": 40.80229053822756,
       "binStatus": "Available",
@@ -794,7 +794,7 @@
       "longitude": -73.93471363931894
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 0,
       "serialNumber": 503000073,
       "latitude": 40.813082487843964,
       "binStatus": "Available",
@@ -1109,7 +1109,7 @@
       "longitude": -73.90656117349863
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 0,
       "serialNumber": 503000148,
       "latitude": 40.701373514374744,
       "binStatus": "Available",
@@ -1136,7 +1136,7 @@
       "longitude": -73.9503475651145
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 0,
       "serialNumber": 503000155,
       "latitude": 40.690904435343946,
       "binStatus": "Available",
@@ -1154,7 +1154,7 @@
       "longitude": -73.90397150069475
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 0,
       "serialNumber": 503000132,
       "latitude": 40.70324915068062,
       "binStatus": "Available",
@@ -1244,7 +1244,7 @@
       "longitude": -73.9271404221654
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 0,
       "serialNumber": 503000156,
       "latitude": 40.70249991438864,
       "binStatus": "Available",
@@ -1397,7 +1397,7 @@
       "longitude": -73.96627854555845
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 0,
       "serialNumber": 503000180,
       "latitude": 40.69293663142478,
       "binStatus": "Available",
@@ -1856,7 +1856,7 @@
       "longitude": -73.91427922993898
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 0,
       "serialNumber": 503000242,
       "latitude": 40.66973095285559,
       "binStatus": "Available",
@@ -1874,7 +1874,7 @@
       "longitude": -73.95897587267723
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 0,
       "serialNumber": 503000245,
       "latitude": 40.673484595144046,
       "binStatus": "Available",
@@ -1883,7 +1883,7 @@
       "longitude": -73.93339063972235
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 0,
       "serialNumber": 503000253,
       "latitude": 40.69199578878015,
       "binStatus": "Available",
@@ -2018,7 +2018,7 @@
       "longitude": -74.06930956989527
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 60,
       "serialNumber": 503000261,
       "latitude": 40.67676683153248,
       "binStatus": "Available",
@@ -2126,7 +2126,7 @@
       "longitude": -73.95261202007532
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 0,
       "serialNumber": 503000275,
       "latitude": 40.75290526233439,
       "binStatus": "Available",
@@ -2207,7 +2207,7 @@
       "longitude": -73.9421078891929
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 0,
       "serialNumber": 503000236,
       "latitude": 40.76122012468334,
       "binStatus": "Available",
@@ -2675,7 +2675,7 @@
       "longitude": -74.0007785662345
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 0,
       "serialNumber": 505100064,
       "latitude": 40.718560301291866,
       "binStatus": "Available",
@@ -2720,7 +2720,7 @@
       "longitude": -73.9535946787067
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 0,
       "serialNumber": 505100069,
       "latitude": 40.724874101417406,
       "binStatus": "Available",
