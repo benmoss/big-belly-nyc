@@ -155,7 +155,7 @@
       "longitude": -73.91430705785751
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 0,
       "serialNumber": 3590002,
       "latitude": 40.7214226207243,
       "binStatus": "Available",
@@ -317,10 +317,10 @@
       "longitude": -73.91832768131844
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 503000017,
       "latitude": 40.81773208281474,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 42 - SE West 136th Street & Edgecombe Avenue",
       "availableForUse": true,
       "longitude": -73.94737802445889
@@ -587,10 +587,10 @@
       "longitude": -73.92345808446407
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 503000046,
       "latitude": 40.81219790128479,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 21 - NW West 126th St & Morningside Ave",
       "availableForUse": true,
       "longitude": -73.95354006439447
@@ -1091,10 +1091,10 @@
       "longitude": -73.92984341830015
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 0,
       "serialNumber": 503000127,
       "latitude": 40.706692511000654,
-      "binStatus": "Nearly Full",
+      "binStatus": "Available",
       "description": "BIN 177 - SW St. Nicholas Avenue & Willoughby Avenue",
       "availableForUse": true,
       "longitude": -73.92045420260473
@@ -1154,7 +1154,7 @@
       "longitude": -73.90397150069475
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 0,
       "serialNumber": 503000132,
       "latitude": 40.70324915068062,
       "binStatus": "Available",
@@ -1298,10 +1298,10 @@
       "longitude": -73.90959072858095
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 503000170,
       "latitude": 40.676454329310545,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 213 - NE Kingston Avenue & Dean Street",
       "availableForUse": true,
       "longitude": -73.94148588180542
@@ -1334,7 +1334,7 @@
       "longitude": -73.96811317652464
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 0,
       "serialNumber": 503000162,
       "latitude": 40.704966472832965,
       "binStatus": "Available",
@@ -1397,7 +1397,7 @@
       "longitude": -73.96627854555845
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 503000180,
       "latitude": 40.69293663142478,
       "binStatus": "Available",
@@ -1811,7 +1811,7 @@
       "longitude": -73.94181042909622
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000238,
       "latitude": 40.67925789735229,
       "binStatus": "Available",
@@ -2180,12 +2180,12 @@
       "longitude": -73.9109194278717
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 0,
       "serialNumber": 503000212,
       "latitude": 40.70585647534992,
-      "binStatus": "Full",
+      "binStatus": "Available",
       "description": "BIN 178 - NE St. Nicholas Avenue & Hart Street",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.91865953781273
     },
     {
@@ -2387,10 +2387,10 @@
       "longitude": -73.99540269748928
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100031,
       "latitude": 40.72948121652991,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 328 - SE CO Bleecker St & 6 Ave",
       "availableForUse": true,
       "longitude": -74.00212241864305
@@ -2432,12 +2432,12 @@
       "longitude": -74.00526163846435
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 505100027,
       "latitude": 40.71904231972568,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 250 - SE CO Varick St. & Franklin St.",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -74.00695323944092
     },
     {
@@ -2720,10 +2720,10 @@
       "longitude": -73.9535946787067
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 0,
       "serialNumber": 505100069,
       "latitude": 40.724874101417406,
-      "binStatus": "Nearly Full",
+      "binStatus": "Available",
       "description": "BIN 254 - SW CO 6 Ave & Dominick St",
       "availableForUse": true,
       "longitude": -74.0047200044207
@@ -3134,7 +3134,7 @@
       "longitude": -73.98189624416173
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 505100114,
       "latitude": 40.76550445210295,
       "binStatus": "Available",
