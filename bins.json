@@ -11,7 +11,7 @@
       "longitude": -73.9180913195014
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 3590010,
       "latitude": 40.74060865008307,
       "binStatus": "Available",
@@ -191,7 +191,7 @@
       "longitude": -73.92014228572059
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 503000001,
       "latitude": 40.61356176348572,
       "binStatus": "Available",
@@ -893,12 +893,12 @@
       "longitude": -73.90734169632196
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 503000094,
       "latitude": 40.7666826313674,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 11 - SW 31st Avenue & 23rd Street",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.92875041812658
     },
     {
@@ -1001,12 +1001,12 @@
       "longitude": -73.92874404788017
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 503000131,
       "latitude": 40.688233556498346,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 143 - SW Nostrand Avenue & Greene Avenue",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.95123168826103
     },
     {
@@ -1082,7 +1082,7 @@
       "longitude": -73.94146978855133
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 503000145,
       "latitude": 40.68640155543058,
       "binStatus": "Available",
@@ -1424,10 +1424,10 @@
       "longitude": -73.92379101365805
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 503000189,
       "latitude": 40.67990830015172,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 125 - NE Bedford Avenue & Herkimer Street",
       "availableForUse": true,
       "longitude": -73.95316857844591
@@ -1847,7 +1847,7 @@
       "longitude": -73.94742764532566
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 503000237,
       "latitude": 40.69656438204717,
       "binStatus": "Available",
@@ -2279,10 +2279,10 @@
       "longitude": -73.99693615022026
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100005,
       "latitude": 40.70815249011514,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 246 - NW CO Peck Slip & Water St",
       "availableForUse": true,
       "longitude": -74.00206860154867
@@ -2783,7 +2783,7 @@
       "longitude": -73.95466305211644
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 505100089,
       "latitude": 40.77432420761129,
       "binStatus": "Available",
@@ -3044,10 +3044,10 @@
       "longitude": -73.95966351954947
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100102,
       "latitude": 40.74448956998408,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 298 - NE CO 1 Ave & E 35 St",
       "availableForUse": true,
       "longitude": -73.9728414833659
@@ -3089,12 +3089,12 @@
       "longitude": -73.9806513567258
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 505100126,
       "latitude": 40.789118885800946,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 372 - SW CO W 92 St & Central Park W",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.96666802317641
     },
     {
@@ -3350,7 +3350,7 @@
       "longitude": -73.97196531694908
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 60,
       "serialNumber": 505100140,
       "latitude": 40.760441717606135,
       "binStatus": "Available",
@@ -3449,12 +3449,12 @@
       "longitude": -73.97587379945203
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 505100128,
       "latitude": 40.72662593513809,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 327 - SW CO Bond St & Lafayette St",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.99427816002996
     }
   ]
