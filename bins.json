@@ -47,7 +47,7 @@
       "longitude": -73.92288388211199
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 60,
       "serialNumber": 3590018,
       "latitude": 40.741339169940716,
       "binStatus": "Available",
@@ -128,7 +128,7 @@
       "longitude": -73.92154820692338
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 3590008,
       "latitude": 40.741475328023036,
       "binStatus": "Available",
@@ -587,12 +587,12 @@
       "longitude": -73.92345808446407
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 503000046,
       "latitude": 40.81219790128479,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 21 - NW West 126th St & Morningside Ave",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.95354006439447
     },
     {
@@ -2738,12 +2738,12 @@
       "longitude": -73.98495496580612
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 505100055,
       "latitude": 40.76405416975698,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 291 - NE CO E 63 St & 3 Ave",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.96450973157151
     },
     {
@@ -2864,10 +2864,10 @@
       "longitude": -73.98593114887535
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100083,
       "latitude": 40.72496280254391,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 324 - NE CO 2 Ave & E 2 St",
       "availableForUse": true,
       "longitude": -73.99017938079861
@@ -3404,7 +3404,7 @@
       "longitude": -73.97035768079368
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 60,
       "serialNumber": 505100145,
       "latitude": 40.74163391924499,
       "binStatus": "Available",
