@@ -299,7 +299,7 @@
       "longitude": -73.95101174712181
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 0,
       "serialNumber": 503000014,
       "latitude": 40.762625726342314,
       "binStatus": "Available",
@@ -434,7 +434,7 @@
       "longitude": -73.92743781208992
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 503000018,
       "latitude": 40.83478846373379,
       "binStatus": "Available",
@@ -515,7 +515,7 @@
       "longitude": -73.94453756511211
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 503000048,
       "latitude": 40.7966226877643,
       "binStatus": "Available",
@@ -992,10 +992,10 @@
       "longitude": -73.96537832915783
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 503000140,
       "latitude": 40.681352486961536,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 138 - NW Malcolm X Boulevard & Bainbridge Street",
       "availableForUse": true,
       "longitude": -73.92874404788017
@@ -1064,12 +1064,12 @@
       "longitude": -73.91719682217655
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 503000143,
       "latitude": 40.6825487482924,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 145 - SE Nostrand Avenue & Hancock Street",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.9499693736434
     },
     {
@@ -1586,12 +1586,12 @@
       "longitude": -73.8490579649806
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 503000201,
       "latitude": 40.68434297291138,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 127 - NE Bedford Avenue & Madison Street",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.95393367856741
     },
     {
@@ -1775,7 +1775,7 @@
       "longitude": -73.88005122542381
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 503000232,
       "latitude": 40.68513798940631,
       "binStatus": "Available",
@@ -2351,7 +2351,7 @@
       "longitude": -74.00691708161023
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 60,
       "serialNumber": 505100052,
       "latitude": 40.71989182112748,
       "binStatus": "Available",
@@ -2711,12 +2711,12 @@
       "longitude": -73.9535946787067
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 0,
       "serialNumber": 505100069,
       "latitude": 40.724874101417406,
-      "binStatus": "Full",
+      "binStatus": "Available",
       "description": "BIN 254 - SW CO 6 Ave & Dominick St",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -74.0047200044207
     },
     {
@@ -2873,12 +2873,12 @@
       "longitude": -73.99017938079861
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 505100080,
       "latitude": 40.7380040181738,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 389 - NW CO 2 Ave & E 23 St",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.9809653781084
     },
     {
@@ -3179,7 +3179,7 @@
       "longitude": -73.96135753145826
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 505100113,
       "latitude": 40.741606235945184,
       "binStatus": "Available",
@@ -3242,10 +3242,10 @@
       "longitude": -73.99037571712044
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100136,
       "latitude": 40.764814574064715,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 354 - NE CO 9 Ave & W 52 St",
       "availableForUse": true,
       "longitude": -73.98776125245462
@@ -3341,7 +3341,7 @@
       "longitude": -73.97276669918094
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 505100117,
       "latitude": 40.78193045956682,
       "binStatus": "Available",
