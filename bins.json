@@ -524,7 +524,7 @@
       "longitude": -73.94493098288339
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000049,
       "latitude": 40.79160725166976,
       "binStatus": "Available",
@@ -866,7 +866,7 @@
       "longitude": -73.91521599143744
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 503000093,
       "latitude": 40.76223009405083,
       "binStatus": "Available",
@@ -884,7 +884,7 @@
       "longitude": -73.92934955656528
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000092,
       "latitude": 40.695079598177166,
       "binStatus": "Available",
@@ -965,7 +965,7 @@
       "longitude": -73.93987722694874
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 60,
       "serialNumber": 503000078,
       "latitude": 40.81357603431238,
       "binStatus": "Available",
@@ -1370,7 +1370,7 @@
       "longitude": -73.91968253999949
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000163,
       "latitude": 40.67812844942252,
       "binStatus": "Available",
@@ -2396,12 +2396,12 @@
       "longitude": -73.9498927384089
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 505100013,
       "latitude": 40.73565255133342,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 330 - SW CO 7th Avenue South & Perry St",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -74.00171998103215
     },
     {
@@ -2522,10 +2522,10 @@
       "longitude": -74.00341004133224
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100017,
       "latitude": 40.705075385840445,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 243 - NE CO Broadway & Beaver Street",
       "availableForUse": true,
       "longitude": -74.01322457939386
@@ -3062,7 +3062,7 @@
       "longitude": -73.9728414833659
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 505100101,
       "latitude": 40.77228183243049,
       "binStatus": "Available",
