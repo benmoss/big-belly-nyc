@@ -65,7 +65,7 @@
       "longitude": -73.91328877313748
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 0,
       "serialNumber": 3590001,
       "latitude": 40.746548059294376,
       "binStatus": "Available",
@@ -74,7 +74,7 @@
       "longitude": -73.89971678571764
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 0,
       "serialNumber": 3590019,
       "latitude": 40.745991757187745,
       "binStatus": "Available",
@@ -254,12 +254,12 @@
       "longitude": -73.93188491463661
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 0,
       "serialNumber": 503000003,
       "latitude": 40.803170053254796,
-      "binStatus": "Full",
+      "binStatus": "Available",
       "description": "BIN 34 - SE West 118 Street & Lenox Avenue",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.94863547733536
     },
     {
@@ -542,12 +542,12 @@
       "longitude": -73.93815591931343
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 0,
       "serialNumber": 503000052,
       "latitude": 40.805835432729474,
-      "binStatus": "Full",
+      "binStatus": "Available",
       "description": "BIN 36 - SW West 122 Street & Malcolm X Blvd",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.94713159650564
     },
     {
@@ -704,12 +704,12 @@
       "longitude": -73.93193346987313
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 0,
       "serialNumber": 503000062,
       "latitude": 40.80507840250284,
-      "binStatus": "Full",
+      "binStatus": "Available",
       "description": "BIN 35 - SW St. Nicholas Avenue & West 118 Street",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.95281787961721
     },
     {
@@ -830,7 +830,7 @@
       "longitude": -73.93855724483728
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 0,
       "serialNumber": 503000085,
       "latitude": 40.80984148378304,
       "binStatus": "Available",
@@ -965,7 +965,7 @@
       "longitude": -73.93987722694874
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 0,
       "serialNumber": 503000078,
       "latitude": 40.81357603431238,
       "binStatus": "Available",
@@ -1001,7 +1001,7 @@
       "longitude": -73.92874404788017
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 0,
       "serialNumber": 503000131,
       "latitude": 40.688233556498346,
       "binStatus": "Available",
@@ -2117,7 +2117,7 @@
       "longitude": -73.95756002515554
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 60,
       "serialNumber": 503000273,
       "latitude": 40.67710908208188,
       "binStatus": "Available",
@@ -2270,10 +2270,10 @@
       "longitude": -73.98008527492154
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 0,
       "serialNumber": 505100042,
       "latitude": 40.73752862143271,
-      "binStatus": "Nearly Full",
+      "binStatus": "Available",
       "description": "BIN 310 - NW 6 Ave & 14th Street",
       "availableForUse": true,
       "longitude": -73.99693615022026
@@ -2333,7 +2333,7 @@
       "longitude": -73.98598125432342
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 0,
       "serialNumber": 505100010,
       "latitude": 40.75280253801481,
       "binStatus": "Available",
@@ -2504,10 +2504,10 @@
       "longitude": -73.98759673124307
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 0,
       "serialNumber": 505100046,
       "latitude": 40.73534879130396,
-      "binStatus": "Nearly Full",
+      "binStatus": "Available",
       "description": "BIN 336 - SW CO 6 Ave & W 11 St",
       "availableForUse": true,
       "longitude": -73.99849525644926
@@ -3053,12 +3053,12 @@
       "longitude": -73.95966351954947
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 0,
       "serialNumber": 505100102,
       "latitude": 40.74448956998408,
-      "binStatus": "Full",
+      "binStatus": "Available",
       "description": "BIN 298 - NE CO 1 Ave & E 35 St",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.9728414833659
     },
     {
@@ -3161,7 +3161,7 @@
       "longitude": -73.96866042855898
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 0,
       "serialNumber": 505100103,
       "latitude": 40.72946703338854,
       "binStatus": "Available",
@@ -3278,12 +3278,12 @@
       "longitude": -73.98511663223668
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 0,
       "serialNumber": 505100137,
       "latitude": 40.74339417050297,
-      "binStatus": "Full",
+      "binStatus": "Available",
       "description": "BIN 339 - SW CO 5 Ave & W 26 St",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.98831240762495
     },
     {
@@ -3296,10 +3296,10 @@
       "longitude": -73.98753543655222
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 0,
       "serialNumber": 505100146,
       "latitude": 40.74723684953337,
-      "binStatus": "Nearly Full",
+      "binStatus": "Available",
       "description": "BIN 340 - SW CO 6 Ave & W 30 St",
       "availableForUse": true,
       "longitude": -73.98983752643882
@@ -3368,7 +3368,7 @@
       "longitude": -74.00684701383747
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 0,
       "serialNumber": 505100135,
       "latitude": 40.758930399023754,
       "binStatus": "Available",
