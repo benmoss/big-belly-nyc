@@ -83,7 +83,7 @@
       "longitude": -73.90727262943983
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 3590015,
       "latitude": 40.746483770342856,
       "binStatus": "Available",
@@ -362,7 +362,7 @@
       "longitude": -73.93778998622929
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 60,
       "serialNumber": 503000023,
       "latitude": 40.84608111296369,
       "binStatus": "Available",
@@ -416,7 +416,7 @@
       "longitude": -73.92383761703968
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 503000033,
       "latitude": 40.86054008940285,
       "binStatus": "Available",
@@ -434,7 +434,7 @@
       "longitude": -73.92743781208992
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 60,
       "serialNumber": 503000018,
       "latitude": 40.83478846373379,
       "binStatus": "Available",
@@ -587,7 +587,7 @@
       "longitude": -73.92345808446407
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 60,
       "serialNumber": 503000046,
       "latitude": 40.81219790128479,
       "binStatus": "Available",
@@ -1559,7 +1559,7 @@
       "longitude": -73.9436212554574
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000206,
       "latitude": 40.68764908091782,
       "binStatus": "Available",
@@ -2315,12 +2315,12 @@
       "longitude": -73.9538887710376
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 505100014,
       "latitude": 40.78010940688603,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 267 - NE CO 1st Ave & 91ST St",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.94685207786003
     },
     {
@@ -2333,12 +2333,12 @@
       "longitude": -73.97899926258084
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 505100012,
       "latitude": 40.731190506042964,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 314 - NW CO 2nd Ave & 12th Street",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.98598125432342
     },
     {
@@ -2369,7 +2369,7 @@
       "longitude": -73.99195962283002
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 60,
       "serialNumber": 505100019,
       "latitude": 40.731496522321486,
       "binStatus": "Available",
@@ -2720,10 +2720,10 @@
       "longitude": -73.9535946787067
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 80,
       "serialNumber": 505100069,
       "latitude": 40.724874101417406,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 254 - SW CO 6 Ave & Dominick St",
       "availableForUse": true,
       "longitude": -74.0047200044207
@@ -3044,10 +3044,10 @@
       "longitude": -73.97793704431773
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100066,
       "latitude": 40.71424651872,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 256 - NW CO Grand St & Henry St",
       "availableForUse": true,
       "longitude": -73.98167006603096
@@ -3224,7 +3224,7 @@
       "longitude": -73.96400324926272
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 60,
       "serialNumber": 505100143,
       "latitude": 40.77674450161177,
       "binStatus": "Available",
