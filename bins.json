@@ -200,7 +200,7 @@
       "longitude": -74.11656774580479
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000002,
       "latitude": 40.802377335586115,
       "binStatus": "Available",
@@ -353,12 +353,12 @@
       "longitude": -73.93805466592312
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 503000006,
       "latitude": 40.855684792533886,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 61 - NE Cabrini Blvd. & West 187th Street",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.93778998622929
     },
     {
@@ -398,7 +398,7 @@
       "longitude": -73.88136584311724
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000022,
       "latitude": 40.866201512573475,
       "binStatus": "Available",
@@ -1037,7 +1037,7 @@
       "longitude": -73.93525745719671
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000144,
       "latitude": 40.7019656047617,
       "binStatus": "Available",
@@ -1073,7 +1073,7 @@
       "longitude": -73.9499693736434
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000129,
       "latitude": 40.685812233251795,
       "binStatus": "Available",
@@ -1217,7 +1217,7 @@
       "longitude": -73.92600182443857
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000158,
       "latitude": 40.68871201420607,
       "binStatus": "Available",
@@ -1280,7 +1280,7 @@
       "longitude": -73.96974126370019
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 40,
       "serialNumber": 503000169,
       "latitude": 40.690318203640174,
       "binStatus": "Available",
@@ -1379,7 +1379,7 @@
       "longitude": -73.91918834298849
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000178,
       "latitude": 40.671282700678354,
       "binStatus": "Available",
@@ -1838,7 +1838,7 @@
       "longitude": -73.94294936209917
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 503000240,
       "latitude": 40.67428152112551,
       "binStatus": "Available",
@@ -1892,7 +1892,7 @@
       "longitude": -73.90651490539312
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000246,
       "latitude": 40.67049107908947,
       "binStatus": "Available",
@@ -2243,12 +2243,12 @@
       "longitude": -73.94892745726821
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 100,
       "serialNumber": 505100018,
       "latitude": 40.77294782166341,
-      "binStatus": "Available",
+      "binStatus": "Full",
       "description": "BIN 270 - SW CO 83rd & East End",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.94638707990978
     },
     {
@@ -2423,7 +2423,7 @@
       "longitude": -73.9869912541827
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 40,
       "serialNumber": 505100045,
       "latitude": 40.74639647509707,
       "binStatus": "Available",
@@ -2963,10 +2963,10 @@
       "longitude": -73.93435451155901
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100073,
       "latitude": 40.80348382274017,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 385 - SE CO Broadway & W 109 St",
       "availableForUse": true,
       "longitude": -73.96686314261594
@@ -3314,7 +3314,7 @@
       "longitude": -74.00261308139008
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 40,
       "serialNumber": 505100122,
       "latitude": 40.77622161241313,
       "binStatus": "Available",
