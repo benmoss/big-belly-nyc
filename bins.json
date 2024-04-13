@@ -20,7 +20,7 @@
       "longitude": -73.92287585085252
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 0,
       "serialNumber": 3590013,
       "latitude": 40.74689511721386,
       "binStatus": "Available",
@@ -29,7 +29,7 @@
       "longitude": -73.92003797195594
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 0,
       "serialNumber": 3590017,
       "latitude": 40.7447717419058,
       "binStatus": "Available",
@@ -56,12 +56,12 @@
       "longitude": -73.90472318977118
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 0,
       "serialNumber": 3590020,
       "latitude": 40.746148800069264,
-      "binStatus": "Full",
+      "binStatus": "Available",
       "description": "BIN 400 - NE 51st St & Skillman Ave",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.91328877313748
     },
     {
@@ -83,7 +83,7 @@
       "longitude": -73.90727262943983
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 0,
       "serialNumber": 3590015,
       "latitude": 40.746483770342856,
       "binStatus": "Available",
@@ -2387,12 +2387,12 @@
       "longitude": -73.99540269748928
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 0,
       "serialNumber": 505100031,
       "latitude": 40.72948121652991,
-      "binStatus": "Full",
+      "binStatus": "Available",
       "description": "BIN 328 - SE CO Bleecker St & 6 Ave",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -74.00212241864305
     },
     {
@@ -2576,7 +2576,7 @@
       "longitude": -73.99747696934338
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 40,
       "serialNumber": 505100044,
       "latitude": 40.73121273762785,
       "binStatus": "Available",
@@ -3116,10 +3116,10 @@
       "longitude": -73.95414933006201
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 0,
       "serialNumber": 505100124,
       "latitude": 40.73044605992985,
-      "binStatus": "Nearly Full",
+      "binStatus": "Available",
       "description": "BIN 333 - NW CO Carmine ST & Bleeker St",
       "availableForUse": true,
       "longitude": -74.0026189895217
