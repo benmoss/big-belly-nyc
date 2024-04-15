@@ -299,7 +299,7 @@
       "longitude": -73.95101174712181
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 0,
       "serialNumber": 503000014,
       "latitude": 40.762625726342314,
       "binStatus": "Available",
@@ -1208,7 +1208,7 @@
       "longitude": -73.90844576060772
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 40,
       "serialNumber": 503000157,
       "latitude": 40.698774108656224,
       "binStatus": "Available",
@@ -1748,7 +1748,7 @@
       "longitude": -73.93027022480965
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 503000229,
       "latitude": 40.82775764614125,
       "binStatus": "Available",
@@ -2135,7 +2135,7 @@
       "longitude": -73.94352234899998
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 0,
       "serialNumber": 503000270,
       "latitude": 40.77020285341154,
       "binStatus": "Available",
@@ -2225,12 +2225,12 @@
       "longitude": -73.93532887101173
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 0,
       "serialNumber": 505100078,
       "latitude": 40.77113841285102,
-      "binStatus": "Full",
+      "binStatus": "Available",
       "description": "BIN 361 - NW CO W 60 St & Amsterdam Ave",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.98717944724858
     },
     {
@@ -2702,7 +2702,7 @@
       "longitude": -73.99222918721208
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 505100006,
       "latitude": 40.717415222837694,
       "binStatus": "Available",
@@ -2720,10 +2720,10 @@
       "longitude": -73.9535946787067
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 0,
       "serialNumber": 505100069,
       "latitude": 40.724874101417406,
-      "binStatus": "Nearly Full",
+      "binStatus": "Available",
       "description": "BIN 254 - SW CO 6 Ave & Dominick St",
       "availableForUse": true,
       "longitude": -74.0047200044207
@@ -2792,7 +2792,7 @@
       "longitude": -73.95466305211644
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 505100089,
       "latitude": 40.77432420761129,
       "binStatus": "Available",
@@ -2801,12 +2801,12 @@
       "longitude": -73.98491537817117
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 0,
       "serialNumber": 505100096,
       "latitude": 40.77217779943119,
-      "binStatus": "Full",
+      "binStatus": "Available",
       "description": "BIN 360 - SW CO West End Ave & W 60 St",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.99013103325534
     },
     {
@@ -2882,7 +2882,7 @@
       "longitude": -73.99017938079861
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 60,
       "serialNumber": 505100080,
       "latitude": 40.7380040181738,
       "binStatus": "Available",
@@ -2990,10 +2990,10 @@
       "longitude": -73.96902091534423
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100065,
       "latitude": 40.769098236486705,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 278 - SW CO West Road & Main Street",
       "availableForUse": true,
       "longitude": -73.94326507506806
