@@ -47,7 +47,7 @@
       "longitude": -73.92288388211199
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 3590018,
       "latitude": 40.741339169940716,
       "binStatus": "Available",
@@ -101,12 +101,12 @@
       "longitude": -73.92166045665941
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 0,
       "serialNumber": 3590012,
       "latitude": 40.884080646656564,
-      "binStatus": "Full",
+      "binStatus": "Available",
       "description": "Bin 413 - NW W 232nd St & Arlington Ave",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.91260653734207
     },
     {
@@ -146,12 +146,12 @@
       "longitude": -73.90993109059836
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 0,
       "serialNumber": 3590009,
       "latitude": 40.88637790151751,
-      "binStatus": "Full",
+      "binStatus": "Available",
       "description": "Bin 412 - SW W 235th St & Independence Ave",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.91430705785751
     },
     {
@@ -173,12 +173,12 @@
       "longitude": -73.89247186481953
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 503000029,
       "latitude": 40.80207202156791,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 33 - NW West 114 Street & Adam Clayton Powell Jr Blvd",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.95370032638311
     },
     {
@@ -938,7 +938,7 @@
       "longitude": -73.90491127967834
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 40,
       "serialNumber": 503000100,
       "latitude": 40.818994146499016,
       "binStatus": "Available",
@@ -1010,7 +1010,7 @@
       "longitude": -73.95123168826103
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000134,
       "latitude": 40.693288204717966,
       "binStatus": "Available",
@@ -1091,7 +1091,7 @@
       "longitude": -73.92984341830015
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000127,
       "latitude": 40.706692511000654,
       "binStatus": "Available",
@@ -1388,12 +1388,12 @@
       "longitude": -73.941904976964
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 503000179,
       "latitude": 40.67617742416484,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 190 - NE Underhill Avenue & Park Place",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.96627854555845
     },
     {
@@ -1478,7 +1478,7 @@
       "longitude": -73.91690745949745
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 0,
       "serialNumber": 503000192,
       "latitude": 40.852149853823676,
       "binStatus": "Available",
@@ -1631,7 +1631,7 @@
       "longitude": -73.9556797966361
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000217,
       "latitude": 40.84212899335488,
       "binStatus": "Available",
@@ -1964,7 +1964,7 @@
       "longitude": -74.14217077195644
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 503000244,
       "latitude": 40.67498593224985,
       "binStatus": "Available",
@@ -2045,7 +2045,7 @@
       "longitude": -74.0864036232233
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 503000272,
       "latitude": 40.62262016360215,
       "binStatus": "Available",
@@ -2594,7 +2594,7 @@
       "longitude": -74.0108494516408
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 60,
       "serialNumber": 505100033,
       "latitude": 40.78070495280861,
       "binStatus": "Available",
@@ -2657,7 +2657,7 @@
       "longitude": -73.97332561607193
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 505100028,
       "latitude": 40.7621600211368,
       "binStatus": "Available",
@@ -2783,19 +2783,19 @@
       "longitude": -73.99722146507379
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 505100075,
       "latitude": 40.778060906549015,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 394 - SW CO E 85 St & 3 Ave",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.95466305211644
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100089,
       "latitude": 40.77432420761129,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 362 - NW CO Amsterdam ave & W 65 St",
       "availableForUse": true,
       "longitude": -73.98491537817117
@@ -3233,7 +3233,7 @@
       "longitude": -73.9464701336139
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 0,
       "serialNumber": 505100138,
       "latitude": 40.76639459170164,
       "binStatus": "Available",
@@ -3242,7 +3242,7 @@
       "longitude": -73.99037571712044
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 0,
       "serialNumber": 505100136,
       "latitude": 40.764814574064715,
       "binStatus": "Available",
@@ -3278,7 +3278,7 @@
       "longitude": -73.98511663223668
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 60,
       "serialNumber": 505100137,
       "latitude": 40.74339417050297,
       "binStatus": "Available",
@@ -3395,12 +3395,12 @@
       "longitude": -73.98478295989479
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 505100116,
       "latitude": 40.78914315936319,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 370 - NW CO Columbus Ave & W 90 St",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.97035768079368
     },
     {
@@ -3422,7 +3422,7 @@
       "longitude": -73.98222696429983
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 505100112,
       "latitude": 40.741522457226544,
       "binStatus": "Available",
