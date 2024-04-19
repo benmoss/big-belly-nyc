@@ -20,7 +20,7 @@
       "longitude": -73.92287585085252
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 3590013,
       "latitude": 40.74689511721386,
       "binStatus": "Available",
@@ -587,19 +587,19 @@
       "longitude": -73.92345808446407
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 503000046,
       "latitude": 40.81219790128479,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 21 - NW West 126th St & Morningside Ave",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.95354006439447
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 503000043,
       "latitude": 40.804732620856896,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 31 - SE Amsterdam Avenue & W 113 Street",
       "availableForUse": true,
       "longitude": -73.9623499576847
@@ -956,7 +956,7 @@
       "longitude": -73.9447372895371
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 40,
       "serialNumber": 503000074,
       "latitude": 40.80957426897732,
       "binStatus": "Available",
@@ -983,7 +983,7 @@
       "longitude": -73.92586905509233
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000138,
       "latitude": 40.678764370117854,
       "binStatus": "Available",
@@ -2171,7 +2171,7 @@
       "longitude": -73.92091434448957
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000205,
       "latitude": 40.68303106054966,
       "binStatus": "Available",
@@ -2243,10 +2243,10 @@
       "longitude": -73.94892745726821
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100018,
       "latitude": 40.77294782166341,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 270 - SW CO 83rd & East End",
       "availableForUse": true,
       "longitude": -73.94638707990978
@@ -2594,10 +2594,10 @@
       "longitude": -74.0108494516408
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 80,
       "serialNumber": 505100033,
       "latitude": 40.78070495280861,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 365 - SW Co W 77 St & Columbus Ave",
       "availableForUse": true,
       "longitude": -73.97665659471008
@@ -2711,10 +2711,10 @@
       "longitude": -74.01312500238419
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100057,
       "latitude": 40.77544607677087,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 266 - NW CO 2nd Ave & 82nd Street",
       "availableForUse": true,
       "longitude": -73.9535946787067
@@ -2900,10 +2900,10 @@
       "longitude": -73.99090145996239
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100106,
       "latitude": 40.78586060688359,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 280 - SW CO E 95 Street & Park Ave",
       "availableForUse": true,
       "longitude": -73.95335140977043
@@ -3089,7 +3089,7 @@
       "longitude": -73.97335456220875
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 505100097,
       "latitude": 40.72556517707213,
       "binStatus": "Available",
@@ -3332,10 +3332,10 @@
       "longitude": -73.95175657391553
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 80,
       "serialNumber": 505100121,
       "latitude": 40.7909709189525,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 371 - NW CO W 91 St & Amsterdam Ave",
       "availableForUse": true,
       "longitude": -73.97276669918094
