@@ -461,7 +461,7 @@
       "longitude": -73.87542713633172
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 0,
       "serialNumber": 503000060,
       "latitude": 40.81491836063367,
       "binStatus": "Available",
@@ -749,7 +749,7 @@
       "longitude": -74.07695855945349
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000067,
       "latitude": 40.76558557637679,
       "binStatus": "Available",
@@ -758,7 +758,7 @@
       "longitude": -73.92632732264548
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 60,
       "serialNumber": 503000070,
       "latitude": 40.83161371635521,
       "binStatus": "Available",
@@ -1397,7 +1397,7 @@
       "longitude": -73.96627854555845
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000180,
       "latitude": 40.69293663142478,
       "binStatus": "Available",
@@ -1865,7 +1865,7 @@
       "longitude": -73.93390157678125
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 503000241,
       "latitude": 40.6774118895118,
       "binStatus": "Available",
@@ -1973,7 +1973,7 @@
       "longitude": -73.96024390254057
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000264,
       "latitude": 40.67279917738334,
       "binStatus": "Available",
@@ -2144,7 +2144,7 @@
       "longitude": -73.99166207937031
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 503000274,
       "latitude": 40.643029752327344,
       "binStatus": "Available",
@@ -2234,12 +2234,12 @@
       "longitude": -73.98717944724858
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 505100039,
       "latitude": 40.781609451116324,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 274 - SE CO E 92 St & 2 Ave",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.94892745726821
     },
     {
@@ -2423,10 +2423,10 @@
       "longitude": -73.9869912541827
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 0,
       "serialNumber": 505100045,
       "latitude": 40.74639647509707,
-      "binStatus": "Nearly Full",
+      "binStatus": "Available",
       "description": "BIN 342 - SW CO 10 Ave & W 21 St",
       "availableForUse": true,
       "longitude": -74.00526163846435
@@ -2486,10 +2486,10 @@
       "longitude": -74.0109745413065
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100023,
       "latitude": 40.7346470054958,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 311 - SW CO W 12 St & 5 Ave",
       "availableForUse": true,
       "longitude": -73.99481938922054
@@ -3278,12 +3278,12 @@
       "longitude": -73.98511663223668
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 0,
       "serialNumber": 505100137,
       "latitude": 40.74339417050297,
-      "binStatus": "Full",
+      "binStatus": "Available",
       "description": "BIN 339 - SW CO 5 Ave & W 26 St",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.98831240762495
     },
     {
@@ -3332,12 +3332,12 @@
       "longitude": -73.95175657391553
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 505100121,
       "latitude": 40.7909709189525,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 371 - NW CO W 91 St & Amsterdam Ave",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.97276669918094
     },
     {
@@ -3404,10 +3404,10 @@
       "longitude": -73.97035768079368
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100145,
       "latitude": 40.74163391924499,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 338 - N/E CO 21st Street and 6th Ave",
       "availableForUse": true,
       "longitude": -73.99363601223293
