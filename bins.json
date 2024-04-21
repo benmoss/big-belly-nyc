@@ -218,7 +218,7 @@
       "longitude": -73.86632109842786
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 0,
       "serialNumber": 503000028,
       "latitude": 40.798054852781554,
       "binStatus": "Available",
@@ -515,7 +515,7 @@
       "longitude": -73.94453756511211
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 0,
       "serialNumber": 503000048,
       "latitude": 40.7966226877643,
       "binStatus": "Available",
@@ -695,10 +695,10 @@
       "longitude": -73.92594543138473
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 503000061,
       "latitude": 40.76808087642403,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 15 - SE 31st Avenue & 14th Street",
       "availableForUse": true,
       "longitude": -73.93193346987313
@@ -722,10 +722,10 @@
       "longitude": -73.92701134085655
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 503000065,
       "latitude": 40.76524333304795,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 08 - NW 29th Street & 31st Avenue",
       "availableForUse": true,
       "longitude": -73.92510951539327
@@ -1019,12 +1019,12 @@
       "longitude": -73.90436712652445
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 503000136,
       "latitude": 40.67726495043478,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 192 - NW Grand Avenue & St. Marks Avenue",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.96265991032124
     },
     {
@@ -1505,7 +1505,7 @@
       "longitude": -73.9536564052105
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000194,
       "latitude": 40.68457611432452,
       "binStatus": "Available",
@@ -1649,7 +1649,7 @@
       "longitude": -73.89523789286613
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000214,
       "latitude": 40.84592817625355,
       "binStatus": "Available",
@@ -1973,7 +1973,7 @@
       "longitude": -73.96024390254057
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000264,
       "latitude": 40.67279917738334,
       "binStatus": "Available",
@@ -2036,7 +2036,7 @@
       "longitude": -73.92812234686723
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 60,
       "serialNumber": 503000269,
       "latitude": 40.64137790224041,
       "binStatus": "Available",
@@ -2153,7 +2153,7 @@
       "longitude": -74.07558023929596
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 40,
       "serialNumber": 503000216,
       "latitude": 40.84382557774167,
       "binStatus": "Available",
