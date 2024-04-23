@@ -20,7 +20,7 @@
       "longitude": -73.92287585085252
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 3590013,
       "latitude": 40.74689511721386,
       "binStatus": "Available",
@@ -1199,7 +1199,7 @@
       "longitude": -73.96311119198799
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 40,
       "serialNumber": 503000152,
       "latitude": 40.68415381504779,
       "binStatus": "Available",
@@ -1649,7 +1649,7 @@
       "longitude": -73.89523789286613
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000214,
       "latitude": 40.84592817625355,
       "binStatus": "Available",
@@ -2315,7 +2315,7 @@
       "longitude": -73.94685207786003
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 60,
       "serialNumber": 505100020,
       "latitude": 40.72799056580962,
       "binStatus": "Available",
@@ -2585,12 +2585,12 @@
       "longitude": -74.0108494516408
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 505100033,
       "latitude": 40.78070495280861,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 365 - SW Co W 77 St & Columbus Ave",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.97665659471008
     },
     {
@@ -2666,12 +2666,12 @@
       "longitude": -74.0007785662345
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 505100064,
       "latitude": 40.718560301291866,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 261 - NW CO Hester ST & Baxter St",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.99876398340452
     },
     {
@@ -2801,10 +2801,10 @@
       "longitude": -73.99013103325534
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100081,
       "latitude": 40.78693626205199,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 367 - SW CO Amsterdam Ave & W 85 St",
       "availableForUse": true,
       "longitude": -73.97570673483682
@@ -3332,7 +3332,7 @@
       "longitude": -73.97196531694908
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 505100140,
       "latitude": 40.760441717606135,
       "binStatus": "Available",
