@@ -155,10 +155,10 @@
       "longitude": -73.91430705785751
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 3590002,
       "latitude": 40.7214226207243,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 263 - NW CO Elizabeth St & Spring St",
       "availableForUse": true,
       "longitude": -73.99473222632365
@@ -317,10 +317,10 @@
       "longitude": -73.91832768131844
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 503000017,
       "latitude": 40.81773208281474,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 42 - SE West 136th Street & Edgecombe Avenue",
       "availableForUse": true,
       "longitude": -73.94737802445889
@@ -821,7 +821,7 @@
       "longitude": -73.94825711846352
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 40,
       "serialNumber": 503000083,
       "latitude": 40.826256762400135,
       "binStatus": "Available",
@@ -830,12 +830,12 @@
       "longitude": -73.93855724483728
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 503000085,
       "latitude": 40.80984148378304,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 37 - NW West 126th Street & Adam Clayton Powell Jr Blvd",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.94765663892031
     },
     {
@@ -2495,12 +2495,12 @@
       "longitude": -74.00274561377924
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 505100047,
       "latitude": 40.73539348561974,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 309 - NE CO Irving PL & E 16 St",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.98759673124307
     },
     {
@@ -2630,10 +2630,10 @@
       "longitude": -73.95855413649969
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100063,
       "latitude": 40.71256505742161,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 251 - NE CO Broadway & Park Place (City hall park side)",
       "availableForUse": true,
       "longitude": -74.00756552771458
@@ -3107,7 +3107,7 @@
       "longitude": -73.95414933006201
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 60,
       "serialNumber": 505100124,
       "latitude": 40.73044605992985,
       "binStatus": "Available",
