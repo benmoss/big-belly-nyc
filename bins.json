@@ -2,7 +2,7 @@
   "errorCode": "STATUS_OK",
   "compostAssets": [
     {
-      "latestFullness": 40,
+      "latestFullness": 0,
       "serialNumber": 3590004,
       "latitude": 40.740982515732185,
       "binStatus": "Available",
@@ -11,7 +11,7 @@
       "longitude": -73.9180913195014
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 0,
       "serialNumber": 3590010,
       "latitude": 40.74060865008307,
       "binStatus": "Available",
@@ -47,7 +47,7 @@
       "longitude": -73.92288388211199
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 0,
       "serialNumber": 3590018,
       "latitude": 40.741339169940716,
       "binStatus": "Available",
@@ -110,7 +110,7 @@
       "longitude": -73.91260653734207
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 40,
       "serialNumber": 3590003,
       "latitude": 40.7457242854218,
       "binStatus": "Available",
@@ -587,7 +587,7 @@
       "longitude": -73.92345808446407
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 0,
       "serialNumber": 503000046,
       "latitude": 40.81219790128479,
       "binStatus": "Available",
@@ -596,12 +596,12 @@
       "longitude": -73.95354006439447
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 0,
       "serialNumber": 503000043,
       "latitude": 40.804732620856896,
-      "binStatus": "Full",
+      "binStatus": "Available",
       "description": "BIN 31 - SE Amsterdam Avenue & W 113 Street",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.9623499576847
     },
     {
@@ -983,19 +983,19 @@
       "longitude": -73.92586905509233
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 0,
       "serialNumber": 503000138,
       "latitude": 40.678764370117854,
-      "binStatus": "Nearly Full",
+      "binStatus": "Available",
       "description": "BIN 191 - NE Underhill Avenue & Bergen Street",
       "availableForUse": true,
       "longitude": -73.96537832915783
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 0,
       "serialNumber": 503000140,
       "latitude": 40.681352486961536,
-      "binStatus": "Nearly Full",
+      "binStatus": "Available",
       "description": "BIN 138 - NW Malcolm X Boulevard & Bainbridge Street",
       "availableForUse": true,
       "longitude": -73.92874404788017
@@ -1082,7 +1082,7 @@
       "longitude": -73.94146978855133
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 0,
       "serialNumber": 503000145,
       "latitude": 40.68640155543058,
       "binStatus": "Available",
@@ -1190,10 +1190,10 @@
       "longitude": -73.93099308013916
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 0,
       "serialNumber": 503000150,
       "latitude": 40.67358758069033,
-      "binStatus": "Nearly Full",
+      "binStatus": "Available",
       "description": "BIN 193 - NW Washington Avenue & St. Johns Place",
       "availableForUse": true,
       "longitude": -73.96311119198799
@@ -1217,10 +1217,10 @@
       "longitude": -73.92600182443857
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 503000158,
       "latitude": 40.68871201420607,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 129 - NE Bedford Avenue & Clifton Place",
       "availableForUse": true,
       "longitude": -73.95497169345617
@@ -1271,10 +1271,10 @@
       "longitude": -73.90958435833454
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 0,
       "serialNumber": 503000168,
       "latitude": 40.6755571241916,
-      "binStatus": "Nearly Full",
+      "binStatus": "Available",
       "description": "BIN 188 - NW Vanderbilt Avenue & Plaza Street East",
       "availableForUse": true,
       "longitude": -73.96974126370019
@@ -1325,10 +1325,10 @@
       "longitude": -73.91542855650187
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 0,
       "serialNumber": 503000175,
       "latitude": 40.68014247411724,
-      "binStatus": "Nearly Full",
+      "binStatus": "Available",
       "description": "BIN 186 - SW Vanderbilt Avenue & Dean Street",
       "availableForUse": true,
       "longitude": -73.96811317652464
@@ -1361,7 +1361,7 @@
       "longitude": -73.89874320477247
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 0,
       "serialNumber": 503000176,
       "latitude": 40.680852618800145,
       "binStatus": "Available",
@@ -1388,10 +1388,10 @@
       "longitude": -73.941904976964
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 0,
       "serialNumber": 503000179,
       "latitude": 40.67617742416484,
-      "binStatus": "Nearly Full",
+      "binStatus": "Available",
       "description": "BIN 190 - NE Underhill Avenue & Park Place",
       "availableForUse": true,
       "longitude": -73.96627854555845
@@ -1460,12 +1460,12 @@
       "longitude": -73.91591713080048
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 0,
       "serialNumber": 503000184,
       "latitude": 40.673104182956976,
-      "binStatus": "Full",
+      "binStatus": "Available",
       "description": "BIN 189 - NE Underhill Avenue & Eastern Parkway",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.96755293011665
     },
     {
@@ -1523,7 +1523,7 @@
       "longitude": -73.82693077466463
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 0,
       "serialNumber": 503000190,
       "latitude": 40.692363382489,
       "binStatus": "Available",
@@ -1595,7 +1595,7 @@
       "longitude": -73.95393367856741
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 0,
       "serialNumber": 503000208,
       "latitude": 40.683812617651405,
       "binStatus": "Available",
@@ -1982,12 +1982,12 @@
       "longitude": -73.92220901788035
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 0,
       "serialNumber": 503000263,
       "latitude": 40.67867868263691,
-      "binStatus": "Full",
+      "binStatus": "Available",
       "description": "BIN 220 - NE Flatbush Avenue & Prospect Place",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.97343333810568
     },
     {
@@ -2063,7 +2063,7 @@
       "longitude": -73.92796251922846
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 0,
       "serialNumber": 503000271,
       "latitude": 40.74194368731704,
       "binStatus": "Available",
@@ -2153,7 +2153,7 @@
       "longitude": -73.78518752753735
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 0,
       "serialNumber": 503000197,
       "latitude": 40.68749730455891,
       "binStatus": "Available",
@@ -2162,7 +2162,7 @@
       "longitude": -73.92091434448957
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 40,
       "serialNumber": 503000205,
       "latitude": 40.68303106054966,
       "binStatus": "Available",
@@ -2387,16 +2387,16 @@
       "longitude": -74.00212241864305
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 0,
       "serialNumber": 505100004,
       "latitude": 40.784683566970614,
-      "binStatus": "Nearly Full",
+      "binStatus": "Available",
       "description": "BIN 273 - NW CO 3 Ave & E 95 St",
       "availableForUse": true,
       "longitude": -73.9498927384089
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 0,
       "serialNumber": 505100013,
       "latitude": 40.73565255133342,
       "binStatus": "Available",
@@ -2441,10 +2441,10 @@
       "longitude": -74.00006544331396
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 0,
       "serialNumber": 505100022,
       "latitude": 40.73287635373648,
-      "binStatus": "Nearly Full",
+      "binStatus": "Available",
       "description": "BIN 334 - SW CO Hudson St & Christopher St",
       "availableForUse": true,
       "longitude": -74.00655866692779
@@ -2486,12 +2486,12 @@
       "longitude": -73.99481938922054
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 0,
       "serialNumber": 505100037,
       "latitude": 40.739169439589006,
-      "binStatus": "Full",
+      "binStatus": "Available",
       "description": "BIN 331 - SE CO Greenwich Ave & 8th Ave",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -74.00274561377924
     },
     {
@@ -2567,10 +2567,10 @@
       "longitude": -73.99747696934338
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 0,
       "serialNumber": 505100044,
       "latitude": 40.73121273762785,
-      "binStatus": "Nearly Full",
+      "binStatus": "Available",
       "description": "BIN 335 - NE CO Morton ST & Greenwich ST",
       "availableForUse": true,
       "longitude": -74.0077318323766
@@ -2585,10 +2585,10 @@
       "longitude": -74.0108494516408
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 0,
       "serialNumber": 505100033,
       "latitude": 40.78070495280861,
-      "binStatus": "Nearly Full",
+      "binStatus": "Available",
       "description": "BIN 365 - SW Co W 77 St & Columbus Ave",
       "availableForUse": true,
       "longitude": -73.97665659471008
@@ -2801,7 +2801,7 @@
       "longitude": -73.99013103325534
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 0,
       "serialNumber": 505100081,
       "latitude": 40.78693626205199,
       "binStatus": "Available",
@@ -2936,10 +2936,10 @@
       "longitude": -73.9833025251433
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 0,
       "serialNumber": 505100086,
       "latitude": 40.781894893686875,
-      "binStatus": "Nearly Full",
+      "binStatus": "Available",
       "description": "BIN 366 - NE CO W 77 St & Amsterdam Ave",
       "availableForUse": true,
       "longitude": -73.97906581678058
@@ -3017,7 +3017,7 @@
       "longitude": -73.96586280976997
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 0,
       "serialNumber": 505100067,
       "latitude": 40.77168450396742,
       "binStatus": "Available",
@@ -3044,10 +3044,10 @@
       "longitude": -73.98167006603096
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 0,
       "serialNumber": 505100100,
       "latitude": 40.773718493770346,
-      "binStatus": "Nearly Full",
+      "binStatus": "Available",
       "description": "BIN 285 - NE CO 77th & Lexington Ave",
       "availableForUse": true,
       "longitude": -73.95966351954947
@@ -3107,7 +3107,7 @@
       "longitude": -73.95414933006201
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 0,
       "serialNumber": 505100124,
       "latitude": 40.73044605992985,
       "binStatus": "Available",
@@ -3116,7 +3116,7 @@
       "longitude": -74.0026189895217
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 0,
       "serialNumber": 505100125,
       "latitude": 40.786641828294435,
       "binStatus": "Available",
@@ -3134,7 +3134,7 @@
       "longitude": -73.98189624416173
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 0,
       "serialNumber": 505100114,
       "latitude": 40.76550445210295,
       "binStatus": "Available",
@@ -3323,7 +3323,7 @@
       "longitude": -73.97276669918094
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 0,
       "serialNumber": 505100117,
       "latitude": 40.78193045956682,
       "binStatus": "Available",
@@ -3341,7 +3341,7 @@
       "longitude": -73.99506114554103
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 0,
       "serialNumber": 505100150,
       "latitude": 40.729589714367386,
       "binStatus": "Available",
@@ -3359,12 +3359,12 @@
       "longitude": -73.99201305589226
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 0,
       "serialNumber": 505100123,
       "latitude": 40.78331643218788,
-      "binStatus": "Full",
+      "binStatus": "Available",
       "description": "BIN 377 - NW CO Broadway & W 78 St",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.98062197434946
     },
     {
@@ -3422,12 +3422,12 @@
       "longitude": -73.9799463692325
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 0,
       "serialNumber": 505100115,
       "latitude": 40.78876861933553,
-      "binStatus": "Full",
+      "binStatus": "Available",
       "description": "BIN 380 - SE CO Broadway & W 87 St",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.97587379945203
     },
     {
