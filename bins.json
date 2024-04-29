@@ -191,12 +191,12 @@
       "longitude": -73.92014228572059
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 0,
       "serialNumber": 503000001,
       "latitude": 40.61356176348572,
-      "binStatus": "Full",
+      "binStatus": "Available",
       "description": "BIN 238 - NE Victory Blvd & Slosson Avenue",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -74.11656774580479
     },
     {
@@ -605,7 +605,7 @@
       "longitude": -73.9623499576847
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000040,
       "latitude": 40.80557429253741,
       "binStatus": "Available",
@@ -2072,7 +2072,7 @@
       "longitude": -73.92471789027536
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000267,
       "latitude": 40.67165371443654,
       "binStatus": "Available",
