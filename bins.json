@@ -47,7 +47,7 @@
       "longitude": -73.92288388211199
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 0,
       "serialNumber": 3590018,
       "latitude": 40.741339169940716,
       "binStatus": "Available",
@@ -74,7 +74,7 @@
       "longitude": -73.89971678571764
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 0,
       "serialNumber": 3590019,
       "latitude": 40.745991757187745,
       "binStatus": "Available",
@@ -308,10 +308,10 @@
       "longitude": -73.93766775727272
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 0,
       "serialNumber": 503000013,
       "latitude": 40.86843300418909,
-      "binStatus": "Nearly Full",
+      "binStatus": "Available",
       "description": "BIN 65 - NE West 212th Street & Broadway",
       "availableForUse": true,
       "longitude": -73.91832768131844
@@ -344,7 +344,7 @@
       "longitude": -73.94264291971922
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 0,
       "serialNumber": 503000020,
       "latitude": 40.841033254239434,
       "binStatus": "Available",
@@ -434,10 +434,10 @@
       "longitude": -73.92743781208992
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 0,
       "serialNumber": 503000018,
       "latitude": 40.83478846373379,
-      "binStatus": "Nearly Full",
+      "binStatus": "Available",
       "description": "BIN 56 - SW Amsterdam Avenue & West 160th Street",
       "availableForUse": true,
       "longitude": -73.94085858017206
@@ -506,7 +506,7 @@
       "longitude": -73.95314779132605
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 0,
       "serialNumber": 503000050,
       "latitude": 40.829794034320685,
       "binStatus": "Available",
@@ -614,12 +614,12 @@
       "longitude": -73.9660133421421
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 0,
       "serialNumber": 503000039,
       "latitude": 40.82647613312916,
-      "binStatus": "Full",
+      "binStatus": "Available",
       "description": "BIN 25 - SW West 147th Street & Amsterdam Avenue",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.94687759676215
     },
     {
@@ -659,12 +659,12 @@
       "longitude": -73.93176387995481
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 0,
       "serialNumber": 503000036,
       "latitude": 40.6778510426927,
-      "binStatus": "Full",
+      "binStatus": "Available",
       "description": "BIN 187 - NW Vanderbilt Avenue & Prospect Place",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.96890208125114
     },
     {
@@ -758,10 +758,10 @@
       "longitude": -73.92632732264548
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 0,
       "serialNumber": 503000070,
       "latitude": 40.83161371635521,
-      "binStatus": "Nearly Full",
+      "binStatus": "Available",
       "description": "BIN 55 - NE Amsterdam Avenue & West 155th Street",
       "availableForUse": true,
       "longitude": -73.94291717559099
@@ -938,7 +938,7 @@
       "longitude": -73.90491127967834
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 0,
       "serialNumber": 503000100,
       "latitude": 40.818994146499016,
       "binStatus": "Available",
@@ -983,10 +983,10 @@
       "longitude": -73.92586905509233
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 0,
       "serialNumber": 503000138,
       "latitude": 40.678764370117854,
-      "binStatus": "Nearly Full",
+      "binStatus": "Available",
       "description": "BIN 191 - NE Underhill Avenue & Bergen Street",
       "availableForUse": true,
       "longitude": -73.96537832915783
@@ -1388,7 +1388,7 @@
       "longitude": -73.941904976964
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 0,
       "serialNumber": 503000179,
       "latitude": 40.67617742416484,
       "binStatus": "Available",
@@ -1460,12 +1460,12 @@
       "longitude": -73.91591713080048
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 0,
       "serialNumber": 503000184,
       "latitude": 40.673104182956976,
-      "binStatus": "Full",
+      "binStatus": "Available",
       "description": "BIN 189 - NE Underhill Avenue & Eastern Parkway",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.96755293011665
     },
     {
@@ -2270,7 +2270,7 @@
       "longitude": -73.98008527492154
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 0,
       "serialNumber": 505100042,
       "latitude": 40.73752862143271,
       "binStatus": "Available",
@@ -2369,12 +2369,12 @@
       "longitude": -73.99051628208568
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 505100008,
       "latitude": 40.7391347154904,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 337 - SE CO W 17 St & 6 Ave",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.99540269748928
     },
     {
@@ -2414,10 +2414,10 @@
       "longitude": -73.9869912541827
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100045,
       "latitude": 40.74639647509707,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 342 - SW CO 10 Ave & W 21 St",
       "availableForUse": true,
       "longitude": -74.00526163846435
@@ -2639,7 +2639,7 @@
       "longitude": -74.00756552771458
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 0,
       "serialNumber": 505100011,
       "latitude": 40.75544386726651,
       "binStatus": "Available",
@@ -3017,21 +3017,21 @@
       "longitude": -73.96586280976997
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 0,
       "serialNumber": 505100067,
       "latitude": 40.77168450396742,
-      "binStatus": "Full",
+      "binStatus": "Available",
       "description": "BIN 290 - SW CO Lexington Ave & E 74 St",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.9614462477865
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 0,
       "serialNumber": 505100091,
       "latitude": 40.74913400691257,
-      "binStatus": "Full",
+      "binStatus": "Available",
       "description": "BIN 297 - NW CO of Lexington Ave & E 38 St",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.97793704431773
     },
     {
@@ -3134,7 +3134,7 @@
       "longitude": -73.98189624416173
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 0,
       "serialNumber": 505100114,
       "latitude": 40.76550445210295,
       "binStatus": "Available",
@@ -3233,7 +3233,7 @@
       "longitude": -73.99037571712044
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 0,
       "serialNumber": 505100136,
       "latitude": 40.764814574064715,
       "binStatus": "Available",
