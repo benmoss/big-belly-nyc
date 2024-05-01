@@ -110,7 +110,7 @@
       "longitude": -73.91260653734207
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 3590003,
       "latitude": 40.7457242854218,
       "binStatus": "Available",
@@ -218,10 +218,10 @@
       "longitude": -73.86632109842786
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 503000028,
       "latitude": 40.798054852781554,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 32 - SW West 112 Street\t& 5th Avenue",
       "availableForUse": true,
       "longitude": -73.94852463470318
@@ -1154,7 +1154,7 @@
       "longitude": -73.90397150069475
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000132,
       "latitude": 40.70324915068062,
       "binStatus": "Available",
@@ -1334,7 +1334,7 @@
       "longitude": -73.96811317652464
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 503000162,
       "latitude": 40.704966472832965,
       "binStatus": "Available",
@@ -1523,7 +1523,7 @@
       "longitude": -73.82693077466463
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 503000190,
       "latitude": 40.692363382489,
       "binStatus": "Available",
@@ -1577,7 +1577,7 @@
       "longitude": -73.85669823735952
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 503000211,
       "latitude": 40.83852110249066,
       "binStatus": "Available",
@@ -2360,19 +2360,19 @@
       "longitude": -73.99195962283002
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 505100019,
       "latitude": 40.731496522321486,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 315 - NW CO 4 Ave & E 10 St",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.99051628208568
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100008,
       "latitude": 40.7391347154904,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 337 - SE CO W 17 St & 6 Ave",
       "availableForUse": true,
       "longitude": -73.99540269748928
@@ -2504,12 +2504,12 @@
       "longitude": -73.98759673124307
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 505100046,
       "latitude": 40.73534879130396,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 336 - SW CO 6 Ave & W 11 St",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.99849525644926
     },
     {
@@ -2603,10 +2603,10 @@
       "longitude": -73.94763141892919
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100034,
       "latitude": 40.762820138671465,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 352 - NE CO  W 47th Street & 10th Ave",
       "availableForUse": true,
       "longitude": -73.99302401909992
@@ -2981,7 +2981,7 @@
       "longitude": -73.96902091534423
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 505100065,
       "latitude": 40.769098236486705,
       "binStatus": "Available",
@@ -3062,7 +3062,7 @@
       "longitude": -73.9728414833659
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 60,
       "serialNumber": 505100101,
       "latitude": 40.77228183243049,
       "binStatus": "Available",
@@ -3224,21 +3224,21 @@
       "longitude": -73.9464701336139
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100138,
       "latitude": 40.76639459170164,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 353 - SE CO 10 Ave & W 53 St",
       "availableForUse": true,
       "longitude": -73.99037571712044
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 505100136,
       "latitude": 40.764814574064715,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 354 - NE CO 9 Ave & W 52 St",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.98776125245462
     },
     {
@@ -3296,10 +3296,10 @@
       "longitude": -73.98983752643882
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100141,
       "latitude": 40.74960582599206,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 345 - NE CO W 26 St & 10 Ave",
       "availableForUse": true,
       "longitude": -74.00261308139008
