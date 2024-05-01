@@ -164,7 +164,7 @@
       "longitude": -73.99473222632365
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 0,
       "serialNumber": 3590006,
       "latitude": 40.88282894758702,
       "binStatus": "Available",
@@ -434,7 +434,7 @@
       "longitude": -73.92743781208992
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 503000018,
       "latitude": 40.83478846373379,
       "binStatus": "Available",
@@ -596,7 +596,7 @@
       "longitude": -73.95354006439447
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 60,
       "serialNumber": 503000043,
       "latitude": 40.804732620856896,
       "binStatus": "Available",
@@ -659,7 +659,7 @@
       "longitude": -73.93176387995481
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 503000036,
       "latitude": 40.6778510426927,
       "binStatus": "Available",
@@ -920,7 +920,7 @@
       "longitude": -73.88263955712318
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 503000098,
       "latitude": 40.80545914536109,
       "binStatus": "Available",
@@ -1406,7 +1406,7 @@
       "longitude": -73.90797402709723
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000188,
       "latitude": 40.690796900599814,
       "binStatus": "Available",
@@ -1685,7 +1685,7 @@
       "longitude": -73.90800554305315
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 503000222,
       "latitude": 40.821624764178374,
       "binStatus": "Available",
@@ -1919,10 +1919,10 @@
       "longitude": -73.91177110144258
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 503000254,
       "latitude": 40.67509191438939,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 195 - NE Franklin Avenue & Prospect Place",
       "availableForUse": true,
       "longitude": -73.95637851208448
@@ -2018,7 +2018,7 @@
       "longitude": -73.9471010863781
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000265,
       "latitude": 40.67028714230085,
       "binStatus": "Available",
@@ -2252,10 +2252,10 @@
       "longitude": -73.9532222620251
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100048,
       "latitude": 40.778333070963065,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 271 - NW CO 1st Ave & 88th St",
       "availableForUse": true,
       "longitude": -73.94848935814979
@@ -2360,10 +2360,10 @@
       "longitude": -73.99195962283002
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100019,
       "latitude": 40.731496522321486,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 315 - NW CO 4 Ave & E 10 St",
       "availableForUse": true,
       "longitude": -73.99051628208568
@@ -2495,7 +2495,7 @@
       "longitude": -74.00274561377924
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 60,
       "serialNumber": 505100047,
       "latitude": 40.73539348561974,
       "binStatus": "Available",
@@ -2576,10 +2576,10 @@
       "longitude": -74.0077318323766
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100061,
       "latitude": 40.70860458493924,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 252 - SW CO Broadway & Cedar Street",
       "availableForUse": true,
       "longitude": -74.0108494516408
@@ -2873,7 +2873,7 @@
       "longitude": -73.99017938079861
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 505100080,
       "latitude": 40.7380040181738,
       "binStatus": "Available",
@@ -2891,10 +2891,10 @@
       "longitude": -73.99090145996239
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100106,
       "latitude": 40.78586060688359,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 280 - SW CO E 95 Street & Park Ave",
       "availableForUse": true,
       "longitude": -73.95335140977043
@@ -3341,7 +3341,7 @@
       "longitude": -73.97196531694908
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 505100140,
       "latitude": 40.760441717606135,
       "binStatus": "Available",
@@ -3350,7 +3350,7 @@
       "longitude": -73.99506114554103
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 0,
       "serialNumber": 505100150,
       "latitude": 40.729589714367386,
       "binStatus": "Available",
@@ -3431,12 +3431,12 @@
       "longitude": -73.9799463692325
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 505100115,
       "latitude": 40.78876861933553,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 380 - SE CO Broadway & W 87 St",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.97587379945203
     },
     {
