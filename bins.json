@@ -38,7 +38,7 @@
       "longitude": -73.9175371080637
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 3590014,
       "latitude": 40.745373137079994,
       "binStatus": "Available",
@@ -290,7 +290,7 @@
       "longitude": -73.92011906951666
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 503000012,
       "latitude": 40.820960776484476,
       "binStatus": "Available",
@@ -587,7 +587,7 @@
       "longitude": -73.92345808446407
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 503000046,
       "latitude": 40.81219790128479,
       "binStatus": "Available",
@@ -893,7 +893,7 @@
       "longitude": -73.90734169632196
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 503000094,
       "latitude": 40.7666826313674,
       "binStatus": "Available",
@@ -1064,7 +1064,7 @@
       "longitude": -73.91719682217655
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 503000143,
       "latitude": 40.6825487482924,
       "binStatus": "Available",
@@ -1271,12 +1271,12 @@
       "longitude": -73.90958435833454
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 503000168,
       "latitude": 40.6755571241916,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 188 - NW Vanderbilt Avenue & Plaza Street East",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.96974126370019
     },
     {
@@ -1838,7 +1838,7 @@
       "longitude": -73.94294936209917
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 503000240,
       "latitude": 40.67428152112551,
       "binStatus": "Available",
@@ -1919,7 +1919,7 @@
       "longitude": -73.91177110144258
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 503000254,
       "latitude": 40.67509191438939,
       "binStatus": "Available",
@@ -2243,10 +2243,10 @@
       "longitude": -73.94638707990978
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100038,
       "latitude": 40.780081383690586,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 277 - SW CO 3rd Ave & East 88th St",
       "availableForUse": true,
       "longitude": -73.9532222620251
@@ -2288,7 +2288,7 @@
       "longitude": -74.00206860154867
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 0,
       "serialNumber": 505100050,
       "latitude": 40.77142731268294,
       "binStatus": "Available",
@@ -2306,7 +2306,7 @@
       "longitude": -73.9538887710376
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 505100014,
       "latitude": 40.78010940688603,
       "binStatus": "Available",
@@ -2414,7 +2414,7 @@
       "longitude": -73.9869912541827
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 505100045,
       "latitude": 40.74639647509707,
       "binStatus": "Available",
@@ -2540,7 +2540,7 @@
       "longitude": -73.99466765892298
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 505100032,
       "latitude": 40.765863654327504,
       "binStatus": "Available",
@@ -2567,7 +2567,7 @@
       "longitude": -73.99747696934338
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 505100044,
       "latitude": 40.73121273762785,
       "binStatus": "Available",
@@ -2639,7 +2639,7 @@
       "longitude": -74.00756552771458
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 505100011,
       "latitude": 40.75544386726651,
       "binStatus": "Available",
@@ -3035,10 +3035,10 @@
       "longitude": -73.97793704431773
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100066,
       "latitude": 40.71424651872,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 256 - NW CO Grand St & Henry St",
       "availableForUse": true,
       "longitude": -73.98167006603096
@@ -3305,10 +3305,10 @@
       "longitude": -74.00261308139008
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100122,
       "latitude": 40.77622161241313,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 379 - SW CO W 72 St & Central Park W",
       "availableForUse": true,
       "longitude": -73.97619309561924
