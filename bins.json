@@ -308,10 +308,10 @@
       "longitude": -73.93766775727272
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 0,
       "serialNumber": 503000013,
       "latitude": 40.86843300418909,
-      "binStatus": "Nearly Full",
+      "binStatus": "Available",
       "description": "BIN 65 - NE West 212th Street & Broadway",
       "availableForUse": true,
       "longitude": -73.91832768131844
@@ -398,12 +398,12 @@
       "longitude": -73.88136584311724
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 0,
       "serialNumber": 503000022,
       "latitude": 40.866201512573475,
-      "binStatus": "Full",
+      "binStatus": "Available",
       "description": "BIN 64 - SE Broadway & Academy Street",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.92508216202259
     },
     {
@@ -848,7 +848,7 @@
       "longitude": -73.90847526490688
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 503000089,
       "latitude": 40.85534820347924,
       "binStatus": "Available",
@@ -1676,7 +1676,7 @@
       "longitude": -73.93744513392448
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 503000219,
       "latitude": 40.75685380877115,
       "binStatus": "Available",
@@ -2369,10 +2369,10 @@
       "longitude": -73.99195962283002
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 0,
       "serialNumber": 505100019,
       "latitude": 40.731496522321486,
-      "binStatus": "Nearly Full",
+      "binStatus": "Available",
       "description": "BIN 315 - NW CO 4 Ave & E 10 St",
       "availableForUse": true,
       "longitude": -73.99051628208568
@@ -2405,7 +2405,7 @@
       "longitude": -73.9498927384089
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 0,
       "serialNumber": 505100013,
       "latitude": 40.73565255133342,
       "binStatus": "Available",
@@ -2441,12 +2441,12 @@
       "longitude": -74.00695323944092
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 0,
       "serialNumber": 505100003,
       "latitude": 40.73776704120356,
-      "binStatus": "Full",
+      "binStatus": "Available",
       "description": "BIN 332 - SE CO 7 Ave & W 13 St",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -74.00006544331396
     },
     {
@@ -2891,7 +2891,7 @@
       "longitude": -73.9809653781084
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 0,
       "serialNumber": 505100088,
       "latitude": 40.72865169703771,
       "binStatus": "Available",
