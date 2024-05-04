@@ -2,7 +2,7 @@
   "errorCode": "STATUS_OK",
   "compostAssets": [
     {
-      "latestFullness": 40,
+      "latestFullness": 0,
       "serialNumber": 3590004,
       "latitude": 40.740982515732185,
       "binStatus": "Available",
@@ -47,7 +47,7 @@
       "longitude": -73.92288388211199
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 0,
       "serialNumber": 3590018,
       "latitude": 40.741339169940716,
       "binStatus": "Available",
@@ -74,7 +74,7 @@
       "longitude": -73.89971678571764
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 0,
       "serialNumber": 3590019,
       "latitude": 40.745991757187745,
       "binStatus": "Available",
@@ -119,7 +119,7 @@
       "longitude": -73.90995819121599
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 0,
       "serialNumber": 3590011,
       "latitude": 40.73775011894243,
       "binStatus": "Available",
@@ -128,7 +128,7 @@
       "longitude": -73.92154820692338
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 0,
       "serialNumber": 3590008,
       "latitude": 40.741475328023036,
       "binStatus": "Available",
@@ -605,7 +605,7 @@
       "longitude": -73.9623499576847
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 503000040,
       "latitude": 40.80557429253741,
       "binStatus": "Available",
@@ -848,10 +848,10 @@
       "longitude": -73.90847526490688
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 503000089,
       "latitude": 40.85534820347924,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 242 - SE Cabrini Blvd & West 187th Street",
       "availableForUse": true,
       "longitude": -73.93804447746935
@@ -1622,7 +1622,7 @@
       "longitude": -73.928127810359
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 0,
       "serialNumber": 503000204,
       "latitude": 40.69300170948447,
       "binStatus": "Available",
@@ -2522,10 +2522,10 @@
       "longitude": -73.99849525644926
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 0,
       "serialNumber": 505100029,
       "latitude": 40.710663476710224,
-      "binStatus": "Nearly Full",
+      "binStatus": "Available",
       "description": "BIN 249 - SE CO Gold St & Frankfort St.",
       "availableForUse": true,
       "longitude": -74.00341004133224
@@ -3098,12 +3098,12 @@
       "longitude": -73.9806513567258
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 0,
       "serialNumber": 505100126,
       "latitude": 40.789118885800946,
-      "binStatus": "Full",
+      "binStatus": "Available",
       "description": "BIN 372 - SW CO W 92 St & Central Park W",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.96666802317641
     },
     {
