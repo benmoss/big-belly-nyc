@@ -2,7 +2,7 @@
   "errorCode": "STATUS_OK",
   "compostAssets": [
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 3590004,
       "latitude": 40.740982515732185,
       "binStatus": "Available",
@@ -65,10 +65,10 @@
       "longitude": -73.91328877313748
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 3590001,
       "latitude": 40.746548059294376,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "Bin 396 - NE 64th St. & 39th Ave",
       "availableForUse": true,
       "longitude": -73.89971678571764
@@ -290,7 +290,7 @@
       "longitude": -73.92011906951666
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 503000012,
       "latitude": 40.820960776484476,
       "binStatus": "Available",
@@ -632,7 +632,7 @@
       "longitude": -73.89476414769888
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 503000038,
       "latitude": 40.76298113979361,
       "binStatus": "Available",
@@ -983,7 +983,7 @@
       "longitude": -73.92586905509233
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000138,
       "latitude": 40.678764370117854,
       "binStatus": "Available",
@@ -1550,12 +1550,12 @@
       "longitude": -73.9326124638319
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 503000207,
       "latitude": 40.68175217538853,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 124 - SW Tompkins Avenue & Macon Street",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.9436212554574
     },
     {
@@ -1910,7 +1910,7 @@
       "longitude": -73.94772704690695
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 503000251,
       "latitude": 40.67459377925092,
       "binStatus": "Available",
@@ -2540,7 +2540,7 @@
       "longitude": -74.01322457939386
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 505100071,
       "latitude": 40.73149350965934,
       "binStatus": "Available",
@@ -2684,7 +2684,7 @@
       "longitude": -73.99876398340452
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 505100058,
       "latitude": 40.716735019858994,
       "binStatus": "Available",
@@ -2711,7 +2711,7 @@
       "longitude": -74.01312500238419
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 505100057,
       "latitude": 40.77544607677087,
       "binStatus": "Available",
@@ -2864,7 +2864,7 @@
       "longitude": -73.9766103569379
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 505100074,
       "latitude": 40.77844967182979,
       "binStatus": "Available",
@@ -2882,7 +2882,7 @@
       "longitude": -73.99017938079861
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 505100080,
       "latitude": 40.7380040181738,
       "binStatus": "Available",
@@ -3377,7 +3377,7 @@
       "longitude": -73.99201305589226
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 505100123,
       "latitude": 40.78331643218788,
       "binStatus": "Available",
