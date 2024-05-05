@@ -362,7 +362,7 @@
       "longitude": -73.93778998622929
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 503000023,
       "latitude": 40.84608111296369,
       "binStatus": "Available",
@@ -1028,7 +1028,7 @@
       "longitude": -73.96265991032124
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 503000133,
       "latitude": 40.684197290894595,
       "binStatus": "Available",
@@ -1508,9 +1508,9 @@
       "latestFullness": 0,
       "serialNumber": 503000194,
       "latitude": 40.68457611432452,
-      "binStatus": "Available",
+      "binStatus": "Out of Service",
       "description": "BIN 123 - SW Tompkins Avenue & Putnam Avenue",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.94418887794018
     },
     {
@@ -3053,7 +3053,7 @@
       "longitude": -73.98167006603096
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 505100100,
       "latitude": 40.773718493770346,
       "binStatus": "Available",
