@@ -2,10 +2,10 @@
   "errorCode": "STATUS_OK",
   "compostAssets": [
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 3590004,
       "latitude": 40.740982515732185,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 406 - SE 47th Ave & 47th St",
       "availableForUse": true,
       "longitude": -73.9180913195014
@@ -83,10 +83,10 @@
       "longitude": -73.90727262943983
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 3590015,
       "latitude": 40.746483770342856,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 401 - NE Skillman Ave & 47th St",
       "availableForUse": true,
       "longitude": -73.91701877117157
@@ -128,7 +128,7 @@
       "longitude": -73.92154820692338
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 3590008,
       "latitude": 40.741475328023036,
       "binStatus": "Available",
@@ -173,10 +173,10 @@
       "longitude": -73.89247186481953
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 503000029,
       "latitude": 40.80207202156791,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 33 - NW West 114 Street & Adam Clayton Powell Jr Blvd",
       "availableForUse": true,
       "longitude": -73.95370032638311
@@ -380,12 +380,12 @@
       "longitude": -73.90380453318357
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 503000032,
       "latitude": 40.76149921367936,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 17 - SE 38th Street & 31st Avenue",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.91796863240839
     },
     {
@@ -398,12 +398,12 @@
       "longitude": -73.88136584311724
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 503000022,
       "latitude": 40.866201512573475,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 64 - SE Broadway & Academy Street",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.92508216202259
     },
     {
@@ -524,10 +524,10 @@
       "longitude": -73.94493098288339
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 503000049,
       "latitude": 40.79160725166976,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 46 - SW E 109th Street & 1st Avenue",
       "availableForUse": true,
       "longitude": -73.93884859979153
@@ -542,12 +542,12 @@
       "longitude": -73.93815591931343
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 503000052,
       "latitude": 40.805835432729474,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 36 - SW West 122 Street & Malcolm X Blvd",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.94713159650564
     },
     {
@@ -947,7 +947,7 @@
       "longitude": -73.95624071359634
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000076,
       "latitude": 40.791411617905716,
       "binStatus": "Available",
@@ -1091,12 +1091,12 @@
       "longitude": -73.92984341830015
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 503000127,
       "latitude": 40.706692511000654,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 177 - SW St. Nicholas Avenue & Willoughby Avenue",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.92045420260473
     },
     {
@@ -1226,7 +1226,7 @@
       "longitude": -73.95497169345617
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000126,
       "latitude": 40.69237838108274,
       "binStatus": "Available",
@@ -1838,12 +1838,12 @@
       "longitude": -73.94294936209917
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 80,
       "serialNumber": 503000240,
       "latitude": 40.67428152112551,
-      "binStatus": "Full",
+      "binStatus": "Nearly Full",
       "description": "BIN 198 - NW New York Avenue & Prospect Place",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.94742764532566
     },
     {
@@ -1973,12 +1973,12 @@
       "longitude": -73.96024390254057
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 503000264,
       "latitude": 40.67279917738334,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 215 - NW Rogers Avenue & Sterling Place",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.95310335432222
     },
     {
@@ -2207,7 +2207,7 @@
       "longitude": -73.93855053931475
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 503000202,
       "latitude": 40.66971391909037,
       "binStatus": "Available",
@@ -2675,7 +2675,7 @@
       "longitude": -74.0007785662345
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 505100064,
       "latitude": 40.718560301291866,
       "binStatus": "Available",
@@ -3098,7 +3098,7 @@
       "longitude": -73.9806513567258
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 505100126,
       "latitude": 40.789118885800946,
       "binStatus": "Available",
@@ -3152,7 +3152,7 @@
       "longitude": -73.96592718820084
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 505100105,
       "latitude": 40.76175746497325,
       "binStatus": "Available",
@@ -3206,7 +3206,7 @@
       "longitude": -73.97343810525932
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 505100139,
       "latitude": 40.74272368457833,
       "binStatus": "Available",
