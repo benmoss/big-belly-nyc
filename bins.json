@@ -29,7 +29,7 @@
       "longitude": -73.92003797195594
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 3590017,
       "latitude": 40.7447717419058,
       "binStatus": "Available",
@@ -47,7 +47,7 @@
       "longitude": -73.92288388211199
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 3590018,
       "latitude": 40.741339169940716,
       "binStatus": "Available",
@@ -65,7 +65,7 @@
       "longitude": -73.91328877313748
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 3590001,
       "latitude": 40.746548059294376,
       "binStatus": "Available",
@@ -155,7 +155,7 @@
       "longitude": -73.91430705785751
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 3590002,
       "latitude": 40.7214226207243,
       "binStatus": "Available",
@@ -200,10 +200,10 @@
       "longitude": -74.11656774580479
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 503000002,
       "latitude": 40.802377335586115,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 51 - NE East 120 Street & Madison Avenue",
       "availableForUse": true,
       "longitude": -73.94273579120636
@@ -353,12 +353,12 @@
       "longitude": -73.93805466592312
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 0,
       "serialNumber": 503000006,
       "latitude": 40.855684792533886,
-      "binStatus": "Out of Service",
+      "binStatus": "Available",
       "description": "BIN 61 - NE Cabrini Blvd. & West 187th Street",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.93778998622929
     },
     {
@@ -470,7 +470,7 @@
       "longitude": -73.95299658179283
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000053,
       "latitude": 40.764994993021595,
       "binStatus": "Available",
@@ -641,10 +641,10 @@
       "longitude": -73.92041435458692
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 503000035,
       "latitude": 40.820298050767335,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 40 - NW West 141st Street & Fredrick Douglas Blvd",
       "availableForUse": true,
       "longitude": -73.94394144415855
@@ -821,7 +821,7 @@
       "longitude": -73.94825711846352
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 503000083,
       "latitude": 40.826256762400135,
       "binStatus": "Available",
@@ -1901,7 +1901,7 @@
       "longitude": -73.90651490539312
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 503000246,
       "latitude": 40.67049107908947,
       "binStatus": "Available",
@@ -1937,7 +1937,7 @@
       "longitude": -73.95637851208448
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 503000257,
       "latitude": 40.670817086934036,
       "binStatus": "Available",
@@ -1973,10 +1973,10 @@
       "longitude": -73.96024390254057
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 503000264,
       "latitude": 40.67279917738334,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 215 - NW Rogers Avenue & Sterling Place",
       "availableForUse": true,
       "longitude": -73.95310335432222
@@ -1991,12 +1991,12 @@
       "longitude": -73.92220901788035
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 80,
       "serialNumber": 503000263,
       "latitude": 40.67867868263691,
-      "binStatus": "Full",
+      "binStatus": "Nearly Full",
       "description": "BIN 220 - NE Flatbush Avenue & Prospect Place",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.97343333810568
     },
     {
@@ -2288,7 +2288,7 @@
       "longitude": -73.99693615022026
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 505100005,
       "latitude": 40.70815249011514,
       "binStatus": "Available",
@@ -2351,16 +2351,16 @@
       "longitude": -73.99692150445948
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 505100049,
       "latitude": 40.70676048283521,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 253 - SW CO Maiden Lane & Pearl Street",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -74.00691708161023
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 505100052,
       "latitude": 40.71989182112748,
       "binStatus": "Available",
@@ -2711,12 +2711,12 @@
       "longitude": -74.01312500238419
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 505100057,
       "latitude": 40.77544607677087,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 266 - NW CO 2nd Ave & 82nd Street",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.9535946787067
     },
     {
@@ -2738,10 +2738,10 @@
       "longitude": -74.01055041700602
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100054,
       "latitude": 40.7191714224125,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 264 - NE CO Clinton Street & Rivington St",
       "availableForUse": true,
       "longitude": -73.98495496580612
@@ -2936,7 +2936,7 @@
       "longitude": -73.98908566787568
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 505100108,
       "latitude": 40.72615124076925,
       "binStatus": "Available",
@@ -3035,28 +3035,28 @@
       "longitude": -73.9614462477865
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100091,
       "latitude": 40.74913400691257,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 297 - NW CO of Lexington Ave & E 38 St",
       "availableForUse": true,
       "longitude": -73.97793704431773
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 0,
       "serialNumber": 505100066,
       "latitude": 40.71424651872,
-      "binStatus": "Full",
+      "binStatus": "Available",
       "description": "BIN 256 - NW CO Grand St & Henry St",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.98167006603096
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100100,
       "latitude": 40.773718493770346,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 285 - NE CO 77th & Lexington Ave",
       "availableForUse": true,
       "longitude": -73.95966351954947
@@ -3152,7 +3152,7 @@
       "longitude": -73.96592718820084
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 505100105,
       "latitude": 40.76175746497325,
       "binStatus": "Available",
@@ -3278,10 +3278,10 @@
       "longitude": -73.98511663223668
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100137,
       "latitude": 40.743433331711394,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 339 - SW CO 5 Ave & W 26 St",
       "availableForUse": true,
       "longitude": -73.98834843188524
@@ -3395,10 +3395,10 @@
       "longitude": -73.98478295989479
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100116,
       "latitude": 40.78914315936319,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 370 - NW CO Columbus Ave & W 90 St",
       "availableForUse": true,
       "longitude": -73.97035768079368
@@ -3431,10 +3431,10 @@
       "longitude": -73.98135114745574
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100119,
       "latitude": 40.77611866432287,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 359 - SW CO Columbus Ave & 70th Street",
       "availableForUse": true,
       "longitude": -73.9799463692325
