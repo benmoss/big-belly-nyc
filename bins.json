@@ -20,7 +20,7 @@
       "longitude": -73.92287585085252
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 3590013,
       "latitude": 40.74689511721386,
       "binStatus": "Available",
@@ -29,7 +29,7 @@
       "longitude": -73.92003797195594
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 3590017,
       "latitude": 40.7447717419058,
       "binStatus": "Available",
@@ -110,7 +110,7 @@
       "longitude": -73.91260653734207
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 40,
       "serialNumber": 3590003,
       "latitude": 40.7457242854218,
       "binStatus": "Available",
@@ -245,12 +245,12 @@
       "longitude": -73.94638694822788
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 0,
       "serialNumber": 503000008,
       "latitude": 40.761548735935826,
-      "binStatus": "Full",
+      "binStatus": "Available",
       "description": "BIN 05 - SW 24th Street & 34th Avenue",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.93188491463661
     },
     {
@@ -569,7 +569,7 @@
       "longitude": -73.92911855131388
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000041,
       "latitude": 40.81994765597217,
       "binStatus": "Available",
@@ -686,12 +686,12 @@
       "longitude": -73.86818949133158
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 503000063,
       "latitude": 40.76656936634833,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 19 - SE Crescent Street & 30th Drive",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.92594543138473
     },
     {
@@ -884,7 +884,7 @@
       "longitude": -73.92934955656528
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 0,
       "serialNumber": 503000092,
       "latitude": 40.695079598177166,
       "binStatus": "Available",
@@ -1010,7 +1010,7 @@
       "longitude": -73.95123168826103
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 0,
       "serialNumber": 503000134,
       "latitude": 40.693288204717966,
       "binStatus": "Available",
@@ -1028,16 +1028,16 @@
       "longitude": -73.96265991032124
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 503000133,
       "latitude": 40.684197290894595,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 116 - SE Lewis Avenue & Hancock Street",
       "availableForUse": true,
       "longitude": -73.93525745719671
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 503000144,
       "latitude": 40.7019656047617,
       "binStatus": "Available",
@@ -1316,7 +1316,7 @@
       "longitude": -73.92145413905382
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 0,
       "serialNumber": 503000174,
       "latitude": 40.69725935425951,
       "binStatus": "Available",
@@ -1694,7 +1694,7 @@
       "longitude": -73.86291526257992
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 0,
       "serialNumber": 503000223,
       "latitude": 40.755305606252215,
       "binStatus": "Available",
@@ -1811,7 +1811,7 @@
       "longitude": -73.94181042909622
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000238,
       "latitude": 40.67925789735229,
       "binStatus": "Available",
@@ -1856,7 +1856,7 @@
       "longitude": -73.95765916089715
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 0,
       "serialNumber": 503000237,
       "latitude": 40.69656438204717,
       "binStatus": "Available",
@@ -1883,7 +1883,7 @@
       "longitude": -73.95897587267723
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 0,
       "serialNumber": 503000245,
       "latitude": 40.673484595144046,
       "binStatus": "Available",
@@ -1892,7 +1892,7 @@
       "longitude": -73.93339063972235
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 0,
       "serialNumber": 503000253,
       "latitude": 40.69199578878015,
       "binStatus": "Available",
@@ -1919,7 +1919,7 @@
       "longitude": -73.95274545997381
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 0,
       "serialNumber": 503000247,
       "latitude": 40.69513132458968,
       "binStatus": "Available",
@@ -2189,7 +2189,7 @@
       "longitude": -73.9109194278717
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 0,
       "serialNumber": 503000212,
       "latitude": 40.70585647534992,
       "binStatus": "Available",
@@ -2531,7 +2531,7 @@
       "longitude": -74.00341004133224
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 505100017,
       "latitude": 40.705075385840445,
       "binStatus": "Available",
@@ -2747,7 +2747,7 @@
       "longitude": -73.98495496580612
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 505100055,
       "latitude": 40.76405416975698,
       "binStatus": "Available",
@@ -3206,7 +3206,7 @@
       "longitude": -73.97343810525932
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 505100139,
       "latitude": 40.74272368457833,
       "binStatus": "Available",
@@ -3332,7 +3332,7 @@
       "longitude": -73.95175657391553
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 505100121,
       "latitude": 40.7909709189525,
       "binStatus": "Available",
@@ -3440,7 +3440,7 @@
       "longitude": -73.9799463692325
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 505100115,
       "latitude": 40.78876861933553,
       "binStatus": "Available",
