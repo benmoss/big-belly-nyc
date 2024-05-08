@@ -317,12 +317,12 @@
       "longitude": -73.93766775727272
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 0,
       "serialNumber": 503000013,
       "latitude": 40.86843300418909,
-      "binStatus": "Full",
+      "binStatus": "Available",
       "description": "BIN 65 - NE West 212th Street & Broadway",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.91832768131844
     },
     {
@@ -353,7 +353,7 @@
       "longitude": -73.94264291971922
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000020,
       "latitude": 40.841033254239434,
       "binStatus": "Available",
@@ -461,7 +461,7 @@
       "longitude": -73.92958357930183
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 0,
       "serialNumber": 503000059,
       "latitude": 40.87534010684036,
       "binStatus": "Available",
@@ -1010,10 +1010,10 @@
       "longitude": -73.92874404788017
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 503000131,
       "latitude": 40.688233556498346,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 143 - SW Nostrand Avenue & Greene Avenue",
       "availableForUse": true,
       "longitude": -73.95123168826103
@@ -1658,12 +1658,12 @@
       "longitude": -73.82940910756588
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 503000221,
       "latitude": 40.69040997746076,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 121 - SW Tompkins Avenue & Lafayette Avenue",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.94542437046766
     },
     {
@@ -2603,7 +2603,7 @@
       "longitude": -73.97665659471008
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 505100026,
       "latitude": 40.78340997537408,
       "binStatus": "Available",
@@ -2918,7 +2918,7 @@
       "longitude": -73.96888427642509
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 505100093,
       "latitude": 40.7953036151945,
       "binStatus": "Available",
@@ -3233,7 +3233,7 @@
       "longitude": -73.9464701336139
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 505100138,
       "latitude": 40.76639459170164,
       "binStatus": "Available",
@@ -3296,10 +3296,10 @@
       "longitude": -73.98753543655222
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 0,
       "serialNumber": 505100146,
       "latitude": 40.74723684953337,
-      "binStatus": "Nearly Full",
+      "binStatus": "Available",
       "description": "BIN 340 - SW CO 6 Ave & W 30 St",
       "availableForUse": true,
       "longitude": -73.98983752643882
@@ -3404,7 +3404,7 @@
       "longitude": -73.97035768079368
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 0,
       "serialNumber": 505100145,
       "latitude": 40.74163391924499,
       "binStatus": "Available",
