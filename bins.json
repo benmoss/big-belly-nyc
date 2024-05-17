@@ -110,7 +110,7 @@
       "longitude": -73.91260653734207
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 3590003,
       "latitude": 40.7457242854218,
       "binStatus": "Available",
@@ -407,12 +407,12 @@
       "longitude": -73.88136584311724
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 503000022,
       "latitude": 40.866201512573475,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 64 - SE Broadway & Academy Street",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.92508216202259
     },
     {
@@ -443,12 +443,12 @@
       "longitude": -73.92743781208992
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 503000018,
       "latitude": 40.83478846373379,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 56 - SW Amsterdam Avenue & West 160th Street",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.94085858017206
     },
     {
@@ -1226,7 +1226,7 @@
       "longitude": -73.92600182443857
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 503000158,
       "latitude": 40.68871201420607,
       "binStatus": "Available",
@@ -1604,7 +1604,7 @@
       "longitude": -73.92018981277943
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 503000210,
       "latitude": 40.70378294439786,
       "binStatus": "Available",
@@ -2351,7 +2351,7 @@
       "longitude": -73.99692150445948
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 505100049,
       "latitude": 40.70676048283521,
       "binStatus": "Available",
@@ -2360,7 +2360,7 @@
       "longitude": -74.00691708161023
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 505100052,
       "latitude": 40.71989182112748,
       "binStatus": "Available",
@@ -2621,10 +2621,10 @@
       "longitude": -73.99302401909992
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100002,
       "latitude": 40.76863578734461,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 268 - SE CO 2nd Avenue & 72nd Street",
       "availableForUse": true,
       "longitude": -73.95822445057821
@@ -2657,10 +2657,10 @@
       "longitude": -73.97332561607193
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100028,
       "latitude": 40.762145800103276,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 348 - SE CO 9 Ave & W 48 St",
       "availableForUse": true,
       "longitude": -73.98977462491895
@@ -2756,7 +2756,7 @@
       "longitude": -73.96450973157151
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 505100060,
       "latitude": 40.71026346371404,
       "binStatus": "Available",
@@ -2819,10 +2819,10 @@
       "longitude": -73.97570673483682
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100090,
       "latitude": 40.750719268455946,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 395 - SW CO 3 Ave & E 42 St",
       "availableForUse": true,
       "longitude": -73.97465123299237
@@ -2846,10 +2846,10 @@
       "longitude": -73.97379656746796
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100084,
       "latitude": 40.767171552566246,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 356 - SW CO 9 Ave & W 56 St",
       "availableForUse": true,
       "longitude": -73.9864215009938
@@ -2945,12 +2945,12 @@
       "longitude": -73.9833025251433
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 505100086,
       "latitude": 40.781894893686875,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 366 - NE CO W 77 St & Amsterdam Ave",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.97906581678058
     },
     {
@@ -3071,10 +3071,10 @@
       "longitude": -73.9728414833659
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100101,
       "latitude": 40.77228183243049,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 283 - SW CO 3rd Ave & 76th St",
       "availableForUse": true,
       "longitude": -73.95896668550664
@@ -3449,12 +3449,12 @@
       "longitude": -73.97587379945203
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 505100128,
       "latitude": 40.72662593513809,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 327 - SW CO Bond St & Lafayette St",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.99427816002996
     }
   ]
