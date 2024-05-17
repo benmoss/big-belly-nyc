@@ -218,10 +218,10 @@
       "longitude": -73.86632109842786
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 503000028,
       "latitude": 40.798054852781554,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 32 - SW West 112 Street\t& 5th Avenue",
       "availableForUse": true,
       "longitude": -73.94852463470318
@@ -245,7 +245,7 @@
       "longitude": -73.94429929839475
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000007,
       "latitude": 40.695555464715596,
       "binStatus": "Available",
@@ -344,10 +344,10 @@
       "longitude": -73.92599746584892
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 503000021,
       "latitude": 40.785809419537095,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 43 - SE East 100th Street & 1st Avenue",
       "availableForUse": true,
       "longitude": -73.94264291971922
@@ -470,7 +470,7 @@
       "longitude": -73.87542713633172
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 503000060,
       "latitude": 40.81491836063367,
       "binStatus": "Available",
@@ -641,7 +641,7 @@
       "longitude": -73.89476414769888
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 503000038,
       "latitude": 40.76298113979361,
       "binStatus": "Available",
@@ -965,7 +965,7 @@
       "longitude": -73.9447372895371
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 503000074,
       "latitude": 40.80957426897732,
       "binStatus": "Available",
@@ -992,10 +992,10 @@
       "longitude": -73.92586905509233
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 503000138,
       "latitude": 40.678764370117854,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 191 - NE Underhill Avenue & Bergen Street",
       "availableForUse": true,
       "longitude": -73.96537832915783
@@ -1100,7 +1100,7 @@
       "longitude": -73.92984341830015
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000127,
       "latitude": 40.706692511000654,
       "binStatus": "Available",
@@ -1280,12 +1280,12 @@
       "longitude": -73.90958435833454
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 503000168,
       "latitude": 40.6755571241916,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 188 - NW Vanderbilt Avenue & Plaza Street East",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.96974126370019
     },
     {
@@ -1937,7 +1937,7 @@
       "longitude": -73.95637851208448
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 503000257,
       "latitude": 40.670817086934036,
       "binStatus": "Available",
@@ -2027,7 +2027,7 @@
       "longitude": -73.9471010863781
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000265,
       "latitude": 40.67028714230085,
       "binStatus": "Available",
@@ -2054,7 +2054,7 @@
       "longitude": -74.14456080612285
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000266,
       "latitude": 40.70289868141765,
       "binStatus": "Available",
@@ -2225,7 +2225,7 @@
       "longitude": -73.93532887101173
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 505100078,
       "latitude": 40.77113841285102,
       "binStatus": "Available",
@@ -2261,12 +2261,12 @@
       "longitude": -73.9532222620251
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 505100048,
       "latitude": 40.778333070963065,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 271 - NW CO 1st Ave & 88th St",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.94848935814979
     },
     {
@@ -2324,7 +2324,7 @@
       "longitude": -73.94685207786003
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 505100020,
       "latitude": 40.72799056580962,
       "binStatus": "Available",
@@ -2378,19 +2378,19 @@
       "longitude": -73.99051628208568
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 0,
       "serialNumber": 505100008,
       "latitude": 40.7391347154904,
-      "binStatus": "Full",
+      "binStatus": "Available",
       "description": "BIN 337 - SE CO W 17 St & 6 Ave",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.99540269748928
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 0,
       "serialNumber": 505100031,
       "latitude": 40.72948121652991,
-      "binStatus": "Nearly Full",
+      "binStatus": "Available",
       "description": "BIN 328 - SE CO Bleecker St & 6 Ave",
       "availableForUse": true,
       "longitude": -74.00212241864305
@@ -2414,7 +2414,7 @@
       "longitude": -74.00171998103215
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 505100051,
       "latitude": 40.72504420607064,
       "binStatus": "Available",
@@ -2567,10 +2567,10 @@
       "longitude": -73.95019042066897
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100036,
       "latitude": 40.74644184775195,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 344 - SE CO 8 Ave & W 25 St",
       "availableForUse": true,
       "longitude": -73.99747696934338
@@ -2783,12 +2783,12 @@
       "longitude": -73.99722146507379
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 505100075,
       "latitude": 40.778060906549015,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 394 - SW CO E 85 St & 3 Ave",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.95466305211644
     },
     {
@@ -3116,12 +3116,12 @@
       "longitude": -73.95414933006201
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 505100124,
       "latitude": 40.73044605992985,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 333 - NW CO Carmine ST & Bleeker St",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -74.0026189895217
     },
     {
@@ -3251,12 +3251,12 @@
       "longitude": -73.98776125245462
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 505100144,
       "latitude": 40.78596763857327,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 358 - NW CO W 82 St & Broadway",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.97864520220962
     },
     {
@@ -3404,12 +3404,12 @@
       "longitude": -73.97035768079368
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 0,
       "serialNumber": 505100145,
       "latitude": 40.74163391924499,
-      "binStatus": "Full",
+      "binStatus": "Available",
       "description": "BIN 338 - N/E CO 21st Street and 6th Ave",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.99363601223293
     },
     {
