@@ -2,7 +2,7 @@
   "errorCode": "STATUS_OK",
   "compostAssets": [
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 3590004,
       "latitude": 40.740982515732185,
       "binStatus": "Available",
@@ -524,7 +524,7 @@
       "longitude": -73.94453756511211
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000048,
       "latitude": 40.7966226877643,
       "binStatus": "Available",
@@ -767,7 +767,7 @@
       "longitude": -73.92632732264548
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000070,
       "latitude": 40.83161371635521,
       "binStatus": "Available",
@@ -965,7 +965,7 @@
       "longitude": -73.9447372895371
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000074,
       "latitude": 40.80957426897732,
       "binStatus": "Available",
@@ -1262,10 +1262,10 @@
       "longitude": -73.9129939918858
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 503000160,
       "latitude": 40.6827719802296,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 140 - SW Throop Avenue & Halsey Street",
       "availableForUse": true,
       "longitude": -73.94101046025753
@@ -1460,21 +1460,21 @@
       "longitude": -73.93454968929291
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 503000185,
       "latitude": 40.704219889937,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 180 - NW St. Nicholas Avenue & Himrod Street",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.91591713080048
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 503000184,
       "latitude": 40.673104182956976,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 189 - NE Underhill Avenue & Eastern Parkway",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.96755293011665
     },
     {
@@ -1973,7 +1973,7 @@
       "longitude": -73.96024390254057
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000264,
       "latitude": 40.67279917738334,
       "binStatus": "Available",
@@ -2000,7 +2000,7 @@
       "longitude": -73.97343333810568
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000249,
       "latitude": 40.67568845111274,
       "binStatus": "Available",
@@ -2126,7 +2126,7 @@
       "longitude": -73.95261202007532
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000275,
       "latitude": 40.75290526233439,
       "binStatus": "Available",
@@ -2288,7 +2288,7 @@
       "longitude": -73.99693615022026
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 505100005,
       "latitude": 40.70815249011514,
       "binStatus": "Available",
@@ -2351,7 +2351,7 @@
       "longitude": -73.99692150445948
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 505100049,
       "latitude": 40.70676048283521,
       "binStatus": "Available",
@@ -2486,7 +2486,7 @@
       "longitude": -74.0109745413065
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 505100023,
       "latitude": 40.7346470054958,
       "binStatus": "Available",
@@ -2495,7 +2495,7 @@
       "longitude": -73.99481938922054
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 505100037,
       "latitude": 40.739169439589006,
       "binStatus": "Available",
@@ -2675,7 +2675,7 @@
       "longitude": -74.0007785662345
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 505100064,
       "latitude": 40.718560301291866,
       "binStatus": "Available",
@@ -2810,7 +2810,7 @@
       "longitude": -73.99013103325534
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 505100081,
       "latitude": 40.78693626205199,
       "binStatus": "Available",
@@ -2846,7 +2846,7 @@
       "longitude": -73.97379656746796
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 505100084,
       "latitude": 40.767171552566246,
       "binStatus": "Available",
@@ -2882,7 +2882,7 @@
       "longitude": -73.99017938079861
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 505100080,
       "latitude": 40.7380040181738,
       "binStatus": "Available",
@@ -2900,16 +2900,16 @@
       "longitude": -73.99090145996239
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100106,
       "latitude": 40.78586060688359,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 280 - SW CO E 95 Street & Park Ave",
       "availableForUse": true,
       "longitude": -73.95335140977043
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 505100087,
       "latitude": 40.798370790247,
       "binStatus": "Available",
@@ -2927,10 +2927,10 @@
       "longitude": -73.97107263571145
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100107,
       "latitude": 40.73674344375692,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 308 - NW CO Park Ave S/Union Square East & E 17 St",
       "availableForUse": true,
       "longitude": -73.98908566787568
@@ -3008,7 +3008,7 @@
       "longitude": -73.92903912094495
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 60,
       "serialNumber": 505100094,
       "latitude": 40.79091410359447,
       "binStatus": "Available",
@@ -3134,12 +3134,12 @@
       "longitude": -73.96841285680578
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 505100129,
       "latitude": 40.779702163230795,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 376 - NW CO Broadway & W 73 St",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.98189624416173
     },
     {
@@ -3206,7 +3206,7 @@
       "longitude": -73.97343810525932
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 505100139,
       "latitude": 40.74272368457833,
       "binStatus": "Available",
@@ -3305,7 +3305,7 @@
       "longitude": -73.98983752643882
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 505100141,
       "latitude": 40.74960582599206,
       "binStatus": "Available",
@@ -3386,7 +3386,7 @@
       "longitude": -73.98062197434946
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 505100118,
       "latitude": 40.769273183978356,
       "binStatus": "Available",
@@ -3422,7 +3422,7 @@
       "longitude": -73.98222696429983
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 505100112,
       "latitude": 40.741522457226544,
       "binStatus": "Available",
@@ -3431,7 +3431,7 @@
       "longitude": -73.98135114745574
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 505100119,
       "latitude": 40.77611866432287,
       "binStatus": "Available",
@@ -3449,7 +3449,7 @@
       "longitude": -73.97587379945203
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 505100128,
       "latitude": 40.72662593513809,
       "binStatus": "Available",
