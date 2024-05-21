@@ -2,7 +2,7 @@
   "errorCode": "STATUS_OK",
   "compostAssets": [
     {
-      "latestFullness": 20,
+      "latestFullness": 0,
       "serialNumber": 3590004,
       "latitude": 40.740982515732185,
       "binStatus": "Available",
@@ -11,7 +11,7 @@
       "longitude": -73.9180913195014
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 0,
       "serialNumber": 3590010,
       "latitude": 40.74060865008307,
       "binStatus": "Available",
@@ -38,16 +38,16 @@
       "longitude": -73.9175371080637
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 0,
       "serialNumber": 3590014,
       "latitude": 40.745373137079994,
-      "binStatus": "Nearly Full",
+      "binStatus": "Available",
       "description": "BIN 404 - SE 43rd Ave & 41st St",
       "availableForUse": true,
       "longitude": -73.92288388211199
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 0,
       "serialNumber": 3590018,
       "latitude": 40.741339169940716,
       "binStatus": "Available",
@@ -74,7 +74,7 @@
       "longitude": -73.89971678571764
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 0,
       "serialNumber": 3590019,
       "latitude": 40.745991757187745,
       "binStatus": "Available",
@@ -92,7 +92,7 @@
       "longitude": -73.91701877117157
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 0,
       "serialNumber": 3590016,
       "latitude": 40.74379131277653,
       "binStatus": "Available",
@@ -128,7 +128,7 @@
       "longitude": -73.92154820692338
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 0,
       "serialNumber": 3590008,
       "latitude": 40.741475328023036,
       "binStatus": "Available",
@@ -236,7 +236,7 @@
       "longitude": -73.90916280189015
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 0,
       "serialNumber": 503000005,
       "latitude": 40.68454521927688,
       "binStatus": "Available",
@@ -1001,10 +1001,10 @@
       "longitude": -73.96537832915783
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 0,
       "serialNumber": 503000140,
       "latitude": 40.681352486961536,
-      "binStatus": "Nearly Full",
+      "binStatus": "Available",
       "description": "BIN 138 - NW Malcolm X Boulevard & Bainbridge Street",
       "availableForUse": true,
       "longitude": -73.92874404788017
@@ -1028,12 +1028,12 @@
       "longitude": -73.90436712652445
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 503000136,
       "latitude": 40.67726495043478,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 192 - NW Grand Avenue & St. Marks Avenue",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.96265991032124
     },
     {
@@ -1091,7 +1091,7 @@
       "longitude": -73.94146978855133
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 0,
       "serialNumber": 503000145,
       "latitude": 40.68640155543058,
       "binStatus": "Available",
@@ -1181,7 +1181,7 @@
       "longitude": -73.93382884562016
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 0,
       "serialNumber": 503000166,
       "latitude": 40.68703129558847,
       "binStatus": "Available",
@@ -1379,7 +1379,7 @@
       "longitude": -73.91968253999949
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 0,
       "serialNumber": 503000163,
       "latitude": 40.67812844942252,
       "binStatus": "Available",
@@ -1478,7 +1478,7 @@
       "longitude": -73.96755293011665
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 0,
       "serialNumber": 503000182,
       "latitude": 40.688928869836005,
       "binStatus": "Available",
@@ -1523,7 +1523,7 @@
       "longitude": -73.82693077466463
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 0,
       "serialNumber": 503000190,
       "latitude": 40.692363382489,
       "binStatus": "Available",
@@ -1559,7 +1559,7 @@
       "longitude": -73.9436212554574
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 0,
       "serialNumber": 503000206,
       "latitude": 40.68764908091782,
       "binStatus": "Available",
@@ -1613,7 +1613,7 @@
       "longitude": -73.92708376049995
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 0,
       "serialNumber": 503000203,
       "latitude": 40.695132218201906,
       "binStatus": "Available",
@@ -1658,12 +1658,12 @@
       "longitude": -73.82940910756588
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 0,
       "serialNumber": 503000221,
       "latitude": 40.69040997746076,
-      "binStatus": "Full",
+      "binStatus": "Available",
       "description": "BIN 121 - SW Tompkins Avenue & Lafayette Avenue",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.94542437046766
     },
     {
@@ -1721,7 +1721,7 @@
       "longitude": -73.88819441199303
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 0,
       "serialNumber": 503000226,
       "latitude": 40.69043184045754,
       "binStatus": "Available",
@@ -1739,7 +1739,7 @@
       "longitude": -73.95448587834835
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 0,
       "serialNumber": 503000228,
       "latitude": 40.6885650705997,
       "binStatus": "Available",
@@ -1838,12 +1838,12 @@
       "longitude": -73.94294936209917
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 0,
       "serialNumber": 503000240,
       "latitude": 40.67428152112551,
-      "binStatus": "Full",
+      "binStatus": "Available",
       "description": "BIN 198 - NW New York Avenue & Prospect Place",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.94742764532566
     },
     {
@@ -1901,7 +1901,7 @@
       "longitude": -73.90651490539312
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 0,
       "serialNumber": 503000246,
       "latitude": 40.67049107908947,
       "binStatus": "Available",
@@ -2018,7 +2018,7 @@
       "longitude": -74.06930956989527
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 0,
       "serialNumber": 503000261,
       "latitude": 40.67676683153248,
       "binStatus": "Available",
@@ -2072,7 +2072,7 @@
       "longitude": -73.92796251922846
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 0,
       "serialNumber": 503000271,
       "latitude": 40.74194368731704,
       "binStatus": "Available",
