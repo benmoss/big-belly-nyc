@@ -146,10 +146,10 @@
       "longitude": -73.90993109059836
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 3590009,
       "latitude": 40.88637790151751,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "Bin 412 - SW W 235th St & Independence Ave",
       "availableForUse": true,
       "longitude": -73.91430705785751
@@ -218,10 +218,10 @@
       "longitude": -73.86632109842786
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 503000028,
       "latitude": 40.798054852781554,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 32 - SW West 112 Street\t& 5th Avenue",
       "availableForUse": true,
       "longitude": -73.94852463470318
@@ -299,10 +299,10 @@
       "longitude": -73.92011906951666
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 503000012,
       "latitude": 40.820960776484476,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 24 - SW West 138th Street & Amsterdam Avenue",
       "availableForUse": true,
       "longitude": -73.95101174712181
@@ -389,7 +389,7 @@
       "longitude": -73.90380453318357
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 503000032,
       "latitude": 40.76149921367936,
       "binStatus": "Available",
@@ -443,10 +443,10 @@
       "longitude": -73.92743781208992
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 503000018,
       "latitude": 40.83478846373379,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 56 - SW Amsterdam Avenue & West 160th Street",
       "availableForUse": true,
       "longitude": -73.94085858017206
@@ -704,7 +704,7 @@
       "longitude": -73.92594543138473
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 503000061,
       "latitude": 40.76808087642403,
       "binStatus": "Available",
@@ -839,7 +839,7 @@
       "longitude": -73.93855724483728
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 503000085,
       "latitude": 40.80984148378304,
       "binStatus": "Available",
@@ -1289,7 +1289,7 @@
       "longitude": -73.96974126370019
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 503000169,
       "latitude": 40.690318203640174,
       "binStatus": "Available",
@@ -1505,7 +1505,7 @@
       "longitude": -73.85720618069172
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 503000200,
       "latitude": 40.68219457581468,
       "binStatus": "Available",
@@ -1568,7 +1568,7 @@
       "longitude": -73.94487351179123
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 0,
       "serialNumber": 503000198,
       "latitude": 40.82896269217192,
       "binStatus": "Available",
@@ -1865,7 +1865,7 @@
       "longitude": -73.91427922993898
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000242,
       "latitude": 40.66973095285559,
       "binStatus": "Available",
@@ -1937,12 +1937,12 @@
       "longitude": -73.95637851208448
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 503000257,
       "latitude": 40.670817086934036,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 214 - SW Rogers Avenue & Lincoln Place",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.95329229533672
     },
     {
@@ -2225,10 +2225,10 @@
       "longitude": -73.93532887101173
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100078,
       "latitude": 40.77113841285102,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 361 - NW CO W 60 St & Amsterdam Ave",
       "availableForUse": true,
       "longitude": -73.98717944724858
@@ -2333,12 +2333,12 @@
       "longitude": -73.97899926258084
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 505100012,
       "latitude": 40.731190506042964,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 314 - NW CO 2nd Ave & 12th Street",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.98598125432342
     },
     {
@@ -2540,10 +2540,10 @@
       "longitude": -74.00341004133224
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100017,
       "latitude": 40.705075385840445,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 243 - NE CO Broadway & Beaver Street",
       "availableForUse": true,
       "longitude": -74.01322457939386
@@ -2603,12 +2603,12 @@
       "longitude": -74.0108494516408
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 0,
       "serialNumber": 505100033,
       "latitude": 40.78070495280861,
-      "binStatus": "Full",
+      "binStatus": "Available",
       "description": "BIN 365 - SW Co W 77 St & Columbus Ave",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.97665659471008
     },
     {
@@ -2711,7 +2711,7 @@
       "longitude": -73.99222918721208
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 505100006,
       "latitude": 40.717415222837694,
       "binStatus": "Available",
@@ -2846,10 +2846,10 @@
       "longitude": -73.98540060636678
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100092,
       "latitude": 40.78957914389564,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 369 - SW CO W 89 St & Amsterdam Ave",
       "availableForUse": true,
       "longitude": -73.97379656746796
