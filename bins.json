@@ -317,12 +317,12 @@
       "longitude": -73.93766775727272
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 0,
       "serialNumber": 503000013,
       "latitude": 40.86843300418909,
-      "binStatus": "Full",
+      "binStatus": "Available",
       "description": "BIN 65 - NE West 212th Street & Broadway",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.91832768131844
     },
     {
@@ -407,12 +407,12 @@
       "longitude": -73.88136584311724
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 0,
       "serialNumber": 503000022,
       "latitude": 40.866201512573475,
-      "binStatus": "Full",
+      "binStatus": "Available",
       "description": "BIN 64 - SE Broadway & Academy Street",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.92508216202259
     },
     {
@@ -587,7 +587,7 @@
       "longitude": -73.92879232764244
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000042,
       "latitude": 40.764174520197706,
       "binStatus": "Available",
@@ -641,10 +641,10 @@
       "longitude": -73.89476414769888
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 503000038,
       "latitude": 40.76298113979361,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 02 - NW 31st Avenue & 35th Street",
       "availableForUse": true,
       "longitude": -73.92041435458692
@@ -668,10 +668,10 @@
       "longitude": -73.93176387995481
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 503000036,
       "latitude": 40.6778510426927,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 187 - NW Vanderbilt Avenue & Prospect Place",
       "availableForUse": true,
       "longitude": -73.96890208125114
@@ -695,7 +695,7 @@
       "longitude": -73.86818949133158
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 40,
       "serialNumber": 503000063,
       "latitude": 40.76656936634833,
       "binStatus": "Available",
@@ -839,7 +839,7 @@
       "longitude": -73.93855724483728
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 0,
       "serialNumber": 503000085,
       "latitude": 40.80984148378304,
       "binStatus": "Available",
@@ -1145,7 +1145,7 @@
       "longitude": -73.9503475651145
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 503000155,
       "latitude": 40.690904435343946,
       "binStatus": "Available",
@@ -1937,12 +1937,12 @@
       "longitude": -73.95637851208448
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 503000257,
       "latitude": 40.670817086934036,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 214 - SW Rogers Avenue & Lincoln Place",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.95329229533672
     },
     {
@@ -1964,7 +1964,7 @@
       "longitude": -74.14217077195644
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 503000244,
       "latitude": 40.67498593224985,
       "binStatus": "Available",
@@ -2369,12 +2369,12 @@
       "longitude": -73.99195962283002
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 0,
       "serialNumber": 505100019,
       "latitude": 40.731496522321486,
-      "binStatus": "Full",
+      "binStatus": "Available",
       "description": "BIN 315 - NW CO 4 Ave & E 10 St",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.99051628208568
     },
     {
@@ -2432,7 +2432,7 @@
       "longitude": -74.00526163846435
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 505100027,
       "latitude": 40.71904231972568,
       "binStatus": "Available",
@@ -2594,7 +2594,7 @@
       "longitude": -74.0077318323766
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 505100061,
       "latitude": 40.70860458493924,
       "binStatus": "Available",
@@ -2783,7 +2783,7 @@
       "longitude": -73.9519761287763
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 0,
       "serialNumber": 505100082,
       "latitude": 40.76216672199596,
       "binStatus": "Available",
@@ -2792,12 +2792,12 @@
       "longitude": -73.99722146507379
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 0,
       "serialNumber": 505100075,
       "latitude": 40.778060906549015,
-      "binStatus": "Full",
+      "binStatus": "Available",
       "description": "BIN 394 - SW CO E 85 St & 3 Ave",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.95466305211644
     },
     {
@@ -2864,10 +2864,10 @@
       "longitude": -73.9864215009938
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 0,
       "serialNumber": 505100095,
       "latitude": 40.74408502157723,
-      "binStatus": "Nearly Full",
+      "binStatus": "Available",
       "description": "BIN 300 - SW CO E 33 St & 2 Ave",
       "availableForUse": true,
       "longitude": -73.9766103569379
@@ -3350,10 +3350,10 @@
       "longitude": -73.97196531694908
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 0,
       "serialNumber": 505100140,
       "latitude": 40.760441717606135,
-      "binStatus": "Nearly Full",
+      "binStatus": "Available",
       "description": "BIN 351 - NW CO 10 Ave & W 43 St",
       "availableForUse": true,
       "longitude": -73.99506114554103
