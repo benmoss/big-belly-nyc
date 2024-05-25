@@ -236,7 +236,7 @@
       "longitude": -73.90916280189015
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 503000005,
       "latitude": 40.68454521927688,
       "binStatus": "Available",
@@ -272,7 +272,7 @@
       "longitude": -73.94863547733536
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 503000009,
       "latitude": 40.700382392327064,
       "binStatus": "Available",
@@ -389,7 +389,7 @@
       "longitude": -73.90380453318357
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 503000032,
       "latitude": 40.76149921367936,
       "binStatus": "Available",
@@ -560,7 +560,7 @@
       "longitude": -73.94713159650564
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 0,
       "serialNumber": 503000044,
       "latitude": 40.80556261860785,
       "binStatus": "Available",
@@ -614,12 +614,12 @@
       "longitude": -73.9623499576847
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 0,
       "serialNumber": 503000040,
       "latitude": 40.80557429253741,
-      "binStatus": "Full",
+      "binStatus": "Available",
       "description": "BIN 30 - SW West 112 Street & Broadway",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.9660133421421
     },
     {
@@ -767,10 +767,10 @@
       "longitude": -73.92632732264548
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 503000070,
       "latitude": 40.83161371635521,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 55 - NE Amsterdam Avenue & West 155th Street",
       "availableForUse": true,
       "longitude": -73.94291717559099
@@ -803,7 +803,7 @@
       "longitude": -73.93471363931894
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 0,
       "serialNumber": 503000073,
       "latitude": 40.813082487843964,
       "binStatus": "Available",
@@ -1118,7 +1118,7 @@
       "longitude": -73.90656117349863
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 503000148,
       "latitude": 40.701373514374744,
       "binStatus": "Available",
@@ -2369,16 +2369,16 @@
       "longitude": -73.99195962283002
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 0,
       "serialNumber": 505100019,
       "latitude": 40.731496522321486,
-      "binStatus": "Nearly Full",
+      "binStatus": "Available",
       "description": "BIN 315 - NW CO 4 Ave & E 10 St",
       "availableForUse": true,
       "longitude": -73.99051628208568
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 505100008,
       "latitude": 40.7391347154904,
       "binStatus": "Available",
@@ -2495,16 +2495,16 @@
       "longitude": -74.0109745413065
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 0,
       "serialNumber": 505100023,
       "latitude": 40.7346470054958,
-      "binStatus": "Full",
+      "binStatus": "Available",
       "description": "BIN 311 - SW CO W 12 St & 5 Ave",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.99481938922054
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 505100037,
       "latitude": 40.739169439589006,
       "binStatus": "Available",
@@ -2540,21 +2540,21 @@
       "longitude": -74.00341004133224
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 0,
       "serialNumber": 505100017,
       "latitude": 40.705075385840445,
-      "binStatus": "Nearly Full",
+      "binStatus": "Available",
       "description": "BIN 243 - NE CO Broadway & Beaver Street",
       "availableForUse": true,
       "longitude": -74.01322457939386
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 0,
       "serialNumber": 505100071,
       "latitude": 40.73149350965934,
-      "binStatus": "Full",
+      "binStatus": "Available",
       "description": "BIN 259 - SW CO University & 8th Street",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.99466765892298
     },
     {
@@ -2594,12 +2594,12 @@
       "longitude": -74.0077318323766
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 0,
       "serialNumber": 505100061,
       "latitude": 40.70860458493924,
-      "binStatus": "Full",
+      "binStatus": "Available",
       "description": "BIN 252 - SW CO Broadway & Cedar Street",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -74.0108494516408
     },
     {
@@ -2864,7 +2864,7 @@
       "longitude": -73.9864215009938
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 0,
       "serialNumber": 505100095,
       "latitude": 40.74408502157723,
       "binStatus": "Available",
@@ -2900,7 +2900,7 @@
       "longitude": -73.9809653781084
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 0,
       "serialNumber": 505100088,
       "latitude": 40.72865169703771,
       "binStatus": "Available",
@@ -3071,12 +3071,12 @@
       "longitude": -73.95966351954947
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 0,
       "serialNumber": 505100102,
       "latitude": 40.74448956998408,
-      "binStatus": "Full",
+      "binStatus": "Available",
       "description": "BIN 298 - NE CO 1 Ave & E 35 St",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.9728414833659
     },
     {
@@ -3188,7 +3188,7 @@
       "longitude": -73.98558684719369
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 0,
       "serialNumber": 505100098,
       "latitude": 40.741609115050146,
       "binStatus": "Available",
@@ -3386,7 +3386,7 @@
       "longitude": -73.98062197434946
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 505100118,
       "latitude": 40.769273183978356,
       "binStatus": "Available",
