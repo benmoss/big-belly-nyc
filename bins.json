@@ -101,12 +101,12 @@
       "longitude": -73.92166045665941
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 3590012,
       "latitude": 40.884080646656564,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "Bin 413 - NW W 232nd St & Arlington Ave",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.91260653734207
     },
     {
@@ -1109,10 +1109,10 @@
       "longitude": -73.92045420260473
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 60,
       "serialNumber": 503000147,
       "latitude": 40.687583234935204,
-      "binStatus": "Nearly Full",
+      "binStatus": "Available",
       "description": "BIN 155 - NW Central Avenue & Moffat Street",
       "availableForUse": true,
       "longitude": -73.90656117349863
@@ -2891,7 +2891,7 @@
       "longitude": -73.99017938079861
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 505100080,
       "latitude": 40.7380040181738,
       "binStatus": "Available",
