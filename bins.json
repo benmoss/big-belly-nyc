@@ -38,7 +38,7 @@
       "longitude": -73.9175371080637
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 3590014,
       "latitude": 40.745373137079994,
       "binStatus": "Available",
@@ -155,7 +155,7 @@
       "longitude": -73.91430705785751
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 3590002,
       "latitude": 40.7214226207243,
       "binStatus": "Available",
@@ -722,7 +722,7 @@
       "longitude": -73.95281787961721
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000066,
       "latitude": 40.764940904595754,
       "binStatus": "Available",
@@ -731,7 +731,7 @@
       "longitude": -73.92701134085655
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 503000065,
       "latitude": 40.76524333304795,
       "binStatus": "Available",
@@ -992,7 +992,7 @@
       "longitude": -73.92586905509233
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 40,
       "serialNumber": 503000138,
       "latitude": 40.678764370117854,
       "binStatus": "Available",
@@ -1181,7 +1181,7 @@
       "longitude": -73.93382884562016
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 503000166,
       "latitude": 40.68703129558847,
       "binStatus": "Available",
@@ -1199,7 +1199,7 @@
       "longitude": -73.93099308013916
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 503000150,
       "latitude": 40.67358758069033,
       "binStatus": "Available",
@@ -1280,12 +1280,12 @@
       "longitude": -73.90958435833454
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 503000168,
       "latitude": 40.6755571241916,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 188 - NW Vanderbilt Avenue & Plaza Street East",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.96974126370019
     },
     {
@@ -1334,7 +1334,7 @@
       "longitude": -73.91542855650187
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 503000175,
       "latitude": 40.68014247411724,
       "binStatus": "Available",
@@ -1469,10 +1469,10 @@
       "longitude": -73.91591713080048
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 503000184,
       "latitude": 40.673104182956976,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 189 - NE Underhill Avenue & Eastern Parkway",
       "availableForUse": true,
       "longitude": -73.96755293011665
@@ -1676,7 +1676,7 @@
       "longitude": -73.93744513392448
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000219,
       "latitude": 40.75685380877115,
       "binStatus": "Available",
@@ -2108,10 +2108,10 @@
       "longitude": -73.93931295722723
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 503000276,
       "latitude": 40.67165676594622,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 196 - NE Franklin Avenue & Lincoln Place",
       "availableForUse": true,
       "longitude": -73.95756002515554
@@ -2369,7 +2369,7 @@
       "longitude": -73.99195962283002
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 60,
       "serialNumber": 505100019,
       "latitude": 40.731496522321486,
       "binStatus": "Available",
@@ -2486,7 +2486,7 @@
       "longitude": -74.00240702146108
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 60,
       "serialNumber": 505100009,
       "latitude": 40.7164061130962,
       "binStatus": "Available",
@@ -3026,7 +3026,7 @@
       "longitude": -73.96910423686519
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 40,
       "serialNumber": 505100111,
       "latitude": 40.758836000578,
       "binStatus": "Available",
@@ -3269,7 +3269,7 @@
       "longitude": -73.98249430253485
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 505100142,
       "latitude": 40.73887358712755,
       "binStatus": "Available",
@@ -3278,7 +3278,7 @@
       "longitude": -73.98511663223668
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 505100137,
       "latitude": 40.743433331711394,
       "binStatus": "Available",
@@ -3287,7 +3287,7 @@
       "longitude": -73.98834843188524
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 505100120,
       "latitude": 40.77519164031714,
       "binStatus": "Available",
@@ -3332,10 +3332,10 @@
       "longitude": -73.95175657391553
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100121,
       "latitude": 40.7909709189525,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 371 - NW CO W 91 St & Amsterdam Ave",
       "availableForUse": true,
       "longitude": -73.97276669918094
@@ -3377,7 +3377,7 @@
       "longitude": -73.99201305589226
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 505100123,
       "latitude": 40.78331643218788,
       "binStatus": "Available",
