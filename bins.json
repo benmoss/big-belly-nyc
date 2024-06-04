@@ -362,12 +362,12 @@
       "longitude": -73.93805466592312
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 0,
       "serialNumber": 503000006,
       "latitude": 40.855684792533886,
-      "binStatus": "Full",
+      "binStatus": "Available",
       "description": "BIN 61 - NE Cabrini Blvd. & West 187th Street",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.93778998622929
     },
     {
@@ -425,10 +425,10 @@
       "longitude": -73.92383761703968
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 503000033,
       "latitude": 40.86054008940285,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 63 - SE Sickles Street & Nagle Avenue",
       "availableForUse": true,
       "longitude": -73.9273372319724
@@ -794,7 +794,7 @@
       "longitude": -73.93320322036743
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 503000072,
       "latitude": 40.797433004550236,
       "binStatus": "Available",
@@ -902,7 +902,7 @@
       "longitude": -73.90734169632196
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 503000094,
       "latitude": 40.7666826313674,
       "binStatus": "Available",
@@ -1001,7 +1001,7 @@
       "longitude": -73.96537832915783
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 503000140,
       "latitude": 40.681352486961536,
       "binStatus": "Available",
@@ -1379,7 +1379,7 @@
       "longitude": -73.91968253999949
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000163,
       "latitude": 40.67812844942252,
       "binStatus": "Available",
@@ -2171,7 +2171,7 @@
       "longitude": -73.92091434448957
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 503000205,
       "latitude": 40.68303106054966,
       "binStatus": "Available",
@@ -2234,10 +2234,10 @@
       "longitude": -73.98717944724858
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 0,
       "serialNumber": 505100039,
       "latitude": 40.781609451116324,
-      "binStatus": "Nearly Full",
+      "binStatus": "Available",
       "description": "BIN 274 - SE CO E 92 St & 2 Ave",
       "availableForUse": true,
       "longitude": -73.94892745726821
@@ -2612,7 +2612,7 @@
       "longitude": -73.97665659471008
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 0,
       "serialNumber": 505100026,
       "latitude": 40.78340997537408,
       "binStatus": "Available",
@@ -2738,10 +2738,10 @@
       "longitude": -74.0047200044207
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100059,
       "latitude": 40.718786682897935,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 244 - SW CO of Greenwich St & Harrison ST",
       "availableForUse": true,
       "longitude": -74.01055041700602
@@ -2882,12 +2882,12 @@
       "longitude": -73.98593114887535
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 505100083,
       "latitude": 40.72496280254391,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 324 - NE CO 2 Ave & E 2 St",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.99017938079861
     },
     {
@@ -2954,12 +2954,12 @@
       "longitude": -73.9833025251433
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 505100086,
       "latitude": 40.781894893686875,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 366 - NE CO W 77 St & Amsterdam Ave",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.97906581678058
     },
     {
@@ -3026,10 +3026,10 @@
       "longitude": -73.96910423686519
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100111,
       "latitude": 40.758836000578,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 294 - NW CO E 56 St & 2 Ave",
       "availableForUse": true,
       "longitude": -73.96586280976997
@@ -3125,7 +3125,7 @@
       "longitude": -73.95414933006201
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 505100125,
       "latitude": 40.786641828294435,
       "binStatus": "Available",
@@ -3269,12 +3269,12 @@
       "longitude": -73.98249430253485
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 505100142,
       "latitude": 40.73887358712755,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 390 - NE CO E 22 St & Lexington Ave",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.98511663223668
     },
     {
@@ -3314,12 +3314,12 @@
       "longitude": -74.00261308139008
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 505100122,
       "latitude": 40.77622161241313,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 379 - SW CO W 72 St & Central Park W",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.97619309561924
     },
     {
@@ -3332,12 +3332,12 @@
       "longitude": -73.95175657391553
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 505100121,
       "latitude": 40.7909709189525,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 371 - NW CO W 91 St & Amsterdam Ave",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.97276669918094
     },
     {
@@ -3359,7 +3359,7 @@
       "longitude": -73.99506114554103
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 505100150,
       "latitude": 40.729589714367386,
       "binStatus": "Available",
