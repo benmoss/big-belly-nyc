@@ -56,7 +56,7 @@
       "longitude": -73.90472318977118
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 3590020,
       "latitude": 40.746148800069264,
       "binStatus": "Available",
@@ -452,7 +452,7 @@
       "longitude": -73.94085858017206
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 503000058,
       "latitude": 40.76737357054309,
       "binStatus": "Available",
@@ -2342,10 +2342,10 @@
       "longitude": -73.97899926258084
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 0,
       "serialNumber": 505100012,
       "latitude": 40.731190506042964,
-      "binStatus": "Nearly Full",
+      "binStatus": "Available",
       "description": "BIN 314 - NW CO 2nd Ave & 12th Street",
       "availableForUse": true,
       "longitude": -73.98598125432342
@@ -2585,7 +2585,7 @@
       "longitude": -73.95019042066897
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 505100044,
       "latitude": 40.73121273762785,
       "binStatus": "Available",
@@ -2603,10 +2603,10 @@
       "longitude": -74.0108494516408
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 0,
       "serialNumber": 505100033,
       "latitude": 40.78070495280861,
-      "binStatus": "Nearly Full",
+      "binStatus": "Available",
       "description": "BIN 365 - SW Co W 77 St & Columbus Ave",
       "availableForUse": true,
       "longitude": -73.97665659471008
@@ -2810,12 +2810,12 @@
       "longitude": -73.98491537817117
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 505100096,
       "latitude": 40.77217779943119,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 360 - SW CO West End Ave & W 60 St",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.99013103325534
     },
     {
@@ -2954,12 +2954,12 @@
       "longitude": -73.9833025251433
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 0,
       "serialNumber": 505100086,
       "latitude": 40.781894893686875,
-      "binStatus": "Full",
+      "binStatus": "Available",
       "description": "BIN 366 - NE CO W 77 St & Amsterdam Ave",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.97906581678058
     },
     {
@@ -3134,12 +3134,12 @@
       "longitude": -73.96841285680578
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 0,
       "serialNumber": 505100129,
       "latitude": 40.779702163230795,
-      "binStatus": "Full",
+      "binStatus": "Available",
       "description": "BIN 376 - NW CO Broadway & W 73 St",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.98189624416173
     },
     {
@@ -3413,7 +3413,7 @@
       "longitude": -73.99363601223293
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 0,
       "serialNumber": 505100148,
       "latitude": 40.735894111584756,
       "binStatus": "Available",
