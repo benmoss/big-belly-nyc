@@ -92,7 +92,7 @@
       "longitude": -73.91701877117157
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 3590016,
       "latitude": 40.74379131277653,
       "binStatus": "Available",
@@ -173,10 +173,10 @@
       "longitude": -73.89247186481953
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 503000029,
       "latitude": 40.80207202156791,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 33 - NW West 114 Street & Adam Clayton Powell Jr Blvd",
       "availableForUse": true,
       "longitude": -73.95370032638311
@@ -830,12 +830,12 @@
       "longitude": -73.94825711846352
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 503000082,
       "latitude": 40.746466564173716,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 344 - SE CO 8 Ave & W 25 St",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.9975130736801
     },
     {
@@ -938,12 +938,12 @@
       "longitude": -73.88263955712318
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 503000098,
       "latitude": 40.80545914536109,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 29 - SW West 114th Street & Amsterdam Avenue",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.96220094562807
     },
     {
@@ -974,7 +974,7 @@
       "longitude": -73.9447372895371
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 503000074,
       "latitude": 40.80957426897732,
       "binStatus": "Available",
@@ -1118,7 +1118,7 @@
       "longitude": -73.92045420260473
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 503000147,
       "latitude": 40.687583234935204,
       "binStatus": "Available",
@@ -1469,7 +1469,7 @@
       "longitude": -73.93454968929291
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 503000185,
       "latitude": 40.704219889937,
       "binStatus": "Available",
@@ -1622,7 +1622,7 @@
       "longitude": -73.92708376049995
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000203,
       "latitude": 40.695132218201906,
       "binStatus": "Available",
@@ -1667,7 +1667,7 @@
       "longitude": -73.82940910756588
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 503000221,
       "latitude": 40.69040997746076,
       "binStatus": "Available",
@@ -1811,7 +1811,7 @@
       "longitude": -73.9355384244532
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000235,
       "latitude": 40.67303171113777,
       "binStatus": "Available",
@@ -1838,7 +1838,7 @@
       "longitude": -74.07850451767445
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000239,
       "latitude": 40.69389322166022,
       "binStatus": "Available",
@@ -1847,12 +1847,12 @@
       "longitude": -73.94294936209917
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 503000240,
       "latitude": 40.67428152112551,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 198 - NW New York Avenue & Prospect Place",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.94742764532566
     },
     {
@@ -2243,10 +2243,10 @@
       "longitude": -73.98717944724858
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 0,
       "serialNumber": 505100039,
       "latitude": 40.781609451116324,
-      "binStatus": "Nearly Full",
+      "binStatus": "Available",
       "description": "BIN 274 - SE CO E 92 St & 2 Ave",
       "availableForUse": true,
       "longitude": -73.94892745726821
@@ -2261,12 +2261,12 @@
       "longitude": -73.94638707990978
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 505100038,
       "latitude": 40.780081383690586,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 277 - SW CO 3rd Ave & East 88th St",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.9532222620251
     },
     {
@@ -2351,7 +2351,7 @@
       "longitude": -73.98598125432342
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 60,
       "serialNumber": 505100010,
       "latitude": 40.75280253801481,
       "binStatus": "Available",
@@ -2459,10 +2459,10 @@
       "longitude": -74.00006544331396
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100022,
       "latitude": 40.73287635373648,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 334 - SW CO Hudson St & Christopher St",
       "availableForUse": true,
       "longitude": -74.00655866692779
@@ -2576,10 +2576,10 @@
       "longitude": -73.9463083404101
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100035,
       "latitude": 40.77152776150592,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 276 - NE CO York Avenue & 79th Street",
       "availableForUse": true,
       "longitude": -73.95019042066897
@@ -2594,7 +2594,7 @@
       "longitude": -74.0077318323766
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 505100061,
       "latitude": 40.70860458493924,
       "binStatus": "Available",
@@ -2720,10 +2720,10 @@
       "longitude": -74.01312500238419
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100057,
       "latitude": 40.77544607677087,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 266 - NW CO 2nd Ave & 82nd Street",
       "availableForUse": true,
       "longitude": -73.9535946787067
@@ -2837,7 +2837,7 @@
       "longitude": -73.97465123299237
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 505100079,
       "latitude": 40.72376127391616,
       "binStatus": "Available",
@@ -3017,12 +3017,12 @@
       "longitude": -73.92903912094495
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 505100094,
       "latitude": 40.79091410359447,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 382 - SW CO W 93 St & Columbus Ave",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.96910423686519
     },
     {
@@ -3296,7 +3296,7 @@
       "longitude": -73.98753543655222
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 505100146,
       "latitude": 40.74723684953337,
       "binStatus": "Available",
@@ -3305,7 +3305,7 @@
       "longitude": -73.98983752643882
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 505100141,
       "latitude": 40.74960582599206,
       "binStatus": "Available",
@@ -3377,21 +3377,21 @@
       "longitude": -73.99201305589226
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 505100123,
       "latitude": 40.78331643218788,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 377 - NW CO Broadway & W 78 St",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.98062197434946
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 505100118,
       "latitude": 40.769273183978356,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 355 - NW CO  9th Ave & West 59th Street",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.98478295989479
     },
     {
@@ -3404,7 +3404,7 @@
       "longitude": -73.97035768079368
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 0,
       "serialNumber": 505100145,
       "latitude": 40.74163391924499,
       "binStatus": "Available",
@@ -3449,10 +3449,10 @@
       "longitude": -73.97587379945203
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100128,
       "latitude": 40.72662593513809,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 327 - SW CO Bond St & Lafayette St",
       "availableForUse": true,
       "longitude": -73.99427816002996
