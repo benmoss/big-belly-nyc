@@ -2,7 +2,7 @@
   "errorCode": "STATUS_OK",
   "compostAssets": [
     {
-      "latestFullness": 40,
+      "latestFullness": 0,
       "serialNumber": 3590004,
       "latitude": 40.740982515732185,
       "binStatus": "Available",
@@ -11,10 +11,10 @@
       "longitude": -73.9180913195014
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 0,
       "serialNumber": 3590010,
       "latitude": 40.74060865008307,
-      "binStatus": "Nearly Full",
+      "binStatus": "Available",
       "description": "BIN 409 - NE Greenpoint Ave & 42nd St",
       "availableForUse": true,
       "longitude": -73.92287585085252
@@ -92,7 +92,7 @@
       "longitude": -73.91701877117157
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 0,
       "serialNumber": 3590016,
       "latitude": 40.74379131277653,
       "binStatus": "Available",
@@ -128,7 +128,7 @@
       "longitude": -73.92154820692338
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 0,
       "serialNumber": 3590008,
       "latitude": 40.741475328023036,
       "binStatus": "Available",
@@ -1010,10 +1010,10 @@
       "longitude": -73.96537832915783
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 0,
       "serialNumber": 503000140,
       "latitude": 40.681352486961536,
-      "binStatus": "Nearly Full",
+      "binStatus": "Available",
       "description": "BIN 138 - NW Malcolm X Boulevard & Bainbridge Street",
       "availableForUse": true,
       "longitude": -73.92874404788017
@@ -1037,16 +1037,16 @@
       "longitude": -73.90436712652445
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 0,
       "serialNumber": 503000136,
       "latitude": 40.67726495043478,
-      "binStatus": "Nearly Full",
+      "binStatus": "Available",
       "description": "BIN 192 - NW Grand Avenue & St. Marks Avenue",
       "availableForUse": true,
       "longitude": -73.96265991032124
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 0,
       "serialNumber": 503000133,
       "latitude": 40.684197290894595,
       "binStatus": "Available",
@@ -1208,7 +1208,7 @@
       "longitude": -73.93099308013916
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 0,
       "serialNumber": 503000150,
       "latitude": 40.67358758069033,
       "binStatus": "Available",
@@ -1253,7 +1253,7 @@
       "longitude": -73.92284251749516
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 0,
       "serialNumber": 503000159,
       "latitude": 40.68815347424036,
       "binStatus": "Available",
@@ -1379,7 +1379,7 @@
       "longitude": -73.89874320477247
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 0,
       "serialNumber": 503000176,
       "latitude": 40.680852618800145,
       "binStatus": "Available",
@@ -1388,7 +1388,7 @@
       "longitude": -73.91968253999949
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 0,
       "serialNumber": 503000163,
       "latitude": 40.67812844942252,
       "binStatus": "Available",
@@ -1460,7 +1460,7 @@
       "longitude": -73.90980195254087
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 0,
       "serialNumber": 503000181,
       "latitude": 40.68065836586844,
       "binStatus": "Available",
@@ -1478,12 +1478,12 @@
       "longitude": -73.91591713080048
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 503000184,
       "latitude": 40.673104182956976,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 189 - NE Underhill Avenue & Eastern Parkway",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.96755293011665
     },
     {
@@ -1604,7 +1604,7 @@
       "longitude": -73.95393367856741
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 0,
       "serialNumber": 503000208,
       "latitude": 40.683812617651405,
       "binStatus": "Available",
@@ -1784,7 +1784,7 @@
       "longitude": -73.88005122542381
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 0,
       "serialNumber": 503000232,
       "latitude": 40.68513798940631,
       "binStatus": "Available",
@@ -1802,7 +1802,7 @@
       "longitude": -73.89310654252768
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 0,
       "serialNumber": 503000186,
       "latitude": 40.6858662258759,
       "binStatus": "Available",
@@ -1820,7 +1820,7 @@
       "longitude": -73.94181042909622
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 0,
       "serialNumber": 503000238,
       "latitude": 40.67925789735229,
       "binStatus": "Available",
@@ -1919,7 +1919,7 @@
       "longitude": -73.94772704690695
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 0,
       "serialNumber": 503000251,
       "latitude": 40.67459377925092,
       "binStatus": "Available",
@@ -1937,21 +1937,21 @@
       "longitude": -73.91177110144258
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 0,
       "serialNumber": 503000254,
       "latitude": 40.67509191438939,
-      "binStatus": "Full",
+      "binStatus": "Available",
       "description": "BIN 195 - NE Franklin Avenue & Prospect Place",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.95637851208448
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 0,
       "serialNumber": 503000257,
       "latitude": 40.670817086934036,
-      "binStatus": "Full",
+      "binStatus": "Available",
       "description": "BIN 214 - SW Rogers Avenue & Lincoln Place",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.95329229533672
     },
     {
@@ -1982,7 +1982,7 @@
       "longitude": -73.96024390254057
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 0,
       "serialNumber": 503000264,
       "latitude": 40.67279917738334,
       "binStatus": "Available",
@@ -2000,12 +2000,12 @@
       "longitude": -73.92220901788035
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 80,
       "serialNumber": 503000263,
       "latitude": 40.67867868263691,
-      "binStatus": "Full",
+      "binStatus": "Nearly Full",
       "description": "BIN 220 - NE Flatbush Avenue & Prospect Place",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.97343333810568
     },
     {
@@ -2081,7 +2081,7 @@
       "longitude": -73.92796251922846
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 0,
       "serialNumber": 503000271,
       "latitude": 40.74194368731704,
       "binStatus": "Available",
@@ -2090,12 +2090,12 @@
       "longitude": -73.92471789027536
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 0,
       "serialNumber": 503000267,
       "latitude": 40.67165371443654,
-      "binStatus": "Full",
+      "binStatus": "Available",
       "description": "BIN 219 - SE Classon Avenue & Eastern Parkway",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.96107707172632
     },
     {
@@ -2117,16 +2117,16 @@
       "longitude": -73.93931295722723
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 0,
       "serialNumber": 503000276,
       "latitude": 40.67165676594622,
-      "binStatus": "Full",
+      "binStatus": "Available",
       "description": "BIN 196 - NE Franklin Avenue & Lincoln Place",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.95756002515554
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 0,
       "serialNumber": 503000273,
       "latitude": 40.67710908208188,
       "binStatus": "Available",
@@ -2171,7 +2171,7 @@
       "longitude": -73.78518752753735
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 0,
       "serialNumber": 503000197,
       "latitude": 40.68749730455891,
       "binStatus": "Available",
@@ -2180,7 +2180,7 @@
       "longitude": -73.92091434448957
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 0,
       "serialNumber": 503000205,
       "latitude": 40.68303106054966,
       "binStatus": "Available",
@@ -2315,7 +2315,7 @@
       "longitude": -73.95631212223466
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 40,
       "serialNumber": 505100041,
       "latitude": 40.7703540345238,
       "binStatus": "Available",
@@ -3386,7 +3386,7 @@
       "longitude": -73.98062197434946
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 505100118,
       "latitude": 40.769273183978356,
       "binStatus": "Available",
