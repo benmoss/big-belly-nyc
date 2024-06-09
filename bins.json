@@ -2,7 +2,7 @@
   "errorCode": "STATUS_OK",
   "compostAssets": [
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 3590004,
       "latitude": 40.740982515732185,
       "binStatus": "Available",
@@ -146,12 +146,12 @@
       "longitude": -73.90993109059836
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 3590009,
       "latitude": 40.88637790151751,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "Bin 412 - SW W 235th St & Independence Ave",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.91430705785751
     },
     {
@@ -227,10 +227,10 @@
       "longitude": -73.94852463470318
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 60,
       "serialNumber": 503000004,
       "latitude": 40.75444696790806,
-      "binStatus": "Nearly Full",
+      "binStatus": "Available",
       "description": "BIN 224 - NW Broadway & 51st Street",
       "availableForUse": true,
       "longitude": -73.90916280189015
@@ -713,12 +713,12 @@
       "longitude": -73.93193346987313
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 503000062,
       "latitude": 40.80507840250284,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 35 - SW St. Nicholas Avenue & West 118 Street",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.95281787961721
     },
     {
@@ -902,10 +902,10 @@
       "longitude": -73.92934955656528
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 503000092,
       "latitude": 40.695079598177166,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 184 - NW Irving Avenue & Weirfield Street",
       "availableForUse": true,
       "longitude": -73.90734169632196
@@ -1010,10 +1010,10 @@
       "longitude": -73.96537832915783
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 503000140,
       "latitude": 40.681352486961536,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 138 - NW Malcolm X Boulevard & Bainbridge Street",
       "availableForUse": true,
       "longitude": -73.92874404788017
@@ -1127,10 +1127,10 @@
       "longitude": -73.90656117349863
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 503000148,
       "latitude": 40.701373514374744,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 183 - NW St. Nicholas Avenue & Linden Street",
       "availableForUse": true,
       "longitude": -73.91136553921112
@@ -1550,7 +1550,7 @@
       "longitude": -73.83048333227634
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000209,
       "latitude": 40.77285588396095,
       "binStatus": "Available",
@@ -2234,12 +2234,12 @@
       "longitude": -73.93532887101173
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 505100078,
       "latitude": 40.77113841285102,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 361 - NW CO W 60 St & Amsterdam Ave",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.98717944724858
     },
     {
@@ -2297,7 +2297,7 @@
       "longitude": -73.99693615022026
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 505100005,
       "latitude": 40.70815249011514,
       "binStatus": "Available",
@@ -2387,10 +2387,10 @@
       "longitude": -73.99051628208568
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100008,
       "latitude": 40.7391347154904,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 337 - SE CO W 17 St & 6 Ave",
       "availableForUse": true,
       "longitude": -73.99540269748928
@@ -2414,10 +2414,10 @@
       "longitude": -73.9498927384089
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100013,
       "latitude": 40.73565255133342,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 330 - SW CO 7th Avenue South & Perry St",
       "availableForUse": true,
       "longitude": -74.00171998103215
@@ -2459,10 +2459,10 @@
       "longitude": -74.00006544331396
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100022,
       "latitude": 40.73287635373648,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 334 - SW CO Hudson St & Christopher St",
       "availableForUse": true,
       "longitude": -74.00655866692779
@@ -2549,7 +2549,7 @@
       "longitude": -74.00341004133224
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 505100017,
       "latitude": 40.705075385840445,
       "binStatus": "Available",
@@ -2621,7 +2621,7 @@
       "longitude": -73.94763141892919
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 60,
       "serialNumber": 505100034,
       "latitude": 40.762820138671465,
       "binStatus": "Available",
@@ -2675,7 +2675,7 @@
       "longitude": -73.98977462491895
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 505100025,
       "latitude": 40.74240669511277,
       "binStatus": "Available",
@@ -2873,12 +2873,12 @@
       "longitude": -73.9766103569379
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 505100074,
       "latitude": 40.77844967182979,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 364 - NW CO West End Ave & W 70 St",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.98593114887535
     },
     {
@@ -3179,7 +3179,7 @@
       "longitude": -73.96135753145826
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 505100113,
       "latitude": 40.741606235945184,
       "binStatus": "Available",
@@ -3206,7 +3206,7 @@
       "longitude": -73.97343810525932
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 60,
       "serialNumber": 505100139,
       "latitude": 40.74272368457833,
       "binStatus": "Available",
@@ -3260,7 +3260,7 @@
       "longitude": -73.97864520220962
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 505100134,
       "latitude": 40.7312028692314,
       "binStatus": "Available",
