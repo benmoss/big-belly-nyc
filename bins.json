@@ -1001,12 +1001,12 @@
       "longitude": -73.92586905509233
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 0,
       "serialNumber": 503000138,
       "latitude": 40.678764370117854,
-      "binStatus": "Full",
+      "binStatus": "Available",
       "description": "BIN 191 - NE Underhill Avenue & Bergen Street",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.96537832915783
     },
     {
@@ -1406,12 +1406,12 @@
       "longitude": -73.941904976964
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 0,
       "serialNumber": 503000179,
       "latitude": 40.67617742416484,
-      "binStatus": "Full",
+      "binStatus": "Available",
       "description": "BIN 190 - NE Underhill Avenue & Park Place",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.96627854555845
     },
     {
@@ -1478,12 +1478,12 @@
       "longitude": -73.91591713080048
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 0,
       "serialNumber": 503000184,
       "latitude": 40.673104182956976,
-      "binStatus": "Full",
+      "binStatus": "Available",
       "description": "BIN 189 - NE Underhill Avenue & Eastern Parkway",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.96755293011665
     },
     {
@@ -2153,10 +2153,10 @@
       "longitude": -73.99166207937031
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 503000274,
       "latitude": 40.643029752327344,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 232 - NE Richmond Terrace & Ferry Terminal Viaduct",
       "availableForUse": true,
       "longitude": -74.07558023929596
@@ -2783,7 +2783,7 @@
       "longitude": -73.9519761287763
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 0,
       "serialNumber": 505100082,
       "latitude": 40.76216672199596,
       "binStatus": "Available",
