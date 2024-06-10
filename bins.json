@@ -1595,12 +1595,12 @@
       "longitude": -73.8490579649806
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 80,
       "serialNumber": 503000201,
       "latitude": 40.68434297291138,
-      "binStatus": "Full",
+      "binStatus": "Nearly Full",
       "description": "BIN 127 - NE Bedford Avenue & Madison Street",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.95393367856741
     },
     {
@@ -2687,9 +2687,9 @@
       "latestFullness": 0,
       "serialNumber": 505100064,
       "latitude": 40.718560301291866,
-      "binStatus": "Available",
+      "binStatus": "Out of Service",
       "description": "BIN 261 - NW CO Hester ST & Baxter St",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.99876398340452
     },
     {
@@ -3179,12 +3179,12 @@
       "longitude": -73.96135753145826
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 0,
       "serialNumber": 505100113,
       "latitude": 40.741606235945184,
-      "binStatus": "Full",
+      "binStatus": "Available",
       "description": "BIN 307 - NW CO Park Ave S & E 25 St",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.98558684719369
     },
     {
@@ -3278,10 +3278,10 @@
       "longitude": -73.98511663223668
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 0,
       "serialNumber": 505100137,
       "latitude": 40.743433331711394,
-      "binStatus": "Nearly Full",
+      "binStatus": "Available",
       "description": "BIN 339 - SW CO 5 Ave & W 26 St",
       "availableForUse": true,
       "longitude": -73.98834843188524
@@ -3296,7 +3296,7 @@
       "longitude": -73.98753543655222
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 0,
       "serialNumber": 505100146,
       "latitude": 40.74723684953337,
       "binStatus": "Available",
@@ -3404,7 +3404,7 @@
       "longitude": -73.97035768079368
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 0,
       "serialNumber": 505100145,
       "latitude": 40.74163391924499,
       "binStatus": "Available",
