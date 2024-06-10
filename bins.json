@@ -74,10 +74,10 @@
       "longitude": -73.89971678571764
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 0,
       "serialNumber": 3590019,
       "latitude": 40.745991757187745,
-      "binStatus": "Nearly Full",
+      "binStatus": "Available",
       "description": "BIN 398 - NW 57th St & Woodside Ave",
       "availableForUse": true,
       "longitude": -73.90727262943983
@@ -731,12 +731,12 @@
       "longitude": -73.92701134085655
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 0,
       "serialNumber": 503000065,
       "latitude": 40.76524333304795,
-      "binStatus": "Full",
+      "binStatus": "Available",
       "description": "BIN 08 - NW 29th Street & 31st Avenue",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.92510951539327
     },
     {
@@ -1514,7 +1514,7 @@
       "longitude": -73.85720618069172
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 0,
       "serialNumber": 503000200,
       "latitude": 40.68219457581468,
       "binStatus": "Available",
@@ -1595,10 +1595,10 @@
       "longitude": -73.8490579649806
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 0,
       "serialNumber": 503000201,
       "latitude": 40.68434297291138,
-      "binStatus": "Nearly Full",
+      "binStatus": "Available",
       "description": "BIN 127 - NE Bedford Avenue & Madison Street",
       "availableForUse": true,
       "longitude": -73.95393367856741
@@ -1631,12 +1631,12 @@
       "longitude": -73.928127810359
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 0,
       "serialNumber": 503000204,
       "latitude": 40.69300170948447,
-      "binStatus": "Full",
+      "binStatus": "Available",
       "description": "BIN 130 - SE Bedford Avenue & Willoughby Avenue",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.9556797966361
     },
     {
@@ -1667,12 +1667,12 @@
       "longitude": -73.82940910756588
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 503000221,
       "latitude": 40.69040997746076,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 121 - SW Tompkins Avenue & Lafayette Avenue",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.94542437046766
     },
     {
@@ -1739,12 +1739,12 @@
       "longitude": -73.91965739428997
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 0,
       "serialNumber": 503000225,
       "latitude": 40.6865703680712,
-      "binStatus": "Full",
+      "binStatus": "Available",
       "description": "BIN 128 - NE Bedford Avenue & Quincy Street",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.95448587834835
     },
     {
@@ -2360,7 +2360,7 @@
       "longitude": -73.99692150445948
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 505100049,
       "latitude": 40.70676048283521,
       "binStatus": "Available",
@@ -2387,7 +2387,7 @@
       "longitude": -73.99051628208568
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 505100008,
       "latitude": 40.7391347154904,
       "binStatus": "Available",
@@ -3152,7 +3152,7 @@
       "longitude": -73.96592718820084
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 505100105,
       "latitude": 40.76175746497325,
       "binStatus": "Available",
@@ -3314,7 +3314,7 @@
       "longitude": -74.00261308139008
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 505100122,
       "latitude": 40.77622161241313,
       "binStatus": "Available",
@@ -3440,7 +3440,7 @@
       "longitude": -73.9799463692325
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 505100115,
       "latitude": 40.78876861933553,
       "binStatus": "Available",
