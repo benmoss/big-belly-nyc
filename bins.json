@@ -2,10 +2,10 @@
   "errorCode": "STATUS_OK",
   "compostAssets": [
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 3590004,
       "latitude": 40.740982515732185,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 406 - SE 47th Ave & 47th St",
       "availableForUse": true,
       "longitude": -73.9180913195014
@@ -254,12 +254,12 @@
       "longitude": -73.94638694822788
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 0,
       "serialNumber": 503000008,
       "latitude": 40.761548735935826,
-      "binStatus": "Full",
+      "binStatus": "Available",
       "description": "BIN 05 - SW 24th Street & 34th Avenue",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.93188491463661
     },
     {
@@ -308,7 +308,7 @@
       "longitude": -73.95101174712181
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 0,
       "serialNumber": 503000014,
       "latitude": 40.762625726342314,
       "binStatus": "Available",
@@ -1082,12 +1082,12 @@
       "longitude": -73.91719682217655
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 503000143,
       "latitude": 40.6825487482924,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 145 - SE Nostrand Avenue & Hancock Street",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.9499693736434
     },
     {
@@ -1784,10 +1784,10 @@
       "longitude": -73.88005122542381
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 503000232,
       "latitude": 40.68513798940631,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 112 - SW Patchen Avenue & Hancock Street",
       "availableForUse": true,
       "longitude": -73.92664052546024
@@ -2225,10 +2225,10 @@
       "longitude": -73.9421078891929
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 0,
       "serialNumber": 503000236,
       "latitude": 40.76122012468334,
-      "binStatus": "Nearly Full",
+      "binStatus": "Available",
       "description": "BIN 225 - NE 35th Avenue & 21st Street",
       "availableForUse": true,
       "longitude": -73.93532887101173
@@ -2378,12 +2378,12 @@
       "longitude": -73.99195962283002
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 0,
       "serialNumber": 505100019,
       "latitude": 40.731496522321486,
-      "binStatus": "Full",
+      "binStatus": "Available",
       "description": "BIN 315 - NW CO 4 Ave & E 10 St",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.99051628208568
     },
     {
@@ -2828,12 +2828,12 @@
       "longitude": -73.97570673483682
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 505100090,
       "latitude": 40.750719268455946,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 395 - SW CO 3 Ave & E 42 St",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.97465123299237
     },
     {
@@ -3242,12 +3242,12 @@
       "longitude": -73.99037571712044
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 505100136,
       "latitude": 40.764814574064715,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 354 - NE CO 9 Ave & W 52 St",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.98776125245462
     },
     {
@@ -3404,7 +3404,7 @@
       "longitude": -73.97035768079368
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 505100145,
       "latitude": 40.74163391924499,
       "binStatus": "Available",
@@ -3449,12 +3449,12 @@
       "longitude": -73.97587379945203
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 0,
       "serialNumber": 505100128,
       "latitude": 40.72662593513809,
-      "binStatus": "Full",
+      "binStatus": "Available",
       "description": "BIN 327 - SW CO Bond St & Lafayette St",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.99427816002996
     }
   ]
