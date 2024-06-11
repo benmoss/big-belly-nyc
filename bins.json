@@ -254,10 +254,10 @@
       "longitude": -73.94638694822788
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 0,
       "serialNumber": 503000008,
       "latitude": 40.761548735935826,
-      "binStatus": "Nearly Full",
+      "binStatus": "Available",
       "description": "BIN 05 - SW 24th Street & 34th Avenue",
       "availableForUse": true,
       "longitude": -73.93188491463661
@@ -308,7 +308,7 @@
       "longitude": -73.95101174712181
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 0,
       "serialNumber": 503000014,
       "latitude": 40.762625726342314,
       "binStatus": "Available",
@@ -911,12 +911,12 @@
       "longitude": -73.90734169632196
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 503000094,
       "latitude": 40.7666826313674,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 11 - SW 31st Avenue & 23rd Street",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.92875041812658
     },
     {
@@ -929,10 +929,10 @@
       "longitude": -73.91744524240494
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 0,
       "serialNumber": 503000096,
       "latitude": 40.8721462108312,
-      "binStatus": "Nearly Full",
+      "binStatus": "Available",
       "description": "BIN 91 - NW Bainbridge Avenue & East Mosholu Parkway S",
       "availableForUse": true,
       "longitude": -73.88263955712318
@@ -1109,16 +1109,16 @@
       "longitude": -73.92984341830015
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 0,
       "serialNumber": 503000127,
       "latitude": 40.706692511000654,
-      "binStatus": "Full",
+      "binStatus": "Available",
       "description": "BIN 177 - SW St. Nicholas Avenue & Willoughby Avenue",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.92045420260473
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000147,
       "latitude": 40.687583234935204,
       "binStatus": "Available",
@@ -1172,7 +1172,7 @@
       "longitude": -73.90397150069475
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 0,
       "serialNumber": 503000132,
       "latitude": 40.70324915068062,
       "binStatus": "Available",
@@ -1262,19 +1262,19 @@
       "longitude": -73.9271404221654
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 0,
       "serialNumber": 503000156,
       "latitude": 40.70249991438864,
-      "binStatus": "Nearly Full",
+      "binStatus": "Available",
       "description": "BIN 182 - NW St. Nicholas Avenue & Menahan Street",
       "availableForUse": true,
       "longitude": -73.9129939918858
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 503000160,
       "latitude": 40.6827719802296,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 140 - SW Throop Avenue & Halsey Street",
       "availableForUse": true,
       "longitude": -73.94101046025753
@@ -1334,7 +1334,7 @@
       "longitude": -73.92145413905382
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000174,
       "latitude": 40.69725935425951,
       "binStatus": "Available",
@@ -1352,7 +1352,7 @@
       "longitude": -73.96811317652464
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 0,
       "serialNumber": 503000162,
       "latitude": 40.704966472832965,
       "binStatus": "Available",
@@ -1469,7 +1469,7 @@
       "longitude": -73.93454968929291
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 0,
       "serialNumber": 503000185,
       "latitude": 40.704219889937,
       "binStatus": "Available",
@@ -1685,7 +1685,7 @@
       "longitude": -73.93744513392448
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 503000219,
       "latitude": 40.75685380877115,
       "binStatus": "Available",
@@ -1703,7 +1703,7 @@
       "longitude": -73.86291526257992
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 0,
       "serialNumber": 503000223,
       "latitude": 40.755305606252215,
       "binStatus": "Available",
@@ -1721,7 +1721,7 @@
       "longitude": -73.89307770878077
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000227,
       "latitude": 40.858658758806776,
       "binStatus": "Available",
@@ -1982,10 +1982,10 @@
       "longitude": -73.96024390254057
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 503000264,
       "latitude": 40.67279917738334,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 215 - NW Rogers Avenue & Sterling Place",
       "availableForUse": true,
       "longitude": -73.95310335432222
@@ -2198,10 +2198,10 @@
       "longitude": -73.9109194278717
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 0,
       "serialNumber": 503000212,
       "latitude": 40.70585647534992,
-      "binStatus": "Nearly Full",
+      "binStatus": "Available",
       "description": "BIN 178 - NE St. Nicholas Avenue & Hart Street",
       "availableForUse": true,
       "longitude": -73.91865953781273
@@ -2567,10 +2567,10 @@
       "longitude": -73.99466765892298
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100032,
       "latitude": 40.765863654327504,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 279 - SW CO Main St & River Road",
       "availableForUse": true,
       "longitude": -73.9463083404101
@@ -2828,12 +2828,12 @@
       "longitude": -73.97570673483682
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 0,
       "serialNumber": 505100090,
       "latitude": 40.750719268455946,
-      "binStatus": "Full",
+      "binStatus": "Available",
       "description": "BIN 395 - SW CO 3 Ave & E 42 St",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.97465123299237
     },
     {
@@ -3377,7 +3377,7 @@
       "longitude": -73.99201305589226
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 505100123,
       "latitude": 40.78331643218788,
       "binStatus": "Available",
