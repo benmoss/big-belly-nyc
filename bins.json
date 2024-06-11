@@ -47,7 +47,7 @@
       "longitude": -73.92288388211199
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 3590018,
       "latitude": 40.741339169940716,
       "binStatus": "Available",
@@ -146,7 +146,7 @@
       "longitude": -73.90993109059836
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 3590009,
       "latitude": 40.88637790151751,
       "binStatus": "Available",
@@ -200,7 +200,7 @@
       "longitude": -74.11656774580479
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 503000002,
       "latitude": 40.802377335586115,
       "binStatus": "Available",
@@ -254,7 +254,7 @@
       "longitude": -73.94638694822788
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 503000008,
       "latitude": 40.761548735935826,
       "binStatus": "Available",
@@ -317,12 +317,12 @@
       "longitude": -73.93766775727272
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 503000013,
       "latitude": 40.86843300418909,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 65 - NE West 212th Street & Broadway",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.91832768131844
     },
     {
@@ -371,7 +371,7 @@
       "longitude": -73.93778998622929
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 503000023,
       "latitude": 40.84608111296369,
       "binStatus": "Available",
@@ -425,7 +425,7 @@
       "longitude": -73.92383761703968
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 503000033,
       "latitude": 40.86054008940285,
       "binStatus": "Available",
@@ -623,7 +623,7 @@
       "longitude": -73.9660133421421
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 60,
       "serialNumber": 503000039,
       "latitude": 40.82647613312916,
       "binStatus": "Available",
@@ -2144,7 +2144,7 @@
       "longitude": -73.94352234899998
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000270,
       "latitude": 40.77020285341154,
       "binStatus": "Available",
@@ -2396,7 +2396,7 @@
       "longitude": -73.99540269748928
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 505100031,
       "latitude": 40.72948121652991,
       "binStatus": "Available",
@@ -2486,7 +2486,7 @@
       "longitude": -74.01704739779234
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 505100007,
       "latitude": 40.730315325690235,
       "binStatus": "Available",
@@ -2540,7 +2540,7 @@
       "longitude": -73.99849525644926
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 505100029,
       "latitude": 40.710663476710224,
       "binStatus": "Available",
@@ -2810,7 +2810,7 @@
       "longitude": -73.98491537817117
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 505100096,
       "latitude": 40.77217779943119,
       "binStatus": "Available",
@@ -2873,7 +2873,7 @@
       "longitude": -73.9766103569379
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 505100074,
       "latitude": 40.77844967182979,
       "binStatus": "Available",
@@ -2882,7 +2882,7 @@
       "longitude": -73.98593114887535
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 505100083,
       "latitude": 40.72496280254391,
       "binStatus": "Available",
@@ -2918,21 +2918,21 @@
       "longitude": -73.95335140977043
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100087,
       "latitude": 40.798370790247,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 384 - SE CO Broadway & W 102 St",
       "availableForUse": true,
       "longitude": -73.96888427642509
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 505100093,
       "latitude": 40.7953036151945,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 383 - NE CO Broadway & W 97 St",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.97107263571145
     },
     {
@@ -2954,10 +2954,10 @@
       "longitude": -73.9833025251433
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100086,
       "latitude": 40.781894893686875,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 366 - NE CO W 77 St & Amsterdam Ave",
       "availableForUse": true,
       "longitude": -73.97906581678058
@@ -3026,7 +3026,7 @@
       "longitude": -73.96910423686519
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 60,
       "serialNumber": 505100111,
       "latitude": 40.758836000578,
       "binStatus": "Available",
@@ -3044,7 +3044,7 @@
       "longitude": -73.9614462477865
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 505100091,
       "latitude": 40.74913400691257,
       "binStatus": "Available",
@@ -3404,7 +3404,7 @@
       "longitude": -73.97035768079368
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 505100145,
       "latitude": 40.74163391924499,
       "binStatus": "Available",
