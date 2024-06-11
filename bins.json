@@ -11,7 +11,7 @@
       "longitude": -73.9180913195014
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 3590010,
       "latitude": 40.74060865008307,
       "binStatus": "Available",
@@ -272,7 +272,7 @@
       "longitude": -73.94863547733536
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000009,
       "latitude": 40.700382392327064,
       "binStatus": "Available",
@@ -731,7 +731,7 @@
       "longitude": -73.92701134085655
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 503000065,
       "latitude": 40.76524333304795,
       "binStatus": "Available",
@@ -767,7 +767,7 @@
       "longitude": -73.92632732264548
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 503000070,
       "latitude": 40.83161371635521,
       "binStatus": "Available",
@@ -812,7 +812,7 @@
       "longitude": -73.93777001649141
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000075,
       "latitude": 40.76355515935151,
       "binStatus": "Available",
@@ -1082,7 +1082,7 @@
       "longitude": -73.91719682217655
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000143,
       "latitude": 40.6825487482924,
       "binStatus": "Available",
@@ -1388,7 +1388,7 @@
       "longitude": -73.91968253999949
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000163,
       "latitude": 40.67812844942252,
       "binStatus": "Available",
@@ -1406,10 +1406,10 @@
       "longitude": -73.941904976964
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 503000179,
       "latitude": 40.67617742416484,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 190 - NE Underhill Avenue & Park Place",
       "availableForUse": true,
       "longitude": -73.96627854555845
@@ -1478,7 +1478,7 @@
       "longitude": -73.91591713080048
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 60,
       "serialNumber": 503000184,
       "latitude": 40.673104182956976,
       "binStatus": "Available",
@@ -2270,10 +2270,10 @@
       "longitude": -73.9532222620251
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100048,
       "latitude": 40.778333070963065,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 271 - NW CO 1st Ave & 88th St",
       "availableForUse": true,
       "longitude": -73.94848935814979
@@ -2306,10 +2306,10 @@
       "longitude": -74.00206860154867
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100050,
       "latitude": 40.77142731268294,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 286 - NE CO 2 Avenue & E 76 St",
       "availableForUse": true,
       "longitude": -73.95631212223466
@@ -2351,7 +2351,7 @@
       "longitude": -73.98598125432342
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 60,
       "serialNumber": 505100010,
       "latitude": 40.75280253801481,
       "binStatus": "Available",
@@ -2414,7 +2414,7 @@
       "longitude": -73.9498927384089
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 505100013,
       "latitude": 40.73565255133342,
       "binStatus": "Available",
@@ -2441,12 +2441,12 @@
       "longitude": -74.00526163846435
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 505100027,
       "latitude": 40.71904231972568,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 250 - SE CO Varick St. & Franklin St.",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -74.00695323944092
     },
     {
@@ -2495,12 +2495,12 @@
       "longitude": -74.00240702146108
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 505100009,
       "latitude": 40.7164061130962,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 245 - NW CO Greenwich St & Chambers St",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -74.0109745413065
     },
     {
@@ -2522,7 +2522,7 @@
       "longitude": -74.00274561377924
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 505100047,
       "latitude": 40.73539348561974,
       "binStatus": "Available",
@@ -2549,12 +2549,12 @@
       "longitude": -74.00341004133224
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 505100017,
       "latitude": 40.705075385840445,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 243 - NE CO Broadway & Beaver Street",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -74.01322457939386
     },
     {
@@ -2567,7 +2567,7 @@
       "longitude": -73.99466765892298
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 505100032,
       "latitude": 40.765863654327504,
       "binStatus": "Available",
@@ -2828,7 +2828,7 @@
       "longitude": -73.97570673483682
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 505100090,
       "latitude": 40.750719268455946,
       "binStatus": "Available",
@@ -2918,12 +2918,12 @@
       "longitude": -73.95335140977043
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 505100087,
       "latitude": 40.798370790247,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 384 - SE CO Broadway & W 102 St",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.96888427642509
     },
     {
@@ -2945,7 +2945,7 @@
       "longitude": -73.98908566787568
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 505100108,
       "latitude": 40.72615124076925,
       "binStatus": "Available",
@@ -3017,12 +3017,12 @@
       "longitude": -73.92903912094495
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 505100094,
       "latitude": 40.79091410359447,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 382 - SW CO W 93 St & Columbus Ave",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.96910423686519
     },
     {
@@ -3332,10 +3332,10 @@
       "longitude": -73.95175657391553
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100121,
       "latitude": 40.7909709189525,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 371 - NW CO W 91 St & Amsterdam Ave",
       "availableForUse": true,
       "longitude": -73.97276669918094
@@ -3377,12 +3377,12 @@
       "longitude": -73.99201305589226
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 505100123,
       "latitude": 40.78331643218788,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 377 - NW CO Broadway & W 78 St",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.98062197434946
     },
     {
@@ -3449,7 +3449,7 @@
       "longitude": -73.97587379945203
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 505100128,
       "latitude": 40.72662593513809,
       "binStatus": "Available",
