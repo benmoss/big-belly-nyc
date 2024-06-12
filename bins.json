@@ -2,7 +2,7 @@
   "errorCode": "STATUS_OK",
   "compostAssets": [
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 3590004,
       "latitude": 40.740982515732185,
       "binStatus": "Available",
@@ -164,7 +164,7 @@
       "longitude": -73.99473222632365
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 3590006,
       "latitude": 40.88282894758702,
       "binStatus": "Available",
@@ -524,7 +524,7 @@
       "longitude": -73.94453756511211
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000048,
       "latitude": 40.7966226877643,
       "binStatus": "Available",
@@ -560,7 +560,7 @@
       "longitude": -73.94713159650564
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000044,
       "latitude": 40.80556261860785,
       "binStatus": "Available",
@@ -668,10 +668,10 @@
       "longitude": -73.93176387995481
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 503000036,
       "latitude": 40.6778510426927,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 187 - NW Vanderbilt Avenue & Prospect Place",
       "availableForUse": true,
       "longitude": -73.96890208125114
@@ -965,7 +965,7 @@
       "longitude": -73.95624071359634
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 503000076,
       "latitude": 40.791411617905716,
       "binStatus": "Available",
@@ -1082,7 +1082,7 @@
       "longitude": -73.91719682217655
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 503000143,
       "latitude": 40.6825487482924,
       "binStatus": "Available",
@@ -1109,7 +1109,7 @@
       "longitude": -73.92984341830015
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000127,
       "latitude": 40.706692511000654,
       "binStatus": "Available",
@@ -1460,7 +1460,7 @@
       "longitude": -73.90980195254087
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 503000181,
       "latitude": 40.68065836586844,
       "binStatus": "Available",
@@ -1532,7 +1532,7 @@
       "longitude": -73.82693077466463
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 503000190,
       "latitude": 40.692363382489,
       "binStatus": "Available",
@@ -1874,7 +1874,7 @@
       "longitude": -73.91427922993898
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000242,
       "latitude": 40.66973095285559,
       "binStatus": "Available",
@@ -2045,7 +2045,7 @@
       "longitude": -73.92812234686723
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000269,
       "latitude": 40.64137790224041,
       "binStatus": "Available",
@@ -2270,7 +2270,7 @@
       "longitude": -73.9532222620251
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 60,
       "serialNumber": 505100048,
       "latitude": 40.778333070963065,
       "binStatus": "Available",
@@ -2306,7 +2306,7 @@
       "longitude": -74.00206860154867
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 505100050,
       "latitude": 40.77142731268294,
       "binStatus": "Available",
@@ -2441,12 +2441,12 @@
       "longitude": -74.00526163846435
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 505100027,
       "latitude": 40.71904231972568,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 250 - SE CO Varick St. & Franklin St.",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -74.00695323944092
     },
     {
@@ -2531,12 +2531,12 @@
       "longitude": -73.98759673124307
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 505100046,
       "latitude": 40.73534879130396,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 336 - SW CO 6 Ave & W 11 St",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.99849525644926
     },
     {
@@ -2567,7 +2567,7 @@
       "longitude": -73.99466765892298
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 505100032,
       "latitude": 40.765863654327504,
       "binStatus": "Available",
@@ -2585,7 +2585,7 @@
       "longitude": -73.95019042066897
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 0,
       "serialNumber": 505100044,
       "latitude": 40.73121273762785,
       "binStatus": "Available",
