@@ -317,12 +317,12 @@
       "longitude": -73.93766775727272
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 0,
       "serialNumber": 503000013,
       "latitude": 40.86843300418909,
-      "binStatus": "Full",
+      "binStatus": "Available",
       "description": "BIN 65 - NE West 212th Street & Broadway",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.91832768131844
     },
     {
@@ -407,12 +407,12 @@
       "longitude": -73.88136584311724
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 0,
       "serialNumber": 503000022,
       "latitude": 40.866201512573475,
-      "binStatus": "Full",
+      "binStatus": "Available",
       "description": "BIN 64 - SE Broadway & Academy Street",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.92508216202259
     },
     {
@@ -731,10 +731,10 @@
       "longitude": -73.92701134085655
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 503000065,
       "latitude": 40.76524333304795,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 08 - NW 29th Street & 31st Avenue",
       "availableForUse": true,
       "longitude": -73.92510951539327
@@ -1127,7 +1127,7 @@
       "longitude": -73.90656117349863
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 503000148,
       "latitude": 40.701373514374744,
       "binStatus": "Available",
@@ -1298,16 +1298,16 @@
       "longitude": -73.96974126370019
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 503000169,
       "latitude": 40.690318203640174,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 118 - NE Lewis Avenue & Green Avenue",
       "availableForUse": true,
       "longitude": -73.93640510737896
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000154,
       "latitude": 40.69389144220667,
       "binStatus": "Available",
@@ -1685,7 +1685,7 @@
       "longitude": -73.93744513392448
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 503000219,
       "latitude": 40.75685380877115,
       "binStatus": "Available",
@@ -2216,7 +2216,7 @@
       "longitude": -73.93855053931475
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000202,
       "latitude": 40.66971391909037,
       "binStatus": "Available",
@@ -2396,10 +2396,10 @@
       "longitude": -73.99540269748928
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 0,
       "serialNumber": 505100031,
       "latitude": 40.72948121652991,
-      "binStatus": "Nearly Full",
+      "binStatus": "Available",
       "description": "BIN 328 - SE CO Bleecker St & 6 Ave",
       "availableForUse": true,
       "longitude": -74.00212241864305
@@ -2486,7 +2486,7 @@
       "longitude": -74.01704739779234
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 0,
       "serialNumber": 505100007,
       "latitude": 40.730315325690235,
       "binStatus": "Available",
@@ -2540,7 +2540,7 @@
       "longitude": -73.99849525644926
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 505100029,
       "latitude": 40.710663476710224,
       "binStatus": "Available",
@@ -2594,7 +2594,7 @@
       "longitude": -74.0077318323766
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 505100061,
       "latitude": 40.70860458493924,
       "binStatus": "Available",
@@ -2720,7 +2720,7 @@
       "longitude": -74.01312500238419
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 505100057,
       "latitude": 40.77544607677087,
       "binStatus": "Available",
@@ -3071,10 +3071,10 @@
       "longitude": -73.95966351954947
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 0,
       "serialNumber": 505100102,
       "latitude": 40.74448956998408,
-      "binStatus": "Nearly Full",
+      "binStatus": "Available",
       "description": "BIN 298 - NE CO 1 Ave & E 35 St",
       "availableForUse": true,
       "longitude": -73.9728414833659
@@ -3215,7 +3215,7 @@
       "longitude": -73.99655276134223
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 505100133,
       "latitude": 40.79786101513957,
       "binStatus": "Available",
@@ -3314,7 +3314,7 @@
       "longitude": -74.00261308139008
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 505100122,
       "latitude": 40.77622161241313,
       "binStatus": "Available",
@@ -3332,7 +3332,7 @@
       "longitude": -73.95175657391553
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 505100121,
       "latitude": 40.7909709189525,
       "binStatus": "Available",
@@ -3404,12 +3404,12 @@
       "longitude": -73.97035768079368
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 505100145,
       "latitude": 40.74163391924499,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 338 - N/E CO 21st Street and 6th Ave",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.99363601223293
     },
     {
