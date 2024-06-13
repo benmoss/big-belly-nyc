@@ -65,7 +65,7 @@
       "longitude": -73.91328877313748
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 0,
       "serialNumber": 3590001,
       "latitude": 40.746548059294376,
       "binStatus": "Available",
@@ -74,7 +74,7 @@
       "longitude": -73.89971678571764
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 0,
       "serialNumber": 3590019,
       "latitude": 40.745991757187745,
       "binStatus": "Available",
@@ -110,7 +110,7 @@
       "longitude": -73.91260653734207
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 0,
       "serialNumber": 3590003,
       "latitude": 40.7457242854218,
       "binStatus": "Available",
@@ -227,7 +227,7 @@
       "longitude": -73.94852463470318
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 0,
       "serialNumber": 503000004,
       "latitude": 40.75444696790806,
       "binStatus": "Available",
@@ -389,7 +389,7 @@
       "longitude": -73.90380453318357
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 0,
       "serialNumber": 503000032,
       "latitude": 40.76149921367936,
       "binStatus": "Available",
@@ -884,7 +884,7 @@
       "longitude": -73.91521599143744
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 0,
       "serialNumber": 503000093,
       "latitude": 40.76223009405083,
       "binStatus": "Available",
@@ -1019,12 +1019,12 @@
       "longitude": -73.92874404788017
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 0,
       "serialNumber": 503000131,
       "latitude": 40.688233556498346,
-      "binStatus": "Full",
+      "binStatus": "Available",
       "description": "BIN 143 - SW Nostrand Avenue & Greene Avenue",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.95123168826103
     },
     {
@@ -1082,7 +1082,7 @@
       "longitude": -73.91719682217655
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 0,
       "serialNumber": 503000143,
       "latitude": 40.6825487482924,
       "binStatus": "Available",
@@ -1145,7 +1145,7 @@
       "longitude": -73.9155288040638
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 0,
       "serialNumber": 503000149,
       "latitude": 40.683936689634,
       "binStatus": "Available",
@@ -1181,7 +1181,7 @@
       "longitude": -73.91453684044001
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 0,
       "serialNumber": 503000165,
       "latitude": 40.69828985201461,
       "binStatus": "Available",
@@ -1199,7 +1199,7 @@
       "longitude": -73.91374111175537
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 0,
       "serialNumber": 503000164,
       "latitude": 40.69660505362728,
       "binStatus": "Available",
@@ -1298,10 +1298,10 @@
       "longitude": -73.96974126370019
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 0,
       "serialNumber": 503000169,
       "latitude": 40.690318203640174,
-      "binStatus": "Nearly Full",
+      "binStatus": "Available",
       "description": "BIN 118 - NE Lewis Avenue & Green Avenue",
       "availableForUse": true,
       "longitude": -73.93640510737896
@@ -1451,7 +1451,7 @@
       "longitude": -73.95316857844591
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 0,
       "serialNumber": 503000187,
       "latitude": 40.75792909750536,
       "binStatus": "Available",
@@ -1514,7 +1514,7 @@
       "longitude": -73.85720618069172
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 0,
       "serialNumber": 503000200,
       "latitude": 40.68219457581468,
       "binStatus": "Available",
@@ -1631,7 +1631,7 @@
       "longitude": -73.928127810359
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 0,
       "serialNumber": 503000204,
       "latitude": 40.69300170948447,
       "binStatus": "Available",
@@ -1685,7 +1685,7 @@
       "longitude": -73.93744513392448
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 0,
       "serialNumber": 503000219,
       "latitude": 40.75685380877115,
       "binStatus": "Available",
@@ -1739,7 +1739,7 @@
       "longitude": -73.91965739428997
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 0,
       "serialNumber": 503000225,
       "latitude": 40.6865703680712,
       "binStatus": "Available",
@@ -1973,10 +1973,10 @@
       "longitude": -74.14217077195644
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 503000244,
       "latitude": 40.67498593224985,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 194 - NW Classon Avenue & Park Place",
       "availableForUse": true,
       "longitude": -73.96024390254057
@@ -2090,12 +2090,12 @@
       "longitude": -73.92471789027536
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 0,
       "serialNumber": 503000267,
       "latitude": 40.67165371443654,
-      "binStatus": "Full",
+      "binStatus": "Available",
       "description": "BIN 219 - SE Classon Avenue & Eastern Parkway",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.96107707172632
     },
     {
@@ -3332,7 +3332,7 @@
       "longitude": -73.95175657391553
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 505100121,
       "latitude": 40.7909709189525,
       "binStatus": "Available",
