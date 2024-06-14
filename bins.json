@@ -2,7 +2,7 @@
   "errorCode": "STATUS_OK",
   "compostAssets": [
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 3590004,
       "latitude": 40.740982515732185,
       "binStatus": "Available",
@@ -245,7 +245,7 @@
       "longitude": -73.94429929839475
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 503000007,
       "latitude": 40.695555464715596,
       "binStatus": "Available",
@@ -263,10 +263,10 @@
       "longitude": -73.93188491463661
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 503000003,
       "latitude": 40.803170053254796,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 34 - SE West 118 Street & Lenox Avenue",
       "availableForUse": true,
       "longitude": -73.94863547733536
@@ -299,10 +299,10 @@
       "longitude": -73.92011906951666
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 503000012,
       "latitude": 40.820960776484476,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 24 - SW West 138th Street & Amsterdam Avenue",
       "availableForUse": true,
       "longitude": -73.95101174712181
@@ -695,7 +695,7 @@
       "longitude": -73.86818949133158
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 503000063,
       "latitude": 40.76656936634833,
       "binStatus": "Available",
@@ -821,7 +821,7 @@
       "longitude": -73.92199024558067
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 60,
       "serialNumber": 503000081,
       "latitude": 40.79314191706756,
       "binStatus": "Available",
@@ -848,7 +848,7 @@
       "longitude": -73.93855724483728
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 503000085,
       "latitude": 40.80984148378304,
       "binStatus": "Available",
@@ -1010,7 +1010,7 @@
       "longitude": -73.96537832915783
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 503000140,
       "latitude": 40.681352486961536,
       "binStatus": "Available",
@@ -1046,12 +1046,12 @@
       "longitude": -73.96265991032124
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 503000133,
       "latitude": 40.684197290894595,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 116 - SE Lewis Avenue & Hancock Street",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.93525745719671
     },
     {
@@ -1091,7 +1091,7 @@
       "longitude": -73.9499693736434
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 503000129,
       "latitude": 40.685812233251795,
       "binStatus": "Available",
@@ -1910,7 +1910,7 @@
       "longitude": -73.90651490539312
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 503000246,
       "latitude": 40.67049107908947,
       "binStatus": "Available",
@@ -2054,7 +2054,7 @@
       "longitude": -74.0864036232233
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000272,
       "latitude": 40.62262016360215,
       "binStatus": "Available",
@@ -2630,10 +2630,10 @@
       "longitude": -73.99302401909992
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100002,
       "latitude": 40.76863578734461,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 268 - SE CO 2nd Avenue & 72nd Street",
       "availableForUse": true,
       "longitude": -73.95822445057821
@@ -2648,10 +2648,10 @@
       "longitude": -73.95855413649969
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100063,
       "latitude": 40.71256505742161,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 251 - NE CO Broadway & Park Place (City hall park side)",
       "availableForUse": true,
       "longitude": -74.00756552771458
@@ -2702,7 +2702,7 @@
       "longitude": -73.98896138948061
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 20,
       "serialNumber": 505100072,
       "latitude": 40.71327373740936,
       "binStatus": "Available",
@@ -2738,12 +2738,12 @@
       "longitude": -74.0047200044207
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 505100059,
       "latitude": 40.718786682897935,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 244 - SW CO of Greenwich St & Harrison ST",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -74.01055041700602
     },
     {
@@ -2846,12 +2846,12 @@
       "longitude": -73.98540060636678
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 505100092,
       "latitude": 40.78957914389564,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 369 - SW CO W 89 St & Amsterdam Ave",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.97379656746796
     },
     {
@@ -3269,10 +3269,10 @@
       "longitude": -73.98249430253485
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 0,
       "serialNumber": 505100142,
       "latitude": 40.73887358712755,
-      "binStatus": "Nearly Full",
+      "binStatus": "Available",
       "description": "BIN 390 - NE CO E 22 St & Lexington Ave",
       "availableForUse": true,
       "longitude": -73.98511663223668
@@ -3395,7 +3395,7 @@
       "longitude": -73.98478295989479
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 505100116,
       "latitude": 40.78914315936319,
       "binStatus": "Available",
