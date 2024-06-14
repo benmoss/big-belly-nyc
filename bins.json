@@ -704,7 +704,7 @@
       "longitude": -73.92594543138473
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 0,
       "serialNumber": 503000061,
       "latitude": 40.76808087642403,
       "binStatus": "Available",
@@ -902,7 +902,7 @@
       "longitude": -73.92934955656528
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 0,
       "serialNumber": 503000092,
       "latitude": 40.695079598177166,
       "binStatus": "Available",
@@ -1127,7 +1127,7 @@
       "longitude": -73.90656117349863
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 0,
       "serialNumber": 503000148,
       "latitude": 40.701373514374744,
       "binStatus": "Available",
@@ -1154,7 +1154,7 @@
       "longitude": -73.9503475651145
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 0,
       "serialNumber": 503000155,
       "latitude": 40.690904435343946,
       "binStatus": "Available",
@@ -1172,7 +1172,7 @@
       "longitude": -73.90397150069475
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 0,
       "serialNumber": 503000132,
       "latitude": 40.70324915068062,
       "binStatus": "Available",
@@ -1262,7 +1262,7 @@
       "longitude": -73.9271404221654
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 0,
       "serialNumber": 503000156,
       "latitude": 40.70249991438864,
       "binStatus": "Available",
@@ -1307,7 +1307,7 @@
       "longitude": -73.93640510737896
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 0,
       "serialNumber": 503000154,
       "latitude": 40.69389144220667,
       "binStatus": "Available",
@@ -1379,7 +1379,7 @@
       "longitude": -73.89874320477247
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 503000176,
       "latitude": 40.680852618800145,
       "binStatus": "Available",
@@ -1415,7 +1415,7 @@
       "longitude": -73.96627854555845
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 0,
       "serialNumber": 503000180,
       "latitude": 40.69293663142478,
       "binStatus": "Available",
@@ -1451,7 +1451,7 @@
       "longitude": -73.95316857844591
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 40,
       "serialNumber": 503000187,
       "latitude": 40.75792909750536,
       "binStatus": "Available",
@@ -1901,7 +1901,7 @@
       "longitude": -73.93339063972235
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 0,
       "serialNumber": 503000253,
       "latitude": 40.69199578878015,
       "binStatus": "Available",
@@ -1910,10 +1910,10 @@
       "longitude": -73.90651490539312
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 503000246,
       "latitude": 40.67049107908947,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 197 - NW New York Avenue & Lincoln Place",
       "availableForUse": true,
       "longitude": -73.94772704690695
@@ -1982,7 +1982,7 @@
       "longitude": -73.96024390254057
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 503000264,
       "latitude": 40.67279917738334,
       "binStatus": "Available",
@@ -2027,12 +2027,12 @@
       "longitude": -74.06930956989527
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 503000261,
       "latitude": 40.67676683153248,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 199 - NW New York Avenue & Dean Street",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.9471010863781
     },
     {
@@ -2315,7 +2315,7 @@
       "longitude": -73.95631212223466
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 505100041,
       "latitude": 40.7703540345238,
       "binStatus": "Available",
@@ -3116,10 +3116,10 @@
       "longitude": -73.96666802317641
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 0,
       "serialNumber": 505100132,
       "latitude": 40.757513465018945,
-      "binStatus": "Nearly Full",
+      "binStatus": "Available",
       "description": "BIN 325 - SW CO W Main Street and Main Street (by Tram Terminal)",
       "availableForUse": true,
       "longitude": -73.95414933006201
@@ -3197,7 +3197,7 @@
       "longitude": -73.97792649980364
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 505100127,
       "latitude": 40.79516392024059,
       "binStatus": "Available",
