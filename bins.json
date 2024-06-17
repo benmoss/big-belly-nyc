@@ -767,12 +767,12 @@
       "longitude": -73.92632732264548
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 503000070,
       "latitude": 40.83161371635521,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 55 - NE Amsterdam Avenue & West 155th Street",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.94291717559099
     },
     {
@@ -1028,7 +1028,7 @@
       "longitude": -73.95123168826103
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 503000134,
       "latitude": 40.693288204717966,
       "binStatus": "Available",
@@ -1568,7 +1568,7 @@
       "longitude": -73.9436212554574
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 503000206,
       "latitude": 40.68764908091782,
       "binStatus": "Available",
@@ -1955,7 +1955,7 @@
       "longitude": -73.95329229533672
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 503000255,
       "latitude": 40.67155276024617,
       "binStatus": "Available",
@@ -2144,7 +2144,7 @@
       "longitude": -73.94352234899998
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 503000270,
       "latitude": 40.77020285341154,
       "binStatus": "Available",
@@ -2333,10 +2333,10 @@
       "longitude": -73.94685207786003
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100020,
       "latitude": 40.72799056580962,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 317 - SE CO Ave B & E 12 St",
       "availableForUse": true,
       "longitude": -73.97899926258084
@@ -2369,10 +2369,10 @@
       "longitude": -74.00691708161023
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100052,
       "latitude": 40.71989182112748,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 255 -  NE CO Delancey St & Forsyth St",
       "availableForUse": true,
       "longitude": -73.99195962283002
@@ -3305,10 +3305,10 @@
       "longitude": -73.98983752643882
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100141,
       "latitude": 40.74960582599206,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 345 - NE CO W 26 St & 10 Ave",
       "availableForUse": true,
       "longitude": -74.00261308139008
