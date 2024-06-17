@@ -218,7 +218,7 @@
       "longitude": -73.86632109842786
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 503000028,
       "latitude": 40.798054852781554,
       "binStatus": "Available",
@@ -452,10 +452,10 @@
       "longitude": -73.94085858017206
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 503000058,
       "latitude": 40.76737357054309,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 14 - NE 21st Street & 31st Avenue",
       "availableForUse": true,
       "longitude": -73.92958357930183
@@ -533,7 +533,7 @@
       "longitude": -73.94493098288339
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 503000049,
       "latitude": 40.79160725166976,
       "binStatus": "Available",
@@ -569,10 +569,10 @@
       "longitude": -73.93639236688614
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 503000045,
       "latitude": 40.76832401280552,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 16 - NW 21st Street & 30th Drive",
       "availableForUse": true,
       "longitude": -73.92916951328516
@@ -596,10 +596,10 @@
       "longitude": -73.92345808446407
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 503000046,
       "latitude": 40.81219790128479,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 21 - NW West 126th St & Morningside Ave",
       "availableForUse": true,
       "longitude": -73.95354006439447
@@ -641,16 +641,16 @@
       "longitude": -73.89476414769888
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 503000038,
       "latitude": 40.76298113979361,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 02 - NW 31st Avenue & 35th Street",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.92041435458692
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 503000035,
       "latitude": 40.820298050767335,
       "binStatus": "Available",
@@ -1118,10 +1118,10 @@
       "longitude": -73.92045420260473
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 503000147,
       "latitude": 40.687583234935204,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 155 - NW Central Avenue & Moffat Street",
       "availableForUse": true,
       "longitude": -73.90656117349863
@@ -1811,12 +1811,12 @@
       "longitude": -73.9355384244532
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 503000235,
       "latitude": 40.67303171113777,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 212 - NE Kingston Avenue & Park Place",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.94181042909622
     },
     {
@@ -1937,12 +1937,12 @@
       "longitude": -73.91177110144258
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 80,
       "serialNumber": 503000254,
       "latitude": 40.67509191438939,
-      "binStatus": "Full",
+      "binStatus": "Nearly Full",
       "description": "BIN 195 - NE Franklin Avenue & Prospect Place",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.95637851208448
     },
     {
@@ -2153,7 +2153,7 @@
       "longitude": -73.99166207937031
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 503000274,
       "latitude": 40.643029752327344,
       "binStatus": "Available",
@@ -2234,12 +2234,12 @@
       "longitude": -73.93532887101173
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 505100078,
       "latitude": 40.77113841285102,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 361 - NW CO W 60 St & Amsterdam Ave",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.98717944724858
     },
     {
@@ -2612,12 +2612,12 @@
       "longitude": -73.97665659471008
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 505100026,
       "latitude": 40.78340997537408,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 272 - SE 2nd Ave & 95th St",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.94763141892919
     },
     {
@@ -2738,12 +2738,12 @@
       "longitude": -74.0047200044207
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 505100059,
       "latitude": 40.718786682897935,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 244 - SW CO of Greenwich St & Harrison ST",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -74.01055041700602
     },
     {
@@ -2774,12 +2774,12 @@
       "longitude": -73.99644857287824
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 505100056,
       "latitude": 40.77779121756704,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 265 - SW CO 2nd Avenue & 86th Street",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.9519761287763
     },
     {
@@ -2999,12 +2999,12 @@
       "longitude": -73.96902091534423
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 80,
       "serialNumber": 505100065,
       "latitude": 40.769098236486705,
-      "binStatus": "Full",
+      "binStatus": "Nearly Full",
       "description": "BIN 278 - SW CO West Road & Main Street",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.94326507506806
     },
     {
@@ -3035,10 +3035,10 @@
       "longitude": -73.96586280976997
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100067,
       "latitude": 40.77168450396742,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 290 - SW CO Lexington Ave & E 74 St",
       "availableForUse": true,
       "longitude": -73.9614462477865
@@ -3179,7 +3179,7 @@
       "longitude": -73.96135753145826
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 505100113,
       "latitude": 40.741606235945184,
       "binStatus": "Available",
@@ -3305,7 +3305,7 @@
       "longitude": -73.98983752643882
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 505100141,
       "latitude": 40.74960582599206,
       "binStatus": "Available",
@@ -3422,12 +3422,12 @@
       "longitude": -73.98222696429983
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 505100112,
       "latitude": 40.741522457226544,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 306 - NW CO 3rd Avenue & 27th Street",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.98135114745574
     },
     {
