@@ -92,10 +92,10 @@
       "longitude": -73.91701877117157
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 3590016,
       "latitude": 40.74379131277653,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 405 - NW Queens Blvd & 43rd St",
       "availableForUse": true,
       "longitude": -73.92166045665941
@@ -569,12 +569,12 @@
       "longitude": -73.93639236688614
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 503000045,
       "latitude": 40.76832401280552,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 16 - NW 21st Street & 30th Drive",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.92916951328516
     },
     {
@@ -1001,12 +1001,12 @@
       "longitude": -73.92586905509233
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 80,
       "serialNumber": 503000138,
       "latitude": 40.678764370117854,
-      "binStatus": "Full",
+      "binStatus": "Nearly Full",
       "description": "BIN 191 - NE Underhill Avenue & Bergen Street",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.96537832915783
     },
     {
@@ -2063,12 +2063,12 @@
       "longitude": -74.14456080612285
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 503000266,
       "latitude": 40.70289868141765,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 175 - NE Knickerbocker Avenue & Starr Street",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.92522666603327
     },
     {
@@ -2459,12 +2459,12 @@
       "longitude": -74.00006544331396
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 505100022,
       "latitude": 40.73287635373648,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 334 - SW CO Hudson St & Christopher St",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -74.00655866692779
     },
     {
@@ -2711,7 +2711,7 @@
       "longitude": -73.99222918721208
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 505100006,
       "latitude": 40.717415222837694,
       "binStatus": "Available",
@@ -2720,21 +2720,21 @@
       "longitude": -74.01312500238419
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 80,
       "serialNumber": 505100057,
       "latitude": 40.77544607677087,
-      "binStatus": "Full",
+      "binStatus": "Nearly Full",
       "description": "BIN 266 - NW CO 2nd Ave & 82nd Street",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.9535946787067
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 0,
       "serialNumber": 505100069,
       "latitude": 40.724874101417406,
-      "binStatus": "Full",
+      "binStatus": "Available",
       "description": "BIN 254 - SW CO 6 Ave & Dominick St",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -74.0047200044207
     },
     {
@@ -3413,7 +3413,7 @@
       "longitude": -73.99363601223293
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 505100148,
       "latitude": 40.735894111584756,
       "binStatus": "Available",
