@@ -2,7 +2,7 @@
   "errorCode": "STATUS_OK",
   "compostAssets": [
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 3590004,
       "latitude": 40.740982515732185,
       "binStatus": "Available",
@@ -11,7 +11,7 @@
       "longitude": -73.9180913195014
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 3590010,
       "latitude": 40.74060865008307,
       "binStatus": "Available",
@@ -335,7 +335,7 @@
       "longitude": -73.94737802445889
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000019,
       "latitude": 40.76701705596692,
       "binStatus": "Available",
@@ -443,7 +443,7 @@
       "longitude": -73.92743781208992
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 503000018,
       "latitude": 40.83478846373379,
       "binStatus": "Available",
@@ -641,7 +641,7 @@
       "longitude": -73.89476414769888
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000038,
       "latitude": 40.76298113979361,
       "binStatus": "Available",
@@ -830,7 +830,7 @@
       "longitude": -73.94825711846352
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 60,
       "serialNumber": 503000082,
       "latitude": 40.746466564173716,
       "binStatus": "Available",
@@ -1145,7 +1145,7 @@
       "longitude": -73.9155288040638
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000149,
       "latitude": 40.683936689634,
       "binStatus": "Available",
@@ -1208,10 +1208,10 @@
       "longitude": -73.93099308013916
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 503000150,
       "latitude": 40.67358758069033,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 193 - NW Washington Avenue & St. Johns Place",
       "availableForUse": true,
       "longitude": -73.96311119198799
@@ -1937,7 +1937,7 @@
       "longitude": -73.91177110144258
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 503000254,
       "latitude": 40.67509191438939,
       "binStatus": "Available",
@@ -2126,7 +2126,7 @@
       "longitude": -73.95756002515554
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 503000273,
       "latitude": 40.67710908208188,
       "binStatus": "Available",
@@ -2288,7 +2288,7 @@
       "longitude": -73.98008527492154
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 505100042,
       "latitude": 40.73752862143271,
       "binStatus": "Available",
@@ -2414,7 +2414,7 @@
       "longitude": -73.9498927384089
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 505100013,
       "latitude": 40.73565255133342,
       "binStatus": "Available",
@@ -2423,7 +2423,7 @@
       "longitude": -74.00171998103215
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 505100051,
       "latitude": 40.72504420607064,
       "binStatus": "Available",
@@ -2441,7 +2441,7 @@
       "longitude": -74.00526163846435
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 505100027,
       "latitude": 40.71904231972568,
       "binStatus": "Available",
@@ -2603,7 +2603,7 @@
       "longitude": -74.0108494516408
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 40,
       "serialNumber": 505100033,
       "latitude": 40.78070495280861,
       "binStatus": "Available",
@@ -2648,12 +2648,12 @@
       "longitude": -73.95855413649969
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 505100063,
       "latitude": 40.71256505742161,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 251 - NE CO Broadway & Park Place (City hall park side)",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -74.00756552771458
     },
     {
@@ -2774,7 +2774,7 @@
       "longitude": -73.99644857287824
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 505100056,
       "latitude": 40.77779121756704,
       "binStatus": "Available",
@@ -2945,7 +2945,7 @@
       "longitude": -73.98908566787568
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 505100108,
       "latitude": 40.72615124076925,
       "binStatus": "Available",
@@ -2954,10 +2954,10 @@
       "longitude": -73.9833025251433
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100086,
       "latitude": 40.781894893686875,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 366 - NE CO W 77 St & Amsterdam Ave",
       "availableForUse": true,
       "longitude": -73.97906581678058
@@ -3251,10 +3251,10 @@
       "longitude": -73.98776125245462
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100144,
       "latitude": 40.78596763857327,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 358 - NW CO W 82 St & Broadway",
       "availableForUse": true,
       "longitude": -73.97864520220962
