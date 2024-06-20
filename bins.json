@@ -263,7 +263,7 @@
       "longitude": -73.93188491463661
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 503000003,
       "latitude": 40.803170053254796,
       "binStatus": "Available",
@@ -731,7 +731,7 @@
       "longitude": -73.92701134085655
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 503000065,
       "latitude": 40.76524333304795,
       "binStatus": "Available",
@@ -884,10 +884,10 @@
       "longitude": -73.91521599143744
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 503000093,
       "latitude": 40.76223009405083,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 01 - NE 31st Avenue & 37th Street",
       "availableForUse": true,
       "longitude": -73.91863731029024
@@ -1118,7 +1118,7 @@
       "longitude": -73.92045420260473
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 503000147,
       "latitude": 40.687583234935204,
       "binStatus": "Available",
@@ -1568,10 +1568,10 @@
       "longitude": -73.9436212554574
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 503000206,
       "latitude": 40.68764908091782,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 122 - SW Tompkins Avenue & Quincy Street",
       "availableForUse": true,
       "longitude": -73.94487351179123
@@ -1739,10 +1739,10 @@
       "longitude": -73.91965739428997
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 503000225,
       "latitude": 40.6865703680712,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 128 - NE Bedford Avenue & Quincy Street",
       "availableForUse": true,
       "longitude": -73.95448587834835
@@ -2126,10 +2126,10 @@
       "longitude": -73.95756002515554
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 503000273,
       "latitude": 40.67710908208188,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 217 - NE Rogers Avenue & Dean Street",
       "availableForUse": true,
       "longitude": -73.95261202007532
@@ -2144,7 +2144,7 @@
       "longitude": -73.94352234899998
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000270,
       "latitude": 40.77020285341154,
       "binStatus": "Available",
@@ -2162,7 +2162,7 @@
       "longitude": -74.07558023929596
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 503000216,
       "latitude": 40.84382557774167,
       "binStatus": "Available",
@@ -2279,10 +2279,10 @@
       "longitude": -73.94848935814979
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100040,
       "latitude": 40.77068591297934,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 363 - NW CO W 63 St & Central Park W",
       "availableForUse": true,
       "longitude": -73.98008527492154
@@ -2522,12 +2522,12 @@
       "longitude": -74.00274561377924
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 505100047,
       "latitude": 40.73539348561974,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 309 - NE CO Irving PL & E 16 St",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.98759673124307
     },
     {
@@ -2954,12 +2954,12 @@
       "longitude": -73.9833025251433
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 505100086,
       "latitude": 40.781894893686875,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 366 - NE CO W 77 St & Amsterdam Ave",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.97906581678058
     },
     {
