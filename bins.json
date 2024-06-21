@@ -74,7 +74,7 @@
       "longitude": -73.89971678571764
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 3590019,
       "latitude": 40.745991757187745,
       "binStatus": "Available",
@@ -227,7 +227,7 @@
       "longitude": -73.94852463470318
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000004,
       "latitude": 40.75444696790806,
       "binStatus": "Available",
@@ -488,7 +488,7 @@
       "longitude": -73.92496582120657
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000054,
       "latitude": 40.76387664872765,
       "binStatus": "Available",
@@ -497,12 +497,12 @@
       "longitude": -73.92266314476728
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 503000055,
       "latitude": 40.85039540597644,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 60 - NE Wadsworth Avenue & West 182nd Street",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.93447995185852
     },
     {
@@ -614,12 +614,12 @@
       "longitude": -73.9623499576847
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 503000040,
       "latitude": 40.80557429253741,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 30 - SW West 112 Street & Broadway",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.9660133421421
     },
     {
@@ -974,7 +974,7 @@
       "longitude": -73.9447372895371
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 503000074,
       "latitude": 40.80957426897732,
       "binStatus": "Available",
@@ -1244,7 +1244,7 @@
       "longitude": -73.95497169345617
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 503000126,
       "latitude": 40.69237838108274,
       "binStatus": "Available",
@@ -1253,7 +1253,7 @@
       "longitude": -73.92284251749516
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000159,
       "latitude": 40.68815347424036,
       "binStatus": "Available",
@@ -1604,10 +1604,10 @@
       "longitude": -73.95393367856741
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 503000208,
       "latitude": 40.683812617651405,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 133 - NW Howard Avenue & Macdonough Street",
       "availableForUse": true,
       "longitude": -73.92018981277943
@@ -1910,7 +1910,7 @@
       "longitude": -73.90651490539312
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000246,
       "latitude": 40.67049107908947,
       "binStatus": "Available",
@@ -1946,7 +1946,7 @@
       "longitude": -73.95637851208448
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 503000257,
       "latitude": 40.670817086934036,
       "binStatus": "Available",
@@ -2423,7 +2423,7 @@
       "longitude": -74.00171998103215
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 505100051,
       "latitude": 40.72504420607064,
       "binStatus": "Available",
@@ -2513,12 +2513,12 @@
       "longitude": -73.99481938922054
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 505100037,
       "latitude": 40.739169439589006,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 331 - SE CO Greenwich Ave & 8th Ave",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -74.00274561377924
     },
     {
@@ -2774,10 +2774,10 @@
       "longitude": -73.99644857287824
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100056,
       "latitude": 40.77779121756704,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 265 - SW CO 2nd Avenue & 86th Street",
       "availableForUse": true,
       "longitude": -73.9519761287763
@@ -3215,10 +3215,10 @@
       "longitude": -73.99655276134223
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100133,
       "latitude": 40.79786101513957,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 381 - SW CO W 104 St & Columbus Ave",
       "availableForUse": true,
       "longitude": -73.96400324926272
@@ -3242,7 +3242,7 @@
       "longitude": -73.99037571712044
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 505100136,
       "latitude": 40.764814574064715,
       "binStatus": "Available",
