@@ -65,7 +65,7 @@
       "longitude": -73.91328877313748
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 3590001,
       "latitude": 40.746548059294376,
       "binStatus": "Available",
@@ -443,10 +443,10 @@
       "longitude": -73.92743781208992
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 0,
       "serialNumber": 503000018,
       "latitude": 40.83478846373379,
-      "binStatus": "Nearly Full",
+      "binStatus": "Available",
       "description": "BIN 56 - SW Amsterdam Avenue & West 160th Street",
       "availableForUse": true,
       "longitude": -73.94085858017206
@@ -794,10 +794,10 @@
       "longitude": -73.93320322036743
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 0,
       "serialNumber": 503000072,
       "latitude": 40.797433004550236,
-      "binStatus": "Nearly Full",
+      "binStatus": "Available",
       "description": "BIN 49 - SW East 118th Street & 1 Avenue",
       "availableForUse": true,
       "longitude": -73.93471363931894
@@ -857,10 +857,10 @@
       "longitude": -73.94765663892031
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 503000088,
       "latitude": 40.84471861958964,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 70 - SE Eastburn Avenue & East 174th Street",
       "availableForUse": true,
       "longitude": -73.90847526490688
@@ -1253,7 +1253,7 @@
       "longitude": -73.92284251749516
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 503000159,
       "latitude": 40.68815347424036,
       "binStatus": "Available",
@@ -1667,12 +1667,12 @@
       "longitude": -73.82940910756588
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 503000221,
       "latitude": 40.69040997746076,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 121 - SW Tompkins Avenue & Lafayette Avenue",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.94542437046766
     },
     {
@@ -2153,10 +2153,10 @@
       "longitude": -73.99166207937031
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 503000274,
       "latitude": 40.643029752327344,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 232 - NE Richmond Terrace & Ferry Terminal Viaduct",
       "availableForUse": true,
       "longitude": -74.07558023929596
@@ -2234,7 +2234,7 @@
       "longitude": -73.93532887101173
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 0,
       "serialNumber": 505100078,
       "latitude": 40.77113841285102,
       "binStatus": "Available",
@@ -2261,12 +2261,12 @@
       "longitude": -73.94638707990978
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 0,
       "serialNumber": 505100038,
       "latitude": 40.780081383690586,
-      "binStatus": "Full",
+      "binStatus": "Available",
       "description": "BIN 277 - SW CO 3rd Ave & East 88th St",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.9532222620251
     },
     {
@@ -2279,10 +2279,10 @@
       "longitude": -73.94848935814979
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 0,
       "serialNumber": 505100040,
       "latitude": 40.77068591297934,
-      "binStatus": "Nearly Full",
+      "binStatus": "Available",
       "description": "BIN 363 - NW CO W 63 St & Central Park W",
       "availableForUse": true,
       "longitude": -73.98008527492154
@@ -2333,10 +2333,10 @@
       "longitude": -73.94685207786003
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 0,
       "serialNumber": 505100020,
       "latitude": 40.72799056580962,
-      "binStatus": "Nearly Full",
+      "binStatus": "Available",
       "description": "BIN 317 - SE CO Ave B & E 12 St",
       "availableForUse": true,
       "longitude": -73.97899926258084
@@ -2675,7 +2675,7 @@
       "longitude": -73.98977462491895
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 0,
       "serialNumber": 505100025,
       "latitude": 40.74240669511277,
       "binStatus": "Available",
@@ -2756,7 +2756,7 @@
       "longitude": -73.98495496580612
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 505100055,
       "latitude": 40.76405416975698,
       "binStatus": "Available",
@@ -2774,12 +2774,12 @@
       "longitude": -73.99644857287824
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 0,
       "serialNumber": 505100056,
       "latitude": 40.77779121756704,
-      "binStatus": "Full",
+      "binStatus": "Available",
       "description": "BIN 265 - SW CO 2nd Avenue & 86th Street",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.9519761287763
     },
     {
@@ -2792,12 +2792,12 @@
       "longitude": -73.99722146507379
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 0,
       "serialNumber": 505100075,
       "latitude": 40.778060906549015,
-      "binStatus": "Full",
+      "binStatus": "Available",
       "description": "BIN 394 - SW CO E 85 St & 3 Ave",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.95466305211644
     },
     {
@@ -2828,12 +2828,12 @@
       "longitude": -73.97570673483682
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 0,
       "serialNumber": 505100090,
       "latitude": 40.750719268455946,
-      "binStatus": "Full",
+      "binStatus": "Available",
       "description": "BIN 395 - SW CO 3 Ave & E 42 St",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.97465123299237
     },
     {
@@ -2900,7 +2900,7 @@
       "longitude": -73.9809653781084
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 0,
       "serialNumber": 505100088,
       "latitude": 40.72865169703771,
       "binStatus": "Available",
@@ -2981,7 +2981,7 @@
       "longitude": -73.96686314261594
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 505100068,
       "latitude": 40.7116258563826,
       "binStatus": "Available",
@@ -3044,12 +3044,12 @@
       "longitude": -73.9614462477865
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 0,
       "serialNumber": 505100091,
       "latitude": 40.74913400691257,
-      "binStatus": "Full",
+      "binStatus": "Available",
       "description": "BIN 297 - NW CO of Lexington Ave & E 38 St",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.97793704431773
     },
     {
@@ -3224,12 +3224,12 @@
       "longitude": -73.96400324926272
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 0,
       "serialNumber": 505100143,
       "latitude": 40.77660029121433,
-      "binStatus": "Full",
+      "binStatus": "Available",
       "description": "BIN 392 - SW CO York Ave & E 87 St",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.94673835451539
     },
     {
