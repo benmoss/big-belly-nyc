@@ -236,10 +236,10 @@
       "longitude": -73.90916280189015
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 503000005,
       "latitude": 40.68454521927688,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 123 - SW Tompkins Avenue & Putnam Avenue",
       "availableForUse": true,
       "longitude": -73.94429929839475
@@ -515,12 +515,12 @@
       "longitude": -73.95314779132605
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 503000050,
       "latitude": 40.829794034320685,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 26 - NW Amsterdam Avenue & W 152 Street",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.94453756511211
     },
     {
@@ -1181,10 +1181,10 @@
       "longitude": -73.91453684044001
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 503000165,
       "latitude": 40.69828985201461,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 165 - NE Bushwick Avenue & Jefferson Street",
       "availableForUse": true,
       "longitude": -73.93382884562016
@@ -1451,10 +1451,10 @@
       "longitude": -73.95316857844591
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 503000187,
       "latitude": 40.75792909750536,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 223 - SE 31st Avenue & 49th Street",
       "availableForUse": true,
       "longitude": -73.90980195254087
@@ -1829,10 +1829,10 @@
       "longitude": -73.92542146146297
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 503000234,
       "latitude": 40.62214723793611,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 235 - NW Hill Street & Tompkins Avenue",
       "availableForUse": true,
       "longitude": -74.07850451767445
@@ -2018,10 +2018,10 @@
       "longitude": -73.93871281296015
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 503000250,
       "latitude": 40.61258951334761,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 236 - NE Vermont Avenue & Hylan Blvd",
       "availableForUse": true,
       "longitude": -74.06930956989527
@@ -2162,7 +2162,7 @@
       "longitude": -74.07558023929596
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 40,
       "serialNumber": 503000216,
       "latitude": 40.84382557774167,
       "binStatus": "Available",
@@ -2828,10 +2828,10 @@
       "longitude": -73.97570673483682
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100090,
       "latitude": 40.750719268455946,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 395 - SW CO 3 Ave & E 42 St",
       "availableForUse": true,
       "longitude": -73.97465123299237
@@ -2963,7 +2963,7 @@
       "longitude": -73.97906581678058
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 505100077,
       "latitude": 40.84610840833878,
       "binStatus": "Available",
