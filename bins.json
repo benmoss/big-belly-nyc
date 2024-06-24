@@ -308,7 +308,7 @@
       "longitude": -73.95101174712181
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 0,
       "serialNumber": 503000014,
       "latitude": 40.762625726342314,
       "binStatus": "Available",
@@ -443,12 +443,12 @@
       "longitude": -73.92743781208992
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 503000018,
       "latitude": 40.83478846373379,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 56 - SW Amsterdam Avenue & West 160th Street",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.94085858017206
     },
     {
@@ -479,10 +479,10 @@
       "longitude": -73.95299658179283
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 80,
       "serialNumber": 503000053,
       "latitude": 40.764994993021595,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 09 - SE 31st Avenue & 29th Street",
       "availableForUse": true,
       "longitude": -73.92496582120657
@@ -1109,7 +1109,7 @@
       "longitude": -73.92984341830015
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 0,
       "serialNumber": 503000127,
       "latitude": 40.706692511000654,
       "binStatus": "Available",
@@ -1145,10 +1145,10 @@
       "longitude": -73.9155288040638
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 503000149,
       "latitude": 40.683936689634,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 144 - SW Nostrand Avenue & Putnam Avenue",
       "availableForUse": true,
       "longitude": -73.9503475651145
@@ -1703,7 +1703,7 @@
       "longitude": -73.86291526257992
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 0,
       "serialNumber": 503000223,
       "latitude": 40.755305606252215,
       "binStatus": "Available",
@@ -2135,7 +2135,7 @@
       "longitude": -73.95261202007532
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 0,
       "serialNumber": 503000275,
       "latitude": 40.75290526233439,
       "binStatus": "Available",
@@ -2198,7 +2198,7 @@
       "longitude": -73.9109194278717
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 0,
       "serialNumber": 503000212,
       "latitude": 40.70585647534992,
       "binStatus": "Available",
@@ -2225,7 +2225,7 @@
       "longitude": -73.9421078891929
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 0,
       "serialNumber": 503000236,
       "latitude": 40.76122012468334,
       "binStatus": "Available",
@@ -2333,10 +2333,10 @@
       "longitude": -73.94685207786003
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100020,
       "latitude": 40.72799056580962,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 317 - SE CO Ave B & E 12 St",
       "availableForUse": true,
       "longitude": -73.97899926258084
@@ -2459,10 +2459,10 @@
       "longitude": -74.00006544331396
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 0,
       "serialNumber": 505100022,
       "latitude": 40.73287635373648,
-      "binStatus": "Nearly Full",
+      "binStatus": "Available",
       "description": "BIN 334 - SW CO Hudson St & Christopher St",
       "availableForUse": true,
       "longitude": -74.00655866692779
@@ -2585,12 +2585,12 @@
       "longitude": -73.95019042066897
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 0,
       "serialNumber": 505100044,
       "latitude": 40.73121273762785,
-      "binStatus": "Full",
+      "binStatus": "Available",
       "description": "BIN 335 - NE CO Morton ST & Greenwich ST",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -74.0077318323766
     },
     {
@@ -2981,12 +2981,12 @@
       "longitude": -73.96686314261594
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 505100068,
       "latitude": 40.7116258563826,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 258 - SE CO Montgomery St & Cherry St",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.9850452796422
     },
     {
@@ -3359,7 +3359,7 @@
       "longitude": -73.99506114554103
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 0,
       "serialNumber": 505100150,
       "latitude": 40.729589714367386,
       "binStatus": "Available",
