@@ -101,7 +101,7 @@
       "longitude": -73.92166045665941
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 3590012,
       "latitude": 40.884080646656564,
       "binStatus": "Available",
@@ -911,7 +911,7 @@
       "longitude": -73.92934955656528
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000092,
       "latitude": 40.695079598177166,
       "binStatus": "Available",
@@ -1649,10 +1649,10 @@
       "longitude": -73.928127810359
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 503000204,
       "latitude": 40.69300170948447,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 130 - SE Bedford Avenue & Willoughby Avenue",
       "availableForUse": true,
       "longitude": -73.9556797966361
@@ -2549,7 +2549,7 @@
       "longitude": -73.99481938922054
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 505100037,
       "latitude": 40.739169439589006,
       "binStatus": "Available",
@@ -2610,6 +2610,15 @@
       "description": "BIN 279 - SW CO Main St & River Road",
       "availableForUse": false,
       "longitude": -73.9463083404101
+    },
+    {
+      "latestFullness": 0,
+      "serialNumber": 505100030,
+      "latitude": 40.77884195910523,
+      "binStatus": "Available",
+      "description": "NW c/o Colombus Ave & 74 St",
+      "availableForUse": true,
+      "longitude": -73.97783417254686
     },
     {
       "latestFullness": 0,
@@ -2720,7 +2729,7 @@
       "longitude": -73.98977462491895
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 505100025,
       "latitude": 40.74240669511277,
       "binStatus": "Available",
@@ -2783,7 +2792,7 @@
       "longitude": -74.0047200044207
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 505100059,
       "latitude": 40.718786682897935,
       "binStatus": "Available",
@@ -3350,7 +3359,7 @@
       "longitude": -73.98753543655222
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 0,
       "serialNumber": 505100146,
       "latitude": 40.74723684953337,
       "binStatus": "Available",
