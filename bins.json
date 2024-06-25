@@ -416,7 +416,7 @@
       "longitude": -73.90380453318357
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000032,
       "latitude": 40.76149921367936,
       "binStatus": "Available",
@@ -731,16 +731,16 @@
       "longitude": -73.92594543138473
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 503000061,
       "latitude": 40.76808087642403,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 15 - SE 31st Avenue & 14th Street",
       "availableForUse": true,
       "longitude": -73.93193346987313
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 503000062,
       "latitude": 40.80507840250284,
       "binStatus": "Available",
@@ -911,7 +911,7 @@
       "longitude": -73.91521599143744
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000093,
       "latitude": 40.76223009405083,
       "binStatus": "Available",
@@ -1001,7 +1001,7 @@
       "longitude": -73.9447372895371
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 503000074,
       "latitude": 40.80957426897732,
       "binStatus": "Available",
@@ -1586,7 +1586,7 @@
       "longitude": -73.9326124638319
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000191,
       "latitude": 40.80924767164232,
       "binStatus": "Available",
@@ -1991,7 +1991,7 @@
       "longitude": -73.95637851208448
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 503000257,
       "latitude": 40.670817086934036,
       "binStatus": "Available",
@@ -2045,12 +2045,12 @@
       "longitude": -73.92220901788035
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 503000263,
       "latitude": 40.67867868263691,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 220 - NE Flatbush Avenue & Prospect Place",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.97343333810568
     },
     {
@@ -2765,7 +2765,7 @@
       "longitude": -73.99876398340452
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 505100058,
       "latitude": 40.716735019858994,
       "binStatus": "Available",
@@ -2828,7 +2828,7 @@
       "longitude": -73.98495496580612
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 505100055,
       "latitude": 40.76405416975698,
       "binStatus": "Available",
@@ -2939,9 +2939,9 @@
       "latestFullness": 0,
       "serialNumber": 505100095,
       "latitude": 40.74408502157723,
-      "binStatus": "Available",
+      "binStatus": "Out of Service",
       "description": "BIN 300 - SW CO E 33 St & 2 Ave",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.9766103569379
     },
     {
@@ -3287,7 +3287,7 @@
       "longitude": -73.97343810525932
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 60,
       "serialNumber": 505100139,
       "latitude": 40.74272368457833,
       "binStatus": "Available",
@@ -3458,10 +3458,10 @@
       "longitude": -73.99201305589226
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100123,
       "latitude": 40.78331643218788,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 377 - NW CO Broadway & W 78 St",
       "availableForUse": true,
       "longitude": -73.98062197434946
@@ -3476,7 +3476,7 @@
       "longitude": -73.98478295989479
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 505100116,
       "latitude": 40.78914315936319,
       "binStatus": "Available",
