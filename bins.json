@@ -2,7 +2,7 @@
   "errorCode": "STATUS_OK",
   "compostAssets": [
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 3590004,
       "latitude": 40.740982515732185,
       "binStatus": "Available",
@@ -227,7 +227,7 @@
       "longitude": -73.86632109842786
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 503000028,
       "latitude": 40.798054852781554,
       "binStatus": "Available",
@@ -416,7 +416,7 @@
       "longitude": -73.90380453318357
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 503000032,
       "latitude": 40.76149921367936,
       "binStatus": "Available",
@@ -452,10 +452,10 @@
       "longitude": -73.92383761703968
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 503000033,
       "latitude": 40.86054008940285,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 63 - SE Sickles Street & Nagle Avenue",
       "availableForUse": true,
       "longitude": -73.9273372319724
@@ -623,7 +623,7 @@
       "longitude": -73.92345808446407
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 40,
       "serialNumber": 503000046,
       "latitude": 40.81219790128479,
       "binStatus": "Available",
@@ -677,7 +677,7 @@
       "longitude": -73.92041435458692
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 503000035,
       "latitude": 40.820298050767335,
       "binStatus": "Available",
@@ -1190,7 +1190,7 @@
       "longitude": -73.91453684044001
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000165,
       "latitude": 40.69828985201461,
       "binStatus": "Available",
@@ -1487,7 +1487,7 @@
       "longitude": -73.91591713080048
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 503000184,
       "latitude": 40.673104182956976,
       "binStatus": "Available",
@@ -1649,7 +1649,7 @@
       "longitude": -73.928127810359
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 503000204,
       "latitude": 40.69300170948447,
       "binStatus": "Available",
@@ -1712,7 +1712,7 @@
       "longitude": -73.93744513392448
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 503000219,
       "latitude": 40.75685380877115,
       "binStatus": "Available",
@@ -1721,7 +1721,7 @@
       "longitude": -73.90800554305315
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000222,
       "latitude": 40.821624764178374,
       "binStatus": "Available",
@@ -2387,10 +2387,10 @@
       "longitude": -73.99195962283002
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100019,
       "latitude": 40.731496522321486,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 315 - NW CO 4 Ave & E 10 St",
       "availableForUse": true,
       "longitude": -73.99051628208568
@@ -2648,7 +2648,7 @@
       "longitude": -73.95247723907232
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 505100026,
       "latitude": 40.78340997537408,
       "binStatus": "Available",
@@ -2837,7 +2837,7 @@
       "longitude": -73.95466305211644
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 505100089,
       "latitude": 40.77432420761129,
       "binStatus": "Available",
@@ -2927,7 +2927,7 @@
       "longitude": -73.99017938079861
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 505100080,
       "latitude": 40.7380040181738,
       "binStatus": "Available",
@@ -2954,19 +2954,19 @@
       "longitude": -73.95335140977043
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 505100087,
       "latitude": 40.798370790247,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 384 - SE CO Broadway & W 102 St",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.96888427642509
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100093,
       "latitude": 40.7953036151945,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 383 - NE CO Broadway & W 97 St",
       "availableForUse": true,
       "longitude": -73.97107263571145
@@ -3224,7 +3224,7 @@
       "longitude": -73.96135753145826
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 40,
       "serialNumber": 505100113,
       "latitude": 40.741606235945184,
       "binStatus": "Available",
@@ -3467,7 +3467,7 @@
       "longitude": -73.98222696429983
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 505100112,
       "latitude": 40.741522457226544,
       "binStatus": "Available",
