@@ -695,12 +695,12 @@
       "longitude": -73.93176387995481
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 503000036,
       "latitude": 40.6778510426927,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 187 - NW Vanderbilt Avenue & Prospect Place",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.96890208125114
     },
     {
@@ -1883,10 +1883,10 @@
       "longitude": -73.93390157678125
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 0,
       "serialNumber": 503000241,
       "latitude": 40.6774118895118,
-      "binStatus": "Nearly Full",
+      "binStatus": "Available",
       "description": "BIN 218 - SE Classon Avenue & Bergen Street",
       "availableForUse": true,
       "longitude": -73.95897587267723
@@ -1937,7 +1937,7 @@
       "longitude": -73.91177110144258
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 0,
       "serialNumber": 503000254,
       "latitude": 40.67509191438939,
       "binStatus": "Available",
@@ -1973,10 +1973,10 @@
       "longitude": -74.14217077195644
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 0,
       "serialNumber": 503000244,
       "latitude": 40.67498593224985,
-      "binStatus": "Nearly Full",
+      "binStatus": "Available",
       "description": "BIN 194 - NW Classon Avenue & Park Place",
       "availableForUse": true,
       "longitude": -73.96024390254057
@@ -2081,12 +2081,12 @@
       "longitude": -73.92471789027536
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 0,
       "serialNumber": 503000267,
       "latitude": 40.67165371443654,
-      "binStatus": "Full",
+      "binStatus": "Available",
       "description": "BIN 219 - SE Classon Avenue & Eastern Parkway",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.96107707172632
     },
     {
@@ -2099,12 +2099,12 @@
       "longitude": -73.93931295722723
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 0,
       "serialNumber": 503000276,
       "latitude": 40.67165676594622,
-      "binStatus": "Full",
+      "binStatus": "Available",
       "description": "BIN 196 - NE Franklin Avenue & Lincoln Place",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.95756002515554
     },
     {
@@ -2630,7 +2630,7 @@
       "longitude": -73.99302401909992
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 505100002,
       "latitude": 40.76863578734461,
       "binStatus": "Available",
