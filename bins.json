@@ -596,12 +596,12 @@
       "longitude": -73.93639236688614
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 0,
       "serialNumber": 503000045,
       "latitude": 40.76832401280552,
-      "binStatus": "Full",
+      "binStatus": "Available",
       "description": "BIN 16 - NW 21st Street & 30th Drive",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.92916951328516
     },
     {
@@ -668,10 +668,10 @@
       "longitude": -73.89476414769888
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 503000038,
       "latitude": 40.76298113979361,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 02 - NW 31st Avenue & 35th Street",
       "availableForUse": true,
       "longitude": -73.92041435458692
@@ -1073,7 +1073,7 @@
       "longitude": -73.96265991032124
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 0,
       "serialNumber": 503000133,
       "latitude": 40.684197290894595,
       "binStatus": "Available",
@@ -1100,7 +1100,7 @@
       "longitude": -73.91719682217655
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 0,
       "serialNumber": 503000143,
       "latitude": 40.6825487482924,
       "binStatus": "Available",
@@ -1163,7 +1163,7 @@
       "longitude": -73.9155288040638
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 0,
       "serialNumber": 503000149,
       "latitude": 40.683936689634,
       "binStatus": "Available",
@@ -1190,7 +1190,7 @@
       "longitude": -73.91453684044001
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 0,
       "serialNumber": 503000165,
       "latitude": 40.69828985201461,
       "binStatus": "Available",
@@ -1208,7 +1208,7 @@
       "longitude": -73.91374111175537
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 0,
       "serialNumber": 503000164,
       "latitude": 40.69660505362728,
       "binStatus": "Available",
@@ -1298,7 +1298,7 @@
       "longitude": -73.96974126370019
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 0,
       "serialNumber": 503000169,
       "latitude": 40.690318203640174,
       "binStatus": "Available",
@@ -1460,7 +1460,7 @@
       "longitude": -73.90980195254087
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 0,
       "serialNumber": 503000181,
       "latitude": 40.68065836586844,
       "binStatus": "Available",
@@ -1631,10 +1631,10 @@
       "longitude": -73.928127810359
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 0,
       "serialNumber": 503000204,
       "latitude": 40.69300170948447,
-      "binStatus": "Nearly Full",
+      "binStatus": "Available",
       "description": "BIN 130 - SE Bedford Avenue & Willoughby Avenue",
       "availableForUse": true,
       "longitude": -73.9556797966361
@@ -1685,7 +1685,7 @@
       "longitude": -73.94542437046766
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 0,
       "serialNumber": 503000218,
       "latitude": 40.694661178530154,
       "binStatus": "Available",
@@ -1739,10 +1739,10 @@
       "longitude": -73.91965739428997
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 0,
       "serialNumber": 503000225,
       "latitude": 40.6865703680712,
-      "binStatus": "Nearly Full",
+      "binStatus": "Available",
       "description": "BIN 128 - NE Bedford Avenue & Quincy Street",
       "availableForUse": true,
       "longitude": -73.95448587834835
@@ -1802,7 +1802,7 @@
       "longitude": -73.89310654252768
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 0,
       "serialNumber": 503000186,
       "latitude": 40.6858662258759,
       "binStatus": "Available",
@@ -1964,7 +1964,7 @@
       "longitude": -74.14217077195644
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 503000244,
       "latitude": 40.67498593224985,
       "binStatus": "Available",
@@ -2432,7 +2432,7 @@
       "longitude": -74.00006544331396
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 505100022,
       "latitude": 40.73287635373648,
       "binStatus": "Available",
@@ -2621,10 +2621,10 @@
       "longitude": -73.99302401909992
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 0,
       "serialNumber": 505100002,
       "latitude": 40.76863578734461,
-      "binStatus": "Nearly Full",
+      "binStatus": "Available",
       "description": "BIN 268 - SE CO 2nd Avenue & 72nd Street",
       "availableForUse": true,
       "longitude": -73.95822445057821
@@ -2765,10 +2765,10 @@
       "longitude": -73.99644857287824
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 0,
       "serialNumber": 505100056,
       "latitude": 40.77779121756704,
-      "binStatus": "Nearly Full",
+      "binStatus": "Available",
       "description": "BIN 265 - SW CO 2nd Avenue & 86th Street",
       "availableForUse": true,
       "longitude": -73.9519761287763
@@ -2810,7 +2810,7 @@
       "longitude": -73.99013103325534
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 505100081,
       "latitude": 40.78693626205199,
       "binStatus": "Available",
@@ -2882,7 +2882,7 @@
       "longitude": -73.99017938079861
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 505100080,
       "latitude": 40.7380040181738,
       "binStatus": "Available",
@@ -2909,7 +2909,7 @@
       "longitude": -73.95335140977043
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 505100087,
       "latitude": 40.798370790247,
       "binStatus": "Available",
