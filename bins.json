@@ -560,7 +560,7 @@
       "longitude": -73.94493098288339
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 0,
       "serialNumber": 503000049,
       "latitude": 40.79160725166976,
       "binStatus": "Available",
@@ -812,7 +812,7 @@
       "longitude": -73.92557334154844
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 0,
       "serialNumber": 503000071,
       "latitude": 40.7948329016069,
       "binStatus": "Available",
@@ -848,7 +848,7 @@
       "longitude": -73.92199024558067
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 0,
       "serialNumber": 503000081,
       "latitude": 40.79314191706756,
       "binStatus": "Available",
@@ -992,7 +992,7 @@
       "longitude": -73.95624071359634
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 0,
       "serialNumber": 503000076,
       "latitude": 40.791411617905716,
       "binStatus": "Available",
@@ -1064,12 +1064,12 @@
       "longitude": -73.90436712652445
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 0,
       "serialNumber": 503000136,
       "latitude": 40.67726495043478,
-      "binStatus": "Full",
+      "binStatus": "Available",
       "description": "BIN 192 - NW Grand Avenue & St. Marks Avenue",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.96265991032124
     },
     {
@@ -1757,10 +1757,10 @@
       "longitude": -73.93027022480965
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 503000229,
       "latitude": 40.82775764614125,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 104 - SW \tThrogs Neck Expressway & Randall Avenue",
       "availableForUse": true,
       "longitude": -73.8183144852519
@@ -2432,10 +2432,10 @@
       "longitude": -74.00006544331396
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 0,
       "serialNumber": 505100022,
       "latitude": 40.73287635373648,
-      "binStatus": "Nearly Full",
+      "binStatus": "Available",
       "description": "BIN 334 - SW CO Hudson St & Christopher St",
       "availableForUse": true,
       "longitude": -74.00655866692779
@@ -3296,10 +3296,10 @@
       "longitude": -73.98753543655222
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 0,
       "serialNumber": 505100146,
       "latitude": 40.74723684953337,
-      "binStatus": "Nearly Full",
+      "binStatus": "Available",
       "description": "BIN 340 - SW CO 6 Ave & W 30 St",
       "availableForUse": true,
       "longitude": -73.98983752643882
