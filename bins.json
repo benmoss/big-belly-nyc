@@ -470,12 +470,12 @@
       "longitude": -73.92743781208992
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 0,
       "serialNumber": 503000018,
       "latitude": 40.83478846373379,
-      "binStatus": "Full",
+      "binStatus": "Available",
       "description": "BIN 56 - SW Amsterdam Avenue & West 160th Street",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.94085858017206
     },
     {
@@ -497,7 +497,7 @@
       "longitude": -73.87542713633172
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000060,
       "latitude": 40.81491836063367,
       "binStatus": "Available",
@@ -794,7 +794,7 @@
       "longitude": -73.92632732264548
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 0,
       "serialNumber": 503000070,
       "latitude": 40.83161371635521,
       "binStatus": "Available",
@@ -920,7 +920,7 @@
       "longitude": -73.91863731029024
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 0,
       "serialNumber": 503000084,
       "latitude": 40.83612097520797,
       "binStatus": "Available",
@@ -1262,7 +1262,7 @@
       "longitude": -73.92284251749516
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 503000159,
       "latitude": 40.68815347424036,
       "binStatus": "Available",
@@ -1460,7 +1460,7 @@
       "longitude": -73.90980195254087
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 503000181,
       "latitude": 40.68065836586844,
       "binStatus": "Available",
@@ -2279,10 +2279,10 @@
       "longitude": -73.95631212223466
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 0,
       "serialNumber": 505100041,
       "latitude": 40.7703540345238,
-      "binStatus": "Nearly Full",
+      "binStatus": "Available",
       "description": "BIN 275 - NE CO 1 Ave & E 76 Street",
       "availableForUse": true,
       "longitude": -73.9538887710376
@@ -2423,7 +2423,7 @@
       "longitude": -74.00695323944092
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 0,
       "serialNumber": 505100003,
       "latitude": 40.73776704120356,
       "binStatus": "Available",
@@ -2738,12 +2738,12 @@
       "longitude": -74.01055041700602
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 505100054,
       "latitude": 40.7191714224125,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 264 - NE CO Clinton Street & Rivington St",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.98495496580612
     },
     {
@@ -2846,7 +2846,7 @@
       "longitude": -73.97379656746796
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 505100084,
       "latitude": 40.767171552566246,
       "binStatus": "Available",
@@ -2936,10 +2936,10 @@
       "longitude": -73.98908566787568
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 0,
       "serialNumber": 505100108,
       "latitude": 40.72615124076925,
-      "binStatus": "Nearly Full",
+      "binStatus": "Available",
       "description": "BIN 321 - NE CO Avenue A & E 7th Street",
       "availableForUse": true,
       "longitude": -73.9833025251433
@@ -3260,7 +3260,7 @@
       "longitude": -73.97864520220962
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 0,
       "serialNumber": 505100134,
       "latitude": 40.7312028692314,
       "binStatus": "Available",
@@ -3350,7 +3350,7 @@
       "longitude": -73.97196531694908
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 505100140,
       "latitude": 40.760441717606135,
       "binStatus": "Available",
