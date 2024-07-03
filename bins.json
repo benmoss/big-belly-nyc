@@ -56,7 +56,7 @@
       "longitude": -73.90472318977118
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 3590020,
       "latitude": 40.746148800069264,
       "binStatus": "Available",
@@ -65,7 +65,7 @@
       "longitude": -73.91328877313748
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 3590001,
       "latitude": 40.746548059294376,
       "binStatus": "Available",
@@ -605,7 +605,7 @@
       "longitude": -73.92916951328516
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 0,
       "serialNumber": 503000041,
       "latitude": 40.81994765597217,
       "binStatus": "Available",
@@ -875,7 +875,7 @@
       "longitude": -73.93855724483728
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 503000085,
       "latitude": 40.80984148378304,
       "binStatus": "Available",
@@ -1199,7 +1199,7 @@
       "longitude": -73.93382884562016
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000166,
       "latitude": 40.68703129558847,
       "binStatus": "Available",
@@ -1415,7 +1415,7 @@
       "longitude": -73.96627854555845
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000180,
       "latitude": 40.69293663142478,
       "binStatus": "Available",
@@ -1469,7 +1469,7 @@
       "longitude": -73.93454968929291
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000185,
       "latitude": 40.704219889937,
       "binStatus": "Available",
@@ -1676,7 +1676,7 @@
       "longitude": -73.82940910756588
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 40,
       "serialNumber": 503000221,
       "latitude": 40.69040997746076,
       "binStatus": "Available",
@@ -1874,7 +1874,7 @@
       "longitude": -73.93390157678125
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 503000241,
       "latitude": 40.6774118895118,
       "binStatus": "Available",
@@ -2009,7 +2009,7 @@
       "longitude": -74.06930956989527
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 503000261,
       "latitude": 40.67676683153248,
       "binStatus": "Available",
@@ -2099,7 +2099,7 @@
       "longitude": -73.95756002515554
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 503000273,
       "latitude": 40.67710908208188,
       "binStatus": "Available",
@@ -2279,7 +2279,7 @@
       "longitude": -73.95631212223466
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 505100041,
       "latitude": 40.7703540345238,
       "binStatus": "Available",
@@ -2324,10 +2324,10 @@
       "longitude": -73.99692150445948
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100049,
       "latitude": 40.70676048283521,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 253 - SW CO Maiden Lane & Pearl Street",
       "availableForUse": true,
       "longitude": -74.00691708161023
@@ -2567,7 +2567,7 @@
       "longitude": -73.95019042066897
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 505100044,
       "latitude": 40.73121273762785,
       "binStatus": "Available",
@@ -2675,7 +2675,7 @@
       "longitude": -74.0007785662345
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 505100064,
       "latitude": 40.718560301291866,
       "binStatus": "Available",
@@ -2702,7 +2702,7 @@
       "longitude": -73.99222918721208
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 0,
       "serialNumber": 505100006,
       "latitude": 40.717415222837694,
       "binStatus": "Available",
@@ -2729,7 +2729,7 @@
       "longitude": -74.0047200044207
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 0,
       "serialNumber": 505100059,
       "latitude": 40.718786682897935,
       "binStatus": "Available",
@@ -2792,7 +2792,7 @@
       "longitude": -73.95466305211644
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 505100089,
       "latitude": 40.77432420761129,
       "binStatus": "Available",
@@ -2846,10 +2846,10 @@
       "longitude": -73.97379656746796
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100084,
       "latitude": 40.767171552566246,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 356 - SW CO 9 Ave & W 56 St",
       "availableForUse": true,
       "longitude": -73.9864215009938
@@ -2981,12 +2981,12 @@
       "longitude": -73.9850452796422
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 505100110,
       "latitude": 40.75405449748158,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 295 - SE CO 2nd Ave & E 49 St",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.96902091534423
     },
     {
@@ -3170,10 +3170,10 @@
       "longitude": -73.9780299987419
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100104,
       "latitude": 40.76846754015715,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 287 - NE CO 70th Street & 3rd Avenue",
       "availableForUse": true,
       "longitude": -73.96135753145826
@@ -3296,7 +3296,7 @@
       "longitude": -73.98753543655222
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 505100146,
       "latitude": 40.74723684953337,
       "binStatus": "Available",
@@ -3341,7 +3341,7 @@
       "longitude": -73.97276669918094
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 505100117,
       "latitude": 40.78193045956682,
       "binStatus": "Available",
@@ -3440,7 +3440,7 @@
       "longitude": -73.9799463692325
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 505100115,
       "latitude": 40.78876861933553,
       "binStatus": "Available",
