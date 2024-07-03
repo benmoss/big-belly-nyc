@@ -65,7 +65,7 @@
       "longitude": -73.91328877313748
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 3590001,
       "latitude": 40.746548059294376,
       "binStatus": "Available",
@@ -92,7 +92,7 @@
       "longitude": -73.91701877117157
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 40,
       "serialNumber": 3590016,
       "latitude": 40.74379131277653,
       "binStatus": "Available",
@@ -398,12 +398,12 @@
       "longitude": -73.93778998622929
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 0,
       "serialNumber": 503000023,
       "latitude": 40.84608111296369,
-      "binStatus": "Full",
+      "binStatus": "Available",
       "description": "BIN 59 - NE West 174th Street & Fort Washington Avenue",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.94016187638044
     },
     {
@@ -758,7 +758,7 @@
       "longitude": -73.92701134085655
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 40,
       "serialNumber": 503000065,
       "latitude": 40.76524333304795,
       "binStatus": "Available",
@@ -875,7 +875,7 @@
       "longitude": -73.93855724483728
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 0,
       "serialNumber": 503000085,
       "latitude": 40.80984148378304,
       "binStatus": "Available",
@@ -929,7 +929,7 @@
       "longitude": -73.92934955656528
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 503000092,
       "latitude": 40.695079598177166,
       "binStatus": "Available",
@@ -1109,7 +1109,7 @@
       "longitude": -73.9499693736434
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000129,
       "latitude": 40.685812233251795,
       "binStatus": "Available",
@@ -1208,7 +1208,7 @@
       "longitude": -73.91374111175537
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 503000164,
       "latitude": 40.69660505362728,
       "binStatus": "Available",
@@ -2135,7 +2135,7 @@
       "longitude": -74.07558023929596
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 0,
       "serialNumber": 503000216,
       "latitude": 40.84382557774167,
       "binStatus": "Available",
@@ -2306,10 +2306,10 @@
       "longitude": -73.97899926258084
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 0,
       "serialNumber": 505100012,
       "latitude": 40.731190506042964,
-      "binStatus": "Nearly Full",
+      "binStatus": "Available",
       "description": "BIN 314 - NW CO 2nd Ave & 12th Street",
       "availableForUse": true,
       "longitude": -73.98598125432342
@@ -2378,10 +2378,10 @@
       "longitude": -73.9476328343153
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 0,
       "serialNumber": 505100004,
       "latitude": 40.784683566970614,
-      "binStatus": "Nearly Full",
+      "binStatus": "Available",
       "description": "BIN 273 - NW CO 3 Ave & E 95 St",
       "availableForUse": true,
       "longitude": -73.9498927384089
@@ -2405,7 +2405,7 @@
       "longitude": -73.9869912541827
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 505100045,
       "latitude": 40.74639647509707,
       "binStatus": "Available",
@@ -2477,12 +2477,12 @@
       "longitude": -74.0109745413065
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 0,
       "serialNumber": 505100023,
       "latitude": 40.7346470054958,
-      "binStatus": "Full",
+      "binStatus": "Available",
       "description": "BIN 311 - SW CO W 12 St & 5 Ave",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.99481938922054
     },
     {
@@ -2603,10 +2603,10 @@
       "longitude": -73.95247723907232
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 0,
       "serialNumber": 505100026,
       "latitude": 40.78340997537408,
-      "binStatus": "Nearly Full",
+      "binStatus": "Available",
       "description": "BIN 272 - SE 2nd Ave & 95th St",
       "availableForUse": true,
       "longitude": -73.94763141892919
@@ -2711,12 +2711,12 @@
       "longitude": -74.01312500238419
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 505100057,
       "latitude": 40.77544607677087,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 266 - NW CO 2nd Ave & 82nd Street",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.9535946787067
     },
     {
@@ -3053,7 +3053,7 @@
       "longitude": -73.97793704431773
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 505100066,
       "latitude": 40.71424651872,
       "binStatus": "Available",
