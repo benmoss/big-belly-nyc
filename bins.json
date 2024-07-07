@@ -11,7 +11,7 @@
       "longitude": -73.9180913195014
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 3590010,
       "latitude": 40.74060865008307,
       "binStatus": "Available",
@@ -83,12 +83,12 @@
       "longitude": -73.90727262943983
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 80,
       "serialNumber": 3590015,
       "latitude": 40.746483770342856,
-      "binStatus": "Full",
+      "binStatus": "Nearly Full",
       "description": "BIN 401 - NE Skillman Ave & 47th St",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.91701877117157
     },
     {
@@ -182,10 +182,10 @@
       "longitude": -73.98393251001835
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 503000029,
       "latitude": 40.80207202156791,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 33 - NW West 114 Street & Adam Clayton Powell Jr Blvd",
       "availableForUse": true,
       "longitude": -73.95370032638311
@@ -641,10 +641,10 @@
       "longitude": -73.9623499576847
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 503000040,
       "latitude": 40.80557429253741,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 30 - SW West 112 Street & Broadway",
       "availableForUse": true,
       "longitude": -73.9660133421421
@@ -1271,10 +1271,10 @@
       "longitude": -73.9271404221654
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 503000156,
       "latitude": 40.70249991438864,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 182 - NW St. Nicholas Avenue & Menahan Street",
       "availableForUse": true,
       "longitude": -73.9129939918858
@@ -1658,7 +1658,7 @@
       "longitude": -73.89510378241539
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 503000213,
       "latitude": 40.76718414067168,
       "binStatus": "Available",
@@ -1973,12 +1973,12 @@
       "longitude": -73.96024390254057
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 503000264,
       "latitude": 40.67279917738334,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 215 - NW Rogers Avenue & Sterling Place",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.95310335432222
     },
     {
@@ -2252,10 +2252,10 @@
       "longitude": -73.98008527492154
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100042,
       "latitude": 40.73752862143271,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 310 - NW 6 Ave & 14th Street",
       "availableForUse": true,
       "longitude": -73.99693615022026
@@ -2405,7 +2405,7 @@
       "longitude": -73.9869912541827
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 505100045,
       "latitude": 40.74639647509707,
       "binStatus": "Available",
@@ -2414,7 +2414,7 @@
       "longitude": -74.00526163846435
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 505100027,
       "latitude": 40.71904231972568,
       "binStatus": "Available",
@@ -2729,12 +2729,12 @@
       "longitude": -74.0047200044207
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 505100059,
       "latitude": 40.718786682897935,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 244 - SW CO of Greenwich St & Harrison ST",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -74.01055041700602
     },
     {
@@ -2828,7 +2828,7 @@
       "longitude": -73.97465123299237
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 505100079,
       "latitude": 40.72376127391616,
       "binStatus": "Available",
@@ -3134,12 +3134,12 @@
       "longitude": -73.96841285680578
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 505100129,
       "latitude": 40.779702163230795,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 376 - NW CO Broadway & W 73 St",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.98189624416173
     },
     {
@@ -3242,7 +3242,7 @@
       "longitude": -73.99037571712044
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 505100136,
       "latitude": 40.764814574064715,
       "binStatus": "Available",
@@ -3314,12 +3314,12 @@
       "longitude": -74.00261308139008
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 505100122,
       "latitude": 40.77622161241313,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 379 - SW CO W 72 St & Central Park W",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.97619309561924
     },
     {
@@ -3341,12 +3341,12 @@
       "longitude": -73.97276669918094
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 505100117,
       "latitude": 40.78193045956682,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 378 - SW CO W 81 St & Central Park W",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.97196531694908
     },
     {
@@ -3377,12 +3377,12 @@
       "longitude": -73.99201305589226
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 505100123,
       "latitude": 40.78331643218788,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 377 - NW CO Broadway & W 78 St",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.98062197434946
     },
     {
@@ -3404,7 +3404,7 @@
       "longitude": -73.97035768079368
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 505100145,
       "latitude": 40.74163391924499,
       "binStatus": "Available",
