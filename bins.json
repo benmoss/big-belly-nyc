@@ -695,10 +695,10 @@
       "longitude": -73.93176387995481
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 0,
       "serialNumber": 503000036,
       "latitude": 40.6778510426927,
-      "binStatus": "Nearly Full",
+      "binStatus": "Available",
       "description": "BIN 187 - NW Vanderbilt Avenue & Prospect Place",
       "availableForUse": true,
       "longitude": -73.96890208125114
@@ -1352,10 +1352,10 @@
       "longitude": -73.91542855650187
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 0,
       "serialNumber": 503000175,
       "latitude": 40.68014247411724,
-      "binStatus": "Nearly Full",
+      "binStatus": "Available",
       "description": "BIN 186 - SW Vanderbilt Avenue & Dean Street",
       "availableForUse": true,
       "longitude": -73.96811317652464
@@ -1982,12 +1982,12 @@
       "longitude": -73.95310335432222
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 0,
       "serialNumber": 503000263,
       "latitude": 40.67867868263691,
-      "binStatus": "Full",
+      "binStatus": "Available",
       "description": "BIN 220 - NE Flatbush Avenue & Prospect Place",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.97343333810568
     },
     {
@@ -2234,12 +2234,12 @@
       "longitude": -73.9532222620251
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 0,
       "serialNumber": 505100048,
       "latitude": 40.778333070963065,
-      "binStatus": "Out of Service",
+      "binStatus": "Available",
       "description": "BIN 271 - NW CO 1st Ave & 88th St",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.94848935814979
     },
     {
@@ -2549,7 +2549,7 @@
       "longitude": -73.9463083404101
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 505100030,
       "latitude": 40.77884195910523,
       "binStatus": "Available",
@@ -2630,10 +2630,10 @@
       "longitude": -73.95822445057821
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 0,
       "serialNumber": 505100016,
       "latitude": 40.76404560103803,
-      "binStatus": "Nearly Full",
+      "binStatus": "Available",
       "description": "BIN 269 - NE CO E 66 St & 1 Ave",
       "availableForUse": true,
       "longitude": -73.95855413649969
@@ -2738,7 +2738,7 @@
       "longitude": -74.01055041700602
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 505100054,
       "latitude": 40.7191714224125,
       "binStatus": "Available",
@@ -3026,7 +3026,7 @@
       "longitude": -73.96910423686519
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 505100111,
       "latitude": 40.758836000578,
       "binStatus": "Available",
