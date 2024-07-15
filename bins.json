@@ -191,10 +191,10 @@
       "longitude": -73.95370032638311
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 503000027,
       "latitude": 40.76272343617805,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 03 - SE 31st Avenue & 35th Street",
       "availableForUse": true,
       "longitude": -73.92021738757299
@@ -803,10 +803,10 @@
       "longitude": -73.94291717559099
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 503000069,
       "latitude": 40.762088122135914,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 06 - NW 31st Street & Broadway",
       "availableForUse": true,
       "longitude": -73.92557334154844
@@ -911,12 +911,12 @@
       "longitude": -73.91521599143744
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 80,
       "serialNumber": 503000093,
       "latitude": 40.76223009405083,
-      "binStatus": "Full",
+      "binStatus": "Nearly Full",
       "description": "BIN 01 - NE 31st Avenue & 37th Street",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.91863731029024
     },
     {
@@ -2270,7 +2270,7 @@
       "longitude": -74.00206860154867
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 60,
       "serialNumber": 505100050,
       "latitude": 40.77142731268294,
       "binStatus": "Available",
@@ -3323,12 +3323,12 @@
       "longitude": -73.97619309561924
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 505100149,
       "latitude": 40.77380204413203,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 393 - NW CO 1 Ave & E 81 St",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.95175657391553
     },
     {
