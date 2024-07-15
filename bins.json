@@ -56,12 +56,12 @@
       "longitude": -73.90472318977118
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 3590020,
       "latitude": 40.746148800069264,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 400 - NE 51st St & Skillman Ave",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.91328877313748
     },
     {
@@ -191,30 +191,30 @@
       "longitude": -73.95370032638311
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 503000027,
       "latitude": 40.76272343617805,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 03 - SE 31st Avenue & 35th Street",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.92021738757299
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 503000001,
       "latitude": 40.61356176348572,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 238 - NE Victory Blvd & Slosson Avenue",
       "availableForUse": true,
       "longitude": -74.11656774580479
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 503000002,
       "latitude": 40.802377335586115,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 51 - NE East 120 Street & Madison Avenue",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.94273579120636
     },
     {
@@ -308,10 +308,10 @@
       "longitude": -73.92011906951666
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 503000012,
       "latitude": 40.820960776484476,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 24 - SW West 138th Street & Amsterdam Avenue",
       "availableForUse": true,
       "longitude": -73.95101174712181
@@ -1811,10 +1811,10 @@
       "longitude": -73.9355384244532
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 503000235,
       "latitude": 40.67303171113777,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 212 - NE Kingston Avenue & Park Place",
       "availableForUse": true,
       "longitude": -73.94181042909622
@@ -3161,7 +3161,7 @@
       "longitude": -73.96866042855898
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 505100103,
       "latitude": 40.72946703338854,
       "binStatus": "Available",
