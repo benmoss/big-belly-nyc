@@ -2,7 +2,7 @@
   "errorCode": "STATUS_OK",
   "compostAssets": [
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 3590004,
       "latitude": 40.740982515732185,
       "binStatus": "Available",
@@ -83,7 +83,7 @@
       "longitude": -73.90727262943983
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 3590015,
       "latitude": 40.746483770342856,
       "binStatus": "Available",
@@ -272,7 +272,7 @@
       "longitude": -73.93188491463661
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000003,
       "latitude": 40.803170053254796,
       "binStatus": "Available",
@@ -695,10 +695,10 @@
       "longitude": -73.93176387995481
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 503000036,
       "latitude": 40.6778510426927,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 187 - NW Vanderbilt Avenue & Prospect Place",
       "availableForUse": true,
       "longitude": -73.96890208125114
@@ -1442,7 +1442,7 @@
       "longitude": -73.92379101365805
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 503000189,
       "latitude": 40.67990830015172,
       "binStatus": "Available",
@@ -1901,12 +1901,12 @@
       "longitude": -73.90651490539312
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 503000246,
       "latitude": 40.67049107908947,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 197 - NW New York Avenue & Lincoln Place",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.94772704690695
     },
     {
@@ -2603,7 +2603,7 @@
       "longitude": -73.95247723907232
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 505100026,
       "latitude": 40.78340997537408,
       "binStatus": "Available",
@@ -2846,7 +2846,7 @@
       "longitude": -73.97379656746796
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 505100084,
       "latitude": 40.767171552566246,
       "binStatus": "Available",
