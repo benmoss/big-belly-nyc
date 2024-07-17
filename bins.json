@@ -11,7 +11,7 @@
       "longitude": -73.9180913195014
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 3590010,
       "latitude": 40.74060865008307,
       "binStatus": "Available",
@@ -452,7 +452,7 @@
       "longitude": -73.92383761703968
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 503000033,
       "latitude": 40.86054008940285,
       "binStatus": "Available",
@@ -1550,7 +1550,7 @@
       "longitude": -73.83048333227634
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 60,
       "serialNumber": 503000191,
       "latitude": 40.80924767164232,
       "binStatus": "Available",
@@ -1694,7 +1694,7 @@
       "longitude": -73.93744513392448
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 503000219,
       "latitude": 40.75685380877115,
       "binStatus": "Available",
@@ -1838,7 +1838,7 @@
       "longitude": -73.94294936209917
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000240,
       "latitude": 40.67428152112551,
       "binStatus": "Available",
@@ -1964,7 +1964,7 @@
       "longitude": -74.14217077195644
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 503000244,
       "latitude": 40.67498593224985,
       "binStatus": "Available",
@@ -2072,7 +2072,7 @@
       "longitude": -73.92471789027536
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 503000267,
       "latitude": 40.67165371443654,
       "binStatus": "Available",
@@ -2135,7 +2135,7 @@
       "longitude": -74.07558023929596
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000216,
       "latitude": 40.84382557774167,
       "binStatus": "Available",
@@ -2279,7 +2279,7 @@
       "longitude": -73.95631212223466
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 505100041,
       "latitude": 40.7703540345238,
       "binStatus": "Available",
@@ -2324,12 +2324,12 @@
       "longitude": -73.99692150445948
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 505100049,
       "latitude": 40.70676048283521,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 253 - SW CO Maiden Lane & Pearl Street",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -74.00691708161023
     },
     {
@@ -2549,7 +2549,7 @@
       "longitude": -73.9463083404101
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 505100030,
       "latitude": 40.77884195910523,
       "binStatus": "Available",
@@ -2837,7 +2837,7 @@
       "longitude": -73.98540060636678
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 0,
       "serialNumber": 505100092,
       "latitude": 40.78957914389564,
       "binStatus": "Available",
@@ -2918,12 +2918,12 @@
       "longitude": -73.96888427642509
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 505100093,
       "latitude": 40.7953036151945,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 383 - NE CO Broadway & W 97 St",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.97107263571145
     },
     {
@@ -3269,7 +3269,7 @@
       "longitude": -73.98249430253485
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 505100142,
       "latitude": 40.73887358712755,
       "binStatus": "Available",
@@ -3386,10 +3386,10 @@
       "longitude": -73.98062197434946
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100118,
       "latitude": 40.769273183978356,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 355 - NW CO  9th Ave & West 59th Street",
       "availableForUse": true,
       "longitude": -73.98478295989479
