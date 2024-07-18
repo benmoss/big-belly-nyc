@@ -110,10 +110,10 @@
       "longitude": -73.91260653734207
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 3590003,
       "latitude": 40.7457242854218,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 399 - NW 54th St & Skillman Ave",
       "availableForUse": true,
       "longitude": -73.90995819121599
@@ -398,10 +398,10 @@
       "longitude": -73.93778998622929
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 0,
       "serialNumber": 503000023,
       "latitude": 40.84608111296369,
-      "binStatus": "Nearly Full",
+      "binStatus": "Available",
       "description": "BIN 59 - NE West 174th Street & Fort Washington Avenue",
       "availableForUse": true,
       "longitude": -73.94016187638044
@@ -1136,7 +1136,7 @@
       "longitude": -73.92984341830015
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 0,
       "serialNumber": 503000127,
       "latitude": 40.706692511000654,
       "binStatus": "Available",
@@ -1145,7 +1145,7 @@
       "longitude": -73.92045420260473
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 503000147,
       "latitude": 40.687583234935204,
       "binStatus": "Available",
@@ -1361,7 +1361,7 @@
       "longitude": -73.96811317652464
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 0,
       "serialNumber": 503000162,
       "latitude": 40.704966472832965,
       "binStatus": "Available",
@@ -1469,7 +1469,7 @@
       "longitude": -73.93454968929291
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 0,
       "serialNumber": 503000185,
       "latitude": 40.704219889937,
       "binStatus": "Available",
@@ -1811,7 +1811,7 @@
       "longitude": -73.9355384244532
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 503000235,
       "latitude": 40.67303171113777,
       "binStatus": "Available",
@@ -2171,7 +2171,7 @@
       "longitude": -73.9109194278717
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 0,
       "serialNumber": 503000212,
       "latitude": 40.70585647534992,
       "binStatus": "Available",
@@ -2225,7 +2225,7 @@
       "longitude": -73.94638707990978
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 505100038,
       "latitude": 40.780081383690586,
       "binStatus": "Available",
@@ -2297,7 +2297,7 @@
       "longitude": -73.94685207786003
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 0,
       "serialNumber": 505100020,
       "latitude": 40.72799056580962,
       "binStatus": "Available",
@@ -2540,12 +2540,12 @@
       "longitude": -73.99466765892298
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 505100032,
       "latitude": 40.765863654327504,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 279 - SW CO Main St & River Road",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.9463083404101
     },
     {
@@ -3287,7 +3287,7 @@
       "longitude": -73.98834843188524
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 505100120,
       "latitude": 40.77519164031714,
       "binStatus": "Available",
