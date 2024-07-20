@@ -128,7 +128,7 @@
       "longitude": -73.92154820692338
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 3590008,
       "latitude": 40.741475328023036,
       "binStatus": "Available",
@@ -452,12 +452,12 @@
       "longitude": -73.92383761703968
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 0,
       "serialNumber": 503000033,
       "latitude": 40.86054008940285,
-      "binStatus": "Full",
+      "binStatus": "Available",
       "description": "BIN 63 - SE Sickles Street & Nagle Avenue",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.9273372319724
     },
     {
@@ -578,12 +578,12 @@
       "longitude": -73.93815591931343
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 0,
       "serialNumber": 503000052,
       "latitude": 40.805835432729474,
-      "binStatus": "Full",
+      "binStatus": "Available",
       "description": "BIN 36 - SW West 122 Street & Malcolm X Blvd",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.94713159650564
     },
     {
@@ -857,12 +857,12 @@
       "longitude": -73.94825711846352
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 0,
       "serialNumber": 503000082,
       "latitude": 40.746466564173716,
-      "binStatus": "Full",
+      "binStatus": "Available",
       "description": "BIN 344 - SE CO 8 Ave & W 25 St",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.9975130736801
     },
     {
@@ -1595,10 +1595,10 @@
       "longitude": -73.8490579649806
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 503000201,
       "latitude": 40.68434297291138,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 127 - NE Bedford Avenue & Madison Street",
       "availableForUse": true,
       "longitude": -73.95393367856741
@@ -2009,10 +2009,10 @@
       "longitude": -74.06930956989527
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 503000261,
       "latitude": 40.67676683153248,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 199 - NW New York Avenue & Dean Street",
       "availableForUse": true,
       "longitude": -73.9471010863781
@@ -2099,7 +2099,7 @@
       "longitude": -73.95756002515554
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 503000273,
       "latitude": 40.67710908208188,
       "binStatus": "Available",
@@ -2207,12 +2207,12 @@
       "longitude": -73.98717944724858
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 0,
       "serialNumber": 505100039,
       "latitude": 40.781609451116324,
-      "binStatus": "Full",
+      "binStatus": "Available",
       "description": "BIN 274 - SE CO E 92 St & 2 Ave",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.94892745726821
     },
     {
@@ -2237,9 +2237,9 @@
       "latestFullness": 0,
       "serialNumber": 505100048,
       "latitude": 40.778333070963065,
-      "binStatus": "Available",
+      "binStatus": "Out of Service",
       "description": "BIN 271 - NW CO 1st Ave & 88th St",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.94848935814979
     },
     {
@@ -2315,7 +2315,7 @@
       "longitude": -73.98598125432342
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 0,
       "serialNumber": 505100010,
       "latitude": 40.75280253801481,
       "binStatus": "Available",
@@ -3116,12 +3116,12 @@
       "longitude": -73.96666802317641
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 505100132,
       "latitude": 40.757513465018945,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 325 - SW CO W Main Street and Main Street (by Tram Terminal)",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.95414933006201
     },
     {
@@ -3296,7 +3296,7 @@
       "longitude": -73.98753543655222
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 0,
       "serialNumber": 505100146,
       "latitude": 40.74723684953337,
       "binStatus": "Available",
@@ -3305,7 +3305,7 @@
       "longitude": -73.98983752643882
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 0,
       "serialNumber": 505100141,
       "latitude": 40.74960582599206,
       "binStatus": "Available",
@@ -3350,7 +3350,7 @@
       "longitude": -73.97196531694908
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 505100140,
       "latitude": 40.760441717606135,
       "binStatus": "Available",
@@ -3422,7 +3422,7 @@
       "longitude": -73.98222696429983
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 505100112,
       "latitude": 40.741522457226544,
       "binStatus": "Available",
