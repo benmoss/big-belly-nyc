@@ -2,7 +2,7 @@
   "errorCode": "STATUS_OK",
   "compostAssets": [
     {
-      "latestFullness": 40,
+      "latestFullness": 0,
       "serialNumber": 3590004,
       "latitude": 40.740982515732185,
       "binStatus": "Available",
@@ -119,7 +119,7 @@
       "longitude": -73.90995819121599
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 0,
       "serialNumber": 3590011,
       "latitude": 40.73775011894243,
       "binStatus": "Available",
@@ -128,7 +128,7 @@
       "longitude": -73.92154820692338
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 0,
       "serialNumber": 3590008,
       "latitude": 40.741475328023036,
       "binStatus": "Available",
@@ -335,7 +335,7 @@
       "longitude": -73.91832768131844
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000016,
       "latitude": 40.80673101650625,
       "binStatus": "Available",
@@ -2963,7 +2963,7 @@
       "longitude": -73.93435451155901
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 505100073,
       "latitude": 40.80348382274017,
       "binStatus": "Available",
@@ -3116,12 +3116,12 @@
       "longitude": -73.96666802317641
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 0,
       "serialNumber": 505100132,
       "latitude": 40.757513465018945,
-      "binStatus": "Full",
+      "binStatus": "Available",
       "description": "BIN 325 - SW CO W Main Street and Main Street (by Tram Terminal)",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.95414933006201
     },
     {
