@@ -119,7 +119,7 @@
       "longitude": -73.90995819121599
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 3590011,
       "latitude": 40.73775011894243,
       "binStatus": "Available",
@@ -326,7 +326,7 @@
       "longitude": -73.93766775727272
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 503000013,
       "latitude": 40.86843300418909,
       "binStatus": "Available",
@@ -722,10 +722,10 @@
       "longitude": -73.86818949133158
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 503000063,
       "latitude": 40.76656936634833,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 19 - SE Crescent Street & 30th Drive",
       "availableForUse": true,
       "longitude": -73.92594543138473
@@ -911,10 +911,10 @@
       "longitude": -73.91521599143744
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 503000093,
       "latitude": 40.76223009405083,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 01 - NE 31st Avenue & 37th Street",
       "availableForUse": true,
       "longitude": -73.91863731029024
@@ -1091,10 +1091,10 @@
       "longitude": -73.93525745719671
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 503000144,
       "latitude": 40.7019656047617,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 146 - SW Central Avenue & Noll Street",
       "availableForUse": true,
       "longitude": -73.93217660486698
@@ -1622,7 +1622,7 @@
       "longitude": -73.92708376049995
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 503000203,
       "latitude": 40.695132218201906,
       "binStatus": "Available",
@@ -1838,10 +1838,10 @@
       "longitude": -73.94294936209917
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 503000240,
       "latitude": 40.67428152112551,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 198 - NW New York Avenue & Prospect Place",
       "availableForUse": true,
       "longitude": -73.94742764532566
@@ -2288,7 +2288,7 @@
       "longitude": -73.9538887710376
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 505100014,
       "latitude": 40.78010940688603,
       "binStatus": "Available",
@@ -3026,12 +3026,12 @@
       "longitude": -73.96910423686519
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 505100111,
       "latitude": 40.758836000578,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 294 - NW CO E 56 St & 2 Ave",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.96586280976997
     },
     {
@@ -3116,12 +3116,12 @@
       "longitude": -73.96666802317641
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 505100132,
       "latitude": 40.757513465018945,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 325 - SW CO W Main Street and Main Street (by Tram Terminal)",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.95414933006201
     },
     {
@@ -3206,7 +3206,7 @@
       "longitude": -73.97343810525932
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 60,
       "serialNumber": 505100139,
       "latitude": 40.74272368457833,
       "binStatus": "Available",
