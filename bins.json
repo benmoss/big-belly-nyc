@@ -65,7 +65,7 @@
       "longitude": -73.91328877313748
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 3590001,
       "latitude": 40.746548059294376,
       "binStatus": "Available",
@@ -101,12 +101,12 @@
       "longitude": -73.92166045665941
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 3590012,
       "latitude": 40.884080646656564,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "Bin 413 - NW W 232nd St & Arlington Ave",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.91260653734207
     },
     {
@@ -281,7 +281,7 @@
       "longitude": -73.94863547733536
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000009,
       "latitude": 40.700382392327064,
       "binStatus": "Available",
@@ -434,12 +434,12 @@
       "longitude": -73.88136584311724
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 503000022,
       "latitude": 40.866201512573475,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 64 - SE Broadway & Academy Street",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.92508216202259
     },
     {
@@ -470,7 +470,7 @@
       "longitude": -73.92743781208992
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 503000018,
       "latitude": 40.83478846373379,
       "binStatus": "Available",
@@ -650,7 +650,7 @@
       "longitude": -73.9660133421421
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 60,
       "serialNumber": 503000039,
       "latitude": 40.82647613312916,
       "binStatus": "Available",
@@ -812,7 +812,7 @@
       "longitude": -73.92557334154844
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000071,
       "latitude": 40.7948329016069,
       "binStatus": "Available",
@@ -893,10 +893,10 @@
       "longitude": -73.90847526490688
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 503000089,
       "latitude": 40.85572351653721,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 242 - NW Cabrini Blvd & West 187th Street",
       "availableForUse": true,
       "longitude": -73.93792377806369
@@ -1550,7 +1550,7 @@
       "longitude": -73.83048333227634
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000191,
       "latitude": 40.80924767164232,
       "binStatus": "Available",
@@ -1694,7 +1694,7 @@
       "longitude": -73.93744513392448
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000219,
       "latitude": 40.75685380877115,
       "binStatus": "Available",
@@ -2099,7 +2099,7 @@
       "longitude": -73.95756002515554
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 503000273,
       "latitude": 40.67710908208188,
       "binStatus": "Available",
@@ -2207,7 +2207,7 @@
       "longitude": -73.98717944724858
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 505100039,
       "latitude": 40.781609451116324,
       "binStatus": "Available",
@@ -2252,7 +2252,7 @@
       "longitude": -73.98008527492154
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 505100042,
       "latitude": 40.73752862143271,
       "binStatus": "Available",
@@ -2288,10 +2288,10 @@
       "longitude": -73.9538887710376
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100014,
       "latitude": 40.78010940688603,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 267 - NE CO 1st Ave & 91ST St",
       "availableForUse": true,
       "longitude": -73.94685207786003
@@ -2405,7 +2405,7 @@
       "longitude": -73.9869912541827
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 505100045,
       "latitude": 40.74639647509707,
       "binStatus": "Available",
@@ -2486,7 +2486,7 @@
       "longitude": -73.99481938922054
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 505100037,
       "latitude": 40.739169439589006,
       "binStatus": "Available",
@@ -2594,7 +2594,7 @@
       "longitude": -73.97665659471008
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 60,
       "serialNumber": 505100062,
       "latitude": 40.768787421482166,
       "binStatus": "Available",
@@ -2603,7 +2603,7 @@
       "longitude": -73.95247723907232
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 505100026,
       "latitude": 40.78340997537408,
       "binStatus": "Available",
@@ -2756,7 +2756,7 @@
       "longitude": -73.96450973157151
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 505100060,
       "latitude": 40.71026346371404,
       "binStatus": "Available",
@@ -2864,7 +2864,7 @@
       "longitude": -73.9766103569379
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 60,
       "serialNumber": 505100074,
       "latitude": 40.77844967182979,
       "binStatus": "Available",
@@ -3152,7 +3152,7 @@
       "longitude": -73.96592718820084
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 505100105,
       "latitude": 40.76175746497325,
       "binStatus": "Available",
@@ -3314,10 +3314,10 @@
       "longitude": -74.00261308139008
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100122,
       "latitude": 40.77622161241313,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 379 - SW CO W 72 St & Central Park W",
       "availableForUse": true,
       "longitude": -73.97619309561924
