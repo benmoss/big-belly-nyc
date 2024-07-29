@@ -227,7 +227,7 @@
       "longitude": -73.86632109842786
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 503000028,
       "latitude": 40.798054852781554,
       "binStatus": "Available",
@@ -290,10 +290,10 @@
       "longitude": -73.92903984180296
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 503000010,
       "latitude": 40.76236771749731,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 18 - SE 31st Avenue & 36th Street",
       "availableForUse": true,
       "longitude": -73.91942974179983
@@ -623,12 +623,12 @@
       "longitude": -73.92345808446407
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 503000046,
       "latitude": 40.81219790128479,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 21 - NW West 126th St & Morningside Ave",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.95354006439447
     },
     {
@@ -668,12 +668,12 @@
       "longitude": -73.89476414769888
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 503000038,
       "latitude": 40.76298113979361,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 02 - NW 31st Avenue & 35th Street",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.92041435458692
     },
     {
@@ -704,7 +704,7 @@
       "longitude": -73.96890208125114
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 0,
       "serialNumber": 503000047,
       "latitude": 40.80229053822756,
       "binStatus": "Available",
@@ -938,7 +938,7 @@
       "longitude": -73.87587871402502
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 0,
       "serialNumber": 503000092,
       "latitude": 40.695079598177166,
       "binStatus": "Available",
@@ -1064,7 +1064,7 @@
       "longitude": -73.95123168826103
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 0,
       "serialNumber": 503000134,
       "latitude": 40.693288204717966,
       "binStatus": "Available",
@@ -1145,19 +1145,19 @@
       "longitude": -73.92045420260473
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 503000147,
       "latitude": 40.687583234935204,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 155 - NW Central Avenue & Moffat Street",
       "availableForUse": true,
       "longitude": -73.90656117349863
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 0,
       "serialNumber": 503000148,
       "latitude": 40.701373514374744,
-      "binStatus": "Nearly Full",
+      "binStatus": "Available",
       "description": "BIN 183 - NW St. Nicholas Avenue & Linden Street",
       "availableForUse": true,
       "longitude": -73.91136553921112
@@ -1181,7 +1181,7 @@
       "longitude": -73.9503475651145
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 0,
       "serialNumber": 503000155,
       "latitude": 40.690904435343946,
       "binStatus": "Available",
@@ -1190,10 +1190,10 @@
       "longitude": -73.90418004244566
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 0,
       "serialNumber": 503000132,
       "latitude": 40.70324915068062,
-      "binStatus": "Nearly Full",
+      "binStatus": "Available",
       "description": "BIN 181 - SW St. Nicholas Avenue & Greene Avenue",
       "availableForUse": true,
       "longitude": -73.91453684044001
@@ -1280,10 +1280,10 @@
       "longitude": -73.9271404221654
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 0,
       "serialNumber": 503000156,
       "latitude": 40.70249991438864,
-      "binStatus": "Nearly Full",
+      "binStatus": "Available",
       "description": "BIN 182 - NW St. Nicholas Avenue & Menahan Street",
       "availableForUse": true,
       "longitude": -73.9129939918858
@@ -1469,12 +1469,12 @@
       "longitude": -73.93454968929291
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 0,
       "serialNumber": 503000185,
       "latitude": 40.704219889937,
-      "binStatus": "Full",
+      "binStatus": "Available",
       "description": "BIN 180 - NW St. Nicholas Avenue & Himrod Street",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.91591713080048
     },
     {
@@ -1676,12 +1676,12 @@
       "longitude": -73.82940910756588
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 503000221,
       "latitude": 40.69040997746076,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 121 - SW Tompkins Avenue & Lafayette Avenue",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.94542437046766
     },
     {
@@ -2720,12 +2720,12 @@
       "longitude": -73.9535946787067
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 0,
       "serialNumber": 505100069,
       "latitude": 40.724874101417406,
-      "binStatus": "Full",
+      "binStatus": "Available",
       "description": "BIN 254 - SW CO 6 Ave & Dominick St",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -74.0047200044207
     },
     {
