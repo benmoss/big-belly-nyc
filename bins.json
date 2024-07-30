@@ -236,7 +236,7 @@
       "longitude": -73.94852463470318
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000004,
       "latitude": 40.75444696790806,
       "binStatus": "Available",
@@ -515,12 +515,12 @@
       "longitude": -73.92496582120657
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 503000054,
       "latitude": 40.76387664872765,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 07 - SE 32nd Street & 31st Avenue",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.92266314476728
     },
     {
@@ -1181,7 +1181,7 @@
       "longitude": -73.9503475651145
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000155,
       "latitude": 40.690904435343946,
       "binStatus": "Available",
@@ -1271,7 +1271,7 @@
       "longitude": -73.92284251749516
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 503000159,
       "latitude": 40.68815347424036,
       "binStatus": "Available",
@@ -1433,7 +1433,7 @@
       "longitude": -73.91234535723925
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 503000172,
       "latitude": 40.69744237426521,
       "binStatus": "Available",
@@ -1451,10 +1451,10 @@
       "longitude": -73.95316857844591
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 503000187,
       "latitude": 40.75792909750536,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 223 - SE 31st Avenue & 49th Street",
       "availableForUse": true,
       "longitude": -73.90980195254087
@@ -2513,7 +2513,7 @@
       "longitude": -73.99849525644926
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 505100029,
       "latitude": 40.710663476710224,
       "binStatus": "Available",
@@ -2666,7 +2666,7 @@
       "longitude": -73.98977462491895
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 0,
       "serialNumber": 505100025,
       "latitude": 40.74240669511277,
       "binStatus": "Available",
