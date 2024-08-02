@@ -65,7 +65,7 @@
       "longitude": -73.91328877313748
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 3590001,
       "latitude": 40.746548059294376,
       "binStatus": "Available",
@@ -389,19 +389,19 @@
       "longitude": -73.93805466592312
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 0,
       "serialNumber": 503000006,
       "latitude": 40.855684792533886,
-      "binStatus": "Full",
+      "binStatus": "Available",
       "description": "BIN 61 - NE Cabrini Blvd. & West 187th Street",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.93778998622929
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 503000023,
       "latitude": 40.84608111296369,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 59 - NE West 174th Street & Fort Washington Avenue",
       "availableForUse": true,
       "longitude": -73.94016187638044
@@ -848,7 +848,7 @@
       "longitude": -73.92188295722008
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000081,
       "latitude": 40.79314191706756,
       "binStatus": "Available",
@@ -893,10 +893,10 @@
       "longitude": -73.90847526490688
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 0,
       "serialNumber": 503000089,
       "latitude": 40.85572351653721,
-      "binStatus": "Nearly Full",
+      "binStatus": "Available",
       "description": "BIN 242 - NW Cabrini Blvd & West 187th Street",
       "availableForUse": true,
       "longitude": -73.93792377806369
@@ -1127,7 +1127,7 @@
       "longitude": -73.94146978855133
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000145,
       "latitude": 40.68640155543058,
       "binStatus": "Available",
@@ -1217,7 +1217,7 @@
       "longitude": -73.91374111175537
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000164,
       "latitude": 40.69660505362728,
       "binStatus": "Available",
@@ -1226,10 +1226,10 @@
       "longitude": -73.93099308013916
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 503000150,
       "latitude": 40.67358758069033,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 193 - NW Washington Avenue & St. Johns Place",
       "availableForUse": true,
       "longitude": -73.96311119198799
@@ -1244,7 +1244,7 @@
       "longitude": -73.90844576060772
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000157,
       "latitude": 40.698774108656224,
       "binStatus": "Available",
@@ -1406,7 +1406,7 @@
       "longitude": -73.941904976964
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 503000179,
       "latitude": 40.67617742416484,
       "binStatus": "Available",
@@ -1982,10 +1982,10 @@
       "longitude": -73.95310335432222
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 503000263,
       "latitude": 40.67867868263691,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 220 - NE Flatbush Avenue & Prospect Place",
       "availableForUse": true,
       "longitude": -73.97343333810568
@@ -2207,7 +2207,7 @@
       "longitude": -73.98717944724858
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 505100039,
       "latitude": 40.781609451116324,
       "binStatus": "Available",
@@ -2234,12 +2234,12 @@
       "longitude": -73.9532222620251
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 505100048,
       "latitude": 40.778333070963065,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 271 - NW CO 1st Ave & 88th St",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.94848935814979
     },
     {
@@ -2297,10 +2297,10 @@
       "longitude": -73.94685207786003
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100020,
       "latitude": 40.72799056580962,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 317 - SE CO Ave B & E 12 St",
       "availableForUse": true,
       "longitude": -73.97899926258084
@@ -2396,12 +2396,12 @@
       "longitude": -74.00171998103215
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 505100051,
       "latitude": 40.72504420607064,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 323 - SE CO 1 Ave & E 4 St",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.9869912541827
     },
     {
@@ -2603,7 +2603,7 @@
       "longitude": -73.95247723907232
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 505100026,
       "latitude": 40.78340997537408,
       "binStatus": "Available",
@@ -2639,12 +2639,12 @@
       "longitude": -73.95855413649969
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 505100063,
       "latitude": 40.71256505742161,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 251 - NE CO Broadway & Park Place (City hall park side)",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -74.00756552771458
     },
     {
@@ -2783,10 +2783,10 @@
       "longitude": -73.99722146507379
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100075,
       "latitude": 40.778060906549015,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 394 - SW CO E 85 St & 3 Ave",
       "availableForUse": true,
       "longitude": -73.95466305211644
@@ -3017,10 +3017,10 @@
       "longitude": -73.92903912094495
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100094,
       "latitude": 40.79091410359447,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 382 - SW CO W 93 St & Columbus Ave",
       "availableForUse": true,
       "longitude": -73.96910423686519
@@ -3134,7 +3134,7 @@
       "longitude": -73.96841285680578
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 505100129,
       "latitude": 40.779702163230795,
       "binStatus": "Available",
@@ -3206,7 +3206,7 @@
       "longitude": -73.97343810525932
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 60,
       "serialNumber": 505100139,
       "latitude": 40.74272368457833,
       "binStatus": "Available",
@@ -3269,7 +3269,7 @@
       "longitude": -73.98249430253485
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 40,
       "serialNumber": 505100142,
       "latitude": 40.73887358712755,
       "binStatus": "Available",
@@ -3332,10 +3332,10 @@
       "longitude": -73.95175657391553
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100121,
       "latitude": 40.7909709189525,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 371 - NW CO W 91 St & Amsterdam Ave",
       "availableForUse": true,
       "longitude": -73.97276669918094
