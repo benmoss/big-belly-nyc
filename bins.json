@@ -173,7 +173,7 @@
       "longitude": -73.89247186481953
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 60,
       "serialNumber": 503000030,
       "latitude": 40.715299657889645,
       "binStatus": "Available",
@@ -470,10 +470,10 @@
       "longitude": -73.92743781208992
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 503000018,
       "latitude": 40.83478846373379,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 56 - SW Amsterdam Avenue & West 160th Street",
       "availableForUse": true,
       "longitude": -73.94085858017206
@@ -524,10 +524,10 @@
       "longitude": -73.92266314476728
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 503000055,
       "latitude": 40.85039540597644,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 60 - NE Wadsworth Avenue & West 182nd Street",
       "availableForUse": true,
       "longitude": -73.93447995185852
@@ -560,7 +560,7 @@
       "longitude": -73.94493098288339
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 503000049,
       "latitude": 40.79160725166976,
       "binStatus": "Available",
@@ -1190,10 +1190,10 @@
       "longitude": -73.90418004244566
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 503000132,
       "latitude": 40.70324915068062,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 181 - SW St. Nicholas Avenue & Greene Avenue",
       "availableForUse": true,
       "longitude": -73.91453684044001
@@ -1208,7 +1208,7 @@
       "longitude": -73.93382884562016
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 503000166,
       "latitude": 40.68703129558847,
       "binStatus": "Available",
@@ -1271,10 +1271,10 @@
       "longitude": -73.92284251749516
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 503000159,
       "latitude": 40.68815347424036,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 111 - SW Patchen Avenue & Monroe Street",
       "availableForUse": true,
       "longitude": -73.9271404221654
@@ -1532,7 +1532,7 @@
       "longitude": -73.82693077466463
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 503000190,
       "latitude": 40.692363382489,
       "binStatus": "Available",
@@ -1946,7 +1946,7 @@
       "longitude": -73.95329229533672
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000255,
       "latitude": 40.67155276024617,
       "binStatus": "Available",
@@ -2027,7 +2027,7 @@
       "longitude": -73.92812234686723
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 503000269,
       "latitude": 40.64137790224041,
       "binStatus": "Available",
@@ -2351,7 +2351,7 @@
       "longitude": -73.99051628208568
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 505100008,
       "latitude": 40.7391347154904,
       "binStatus": "Available",
@@ -2423,10 +2423,10 @@
       "longitude": -74.00695323944092
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100003,
       "latitude": 40.73776704120356,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 332 - SE CO 7 Ave & W 13 St",
       "availableForUse": true,
       "longitude": -74.00006544331396
@@ -2486,10 +2486,10 @@
       "longitude": -73.99481938922054
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100037,
       "latitude": 40.739169439589006,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 331 - SE CO Greenwich Ave & 8th Ave",
       "availableForUse": true,
       "longitude": -74.00274561377924
@@ -2729,21 +2729,21 @@
       "longitude": -74.0047200044207
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100059,
       "latitude": 40.718786682897935,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 244 - SW CO of Greenwich St & Harrison ST",
       "availableForUse": true,
       "longitude": -74.01055041700602
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 505100054,
       "latitude": 40.7191714224125,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 264 - NE CO Clinton Street & Rivington St",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.98495496580612
     },
     {
@@ -2981,12 +2981,12 @@
       "longitude": -73.9850452796422
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 505100110,
       "latitude": 40.75405449748158,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 295 - SE CO 2nd Ave & E 49 St",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.96902091534423
     },
     {
@@ -3278,7 +3278,7 @@
       "longitude": -73.98511663223668
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 505100137,
       "latitude": 40.743433331711394,
       "binStatus": "Available",
@@ -3395,10 +3395,10 @@
       "longitude": -73.98478295989479
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100116,
       "latitude": 40.78914315936319,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 370 - NW CO Columbus Ave & W 90 St",
       "availableForUse": true,
       "longitude": -73.97035768079368
