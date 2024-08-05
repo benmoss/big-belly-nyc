@@ -2,7 +2,7 @@
   "errorCode": "STATUS_OK",
   "compostAssets": [
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 3590004,
       "latitude": 40.740982515732185,
       "binStatus": "Available",
@@ -443,7 +443,7 @@
       "longitude": -73.92508216202259
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000031,
       "latitude": 40.70206803795076,
       "binStatus": "Available",
@@ -452,7 +452,7 @@
       "longitude": -73.92383761703968
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 503000033,
       "latitude": 40.86054008940285,
       "binStatus": "Available",
@@ -551,7 +551,7 @@
       "longitude": -73.94453756511211
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 503000048,
       "latitude": 40.7966226877643,
       "binStatus": "Available",
@@ -848,7 +848,7 @@
       "longitude": -73.92188295722008
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000081,
       "latitude": 40.79314191706756,
       "binStatus": "Available",
@@ -866,7 +866,7 @@
       "longitude": -73.9975130736801
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 503000083,
       "latitude": 40.826256762400135,
       "binStatus": "Available",
@@ -1046,7 +1046,7 @@
       "longitude": -73.96537832915783
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000140,
       "latitude": 40.681352486961536,
       "binStatus": "Available",
@@ -1091,7 +1091,7 @@
       "longitude": -73.93525745719671
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000144,
       "latitude": 40.7019656047617,
       "binStatus": "Available",
@@ -1226,7 +1226,7 @@
       "longitude": -73.93099308013916
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 503000150,
       "latitude": 40.67358758069033,
       "binStatus": "Available",
@@ -1595,7 +1595,7 @@
       "longitude": -73.8490579649806
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 503000201,
       "latitude": 40.68434297291138,
       "binStatus": "Available",
@@ -1847,7 +1847,7 @@
       "longitude": -73.94742764532566
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000243,
       "latitude": 40.8111366429278,
       "binStatus": "Available",
@@ -1910,7 +1910,7 @@
       "longitude": -73.94772704690695
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000251,
       "latitude": 40.67459377925092,
       "binStatus": "Available",
@@ -2063,12 +2063,12 @@
       "longitude": -73.92796251922846
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 503000271,
       "latitude": 40.74194368731704,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 408 - NW 40th St & 47th Ave",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.92471789027536
     },
     {
@@ -2423,7 +2423,7 @@
       "longitude": -74.00695323944092
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 505100003,
       "latitude": 40.73776704120356,
       "binStatus": "Available",
@@ -2693,7 +2693,7 @@
       "longitude": -73.98896138948061
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 505100072,
       "latitude": 40.71327373740936,
       "binStatus": "Available",
@@ -2738,7 +2738,7 @@
       "longitude": -74.01055041700602
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 505100054,
       "latitude": 40.7191714224125,
       "binStatus": "Available",
@@ -3017,10 +3017,10 @@
       "longitude": -73.92903912094495
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100094,
       "latitude": 40.79091410359447,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 382 - SW CO W 93 St & Columbus Ave",
       "availableForUse": true,
       "longitude": -73.96910423686519
@@ -3053,7 +3053,7 @@
       "longitude": -73.97793704431773
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 60,
       "serialNumber": 505100066,
       "latitude": 40.71424651872,
       "binStatus": "Available",
@@ -3080,7 +3080,7 @@
       "longitude": -73.9728414833659
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 505100101,
       "latitude": 40.77228183243049,
       "binStatus": "Available",
@@ -3116,10 +3116,10 @@
       "longitude": -73.96666802317641
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100132,
       "latitude": 40.757513465018945,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 325 - SW CO W Main Street and Main Street (by Tram Terminal)",
       "availableForUse": true,
       "longitude": -73.95414933006201
@@ -3152,7 +3152,7 @@
       "longitude": -73.96592718820084
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 505100105,
       "latitude": 40.76175746497325,
       "binStatus": "Available",
@@ -3269,7 +3269,7 @@
       "longitude": -73.98249430253485
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 505100142,
       "latitude": 40.73887358712755,
       "binStatus": "Available",
@@ -3314,7 +3314,7 @@
       "longitude": -74.00261308139008
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 60,
       "serialNumber": 505100122,
       "latitude": 40.77622161241313,
       "binStatus": "Available",
@@ -3332,7 +3332,7 @@
       "longitude": -73.95175657391553
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 505100121,
       "latitude": 40.7909709189525,
       "binStatus": "Available",
@@ -3386,7 +3386,7 @@
       "longitude": -73.98062197434946
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 505100118,
       "latitude": 40.769273183978356,
       "binStatus": "Available",
