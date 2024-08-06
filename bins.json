@@ -398,12 +398,12 @@
       "longitude": -73.93778998622929
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 503000023,
       "latitude": 40.84608111296369,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 59 - NE West 174th Street & Fort Washington Avenue",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.94016187638044
     },
     {
@@ -938,7 +938,7 @@
       "longitude": -73.87587871402502
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000092,
       "latitude": 40.695079598177166,
       "binStatus": "Available",
@@ -1073,7 +1073,7 @@
       "longitude": -73.90436712652445
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 503000136,
       "latitude": 40.67726495043478,
       "binStatus": "Available",
@@ -1244,7 +1244,7 @@
       "longitude": -73.90844576060772
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000157,
       "latitude": 40.698774108656224,
       "binStatus": "Available",
@@ -1307,7 +1307,7 @@
       "longitude": -73.96974126370019
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 503000169,
       "latitude": 40.690318203640174,
       "binStatus": "Available",
@@ -1586,7 +1586,7 @@
       "longitude": -73.85669823735952
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000211,
       "latitude": 40.83852110249066,
       "binStatus": "Available",
@@ -2153,7 +2153,7 @@
       "longitude": -73.92091434448957
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 503000205,
       "latitude": 40.68303106054966,
       "binStatus": "Available",
@@ -2351,7 +2351,7 @@
       "longitude": -73.99051628208568
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 0,
       "serialNumber": 505100008,
       "latitude": 40.7391347154904,
       "binStatus": "Available",
@@ -2477,7 +2477,7 @@
       "longitude": -74.0109745413065
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 0,
       "serialNumber": 505100023,
       "latitude": 40.7346470054958,
       "binStatus": "Available",
@@ -2522,16 +2522,16 @@
       "longitude": -74.00341004133224
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100017,
       "latitude": 40.705075385840445,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 243 - NE CO Broadway & Beaver Street",
       "availableForUse": true,
       "longitude": -74.01322457939386
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 60,
       "serialNumber": 505100071,
       "latitude": 40.73149350965934,
       "binStatus": "Available",
@@ -2675,10 +2675,10 @@
       "longitude": -74.0007785662345
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100064,
       "latitude": 40.718560301291866,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 261 - NW CO Hester ST & Baxter St",
       "availableForUse": true,
       "longitude": -73.99876398340452
@@ -2765,10 +2765,10 @@
       "longitude": -73.99644857287824
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100056,
       "latitude": 40.77779121756704,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 265 - SW CO 2nd Avenue & 86th Street",
       "availableForUse": true,
       "longitude": -73.9519761287763
@@ -2810,7 +2810,7 @@
       "longitude": -73.99013103325534
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 0,
       "serialNumber": 505100081,
       "latitude": 40.78693626205199,
       "binStatus": "Available",
@@ -2846,10 +2846,10 @@
       "longitude": -73.97379656746796
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100084,
       "latitude": 40.767171552566246,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 356 - SW CO 9 Ave & W 56 St",
       "availableForUse": true,
       "longitude": -73.9864215009938
@@ -3098,7 +3098,7 @@
       "longitude": -73.97335456220875
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 505100097,
       "latitude": 40.72556517707213,
       "binStatus": "Available",
@@ -3179,10 +3179,10 @@
       "longitude": -73.96135753145826
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100113,
       "latitude": 40.741606235945184,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 307 - NW CO Park Ave S & E 25 St",
       "availableForUse": true,
       "longitude": -73.98558684719369
@@ -3332,7 +3332,7 @@
       "longitude": -73.95175657391553
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 505100121,
       "latitude": 40.7909709189525,
       "binStatus": "Available",
@@ -3404,7 +3404,7 @@
       "longitude": -73.97035768079368
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 0,
       "serialNumber": 505100145,
       "latitude": 40.74163391924499,
       "binStatus": "Available",
