@@ -2,7 +2,7 @@
   "errorCode": "STATUS_OK",
   "compostAssets": [
     {
-      "latestFullness": 40,
+      "latestFullness": 0,
       "serialNumber": 3590004,
       "latitude": 40.740982515732185,
       "binStatus": "Available",
@@ -11,10 +11,10 @@
       "longitude": -73.9180913195014
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 0,
       "serialNumber": 3590010,
       "latitude": 40.74060865008307,
-      "binStatus": "Nearly Full",
+      "binStatus": "Available",
       "description": "BIN 409 - NE Greenpoint Ave & 42nd St",
       "availableForUse": true,
       "longitude": -73.92287585085252
@@ -29,10 +29,10 @@
       "longitude": -73.92003797195594
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 3590017,
       "latitude": 40.7447717419058,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 403 - SW 43rd Ave & 47th St.",
       "availableForUse": true,
       "longitude": -73.9175371080637
@@ -47,21 +47,21 @@
       "longitude": -73.92288388211199
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 0,
       "serialNumber": 3590018,
       "latitude": 40.741339169940716,
-      "binStatus": "Nearly Full",
+      "binStatus": "Available",
       "description": "BIN 397 - SE Queens Blvd & 60th St.",
       "availableForUse": true,
       "longitude": -73.90472318977118
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 0,
       "serialNumber": 3590020,
       "latitude": 40.746148800069264,
-      "binStatus": "Full",
+      "binStatus": "Available",
       "description": "BIN 400 - NE 51st St & Skillman Ave",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.91328877313748
     },
     {
@@ -83,10 +83,10 @@
       "longitude": -73.90727262943983
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 3590015,
       "latitude": 40.746483770342856,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 401 - NE Skillman Ave & 47th St",
       "availableForUse": true,
       "longitude": -73.91701877117157
@@ -110,7 +110,7 @@
       "longitude": -73.91260653734207
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 0,
       "serialNumber": 3590003,
       "latitude": 40.7457242854218,
       "binStatus": "Available",
@@ -128,7 +128,7 @@
       "longitude": -73.92154820692338
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 0,
       "serialNumber": 3590008,
       "latitude": 40.741475328023036,
       "binStatus": "Available",
@@ -407,7 +407,7 @@
       "longitude": -73.94016187638044
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000025,
       "latitude": 40.854894794369606,
       "binStatus": "Available",
@@ -1082,7 +1082,7 @@
       "longitude": -73.96265991032124
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 0,
       "serialNumber": 503000133,
       "latitude": 40.684197290894595,
       "binStatus": "Available",
@@ -1199,7 +1199,7 @@
       "longitude": -73.91453684044001
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 0,
       "serialNumber": 503000165,
       "latitude": 40.69828985201461,
       "binStatus": "Available",
@@ -1217,7 +1217,7 @@
       "longitude": -73.91374111175537
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 0,
       "serialNumber": 503000164,
       "latitude": 40.69660505362728,
       "binStatus": "Available",
@@ -1307,7 +1307,7 @@
       "longitude": -73.96974126370019
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 0,
       "serialNumber": 503000169,
       "latitude": 40.690318203640174,
       "binStatus": "Available",
@@ -1442,7 +1442,7 @@
       "longitude": -73.92379101365805
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 0,
       "serialNumber": 503000189,
       "latitude": 40.67990830015172,
       "binStatus": "Available",
@@ -1460,7 +1460,7 @@
       "longitude": -73.90980195254087
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 0,
       "serialNumber": 503000181,
       "latitude": 40.68065836586844,
       "binStatus": "Available",
@@ -1595,10 +1595,10 @@
       "longitude": -73.8490579649806
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 0,
       "serialNumber": 503000201,
       "latitude": 40.68434297291138,
-      "binStatus": "Nearly Full",
+      "binStatus": "Available",
       "description": "BIN 127 - NE Bedford Avenue & Madison Street",
       "availableForUse": true,
       "longitude": -73.95393367856741
@@ -1685,7 +1685,7 @@
       "longitude": -73.94542437046766
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 0,
       "serialNumber": 503000218,
       "latitude": 40.694661178530154,
       "binStatus": "Available",
@@ -1802,7 +1802,7 @@
       "longitude": -73.89310654252768
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 0,
       "serialNumber": 503000186,
       "latitude": 40.6858662258759,
       "binStatus": "Available",
@@ -1838,12 +1838,12 @@
       "longitude": -73.94294936209917
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 0,
       "serialNumber": 503000240,
       "latitude": 40.67428152112551,
-      "binStatus": "Full",
+      "binStatus": "Available",
       "description": "BIN 198 - NW New York Avenue & Prospect Place",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.94742764532566
     },
     {
@@ -1901,7 +1901,7 @@
       "longitude": -73.90651490539312
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 0,
       "serialNumber": 503000246,
       "latitude": 40.67049107908947,
       "binStatus": "Available",
@@ -2009,7 +2009,7 @@
       "longitude": -74.06930956989527
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 0,
       "serialNumber": 503000261,
       "latitude": 40.67676683153248,
       "binStatus": "Available",
@@ -2747,7 +2747,7 @@
       "longitude": -73.98495496580612
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 505100055,
       "latitude": 40.76405416975698,
       "binStatus": "Available",
@@ -3062,7 +3062,7 @@
       "longitude": -73.98167006603096
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 505100100,
       "latitude": 40.773718493770346,
       "binStatus": "Available",
@@ -3440,7 +3440,7 @@
       "longitude": -73.9799463692325
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 505100115,
       "latitude": 40.78876861933553,
       "binStatus": "Available",
