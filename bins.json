@@ -164,7 +164,7 @@
       "longitude": -73.99473222632365
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 3590006,
       "latitude": 40.88282894758702,
       "binStatus": "Available",
@@ -227,7 +227,7 @@
       "longitude": -73.86632109842786
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000028,
       "latitude": 40.798054852781554,
       "binStatus": "Available",
@@ -263,10 +263,10 @@
       "longitude": -73.94638694822788
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 503000008,
       "latitude": 40.761548735935826,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 05 - SW 24th Street & 34th Avenue",
       "availableForUse": true,
       "longitude": -73.93188491463661
@@ -335,7 +335,7 @@
       "longitude": -73.91832768131844
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 503000016,
       "latitude": 40.80673101650625,
       "binStatus": "Available",
@@ -470,12 +470,12 @@
       "longitude": -73.92743781208992
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 503000018,
       "latitude": 40.83478846373379,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 56 - SW Amsterdam Avenue & West 160th Street",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.94085858017206
     },
     {
@@ -740,10 +740,10 @@
       "longitude": -73.93193346987313
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 503000062,
       "latitude": 40.80507840250284,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 35 - SW St. Nicholas Avenue & West 118 Street",
       "availableForUse": true,
       "longitude": -73.95281787961721
@@ -875,7 +875,7 @@
       "longitude": -73.93855724483728
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000085,
       "latitude": 40.80984148378304,
       "binStatus": "Available",
@@ -1739,7 +1739,7 @@
       "longitude": -73.91965739428997
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000225,
       "latitude": 40.6865703680712,
       "binStatus": "Available",
@@ -1847,7 +1847,7 @@
       "longitude": -73.94742764532566
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 503000243,
       "latitude": 40.8111366429278,
       "binStatus": "Available",
@@ -2396,7 +2396,7 @@
       "longitude": -74.00171998103215
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 505100051,
       "latitude": 40.72504420607064,
       "binStatus": "Available",
@@ -2468,7 +2468,7 @@
       "longitude": -74.00240702146108
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 60,
       "serialNumber": 505100009,
       "latitude": 40.7164061130962,
       "binStatus": "Available",
@@ -2495,7 +2495,7 @@
       "longitude": -74.00274561377924
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 505100047,
       "latitude": 40.73539348561974,
       "binStatus": "Available",
@@ -2567,7 +2567,7 @@
       "longitude": -73.95019042066897
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 505100044,
       "latitude": 40.73121273762785,
       "binStatus": "Available",
@@ -2603,10 +2603,10 @@
       "longitude": -73.95247723907232
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100026,
       "latitude": 40.78340997537408,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 272 - SE 2nd Ave & 95th St",
       "availableForUse": true,
       "longitude": -73.94763141892919
@@ -2639,10 +2639,10 @@
       "longitude": -73.95855413649969
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100063,
       "latitude": 40.71256505742161,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 251 - NE CO Broadway & Park Place (City hall park side)",
       "availableForUse": true,
       "longitude": -74.00756552771458
@@ -2684,7 +2684,7 @@
       "longitude": -73.99876398340452
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 505100058,
       "latitude": 40.716735019858994,
       "binStatus": "Available",
@@ -3053,10 +3053,10 @@
       "longitude": -73.97793704431773
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 0,
       "serialNumber": 505100066,
       "latitude": 40.71424651872,
-      "binStatus": "Nearly Full",
+      "binStatus": "Available",
       "description": "BIN 256 - NW CO Grand St & Henry St",
       "availableForUse": true,
       "longitude": -73.98167006603096
@@ -3242,7 +3242,7 @@
       "longitude": -73.99037571712044
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 0,
       "serialNumber": 505100136,
       "latitude": 40.764814574064715,
       "binStatus": "Available",
