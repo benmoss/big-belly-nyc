@@ -857,12 +857,12 @@
       "longitude": -73.94825711846352
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 0,
       "serialNumber": 503000082,
       "latitude": 40.746466564173716,
-      "binStatus": "Full",
+      "binStatus": "Available",
       "description": "BIN 344 - SE CO 8 Ave & W 25 St",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.9975130736801
     },
     {
@@ -1091,7 +1091,7 @@
       "longitude": -73.93525745719671
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 503000144,
       "latitude": 40.7019656047617,
       "binStatus": "Available",
@@ -1658,7 +1658,7 @@
       "longitude": -73.89510378241539
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 0,
       "serialNumber": 503000213,
       "latitude": 40.76718414067168,
       "binStatus": "Available",
@@ -2630,10 +2630,10 @@
       "longitude": -73.95822445057821
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 0,
       "serialNumber": 505100016,
       "latitude": 40.76404560103803,
-      "binStatus": "Nearly Full",
+      "binStatus": "Available",
       "description": "BIN 269 - NE CO E 66 St & 1 Ave",
       "availableForUse": true,
       "longitude": -73.95855413649969
@@ -2666,10 +2666,10 @@
       "longitude": -73.98977462491895
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 0,
       "serialNumber": 505100025,
       "latitude": 40.74240669511277,
-      "binStatus": "Nearly Full",
+      "binStatus": "Available",
       "description": "BIN 343 - NW CO 8TH AVE & 18TH ST",
       "availableForUse": true,
       "longitude": -74.0007785662345
@@ -3008,7 +3008,7 @@
       "longitude": -73.95211949944496
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 0,
       "serialNumber": 505100076,
       "latitude": 40.85312543432193,
       "binStatus": "Available",
