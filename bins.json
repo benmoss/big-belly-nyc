@@ -281,7 +281,7 @@
       "longitude": -73.94863547733536
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 0,
       "serialNumber": 503000009,
       "latitude": 40.700382392327064,
       "binStatus": "Available",
@@ -290,7 +290,7 @@
       "longitude": -73.92903984180296
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 503000010,
       "latitude": 40.76236771749731,
       "binStatus": "Available",
@@ -443,7 +443,7 @@
       "longitude": -73.92508216202259
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 0,
       "serialNumber": 503000031,
       "latitude": 40.70206803795076,
       "binStatus": "Available",
@@ -911,7 +911,7 @@
       "longitude": -73.91521599143744
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 503000093,
       "latitude": 40.76223009405083,
       "binStatus": "Available",
@@ -1091,7 +1091,7 @@
       "longitude": -73.93525745719671
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 0,
       "serialNumber": 503000144,
       "latitude": 40.7019656047617,
       "binStatus": "Available",
@@ -1100,7 +1100,7 @@
       "longitude": -73.93217660486698
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 0,
       "serialNumber": 503000135,
       "latitude": 40.69796320197583,
       "binStatus": "Available",
@@ -1244,7 +1244,7 @@
       "longitude": -73.90844576060772
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 0,
       "serialNumber": 503000157,
       "latitude": 40.698774108656224,
       "binStatus": "Available",
@@ -1316,7 +1316,7 @@
       "longitude": -73.93640510737896
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 0,
       "serialNumber": 503000154,
       "latitude": 40.69389144220667,
       "binStatus": "Available",
@@ -1604,7 +1604,7 @@
       "longitude": -73.95393367856741
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000208,
       "latitude": 40.683812617651405,
       "binStatus": "Available",
@@ -1613,7 +1613,7 @@
       "longitude": -73.92018981277943
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 0,
       "serialNumber": 503000210,
       "latitude": 40.70378294439786,
       "binStatus": "Available",
@@ -1739,7 +1739,7 @@
       "longitude": -73.91965739428997
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 503000225,
       "latitude": 40.6865703680712,
       "binStatus": "Available",
@@ -1982,12 +1982,12 @@
       "longitude": -73.95310335432222
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 503000263,
       "latitude": 40.67867868263691,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 220 - NE Flatbush Avenue & Prospect Place",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.97343333810568
     },
     {
@@ -2045,7 +2045,7 @@
       "longitude": -74.14456080612285
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 0,
       "serialNumber": 503000266,
       "latitude": 40.70289868141765,
       "binStatus": "Available",
@@ -2108,7 +2108,7 @@
       "longitude": -73.95261202007532
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 0,
       "serialNumber": 503000275,
       "latitude": 40.75290526233439,
       "binStatus": "Available",
@@ -2216,7 +2216,7 @@
       "longitude": -73.94892745726821
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 0,
       "serialNumber": 505100018,
       "latitude": 40.77294782166341,
       "binStatus": "Available",
@@ -2360,7 +2360,7 @@
       "longitude": -73.99540269748928
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 505100031,
       "latitude": 40.72948121652991,
       "binStatus": "Available",
@@ -2369,12 +2369,12 @@
       "longitude": -74.00212241864305
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 0,
       "serialNumber": 505100021,
       "latitude": 40.775317712188475,
-      "binStatus": "Full",
+      "binStatus": "Available",
       "description": "BIN 424 - NE c/o E 85 St & York Ave",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.94749872386456
     },
     {
@@ -2540,10 +2540,10 @@
       "longitude": -73.99466765892298
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 0,
       "serialNumber": 505100032,
       "latitude": 40.765863654327504,
-      "binStatus": "Nearly Full",
+      "binStatus": "Available",
       "description": "BIN 279 - SW CO Main St & River Road",
       "availableForUse": true,
       "longitude": -73.9463083404101
@@ -2558,12 +2558,12 @@
       "longitude": -73.97783417254686
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 0,
       "serialNumber": 505100035,
       "latitude": 40.77152776150592,
-      "binStatus": "Full",
+      "binStatus": "Available",
       "description": "BIN 276 - NE CO York Avenue & 79th Street",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.95019042066897
     },
     {
@@ -3116,10 +3116,10 @@
       "longitude": -73.96666802317641
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 0,
       "serialNumber": 505100132,
       "latitude": 40.757513465018945,
-      "binStatus": "Nearly Full",
+      "binStatus": "Available",
       "description": "BIN 325 - SW CO W Main Street and Main Street (by Tram Terminal)",
       "availableForUse": true,
       "longitude": -73.95414933006201
@@ -3323,12 +3323,12 @@
       "longitude": -73.97619309561924
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 0,
       "serialNumber": 505100149,
       "latitude": 40.77380204413203,
-      "binStatus": "Full",
+      "binStatus": "Available",
       "description": "BIN 393 - NW CO 1 Ave & E 81 St",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.95175657391553
     },
     {
