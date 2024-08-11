@@ -110,7 +110,7 @@
       "longitude": -73.91260653734207
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 3590003,
       "latitude": 40.7457242854218,
       "binStatus": "Available",
@@ -542,7 +542,7 @@
       "longitude": -73.95314779132605
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 503000050,
       "latitude": 40.829794034320685,
       "binStatus": "Available",
@@ -677,12 +677,12 @@
       "longitude": -73.92041435458692
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 503000035,
       "latitude": 40.820298050767335,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 40 - NW West 141st Street & Fredrick Douglas Blvd",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.94394144415855
     },
     {
@@ -911,12 +911,12 @@
       "longitude": -73.91521599143744
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 503000093,
       "latitude": 40.76223009405083,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 01 - NE 31st Avenue & 37th Street",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.91863731029024
     },
     {
@@ -1433,7 +1433,7 @@
       "longitude": -73.91234535723925
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 503000172,
       "latitude": 40.69744237426521,
       "binStatus": "Available",
@@ -1946,7 +1946,7 @@
       "longitude": -73.95329229533672
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 503000255,
       "latitude": 40.67155276024617,
       "binStatus": "Available",
@@ -1973,12 +1973,12 @@
       "longitude": -73.96024390254057
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 503000264,
       "latitude": 40.67279917738334,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 215 - NW Rogers Avenue & Sterling Place",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.95310335432222
     },
     {
@@ -2306,12 +2306,12 @@
       "longitude": -73.97899926258084
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 505100012,
       "latitude": 40.731190506042964,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 314 - NW CO 2nd Ave & 12th Street",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.98598125432342
     },
     {
@@ -2414,7 +2414,7 @@
       "longitude": -74.00526163846435
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 60,
       "serialNumber": 505100027,
       "latitude": 40.71904231972568,
       "binStatus": "Available",
@@ -2531,10 +2531,10 @@
       "longitude": -74.01322457939386
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100071,
       "latitude": 40.73149350965934,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 259 - SW CO University & 8th Street",
       "availableForUse": true,
       "longitude": -73.99466765892298
@@ -2594,7 +2594,7 @@
       "longitude": -73.97665659471008
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 60,
       "serialNumber": 505100062,
       "latitude": 40.768787421482166,
       "binStatus": "Available",
@@ -2882,10 +2882,10 @@
       "longitude": -73.99017938079861
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100080,
       "latitude": 40.7380040181738,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 389 - NW CO 2 Ave & E 23 St",
       "availableForUse": true,
       "longitude": -73.9809653781084
@@ -3071,7 +3071,7 @@
       "longitude": -73.95966351954947
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 505100102,
       "latitude": 40.74448956998408,
       "binStatus": "Available",
@@ -3107,10 +3107,10 @@
       "longitude": -73.9806513567258
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100126,
       "latitude": 40.789118885800946,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 372 - SW CO W 92 St & Central Park W",
       "availableForUse": true,
       "longitude": -73.96666802317641
@@ -3314,10 +3314,10 @@
       "longitude": -74.00261308139008
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100122,
       "latitude": 40.77622161241313,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 379 - SW CO W 72 St & Central Park W",
       "availableForUse": true,
       "longitude": -73.97619309561924
