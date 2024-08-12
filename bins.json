@@ -47,7 +47,7 @@
       "longitude": -73.92288388211199
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 3590018,
       "latitude": 40.741339169940716,
       "binStatus": "Available",
@@ -227,7 +227,7 @@
       "longitude": -73.86632109842786
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 503000028,
       "latitude": 40.798054852781554,
       "binStatus": "Available",
@@ -434,7 +434,7 @@
       "longitude": -73.88136584311724
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 503000022,
       "latitude": 40.866201512573475,
       "binStatus": "Available",
@@ -497,7 +497,7 @@
       "longitude": -73.87542713633172
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 503000060,
       "latitude": 40.81491836063367,
       "binStatus": "Available",
@@ -677,7 +677,7 @@
       "longitude": -73.92041435458692
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 503000035,
       "latitude": 40.820298050767335,
       "binStatus": "Available",
@@ -695,7 +695,7 @@
       "longitude": -73.93176387995481
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 60,
       "serialNumber": 503000036,
       "latitude": 40.6778510426927,
       "binStatus": "Available",
@@ -875,7 +875,7 @@
       "longitude": -73.93855724483728
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 503000085,
       "latitude": 40.80984148378304,
       "binStatus": "Available",
@@ -920,7 +920,7 @@
       "longitude": -73.91863731029024
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 503000084,
       "latitude": 40.83612097520797,
       "binStatus": "Available",
@@ -1406,10 +1406,10 @@
       "longitude": -73.941904976964
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 503000179,
       "latitude": 40.67617742416484,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 190 - NE Underhill Avenue & Park Place",
       "availableForUse": true,
       "longitude": -73.96627854555845
@@ -1442,7 +1442,7 @@
       "longitude": -73.92379101365805
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000189,
       "latitude": 40.67990830015172,
       "binStatus": "Available",
@@ -1514,7 +1514,7 @@
       "longitude": -73.85720618069172
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 503000200,
       "latitude": 40.68219457581468,
       "binStatus": "Available",
@@ -1838,7 +1838,7 @@
       "longitude": -73.94294936209917
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 503000240,
       "latitude": 40.67428152112551,
       "binStatus": "Available",
@@ -2009,7 +2009,7 @@
       "longitude": -74.06930956989527
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 503000261,
       "latitude": 40.67676683153248,
       "binStatus": "Available",
@@ -2198,7 +2198,7 @@
       "longitude": -73.9421078891929
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 505100078,
       "latitude": 40.77113841285102,
       "binStatus": "Available",
@@ -2252,7 +2252,7 @@
       "longitude": -73.98008527492154
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 505100042,
       "latitude": 40.73752862143271,
       "binStatus": "Available",
@@ -2297,7 +2297,7 @@
       "longitude": -73.94685207786003
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 505100020,
       "latitude": 40.72799056580962,
       "binStatus": "Available",
@@ -2306,12 +2306,12 @@
       "longitude": -73.97899926258084
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 505100012,
       "latitude": 40.731190506042964,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 314 - NW CO 2nd Ave & 12th Street",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.98598125432342
     },
     {
@@ -2558,10 +2558,10 @@
       "longitude": -73.97783417254686
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100035,
       "latitude": 40.77152776150592,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 276 - NE CO York Avenue & 79th Street",
       "availableForUse": true,
       "longitude": -73.95019042066897
@@ -2639,12 +2639,12 @@
       "longitude": -73.95855413649969
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 505100063,
       "latitude": 40.71256505742161,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 251 - NE CO Broadway & Park Place (City hall park side)",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -74.00756552771458
     },
     {
@@ -2711,7 +2711,7 @@
       "longitude": -74.01312500238419
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 60,
       "serialNumber": 505100057,
       "latitude": 40.77544607677087,
       "binStatus": "Available",
@@ -2828,7 +2828,7 @@
       "longitude": -73.97465123299237
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 60,
       "serialNumber": 505100079,
       "latitude": 40.72376127391616,
       "binStatus": "Available",
@@ -2927,7 +2927,7 @@
       "longitude": -73.97107263571145
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 505100107,
       "latitude": 40.73674344375692,
       "binStatus": "Available",
@@ -2936,7 +2936,7 @@
       "longitude": -73.98908566787568
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 505100108,
       "latitude": 40.72615124076925,
       "binStatus": "Available",
@@ -3368,7 +3368,7 @@
       "longitude": -74.00684701383747
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 505100135,
       "latitude": 40.758930399023754,
       "binStatus": "Available",
@@ -3395,7 +3395,7 @@
       "longitude": -73.98478295989479
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 505100116,
       "latitude": 40.78914315936319,
       "binStatus": "Available",
@@ -3440,12 +3440,12 @@
       "longitude": -73.9799463692325
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 505100115,
       "latitude": 40.78876861933553,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 380 - SE CO Broadway & W 87 St",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.97587379945203
     },
     {
