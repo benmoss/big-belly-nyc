@@ -38,12 +38,12 @@
       "longitude": -73.9175371080637
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 3590014,
       "latitude": 40.745373137079994,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 404 - SE 43rd Ave & 41st St",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.92288388211199
     },
     {
@@ -155,10 +155,10 @@
       "longitude": -73.91430705785751
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 0,
       "serialNumber": 3590002,
       "latitude": 40.7214226207243,
-      "binStatus": "Nearly Full",
+      "binStatus": "Available",
       "description": "BIN 263 - NW CO Elizabeth St & Spring St",
       "availableForUse": true,
       "longitude": -73.99473222632365
@@ -317,7 +317,7 @@
       "longitude": -73.95101174712181
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 0,
       "serialNumber": 503000014,
       "latitude": 40.762625726342314,
       "binStatus": "Available",
@@ -1118,10 +1118,10 @@
       "longitude": -73.9499693736434
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 503000129,
       "latitude": 40.685812233251795,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 141 - NE Throop Avenue & Madison Street",
       "availableForUse": true,
       "longitude": -73.94146978855133
@@ -2675,7 +2675,7 @@
       "longitude": -74.0007785662345
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 0,
       "serialNumber": 505100064,
       "latitude": 40.718560301291866,
       "binStatus": "Available",
