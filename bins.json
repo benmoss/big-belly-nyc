@@ -2,7 +2,7 @@
   "errorCode": "STATUS_OK",
   "compostAssets": [
     {
-      "latestFullness": 20,
+      "latestFullness": 0,
       "serialNumber": 3590004,
       "latitude": 40.740982515732185,
       "binStatus": "Available",
@@ -11,7 +11,7 @@
       "longitude": -73.9180913195014
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 0,
       "serialNumber": 3590010,
       "latitude": 40.74060865008307,
       "binStatus": "Available",
@@ -47,7 +47,7 @@
       "longitude": -73.92288388211199
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 0,
       "serialNumber": 3590018,
       "latitude": 40.741339169940716,
       "binStatus": "Available",
@@ -56,10 +56,10 @@
       "longitude": -73.90472318977118
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 0,
       "serialNumber": 3590020,
       "latitude": 40.746148800069264,
-      "binStatus": "Nearly Full",
+      "binStatus": "Available",
       "description": "BIN 400 - NE 51st St & Skillman Ave",
       "availableForUse": true,
       "longitude": -73.91328877313748
@@ -110,7 +110,7 @@
       "longitude": -73.91260653734207
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 0,
       "serialNumber": 3590003,
       "latitude": 40.7457242854218,
       "binStatus": "Available",
@@ -128,7 +128,7 @@
       "longitude": -73.92154820692338
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 0,
       "serialNumber": 3590008,
       "latitude": 40.741475328023036,
       "binStatus": "Available",
@@ -1028,7 +1028,7 @@
       "longitude": -73.94525472074747
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 0,
       "serialNumber": 503000139,
       "latitude": 40.69385788678818,
       "binStatus": "Available",
@@ -1037,16 +1037,16 @@
       "longitude": -73.92586905509233
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 0,
       "serialNumber": 503000138,
       "latitude": 40.678764370117854,
-      "binStatus": "Full",
+      "binStatus": "Available",
       "description": "BIN 191 - NE Underhill Avenue & Bergen Street",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.96537832915783
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 0,
       "serialNumber": 503000140,
       "latitude": 40.681352486961536,
       "binStatus": "Available",
@@ -1073,7 +1073,7 @@
       "longitude": -73.90436712652445
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 0,
       "serialNumber": 503000136,
       "latitude": 40.67726495043478,
       "binStatus": "Available",
@@ -1127,7 +1127,7 @@
       "longitude": -73.94146978855133
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 0,
       "serialNumber": 503000145,
       "latitude": 40.68640155543058,
       "binStatus": "Available",
@@ -1226,10 +1226,10 @@
       "longitude": -73.93099308013916
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 0,
       "serialNumber": 503000150,
       "latitude": 40.67358758069033,
-      "binStatus": "Nearly Full",
+      "binStatus": "Available",
       "description": "BIN 193 - NW Washington Avenue & St. Johns Place",
       "availableForUse": true,
       "longitude": -73.96311119198799
@@ -1388,7 +1388,7 @@
       "longitude": -73.91968253999949
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 0,
       "serialNumber": 503000163,
       "latitude": 40.67812844942252,
       "binStatus": "Available",
@@ -1406,10 +1406,10 @@
       "longitude": -73.941904976964
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 0,
       "serialNumber": 503000179,
       "latitude": 40.67617742416484,
-      "binStatus": "Nearly Full",
+      "binStatus": "Available",
       "description": "BIN 190 - NE Underhill Avenue & Park Place",
       "availableForUse": true,
       "longitude": -73.96627854555845
@@ -1532,7 +1532,7 @@
       "longitude": -73.82693077466463
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 0,
       "serialNumber": 503000190,
       "latitude": 40.692363382489,
       "binStatus": "Available",
@@ -1604,7 +1604,7 @@
       "longitude": -73.95393367856741
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 0,
       "serialNumber": 503000208,
       "latitude": 40.683812617651405,
       "binStatus": "Available",
@@ -1622,7 +1622,7 @@
       "longitude": -73.92708376049995
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 0,
       "serialNumber": 503000203,
       "latitude": 40.695132218201906,
       "binStatus": "Available",
@@ -1748,7 +1748,7 @@
       "longitude": -73.95448587834835
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 0,
       "serialNumber": 503000228,
       "latitude": 40.68858947648064,
       "binStatus": "Available",
@@ -1874,10 +1874,10 @@
       "longitude": -73.93390157678125
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 0,
       "serialNumber": 503000241,
       "latitude": 40.6774118895118,
-      "binStatus": "Nearly Full",
+      "binStatus": "Available",
       "description": "BIN 218 - SE Classon Avenue & Bergen Street",
       "availableForUse": true,
       "longitude": -73.95897587267723
@@ -1928,19 +1928,19 @@
       "longitude": -73.91177110144258
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 0,
       "serialNumber": 503000254,
       "latitude": 40.67509191438939,
-      "binStatus": "Full",
+      "binStatus": "Available",
       "description": "BIN 195 - NE Franklin Avenue & Prospect Place",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.95637851208448
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 503000257,
       "latitude": 40.670817086934036,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 214 - SW Rogers Avenue & Lincoln Place",
       "availableForUse": true,
       "longitude": -73.95329229533672
@@ -1964,19 +1964,19 @@
       "longitude": -74.14217077195644
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 0,
       "serialNumber": 503000244,
       "latitude": 40.67498593224985,
-      "binStatus": "Full",
+      "binStatus": "Available",
       "description": "BIN 194 - NW Classon Avenue & Park Place",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.96024390254057
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 503000264,
       "latitude": 40.67279917738334,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 215 - NW Rogers Avenue & Sterling Place",
       "availableForUse": true,
       "longitude": -73.95310335432222
@@ -2063,7 +2063,7 @@
       "longitude": -73.92796251922846
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 0,
       "serialNumber": 503000271,
       "latitude": 40.74194368731704,
       "binStatus": "Available",
@@ -2072,12 +2072,12 @@
       "longitude": -73.92471789027536
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 0,
       "serialNumber": 503000267,
       "latitude": 40.67165371443654,
-      "binStatus": "Full",
+      "binStatus": "Available",
       "description": "BIN 219 - SE Classon Avenue & Eastern Parkway",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.96107707172632
     },
     {
@@ -2090,12 +2090,12 @@
       "longitude": -73.93931295722723
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 0,
       "serialNumber": 503000276,
       "latitude": 40.67165676594622,
-      "binStatus": "Full",
+      "binStatus": "Available",
       "description": "BIN 196 - NE Franklin Avenue & Lincoln Place",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.95756002515554
     },
     {
@@ -2144,7 +2144,7 @@
       "longitude": -73.78518752753735
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 0,
       "serialNumber": 503000197,
       "latitude": 40.68749730455891,
       "binStatus": "Available",
