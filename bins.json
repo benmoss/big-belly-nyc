@@ -371,7 +371,7 @@
       "longitude": -73.92599746584892
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 0,
       "serialNumber": 503000021,
       "latitude": 40.785809419537095,
       "binStatus": "Available",
@@ -731,7 +731,7 @@
       "longitude": -73.92594543138473
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 60,
       "serialNumber": 503000061,
       "latitude": 40.76808087642403,
       "binStatus": "Available",
@@ -929,7 +929,7 @@
       "longitude": -73.92934955656528
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 0,
       "serialNumber": 503000080,
       "latitude": 40.87989884498878,
       "binStatus": "Available",
@@ -947,7 +947,7 @@
       "longitude": -73.90734169632196
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 503000094,
       "latitude": 40.7666826313674,
       "binStatus": "Available",
@@ -1361,7 +1361,7 @@
       "longitude": -73.96811317652464
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 503000162,
       "latitude": 40.704966472832965,
       "binStatus": "Available",
@@ -1955,7 +1955,7 @@
       "longitude": -73.93360521644354
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 0,
       "serialNumber": 503000256,
       "latitude": 40.63370350108601,
       "binStatus": "Available",
@@ -2207,12 +2207,12 @@
       "longitude": -73.98717944724858
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 0,
       "serialNumber": 505100039,
       "latitude": 40.781609451116324,
-      "binStatus": "Full",
+      "binStatus": "Available",
       "description": "BIN 274 - SE CO E 92 St & 2 Ave",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.94892745726821
     },
     {
@@ -2405,7 +2405,7 @@
       "longitude": -73.9869912541827
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 0,
       "serialNumber": 505100045,
       "latitude": 40.74639647509707,
       "binStatus": "Available",
@@ -2603,10 +2603,10 @@
       "longitude": -73.95247723907232
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 0,
       "serialNumber": 505100026,
       "latitude": 40.78340997537408,
-      "binStatus": "Nearly Full",
+      "binStatus": "Available",
       "description": "BIN 272 - SE 2nd Ave & 95th St",
       "availableForUse": true,
       "longitude": -73.94763141892919
@@ -2666,12 +2666,12 @@
       "longitude": -73.98977462491895
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 0,
       "serialNumber": 505100025,
       "latitude": 40.74240669511277,
-      "binStatus": "Full",
+      "binStatus": "Available",
       "description": "BIN 343 - NW CO 8TH AVE & 18TH ST",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -74.0007785662345
     },
     {
@@ -3368,7 +3368,7 @@
       "longitude": -74.00684701383747
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 505100135,
       "latitude": 40.758930399023754,
       "binStatus": "Available",
