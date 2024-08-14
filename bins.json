@@ -11,7 +11,7 @@
       "longitude": -73.9180913195014
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 3590010,
       "latitude": 40.74060865008307,
       "binStatus": "Available",
@@ -56,7 +56,7 @@
       "longitude": -73.90472318977118
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 3590020,
       "latitude": 40.746148800069264,
       "binStatus": "Available",
@@ -248,9 +248,9 @@
       "latestFullness": 20,
       "serialNumber": 503000005,
       "latitude": 40.68454521927688,
-      "binStatus": "Out of Service",
+      "binStatus": "Available",
       "description": "BIN 123 - SW Tompkins Avenue & Putnam Avenue",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.94429929839475
     },
     {
@@ -587,7 +587,7 @@
       "longitude": -73.94713159650564
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 503000044,
       "latitude": 40.80556261860785,
       "binStatus": "Available",
@@ -614,7 +614,7 @@
       "longitude": -73.92879232764244
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000042,
       "latitude": 40.764174520197706,
       "binStatus": "Available",
@@ -794,7 +794,7 @@
       "longitude": -73.92632732264548
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000070,
       "latitude": 40.83161371635521,
       "binStatus": "Available",
@@ -893,10 +893,10 @@
       "longitude": -73.90847526490688
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 503000089,
       "latitude": 40.85572351653721,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 242 - NW Cabrini Blvd & West 187th Street",
       "availableForUse": true,
       "longitude": -73.93792377806369
@@ -1847,7 +1847,7 @@
       "longitude": -73.94742764532566
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 503000243,
       "latitude": 40.8111366429278,
       "binStatus": "Available",
@@ -1982,10 +1982,10 @@
       "longitude": -73.95310335432222
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 503000263,
       "latitude": 40.67867868263691,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 220 - NE Flatbush Avenue & Prospect Place",
       "availableForUse": true,
       "longitude": -73.97343333810568
@@ -2009,7 +2009,7 @@
       "longitude": -74.06930956989527
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 503000261,
       "latitude": 40.67676683153248,
       "binStatus": "Available",
@@ -2090,7 +2090,7 @@
       "longitude": -73.93931295722723
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 503000276,
       "latitude": 40.67165676594622,
       "binStatus": "Available",
@@ -2099,7 +2099,7 @@
       "longitude": -73.95756002515554
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 503000273,
       "latitude": 40.67710908208188,
       "binStatus": "Available",
@@ -2378,10 +2378,10 @@
       "longitude": -73.94749872386456
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100004,
       "latitude": 40.784683566970614,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 273 - NW CO 3 Ave & E 95 St",
       "availableForUse": true,
       "longitude": -73.9498927384089
@@ -2558,12 +2558,12 @@
       "longitude": -73.97783417254686
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 505100035,
       "latitude": 40.77152776150592,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 276 - NE CO York Avenue & 79th Street",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.95019042066897
     },
     {
@@ -2693,7 +2693,7 @@
       "longitude": -73.98896138948061
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 505100072,
       "latitude": 40.71327373740936,
       "binStatus": "Available",
@@ -2747,10 +2747,10 @@
       "longitude": -73.98495496580612
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100055,
       "latitude": 40.76405416975698,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 291 - NE CO E 63 St & 3 Ave",
       "availableForUse": true,
       "longitude": -73.96450973157151
@@ -2954,7 +2954,7 @@
       "longitude": -73.97906581678058
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 505100077,
       "latitude": 40.84610840833878,
       "binStatus": "Available",
@@ -2981,12 +2981,12 @@
       "longitude": -73.9850452796422
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 505100110,
       "latitude": 40.75405449748158,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 295 - SE CO 2nd Ave & E 49 St",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.96902091534423
     },
     {
@@ -3134,10 +3134,10 @@
       "longitude": -73.96841285680578
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100129,
       "latitude": 40.779702163230795,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 376 - NW CO Broadway & W 73 St",
       "availableForUse": true,
       "longitude": -73.98189624416173
@@ -3260,7 +3260,7 @@
       "longitude": -73.97864520220962
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 505100134,
       "latitude": 40.7312028692314,
       "binStatus": "Available",
@@ -3449,7 +3449,7 @@
       "longitude": -73.97587379945203
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 505100128,
       "latitude": 40.72662593513809,
       "binStatus": "Available",
