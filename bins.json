@@ -65,7 +65,7 @@
       "longitude": -73.91328877313748
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 3590001,
       "latitude": 40.746548059294376,
       "binStatus": "Available",
@@ -308,12 +308,12 @@
       "longitude": -73.92011906951666
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 503000012,
       "latitude": 40.820960776484476,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 24 - SW West 138th Street & Amsterdam Avenue",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.95101174712181
     },
     {
@@ -794,7 +794,7 @@
       "longitude": -73.92632732264548
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 503000070,
       "latitude": 40.83161371635521,
       "binStatus": "Available",
@@ -1271,7 +1271,7 @@
       "longitude": -73.92284251749516
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000159,
       "latitude": 40.68815347424036,
       "binStatus": "Available",
@@ -1316,7 +1316,7 @@
       "longitude": -73.93640510737896
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000154,
       "latitude": 40.69389144220667,
       "binStatus": "Available",
@@ -1460,10 +1460,10 @@
       "longitude": -73.90980195254087
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 503000181,
       "latitude": 40.68065836586844,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 115 - NE Lewis Avenue & Bainbridge Street",
       "availableForUse": true,
       "longitude": -73.93454968929291
@@ -1586,7 +1586,7 @@
       "longitude": -73.85669823735952
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000211,
       "latitude": 40.83852110249066,
       "binStatus": "Available",
@@ -1595,7 +1595,7 @@
       "longitude": -73.8490579649806
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 503000201,
       "latitude": 40.68434297291138,
       "binStatus": "Available",
@@ -1856,7 +1856,7 @@
       "longitude": -73.95765916089715
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000237,
       "latitude": 40.69656438204717,
       "binStatus": "Available",
@@ -1874,7 +1874,7 @@
       "longitude": -73.93390157678125
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 503000241,
       "latitude": 40.6774118895118,
       "binStatus": "Available",
@@ -2288,10 +2288,10 @@
       "longitude": -73.9538887710376
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100014,
       "latitude": 40.78010940688603,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 267 - NE CO 1st Ave & 91ST St",
       "availableForUse": true,
       "longitude": -73.94685207786003
@@ -2567,7 +2567,7 @@
       "longitude": -73.95019042066897
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 505100044,
       "latitude": 40.73121273762785,
       "binStatus": "Available",
@@ -2648,7 +2648,7 @@
       "longitude": -74.00756552771458
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 40,
       "serialNumber": 505100011,
       "latitude": 40.75544386726651,
       "binStatus": "Available",
@@ -2675,10 +2675,10 @@
       "longitude": -74.0007785662345
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100064,
       "latitude": 40.718560301291866,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 261 - NW CO Hester ST & Baxter St",
       "availableForUse": true,
       "longitude": -73.99876398340452
@@ -2738,12 +2738,12 @@
       "longitude": -74.01055041700602
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 505100054,
       "latitude": 40.7191714224125,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 264 - NE CO Clinton Street & Rivington St",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.98495496580612
     },
     {
@@ -3017,10 +3017,10 @@
       "longitude": -73.92903912094495
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100094,
       "latitude": 40.79091410359447,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 382 - SW CO W 93 St & Columbus Ave",
       "availableForUse": true,
       "longitude": -73.96910423686519
@@ -3134,10 +3134,10 @@
       "longitude": -73.96841285680578
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100129,
       "latitude": 40.779702163230795,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 376 - NW CO Broadway & W 73 St",
       "availableForUse": true,
       "longitude": -73.98189624416173
@@ -3278,7 +3278,7 @@
       "longitude": -73.98511663223668
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 505100137,
       "latitude": 40.743433331711394,
       "binStatus": "Available",
@@ -3422,7 +3422,7 @@
       "longitude": -73.98222696429983
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 505100112,
       "latitude": 40.741522457226544,
       "binStatus": "Available",
@@ -3440,10 +3440,10 @@
       "longitude": -73.9799463692325
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100115,
       "latitude": 40.78876861933553,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 380 - SE CO Broadway & W 87 St",
       "availableForUse": true,
       "longitude": -73.97587379945203
