@@ -371,7 +371,7 @@
       "longitude": -73.92599746584892
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 0,
       "serialNumber": 503000021,
       "latitude": 40.785809419537095,
       "binStatus": "Available",
@@ -1190,7 +1190,7 @@
       "longitude": -73.90418004244566
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 503000132,
       "latitude": 40.70324915068062,
       "binStatus": "Available",
@@ -1451,12 +1451,12 @@
       "longitude": -73.95316857844591
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 503000187,
       "latitude": 40.75792909750536,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 223 - SE 31st Avenue & 49th Street",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.90980195254087
     },
     {
@@ -1676,7 +1676,7 @@
       "longitude": -73.82940910756588
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 503000221,
       "latitude": 40.69040997746076,
       "binStatus": "Available",
@@ -2072,10 +2072,10 @@
       "longitude": -73.92471789027536
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 503000267,
       "latitude": 40.67165371443654,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 219 - SE Classon Avenue & Eastern Parkway",
       "availableForUse": true,
       "longitude": -73.96107707172632
