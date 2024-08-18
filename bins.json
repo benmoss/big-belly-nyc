@@ -2,7 +2,7 @@
   "errorCode": "STATUS_OK",
   "compostAssets": [
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 3590004,
       "latitude": 40.740982515732185,
       "binStatus": "Available",
@@ -182,7 +182,7 @@
       "longitude": -73.98393251001835
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 40,
       "serialNumber": 503000029,
       "latitude": 40.80207202156791,
       "binStatus": "Available",
@@ -668,12 +668,12 @@
       "longitude": -73.89476414769888
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 503000038,
       "latitude": 40.76298113979361,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 02 - NW 31st Avenue & 35th Street",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.92041435458692
     },
     {
@@ -821,7 +821,7 @@
       "longitude": -73.93320322036743
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 503000072,
       "latitude": 40.797433004550236,
       "binStatus": "Available",
@@ -974,7 +974,7 @@
       "longitude": -73.88263955712318
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 503000098,
       "latitude": 40.80545914536109,
       "binStatus": "Available",
@@ -983,7 +983,7 @@
       "longitude": -73.96220094562807
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 503000099,
       "latitude": 40.87283554528143,
       "binStatus": "Available",
@@ -1019,7 +1019,7 @@
       "longitude": -73.93987722694874
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 503000078,
       "latitude": 40.81357603431238,
       "binStatus": "Available",
@@ -1280,10 +1280,10 @@
       "longitude": -73.9271404221654
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 503000156,
       "latitude": 40.70249991438864,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 182 - NW St. Nicholas Avenue & Menahan Street",
       "availableForUse": true,
       "longitude": -73.9129939918858
@@ -1649,7 +1649,7 @@
       "longitude": -73.85504934936762
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 503000215,
       "latitude": 40.865528589915826,
       "binStatus": "Available",
@@ -1892,7 +1892,7 @@
       "longitude": -73.93339063972235
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 503000253,
       "latitude": 40.69199578878015,
       "binStatus": "Available",
@@ -1973,7 +1973,7 @@
       "longitude": -73.96024390254057
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 503000264,
       "latitude": 40.67279917738334,
       "binStatus": "Available",
@@ -2225,12 +2225,12 @@
       "longitude": -73.94638707990978
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 505100038,
       "latitude": 40.780081383690586,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 277 - SW CO 3rd Ave & East 88th St",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.9532222620251
     },
     {
@@ -2675,7 +2675,7 @@
       "longitude": -74.0007785662345
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 505100064,
       "latitude": 40.718560301291866,
       "binStatus": "Available",
@@ -2720,7 +2720,7 @@
       "longitude": -73.9535946787067
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 40,
       "serialNumber": 505100069,
       "latitude": 40.724874101417406,
       "binStatus": "Available",
@@ -2864,12 +2864,12 @@
       "longitude": -73.9766103569379
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 505100074,
       "latitude": 40.77844967182979,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 364 - NW CO West End Ave & W 70 St",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.98593114887535
     },
     {
@@ -2981,10 +2981,10 @@
       "longitude": -73.9850452796422
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100110,
       "latitude": 40.75405449748158,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 295 - SE CO 2nd Ave & E 49 St",
       "availableForUse": true,
       "longitude": -73.96902091534423
@@ -3098,12 +3098,12 @@
       "longitude": -73.97335456220875
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 505100097,
       "latitude": 40.72556517707213,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 318 - SE CO Ave B & E 8 St",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.9806513567258
     },
     {
@@ -3152,7 +3152,7 @@
       "longitude": -73.96592718820084
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 505100105,
       "latitude": 40.76175746497325,
       "binStatus": "Available",
@@ -3179,7 +3179,7 @@
       "longitude": -73.96135753145826
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 505100113,
       "latitude": 40.741606235945184,
       "binStatus": "Available",
@@ -3359,7 +3359,7 @@
       "longitude": -73.99506114554103
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 505100150,
       "latitude": 40.729589714367386,
       "binStatus": "Available",
@@ -3368,10 +3368,10 @@
       "longitude": -74.00684701383747
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100135,
       "latitude": 40.758930399023754,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 350 - SE CO W 43RD ST & 9TH AVE",
       "availableForUse": true,
       "longitude": -73.99201305589226
