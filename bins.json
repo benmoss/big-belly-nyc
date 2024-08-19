@@ -389,12 +389,12 @@
       "longitude": -73.93805466592312
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 0,
       "serialNumber": 503000006,
       "latitude": 40.855684792533886,
-      "binStatus": "Full",
+      "binStatus": "Available",
       "description": "BIN 61 - NE Cabrini Blvd. & West 187th Street",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.93778998622929
     },
     {
@@ -803,7 +803,7 @@
       "longitude": -73.94291717559099
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 503000069,
       "latitude": 40.762088122135914,
       "binStatus": "Available",
@@ -893,12 +893,12 @@
       "longitude": -73.90847526490688
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 0,
       "serialNumber": 503000089,
       "latitude": 40.85572351653721,
-      "binStatus": "Full",
+      "binStatus": "Available",
       "description": "BIN 242 - NW Cabrini Blvd & West 187th Street",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.93792377806369
     },
     {
@@ -1217,7 +1217,7 @@
       "longitude": -73.91374111175537
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 503000164,
       "latitude": 40.69660505362728,
       "binStatus": "Available",
@@ -1604,7 +1604,7 @@
       "longitude": -73.95393367856741
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 503000208,
       "latitude": 40.683812617651405,
       "binStatus": "Available",
@@ -1883,7 +1883,7 @@
       "longitude": -73.95897587267723
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000245,
       "latitude": 40.673484595144046,
       "binStatus": "Available",
@@ -2009,7 +2009,7 @@
       "longitude": -74.06930956989527
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 503000261,
       "latitude": 40.67676683153248,
       "binStatus": "Available",
@@ -2306,10 +2306,10 @@
       "longitude": -73.97899926258084
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100012,
       "latitude": 40.731190506042964,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 314 - NW CO 2nd Ave & 12th Street",
       "availableForUse": true,
       "longitude": -73.98598125432342
@@ -2486,10 +2486,10 @@
       "longitude": -73.99481938922054
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100037,
       "latitude": 40.739169439589006,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 331 - SE CO Greenwich Ave & 8th Ave",
       "availableForUse": true,
       "longitude": -74.00274561377924
@@ -2513,12 +2513,12 @@
       "longitude": -73.99849525644926
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 505100029,
       "latitude": 40.710663476710224,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 249 - SE CO Gold St & Frankfort St.",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -74.00341004133224
     },
     {
@@ -2801,10 +2801,10 @@
       "longitude": -73.98491537817117
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 80,
       "serialNumber": 505100096,
       "latitude": 40.77217779943119,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 360 - SW CO West End Ave & W 60 St",
       "availableForUse": true,
       "longitude": -73.99013103325534
@@ -2837,7 +2837,7 @@
       "longitude": -73.98540060636678
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 505100092,
       "latitude": 40.78957914389564,
       "binStatus": "Available",
@@ -2918,10 +2918,10 @@
       "longitude": -73.96888427642509
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100093,
       "latitude": 40.7953036151945,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 383 - NE CO Broadway & W 97 St",
       "availableForUse": true,
       "longitude": -73.97107263571145
@@ -2945,12 +2945,12 @@
       "longitude": -73.9833025251433
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 505100086,
       "latitude": 40.781894893686875,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 366 - NE CO W 77 St & Amsterdam Ave",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.97906581678058
     },
     {
@@ -3035,7 +3035,7 @@
       "longitude": -73.96586280976997
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 505100067,
       "latitude": 40.77168450396742,
       "binStatus": "Available",
@@ -3359,7 +3359,7 @@
       "longitude": -73.99506114554103
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 505100150,
       "latitude": 40.729589714367386,
       "binStatus": "Available",
