@@ -2,7 +2,7 @@
   "errorCode": "STATUS_OK",
   "compostAssets": [
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 3590004,
       "latitude": 40.740982515732185,
       "binStatus": "Available",
@@ -362,7 +362,7 @@
       "longitude": -73.94737802445889
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 503000019,
       "latitude": 40.76701705596692,
       "binStatus": "Available",
@@ -731,7 +731,7 @@
       "longitude": -73.92594543138473
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 503000061,
       "latitude": 40.76808087642403,
       "binStatus": "Available",
@@ -794,10 +794,10 @@
       "longitude": -73.92632732264548
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 503000070,
       "latitude": 40.83161371635521,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 55 - NE Amsterdam Avenue & West 155th Street",
       "availableForUse": true,
       "longitude": -73.94291717559099
@@ -830,7 +830,7 @@
       "longitude": -73.93471363931894
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 503000073,
       "latitude": 40.813082487843964,
       "binStatus": "Available",
@@ -1037,7 +1037,7 @@
       "longitude": -73.92586905509233
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 503000138,
       "latitude": 40.678764370117854,
       "binStatus": "Available",
@@ -1451,7 +1451,7 @@
       "longitude": -73.95316857844591
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000187,
       "latitude": 40.75792909750536,
       "binStatus": "Available",
@@ -1559,7 +1559,7 @@
       "longitude": -73.95281285047531
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 503000207,
       "latitude": 40.68175217538853,
       "binStatus": "Available",
@@ -1901,7 +1901,7 @@
       "longitude": -73.90651490539312
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 503000246,
       "latitude": 40.67049107908947,
       "binStatus": "Available",
@@ -1982,12 +1982,12 @@
       "longitude": -73.95310335432222
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 503000263,
       "latitude": 40.67867868263691,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 220 - NE Flatbush Avenue & Prospect Place",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.97343333810568
     },
     {
@@ -2180,7 +2180,7 @@
       "longitude": -73.91865953781273
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000128,
       "latitude": 40.678977698412524,
       "binStatus": "Available",
@@ -2207,12 +2207,12 @@
       "longitude": -73.98717944724858
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 505100039,
       "latitude": 40.781609451116324,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 274 - SE CO E 92 St & 2 Ave",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.94892745726821
     },
     {
@@ -2252,7 +2252,7 @@
       "longitude": -73.98008527492154
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 505100042,
       "latitude": 40.73752862143271,
       "binStatus": "Available",
@@ -2396,10 +2396,10 @@
       "longitude": -74.00171998103215
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100051,
       "latitude": 40.72504420607064,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 323 - SE CO 1 Ave & E 4 St",
       "availableForUse": true,
       "longitude": -73.9869912541827
@@ -2540,10 +2540,10 @@
       "longitude": -73.99466765892298
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100032,
       "latitude": 40.765863654327504,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 279 - SW CO Main St & River Road",
       "availableForUse": true,
       "longitude": -73.9463083404101
@@ -2873,10 +2873,10 @@
       "longitude": -73.98593114887535
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100083,
       "latitude": 40.72496280254391,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 324 - NE CO 2 Ave & E 2 St",
       "availableForUse": true,
       "longitude": -73.99017938079861
@@ -3287,7 +3287,7 @@
       "longitude": -73.98834843188524
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 505100120,
       "latitude": 40.77519164031714,
       "binStatus": "Available",
@@ -3314,12 +3314,12 @@
       "longitude": -74.00261308139008
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 505100122,
       "latitude": 40.77622161241313,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 379 - SW CO W 72 St & Central Park W",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.97619309561924
     },
     {
