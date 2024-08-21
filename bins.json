@@ -47,7 +47,7 @@
       "longitude": -73.92288388211199
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 3590018,
       "latitude": 40.741339169940716,
       "binStatus": "Available",
@@ -110,7 +110,7 @@
       "longitude": -73.91260653734207
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 3590003,
       "latitude": 40.7457242854218,
       "binStatus": "Available",
@@ -191,10 +191,10 @@
       "longitude": -73.95370032638311
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 503000027,
       "latitude": 40.76272343617805,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 03 - SE 31st Avenue & 35th Street",
       "availableForUse": true,
       "longitude": -73.92021738757299
@@ -560,7 +560,7 @@
       "longitude": -73.94493098288339
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 503000049,
       "latitude": 40.79160725166976,
       "binStatus": "Available",
@@ -677,10 +677,10 @@
       "longitude": -73.92041435458692
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 503000035,
       "latitude": 40.820298050767335,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 40 - NW West 141st Street & Fredrick Douglas Blvd",
       "availableForUse": true,
       "longitude": -73.94394144415855
@@ -1280,7 +1280,7 @@
       "longitude": -73.9271404221654
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000156,
       "latitude": 40.70249991438864,
       "binStatus": "Available",
@@ -1334,7 +1334,7 @@
       "longitude": -73.94148588180542
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000171,
       "latitude": 40.69608852271517,
       "binStatus": "Available",
@@ -1397,7 +1397,7 @@
       "longitude": -73.91918834298849
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 503000178,
       "latitude": 40.671282700678354,
       "binStatus": "Available",
@@ -1811,10 +1811,10 @@
       "longitude": -73.9355384244532
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 503000235,
       "latitude": 40.67303171113777,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 212 - NE Kingston Avenue & Park Place",
       "availableForUse": true,
       "longitude": -73.94181042909622
@@ -2306,10 +2306,10 @@
       "longitude": -73.97899926258084
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100012,
       "latitude": 40.731190506042964,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 314 - NW CO 2nd Ave & 12th Street",
       "availableForUse": true,
       "longitude": -73.98598125432342
@@ -2459,7 +2459,7 @@
       "longitude": -74.01704739779234
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 505100007,
       "latitude": 40.730315325690235,
       "binStatus": "Available",
@@ -2621,7 +2621,7 @@
       "longitude": -73.99302401909992
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 505100002,
       "latitude": 40.76863578734461,
       "binStatus": "Available",
@@ -2783,7 +2783,7 @@
       "longitude": -73.99722146507379
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 505100075,
       "latitude": 40.778178709659024,
       "binStatus": "Available",
@@ -2828,12 +2828,12 @@
       "longitude": -73.97465123299237
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 505100079,
       "latitude": 40.72376127391616,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 322 - NW CO Ave A & E 3 St",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.98540060636678
     },
     {
@@ -2873,12 +2873,12 @@
       "longitude": -73.98593114887535
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 505100083,
       "latitude": 40.72496280254391,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 324 - NE CO 2 Ave & E 2 St",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.99017938079861
     },
     {
@@ -3107,10 +3107,10 @@
       "longitude": -73.9806513567258
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100126,
       "latitude": 40.789118885800946,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 372 - SW CO W 92 St & Central Park W",
       "availableForUse": true,
       "longitude": -73.96666802317641
@@ -3179,10 +3179,10 @@
       "longitude": -73.96135753145826
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100113,
       "latitude": 40.741606235945184,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 307 - NW CO Park Ave S & E 25 St",
       "availableForUse": true,
       "longitude": -73.98558684719369
