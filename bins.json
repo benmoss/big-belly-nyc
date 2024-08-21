@@ -398,12 +398,12 @@
       "longitude": -73.93778998622929
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 503000023,
       "latitude": 40.84608111296369,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 59 - NE West 174th Street & Fort Washington Avenue",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.94016187638044
     },
     {
@@ -515,7 +515,7 @@
       "longitude": -73.92496582120657
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 503000054,
       "latitude": 40.76387664872765,
       "binStatus": "Available",
@@ -1055,7 +1055,7 @@
       "longitude": -73.92874404788017
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 503000131,
       "latitude": 40.688233556498346,
       "binStatus": "Available",
@@ -1082,7 +1082,7 @@
       "longitude": -73.96265991032124
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000133,
       "latitude": 40.684197290894595,
       "binStatus": "Available",
@@ -1514,7 +1514,7 @@
       "longitude": -73.85720618069172
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 503000200,
       "latitude": 40.68219457581468,
       "binStatus": "Available",
@@ -2207,12 +2207,12 @@
       "longitude": -73.98717944724858
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 505100039,
       "latitude": 40.781609451116324,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 274 - SE CO E 92 St & 2 Ave",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.94892745726821
     },
     {
@@ -2261,7 +2261,7 @@
       "longitude": -73.99693615022026
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 505100005,
       "latitude": 40.70815249011514,
       "binStatus": "Available",
@@ -2576,10 +2576,10 @@
       "longitude": -74.0077318323766
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100061,
       "latitude": 40.70860458493924,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 252 - SW CO Broadway & Cedar Street",
       "availableForUse": true,
       "longitude": -74.0108494516408
@@ -2729,10 +2729,10 @@
       "longitude": -74.0047200044207
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100059,
       "latitude": 40.718786682897935,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 244 - SW CO of Greenwich St & Harrison ST",
       "availableForUse": true,
       "longitude": -74.01055041700602
@@ -3170,7 +3170,7 @@
       "longitude": -73.9780299987419
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 60,
       "serialNumber": 505100104,
       "latitude": 40.76846754015715,
       "binStatus": "Available",
