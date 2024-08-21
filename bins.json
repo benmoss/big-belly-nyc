@@ -146,12 +146,12 @@
       "longitude": -73.90993109059836
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 3590009,
       "latitude": 40.88637790151751,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "Bin 412 - SW W 235th St & Independence Ave",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.91430705785751
     },
     {
@@ -434,12 +434,12 @@
       "longitude": -73.88136584311724
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 503000022,
       "latitude": 40.866201512573475,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 64 - SE Broadway & Academy Street",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.92508216202259
     },
     {
@@ -866,7 +866,7 @@
       "longitude": -73.9975130736801
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 503000083,
       "latitude": 40.826256762400135,
       "binStatus": "Available",
@@ -893,7 +893,7 @@
       "longitude": -73.90847526490688
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 60,
       "serialNumber": 503000089,
       "latitude": 40.85572351653721,
       "binStatus": "Available",
@@ -1100,7 +1100,7 @@
       "longitude": -73.93217660486698
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000135,
       "latitude": 40.69796320197583,
       "binStatus": "Available",
@@ -1289,7 +1289,7 @@
       "longitude": -73.9129939918858
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000160,
       "latitude": 40.6827719802296,
       "binStatus": "Available",
@@ -1388,7 +1388,7 @@
       "longitude": -73.91968253999949
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000163,
       "latitude": 40.67812844942252,
       "binStatus": "Available",
@@ -1406,7 +1406,7 @@
       "longitude": -73.941904976964
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 503000179,
       "latitude": 40.67617742416484,
       "binStatus": "Available",
@@ -1559,7 +1559,7 @@
       "longitude": -73.95281285047531
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 503000207,
       "latitude": 40.68175217538853,
       "binStatus": "Available",
@@ -1811,7 +1811,7 @@
       "longitude": -73.9355384244532
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 503000235,
       "latitude": 40.67303171113777,
       "binStatus": "Available",
@@ -1838,7 +1838,7 @@
       "longitude": -73.94294936209917
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 503000240,
       "latitude": 40.67428152112551,
       "binStatus": "Available",
@@ -2288,7 +2288,7 @@
       "longitude": -73.9538887710376
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 505100014,
       "latitude": 40.78010940688603,
       "binStatus": "Available",
@@ -2405,7 +2405,7 @@
       "longitude": -73.9869912541827
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 505100045,
       "latitude": 40.74639647509707,
       "binStatus": "Available",
@@ -2486,7 +2486,7 @@
       "longitude": -73.99481938922054
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 505100037,
       "latitude": 40.739169439589006,
       "binStatus": "Available",
@@ -2675,7 +2675,7 @@
       "longitude": -74.0007785662345
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 40,
       "serialNumber": 505100064,
       "latitude": 40.718560301291866,
       "binStatus": "Available",
@@ -2747,7 +2747,7 @@
       "longitude": -73.98495496580612
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 505100055,
       "latitude": 40.76405416975698,
       "binStatus": "Available",
@@ -2846,10 +2846,10 @@
       "longitude": -73.97379656746796
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100084,
       "latitude": 40.767171552566246,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 356 - SW CO 9 Ave & W 56 St",
       "availableForUse": true,
       "longitude": -73.9864215009938
@@ -3017,7 +3017,7 @@
       "longitude": -73.92903912094495
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 60,
       "serialNumber": 505100094,
       "latitude": 40.79091410359447,
       "binStatus": "Available",
@@ -3107,7 +3107,7 @@
       "longitude": -73.9806513567258
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 60,
       "serialNumber": 505100126,
       "latitude": 40.789118885800946,
       "binStatus": "Available",
@@ -3296,7 +3296,7 @@
       "longitude": -73.98753543655222
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 505100146,
       "latitude": 40.74723684953337,
       "binStatus": "Available",
@@ -3332,10 +3332,10 @@
       "longitude": -73.95175657391553
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100121,
       "latitude": 40.7909709189525,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 371 - NW CO W 91 St & Amsterdam Ave",
       "availableForUse": true,
       "longitude": -73.97276669918094
