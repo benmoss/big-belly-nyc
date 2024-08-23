@@ -83,7 +83,7 @@
       "longitude": -73.90727262943983
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 3590015,
       "latitude": 40.746483770342856,
       "binStatus": "Available",
@@ -731,12 +731,12 @@
       "longitude": -73.92594543138473
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 503000061,
       "latitude": 40.76808087642403,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 15 - SE 31st Avenue & 14th Street",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.93193346987313
     },
     {
@@ -1451,7 +1451,7 @@
       "longitude": -73.95316857844591
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 503000187,
       "latitude": 40.75792909750536,
       "binStatus": "Available",
@@ -2387,12 +2387,12 @@
       "longitude": -73.9498927384089
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 505100013,
       "latitude": 40.73565255133342,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 330 - SW CO 7th Avenue South & Perry St",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -74.00171998103215
     },
     {
@@ -2522,10 +2522,10 @@
       "longitude": -74.00341004133224
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100017,
       "latitude": 40.705075385840445,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 243 - NE CO Broadway & Beaver Street",
       "availableForUse": true,
       "longitude": -74.01322457939386
@@ -2999,7 +2999,7 @@
       "longitude": -73.94326507506806
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 60,
       "serialNumber": 505100109,
       "latitude": 40.80401808886133,
       "binStatus": "Available",
@@ -3233,10 +3233,10 @@
       "longitude": -73.94652914221223
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100138,
       "latitude": 40.76639459170164,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 353 - SE CO 10 Ave & W 53 St",
       "availableForUse": true,
       "longitude": -73.99037571712044
@@ -3260,7 +3260,7 @@
       "longitude": -73.97864520220962
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 505100134,
       "latitude": 40.7312028692314,
       "binStatus": "Available",
