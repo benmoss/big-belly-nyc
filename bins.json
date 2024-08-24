@@ -56,7 +56,7 @@
       "longitude": -73.90472318977118
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 3590020,
       "latitude": 40.746148800069264,
       "binStatus": "Available",
@@ -137,12 +137,12 @@
       "longitude": -73.92099916934967
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 3590005,
       "latitude": 40.88661576005842,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 411 - SW W 236th St & Johnson Ave",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.90993109059836
     },
     {
@@ -425,10 +425,10 @@
       "longitude": -73.91796863240839
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 503000024,
       "latitude": 40.87628033530234,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 94 - NE East Mosholu Parkway North & Van Cortlandt Avenue",
       "availableForUse": true,
       "longitude": -73.88136584311724
@@ -650,7 +650,7 @@
       "longitude": -73.9660133421421
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 503000039,
       "latitude": 40.82647613312916,
       "binStatus": "Available",
@@ -1469,7 +1469,7 @@
       "longitude": -73.93454968929291
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 503000185,
       "latitude": 40.704219889937,
       "binStatus": "Available",
@@ -1802,7 +1802,7 @@
       "longitude": -73.89310654252768
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 503000186,
       "latitude": 40.6858662258759,
       "binStatus": "Available",
@@ -2036,7 +2036,7 @@
       "longitude": -74.0864036232233
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000272,
       "latitude": 40.62262016360215,
       "binStatus": "Available",
@@ -2153,7 +2153,7 @@
       "longitude": -73.92091434448957
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 503000205,
       "latitude": 40.68303106054966,
       "binStatus": "Available",
@@ -2189,7 +2189,7 @@
       "longitude": -73.93855053931475
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000202,
       "latitude": 40.66971391909037,
       "binStatus": "Available",
@@ -2333,7 +2333,7 @@
       "longitude": -74.00691708161023
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 505100052,
       "latitude": 40.71989182112748,
       "binStatus": "Available",
@@ -2540,12 +2540,12 @@
       "longitude": -73.99466765892298
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 505100032,
       "latitude": 40.765863654327504,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 279 - SW CO Main St & River Road",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.9463083404101
     },
     {
@@ -2603,7 +2603,7 @@
       "longitude": -73.95247723907232
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 0,
       "serialNumber": 505100026,
       "latitude": 40.78340997537408,
       "binStatus": "Available",
@@ -2666,7 +2666,7 @@
       "longitude": -73.98977462491895
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 505100025,
       "latitude": 40.74240669511277,
       "binStatus": "Available",
@@ -2909,16 +2909,16 @@
       "longitude": -73.95335140977043
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 0,
       "serialNumber": 505100087,
       "latitude": 40.798370790247,
-      "binStatus": "Nearly Full",
+      "binStatus": "Available",
       "description": "BIN 384 - SE CO Broadway & W 102 St",
       "availableForUse": true,
       "longitude": -73.96888427642509
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 0,
       "serialNumber": 505100093,
       "latitude": 40.7953036151945,
       "binStatus": "Available",
@@ -2963,10 +2963,10 @@
       "longitude": -73.93435451155901
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 0,
       "serialNumber": 505100073,
       "latitude": 40.80348382274017,
-      "binStatus": "Nearly Full",
+      "binStatus": "Available",
       "description": "BIN 385 - SE CO Broadway & W 109 St",
       "availableForUse": true,
       "longitude": -73.96686314261594
@@ -3026,10 +3026,10 @@
       "longitude": -73.96910423686519
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100111,
       "latitude": 40.758836000578,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 294 - NW CO E 56 St & 2 Ave",
       "availableForUse": true,
       "longitude": -73.96586280976997
@@ -3197,7 +3197,7 @@
       "longitude": -73.97792649980364
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 0,
       "serialNumber": 505100127,
       "latitude": 40.79516392024059,
       "binStatus": "Available",
@@ -3215,7 +3215,7 @@
       "longitude": -73.99655276134223
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 0,
       "serialNumber": 505100133,
       "latitude": 40.79786101513957,
       "binStatus": "Available",
@@ -3224,10 +3224,10 @@
       "longitude": -73.96400324926272
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100143,
       "latitude": 40.77663888275979,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 392 - NE CO York Ave & E 87 St",
       "availableForUse": true,
       "longitude": -73.94652914221223
@@ -3449,7 +3449,7 @@
       "longitude": -73.97587379945203
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 0,
       "serialNumber": 505100128,
       "latitude": 40.72662593513809,
       "binStatus": "Available",
