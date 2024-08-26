@@ -443,12 +443,12 @@
       "longitude": -73.92508216202259
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 503000031,
       "latitude": 40.70206803795076,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 174 - NW Knickerbocker Avenue & Suydam Street",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.92383761703968
     },
     {
@@ -632,12 +632,12 @@
       "longitude": -73.95354006439447
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 503000043,
       "latitude": 40.804732620856896,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 31 - SE Amsterdam Avenue & W 113 Street",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.9623499576847
     },
     {
@@ -821,10 +821,10 @@
       "longitude": -73.93320322036743
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 503000072,
       "latitude": 40.797433004550236,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 49 - SW East 118th Street & 1 Avenue",
       "availableForUse": true,
       "longitude": -73.93471363931894
@@ -1415,7 +1415,7 @@
       "longitude": -73.96627854555845
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 503000180,
       "latitude": 40.69293663142478,
       "binStatus": "Available",
@@ -2036,7 +2036,7 @@
       "longitude": -74.0864036232233
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 0,
       "serialNumber": 503000272,
       "latitude": 40.62262016360215,
       "binStatus": "Available",
@@ -2189,7 +2189,7 @@
       "longitude": -73.93855053931475
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 503000202,
       "latitude": 40.66971391909037,
       "binStatus": "Available",
@@ -2693,10 +2693,10 @@
       "longitude": -73.98896138948061
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100072,
       "latitude": 40.71327373740936,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 262 - NW CO Henry St & Pike St",
       "availableForUse": true,
       "longitude": -73.99222918721208
@@ -2729,10 +2729,10 @@
       "longitude": -74.0047200044207
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100059,
       "latitude": 40.718786682897935,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 244 - SW CO of Greenwich St & Harrison ST",
       "availableForUse": true,
       "longitude": -74.01055041700602
