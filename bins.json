@@ -497,7 +497,7 @@
       "longitude": -73.87542713633172
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 503000060,
       "latitude": 40.81491836063367,
       "binStatus": "Available",
@@ -506,10 +506,10 @@
       "longitude": -73.95299658179283
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 503000053,
       "latitude": 40.764994993021595,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 09 - SE 31st Avenue & 29th Street",
       "availableForUse": true,
       "longitude": -73.92496582120657
@@ -1424,7 +1424,7 @@
       "longitude": -73.90797402709723
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 503000188,
       "latitude": 40.690796900599814,
       "binStatus": "Available",
@@ -1739,12 +1739,12 @@
       "longitude": -73.91965739428997
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 503000225,
       "latitude": 40.6865703680712,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 128 - NE Bedford Avenue & Quincy Street",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.95448587834835
     },
     {
@@ -1910,12 +1910,12 @@
       "longitude": -73.94772704690695
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 503000251,
       "latitude": 40.67459377925092,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 216 - NE Rogers Avenue & Prospect Place",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.95274545997381
     },
     {
@@ -2045,10 +2045,10 @@
       "longitude": -74.14456080612285
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 503000266,
       "latitude": 40.70289868141765,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 175 - NE Knickerbocker Avenue & Starr Street",
       "availableForUse": true,
       "longitude": -73.92522666603327
@@ -2324,12 +2324,12 @@
       "longitude": -73.99692150445948
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 505100049,
       "latitude": 40.70676048283521,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 253 - SW CO Maiden Lane & Pearl Street",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -74.00691708161023
     },
     {
@@ -2639,12 +2639,12 @@
       "longitude": -73.95855413649969
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 505100063,
       "latitude": 40.71256505742161,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 251 - NE CO Broadway & Park Place (City hall park side)",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -74.00756552771458
     },
     {
@@ -2675,7 +2675,7 @@
       "longitude": -74.0007785662345
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 505100064,
       "latitude": 40.718560301291866,
       "binStatus": "Available",
