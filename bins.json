@@ -1442,7 +1442,7 @@
       "longitude": -73.95316857844591
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 503000187,
       "latitude": 40.75792909750536,
       "binStatus": "Available",
@@ -1604,7 +1604,7 @@
       "longitude": -73.92018981277943
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000210,
       "latitude": 40.70378294439786,
       "binStatus": "Available",
@@ -2234,10 +2234,10 @@
       "longitude": -73.94848935814979
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100040,
       "latitude": 40.77068591297934,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 363 - NW CO W 63 St & Central Park W",
       "availableForUse": true,
       "longitude": -73.98008527492154
@@ -2837,12 +2837,12 @@
       "longitude": -73.97379656746796
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 505100084,
       "latitude": 40.767171552566246,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 356 - SW CO 9 Ave & W 56 St",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.9864215009938
     },
     {
@@ -2891,7 +2891,7 @@
       "longitude": -73.99090145996239
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 505100106,
       "latitude": 40.78586060688359,
       "binStatus": "Available",
