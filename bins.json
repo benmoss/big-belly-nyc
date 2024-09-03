@@ -191,12 +191,12 @@
       "longitude": -73.95370032638311
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 503000027,
       "latitude": 40.76272343617805,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 03 - SE 31st Avenue & 35th Street",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.92021738757299
     },
     {
@@ -209,12 +209,12 @@
       "longitude": -74.11656774580479
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 503000002,
       "latitude": 40.802377335586115,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 51 - NE East 120 Street & Madison Avenue",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.94273579120636
     },
     {
@@ -524,12 +524,12 @@
       "longitude": -73.92266314476728
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 503000055,
       "latitude": 40.85039540597644,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 60 - NE Wadsworth Avenue & West 182nd Street",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.93447995185852
     },
     {
@@ -578,7 +578,7 @@
       "longitude": -73.93815591931343
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 503000052,
       "latitude": 40.805835432729474,
       "binStatus": "Available",
@@ -668,12 +668,12 @@
       "longitude": -73.89476414769888
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 503000038,
       "latitude": 40.76298113979361,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 02 - NW 31st Avenue & 35th Street",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.92041435458692
     },
     {
@@ -1316,7 +1316,7 @@
       "longitude": -73.90959072858095
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000170,
       "latitude": 40.676454329310545,
       "binStatus": "Available",
@@ -1739,7 +1739,7 @@
       "longitude": -73.95448587834835
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 503000228,
       "latitude": 40.68858947648064,
       "binStatus": "Available",
@@ -1847,7 +1847,7 @@
       "longitude": -73.95765916089715
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 503000237,
       "latitude": 40.69656438204717,
       "binStatus": "Available",
@@ -2234,10 +2234,10 @@
       "longitude": -73.94848935814979
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100040,
       "latitude": 40.77068591297934,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 363 - NW CO W 63 St & Central Park W",
       "availableForUse": true,
       "longitude": -73.98008527492154
@@ -2702,10 +2702,10 @@
       "longitude": -74.01312500238419
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100057,
       "latitude": 40.77544607677087,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 266 - NW CO 2nd Ave & 82nd Street",
       "availableForUse": true,
       "longitude": -73.9535946787067
@@ -2927,7 +2927,7 @@
       "longitude": -73.98908566787568
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 505100108,
       "latitude": 40.72615124076925,
       "binStatus": "Available",
