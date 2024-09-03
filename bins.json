@@ -551,12 +551,12 @@
       "longitude": -73.94453756511211
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 0,
       "serialNumber": 503000048,
       "latitude": 40.7966226877643,
-      "binStatus": "Full",
+      "binStatus": "Available",
       "description": "BIN 47 - SE East 112th Street & Park Avenue",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.94493098288339
     },
     {
@@ -1811,10 +1811,10 @@
       "longitude": -73.94181042909622
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 503000234,
       "latitude": 40.62214723793611,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 235 - NW Hill Street & Tompkins Avenue",
       "availableForUse": true,
       "longitude": -74.07850451767445
@@ -2054,7 +2054,7 @@
       "longitude": -73.92796251922846
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 503000271,
       "latitude": 40.74194368731704,
       "binStatus": "Available",
