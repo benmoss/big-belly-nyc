@@ -74,7 +74,7 @@
       "longitude": -73.89971678571764
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 3590019,
       "latitude": 40.745991757187745,
       "binStatus": "Available",
@@ -425,7 +425,7 @@
       "longitude": -73.91796863240839
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 503000024,
       "latitude": 40.87628033530234,
       "binStatus": "Available",
@@ -452,7 +452,7 @@
       "longitude": -73.92383761703968
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 503000033,
       "latitude": 40.86054008940285,
       "binStatus": "Available",
@@ -497,7 +497,7 @@
       "longitude": -73.87542713633172
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 503000060,
       "latitude": 40.81491836063367,
       "binStatus": "Available",
@@ -560,7 +560,7 @@
       "longitude": -73.94493098288339
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 503000049,
       "latitude": 40.79160725166976,
       "binStatus": "Available",
@@ -650,12 +650,12 @@
       "longitude": -73.9660133421421
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 503000039,
       "latitude": 40.82647613312916,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 25 - SW West 147th Street & Amsterdam Avenue",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.94687759676215
     },
     {
@@ -686,7 +686,7 @@
       "longitude": -73.94394144415855
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 503000034,
       "latitude": 40.774054817889976,
       "binStatus": "Available",
@@ -821,7 +821,7 @@
       "longitude": -73.93320322036743
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 503000072,
       "latitude": 40.797433004550236,
       "binStatus": "Available",
@@ -1073,7 +1073,7 @@
       "longitude": -73.90436712652445
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 503000136,
       "latitude": 40.67726495043478,
       "binStatus": "Available",
@@ -1217,7 +1217,7 @@
       "longitude": -73.93099308013916
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 503000150,
       "latitude": 40.67358758069033,
       "binStatus": "Available",
@@ -1298,7 +1298,7 @@
       "longitude": -73.96974126370019
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 503000169,
       "latitude": 40.690318203640174,
       "binStatus": "Available",
@@ -1883,7 +1883,7 @@
       "longitude": -73.93339063972235
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000253,
       "latitude": 40.69199578878015,
       "binStatus": "Available",
@@ -2225,19 +2225,19 @@
       "longitude": -73.9532222620251
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100048,
       "latitude": 40.778333070963065,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 271 - NW CO 1st Ave & 88th St",
       "availableForUse": true,
       "longitude": -73.94848935814979
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 80,
       "serialNumber": 505100040,
       "latitude": 40.77068591297934,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 363 - NW CO W 63 St & Central Park W",
       "availableForUse": true,
       "longitude": -73.98008527492154
@@ -2360,12 +2360,12 @@
       "longitude": -74.00212241864305
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 505100021,
       "latitude": 40.775317712188475,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 424 - NE c/o E 85 St & York Ave",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.94749872386456
     },
     {
@@ -2603,7 +2603,7 @@
       "longitude": -73.94763141892919
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 505100034,
       "latitude": 40.762820138671465,
       "binStatus": "Available",
@@ -2819,10 +2819,10 @@
       "longitude": -73.97465123299237
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100079,
       "latitude": 40.72376127391616,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 322 - NW CO Ave A & E 3 St",
       "availableForUse": true,
       "longitude": -73.98540060636678
@@ -2855,16 +2855,16 @@
       "longitude": -73.9766103569379
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100074,
       "latitude": 40.77844967182979,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 364 - NW CO West End Ave & W 70 St",
       "availableForUse": true,
       "longitude": -73.98593114887535
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 505100083,
       "latitude": 40.72496280254391,
       "binStatus": "Available",
@@ -2882,7 +2882,7 @@
       "longitude": -73.9809653781084
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 505100088,
       "latitude": 40.72865169703771,
       "binStatus": "Available",
@@ -2891,12 +2891,12 @@
       "longitude": -73.99090145996239
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 505100106,
       "latitude": 40.78586060688359,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 280 - SW CO E 95 Street & Park Ave",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.95335140977043
     },
     {
@@ -3440,7 +3440,7 @@
       "longitude": -73.9799463692325
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 505100115,
       "latitude": 40.78876861933553,
       "binStatus": "Available",
