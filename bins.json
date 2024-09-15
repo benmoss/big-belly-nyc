@@ -173,7 +173,7 @@
       "longitude": -73.89247186481953
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 60,
       "serialNumber": 503000030,
       "latitude": 40.715299657889645,
       "binStatus": "Available",
@@ -227,7 +227,7 @@
       "longitude": -73.86632109842786
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 60,
       "serialNumber": 503000028,
       "latitude": 40.798054852781554,
       "binStatus": "Available",
@@ -398,7 +398,7 @@
       "longitude": -73.93778998622929
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 503000023,
       "latitude": 40.84608111296369,
       "binStatus": "Available",
@@ -434,10 +434,10 @@
       "longitude": -73.88136584311724
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 80,
       "serialNumber": 503000022,
       "latitude": 40.866201512573475,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 64 - SE Broadway & Academy Street",
       "availableForUse": true,
       "longitude": -73.92508216202259
@@ -488,7 +488,7 @@
       "longitude": -73.92958357930183
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 503000059,
       "latitude": 40.87534010684036,
       "binStatus": "Available",
@@ -497,7 +497,7 @@
       "longitude": -73.87542713633172
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 503000060,
       "latitude": 40.81491836063367,
       "binStatus": "Available",
@@ -866,7 +866,7 @@
       "longitude": -73.9975130736801
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000083,
       "latitude": 40.826256762400135,
       "binStatus": "Available",
@@ -992,7 +992,7 @@
       "longitude": -73.90491127967834
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 503000100,
       "latitude": 40.818994146499016,
       "binStatus": "Available",
@@ -1145,7 +1145,7 @@
       "longitude": -73.92045420260473
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 503000147,
       "latitude": 40.687583234935204,
       "binStatus": "Available",
@@ -1316,7 +1316,7 @@
       "longitude": -73.90959072858095
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 503000170,
       "latitude": 40.676454329310545,
       "binStatus": "Available",
@@ -1550,12 +1550,12 @@
       "longitude": -73.95281285047531
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 503000207,
       "latitude": 40.68175217538853,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 124 - SW Tompkins Avenue & Macon Street",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.9436212554574
     },
     {
@@ -1820,12 +1820,12 @@
       "longitude": -74.07850451767445
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 503000239,
       "latitude": 40.69389322166022,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 142 - SE Throop Avenue & Hart Street",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.94294936209917
     },
     {
@@ -1901,12 +1901,12 @@
       "longitude": -73.94772704690695
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 503000251,
       "latitude": 40.67459377925092,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 216 - NE Rogers Avenue & Prospect Place",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.95274545997381
     },
     {
@@ -2225,12 +2225,12 @@
       "longitude": -73.9532222620251
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 505100048,
       "latitude": 40.778333070963065,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 271 - NW CO 1st Ave & 88th St",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.94848935814979
     },
     {
@@ -2396,12 +2396,12 @@
       "longitude": -73.9869912541827
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 505100045,
       "latitude": 40.74639647509707,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 342 - SW CO 10 Ave & W 21 St",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -74.00526163846435
     },
     {
@@ -3035,10 +3035,10 @@
       "longitude": -73.96586280976997
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100067,
       "latitude": 40.77168450396742,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 290 - SW CO Lexington Ave & E 74 St",
       "availableForUse": true,
       "longitude": -73.9614462477865
@@ -3062,7 +3062,7 @@
       "longitude": -73.98167006603096
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 0,
       "serialNumber": 505100100,
       "latitude": 40.773718493770346,
       "binStatus": "Available",
@@ -3179,7 +3179,7 @@
       "longitude": -73.96135753145826
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 60,
       "serialNumber": 505100113,
       "latitude": 40.741606235945184,
       "binStatus": "Available",
