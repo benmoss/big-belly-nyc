@@ -1280,7 +1280,7 @@
       "longitude": -73.9129939918858
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 503000160,
       "latitude": 40.6827719802296,
       "binStatus": "Available",
@@ -1685,7 +1685,7 @@
       "longitude": -73.93744513392448
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 503000219,
       "latitude": 40.75685380877115,
       "binStatus": "Available",
@@ -1919,7 +1919,7 @@
       "longitude": -73.91177110144258
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 503000254,
       "latitude": 40.67509191438939,
       "binStatus": "Available",
@@ -2189,7 +2189,7 @@
       "longitude": -73.9421078891929
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 505100078,
       "latitude": 40.77113841285102,
       "binStatus": "Available",
@@ -2288,7 +2288,7 @@
       "longitude": -73.94685207786003
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 505100020,
       "latitude": 40.72799056580962,
       "binStatus": "Available",
@@ -2639,7 +2639,7 @@
       "longitude": -74.00756552771458
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 505100011,
       "latitude": 40.75544386726651,
       "binStatus": "Available",
@@ -2891,19 +2891,19 @@
       "longitude": -73.99090145996239
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100106,
       "latitude": 40.78586060688359,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 280 - SW CO E 95 Street & Park Ave",
       "availableForUse": true,
       "longitude": -73.95335140977043
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100087,
       "latitude": 40.798370790247,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 384 - SE CO Broadway & W 102 St",
       "availableForUse": true,
       "longitude": -73.96888427642509
@@ -3026,12 +3026,12 @@
       "longitude": -73.96910423686519
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 505100111,
       "latitude": 40.758836000578,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 294 - NW CO E 56 St & 2 Ave",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.96586280976997
     },
     {
