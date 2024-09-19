@@ -20,7 +20,7 @@
       "longitude": -73.92287585085252
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 3590013,
       "latitude": 40.74689511721386,
       "binStatus": "Available",
@@ -128,7 +128,7 @@
       "longitude": -73.92154820692338
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 3590008,
       "latitude": 40.741475328023036,
       "binStatus": "Available",
@@ -137,10 +137,10 @@
       "longitude": -73.92099916934967
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 3590005,
       "latitude": 40.88661576005842,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 411 - SW W 236th St & Johnson Ave",
       "availableForUse": true,
       "longitude": -73.90993109059836
@@ -209,7 +209,7 @@
       "longitude": -74.11656774580479
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 503000002,
       "latitude": 40.802377335586115,
       "binStatus": "Available",
@@ -758,7 +758,7 @@
       "longitude": -73.92701134085655
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 40,
       "serialNumber": 503000065,
       "latitude": 40.76524333304795,
       "binStatus": "Available",
@@ -1136,7 +1136,7 @@
       "longitude": -73.92984341830015
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000127,
       "latitude": 40.706692511000654,
       "binStatus": "Available",
@@ -1505,7 +1505,7 @@
       "longitude": -73.85720618069172
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 503000200,
       "latitude": 40.68219457581468,
       "binStatus": "Available",
@@ -2063,10 +2063,10 @@
       "longitude": -73.92471789027536
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 503000267,
       "latitude": 40.67165371443654,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 219 - SE Classon Avenue & Eastern Parkway",
       "availableForUse": true,
       "longitude": -73.96107707172632
@@ -2378,10 +2378,10 @@
       "longitude": -73.9498927384089
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100013,
       "latitude": 40.73565255133342,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 330 - SW CO 7th Avenue South & Perry St",
       "availableForUse": true,
       "longitude": -74.00171998103215
@@ -2477,10 +2477,10 @@
       "longitude": -73.99481938922054
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100037,
       "latitude": 40.739169439589006,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 331 - SE CO Greenwich Ave & 8th Ave",
       "availableForUse": true,
       "longitude": -74.00274561377924
@@ -2936,12 +2936,12 @@
       "longitude": -73.9833025251433
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 505100086,
       "latitude": 40.781894893686875,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 366 - NE CO W 77 St & Amsterdam Ave",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.97906581678058
     },
     {
@@ -2963,7 +2963,7 @@
       "longitude": -73.96686314261594
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 0,
       "serialNumber": 505100068,
       "latitude": 40.7116258563826,
       "binStatus": "Available",
@@ -2999,7 +2999,7 @@
       "longitude": -73.95211949944496
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 505100076,
       "latitude": 40.85312543432193,
       "binStatus": "Available",
@@ -3035,7 +3035,7 @@
       "longitude": -73.96586280976997
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 505100067,
       "latitude": 40.77168450396742,
       "binStatus": "Available",
@@ -3044,12 +3044,12 @@
       "longitude": -73.9614462477865
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 505100091,
       "latitude": 40.74913400691257,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 297 - NW CO of Lexington Ave & E 38 St",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.97793704431773
     },
     {
@@ -3215,10 +3215,10 @@
       "longitude": -73.99655276134223
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 0,
       "serialNumber": 505100133,
       "latitude": 40.79786101513957,
-      "binStatus": "Nearly Full",
+      "binStatus": "Available",
       "description": "BIN 381 - SW CO W 104 St & Columbus Ave",
       "availableForUse": true,
       "longitude": -73.96400324926272
@@ -3233,7 +3233,7 @@
       "longitude": -73.94652914221223
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 505100138,
       "latitude": 40.76639459170164,
       "binStatus": "Available",
@@ -3413,7 +3413,7 @@
       "longitude": -73.99363601223293
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 505100148,
       "latitude": 40.735894111584756,
       "binStatus": "Available",
@@ -3422,7 +3422,7 @@
       "longitude": -73.98222696429983
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 505100112,
       "latitude": 40.741522457226544,
       "binStatus": "Available",
