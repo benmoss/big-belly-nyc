@@ -1622,12 +1622,12 @@
       "longitude": -73.928127810359
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 0,
       "serialNumber": 503000204,
       "latitude": 40.69300170948447,
-      "binStatus": "Full",
+      "binStatus": "Available",
       "description": "BIN 130 - SE Bedford Avenue & Willoughby Avenue",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.9556797966361
     },
     {
@@ -2702,7 +2702,7 @@
       "longitude": -74.01312500238419
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 40,
       "serialNumber": 505100057,
       "latitude": 40.77544607677087,
       "binStatus": "Available",
