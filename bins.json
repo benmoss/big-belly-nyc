@@ -182,10 +182,10 @@
       "longitude": -73.98393251001835
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 503000029,
       "latitude": 40.80207202156791,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 33 - NW West 114 Street & Adam Clayton Powell Jr Blvd",
       "availableForUse": true,
       "longitude": -73.95370032638311
@@ -290,7 +290,7 @@
       "longitude": -73.92903984180296
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 503000010,
       "latitude": 40.76236771749731,
       "binStatus": "Available",
@@ -308,10 +308,10 @@
       "longitude": -73.92011906951666
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 503000012,
       "latitude": 40.820960776484476,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 24 - SW West 138th Street & Amsterdam Avenue",
       "availableForUse": true,
       "longitude": -73.95101174712181
@@ -335,10 +335,10 @@
       "longitude": -73.91832768131844
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 503000016,
       "latitude": 40.80673101650625,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 418 - SW c/o Broadway & W 114 St",
       "availableForUse": true,
       "longitude": -73.96496895700693
@@ -479,7 +479,7 @@
       "longitude": -73.94085858017206
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 503000058,
       "latitude": 40.76737357054309,
       "binStatus": "Available",
@@ -524,7 +524,7 @@
       "longitude": -73.92266314476728
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 60,
       "serialNumber": 503000055,
       "latitude": 40.85039540597644,
       "binStatus": "Available",
@@ -1010,7 +1010,7 @@
       "longitude": -73.9447372895371
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 503000074,
       "latitude": 40.80957426897732,
       "binStatus": "Available",
@@ -1073,7 +1073,7 @@
       "longitude": -73.90436712652445
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 503000136,
       "latitude": 40.67726495043478,
       "binStatus": "Available",
@@ -1505,7 +1505,7 @@
       "longitude": -73.85720618069172
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 503000200,
       "latitude": 40.68219457581468,
       "binStatus": "Available",
@@ -2063,10 +2063,10 @@
       "longitude": -73.92471789027536
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 503000267,
       "latitude": 40.67165371443654,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 219 - SE Classon Avenue & Eastern Parkway",
       "availableForUse": true,
       "longitude": -73.96107707172632
@@ -2270,7 +2270,7 @@
       "longitude": -73.95631212223466
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 0,
       "serialNumber": 505100041,
       "latitude": 40.7703540345238,
       "binStatus": "Available",
@@ -2315,7 +2315,7 @@
       "longitude": -73.99692150445948
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 60,
       "serialNumber": 505100049,
       "latitude": 40.70676048283521,
       "binStatus": "Available",
@@ -2594,7 +2594,7 @@
       "longitude": -73.95247723907232
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 0,
       "serialNumber": 505100026,
       "latitude": 40.78340997537408,
       "binStatus": "Available",
@@ -2612,7 +2612,7 @@
       "longitude": -73.99302401909992
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 505100002,
       "latitude": 40.76863578734461,
       "binStatus": "Available",
@@ -2675,7 +2675,7 @@
       "longitude": -73.99876398340452
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 60,
       "serialNumber": 505100058,
       "latitude": 40.716735019858994,
       "binStatus": "Available",
@@ -2693,7 +2693,7 @@
       "longitude": -73.99222918721208
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 505100006,
       "latitude": 40.717415222837694,
       "binStatus": "Available",
@@ -2702,10 +2702,10 @@
       "longitude": -74.01312500238419
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 0,
       "serialNumber": 505100057,
       "latitude": 40.77544607677087,
-      "binStatus": "Nearly Full",
+      "binStatus": "Available",
       "description": "BIN 266 - NW CO 2nd Ave & 82nd Street",
       "availableForUse": true,
       "longitude": -73.9535946787067
@@ -2720,12 +2720,12 @@
       "longitude": -74.0047200044207
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 505100059,
       "latitude": 40.718786682897935,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 244 - SW CO of Greenwich St & Harrison ST",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -74.01055041700602
     },
     {
@@ -2810,7 +2810,7 @@
       "longitude": -73.97570673483682
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 505100090,
       "latitude": 40.750719268455946,
       "binStatus": "Available",
@@ -2819,10 +2819,10 @@
       "longitude": -73.97465123299237
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 0,
       "serialNumber": 505100079,
       "latitude": 40.72376127391616,
-      "binStatus": "Nearly Full",
+      "binStatus": "Available",
       "description": "BIN 322 - NW CO Ave A & E 3 St",
       "availableForUse": true,
       "longitude": -73.98540060636678
@@ -2864,7 +2864,7 @@
       "longitude": -73.98593114887535
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 0,
       "serialNumber": 505100083,
       "latitude": 40.72496280254391,
       "binStatus": "Available",
@@ -2882,7 +2882,7 @@
       "longitude": -73.9809653781084
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 0,
       "serialNumber": 505100088,
       "latitude": 40.72865169703771,
       "binStatus": "Available",
@@ -2900,19 +2900,19 @@
       "longitude": -73.95335140977043
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 0,
       "serialNumber": 505100087,
       "latitude": 40.798370790247,
-      "binStatus": "Full",
+      "binStatus": "Available",
       "description": "BIN 384 - SE CO Broadway & W 102 St",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.96888427642509
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 0,
       "serialNumber": 505100093,
       "latitude": 40.7953036151945,
-      "binStatus": "Nearly Full",
+      "binStatus": "Available",
       "description": "BIN 383 - NE CO Broadway & W 97 St",
       "availableForUse": true,
       "longitude": -73.97107263571145
@@ -2954,10 +2954,10 @@
       "longitude": -73.93435451155901
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 0,
       "serialNumber": 505100073,
       "latitude": 40.80348382274017,
-      "binStatus": "Nearly Full",
+      "binStatus": "Available",
       "description": "BIN 385 - SE CO Broadway & W 109 St",
       "availableForUse": true,
       "longitude": -73.96686314261594
@@ -2990,7 +2990,7 @@
       "longitude": -73.94326507506806
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 60,
       "serialNumber": 505100109,
       "latitude": 40.80401808886133,
       "binStatus": "Available",
@@ -3062,7 +3062,7 @@
       "longitude": -73.98167006603096
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 505100100,
       "latitude": 40.773718493770346,
       "binStatus": "Available",
@@ -3179,7 +3179,7 @@
       "longitude": -73.96135753145826
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 505100113,
       "latitude": 40.741606235945184,
       "binStatus": "Available",
@@ -3197,7 +3197,7 @@
       "longitude": -73.97792649980364
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 0,
       "serialNumber": 505100127,
       "latitude": 40.79516392024059,
       "binStatus": "Available",
@@ -3395,7 +3395,7 @@
       "longitude": -73.98478295989479
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 505100116,
       "latitude": 40.78914315936319,
       "binStatus": "Available",
@@ -3413,7 +3413,7 @@
       "longitude": -73.99363601223293
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 60,
       "serialNumber": 505100148,
       "latitude": 40.735894111584756,
       "binStatus": "Available",
