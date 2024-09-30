@@ -164,7 +164,7 @@
       "longitude": -73.99473222632365
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 3590006,
       "latitude": 40.88282894758702,
       "binStatus": "Available",
@@ -173,7 +173,7 @@
       "longitude": -73.89247186481953
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 60,
       "serialNumber": 503000030,
       "latitude": 40.715299657889645,
       "binStatus": "Available",
@@ -452,10 +452,10 @@
       "longitude": -73.92383761703968
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 503000033,
       "latitude": 40.86054008940285,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 63 - SE Sickles Street & Nagle Avenue",
       "availableForUse": true,
       "longitude": -73.9273372319724
@@ -470,7 +470,7 @@
       "longitude": -73.92743781208992
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 503000018,
       "latitude": 40.83478846373379,
       "binStatus": "Available",
@@ -497,7 +497,7 @@
       "longitude": -73.87542713633172
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000060,
       "latitude": 40.81491836063367,
       "binStatus": "Available",
@@ -857,10 +857,10 @@
       "longitude": -73.94825711846352
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 503000082,
       "latitude": 40.746466564173716,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 344 - SE CO 8 Ave & W 25 St",
       "availableForUse": true,
       "longitude": -73.9975130736801
@@ -893,10 +893,10 @@
       "longitude": -73.90847526490688
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 503000089,
       "latitude": 40.85572351653721,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 242 - NW Cabrini Blvd & West 187th Street",
       "availableForUse": true,
       "longitude": -73.93792377806369
@@ -1019,12 +1019,12 @@
       "longitude": -73.93987722694874
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 503000078,
       "latitude": 40.81357603431238,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 38 - NW West 132 Street & Adam Clayton Powell Jr Blvd",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.94525472074747
     },
     {
@@ -1100,7 +1100,7 @@
       "longitude": -73.93217660486698
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 503000135,
       "latitude": 40.69796320197583,
       "binStatus": "Available",
@@ -1181,7 +1181,7 @@
       "longitude": -73.9503475651145
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 503000132,
       "latitude": 40.70324915068062,
       "binStatus": "Available",
@@ -2297,10 +2297,10 @@
       "longitude": -73.97899926258084
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100012,
       "latitude": 40.731190506042964,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 314 - NW CO 2nd Ave & 12th Street",
       "availableForUse": true,
       "longitude": -73.98598125432342
@@ -2342,12 +2342,12 @@
       "longitude": -73.99051628208568
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 505100008,
       "latitude": 40.7391347154904,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 337 - SE CO W 17 St & 6 Ave",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.99540269748928
     },
     {
@@ -2369,12 +2369,12 @@
       "longitude": -73.94749872386456
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 505100004,
       "latitude": 40.784683566970614,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 273 - NW CO 3 Ave & E 95 St",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.9498927384089
     },
     {
@@ -2549,7 +2549,7 @@
       "longitude": -73.97783417254686
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 60,
       "serialNumber": 505100035,
       "latitude": 40.77152776150592,
       "binStatus": "Available",
@@ -2558,7 +2558,7 @@
       "longitude": -73.95019042066897
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 505100044,
       "latitude": 40.73121273762785,
       "binStatus": "Available",
@@ -2576,16 +2576,16 @@
       "longitude": -74.0108494516408
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 505100033,
       "latitude": 40.78070495280861,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 365 - SW Co W 77 St & Columbus Ave",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.97665659471008
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 60,
       "serialNumber": 505100062,
       "latitude": 40.768787421482166,
       "binStatus": "Available",
@@ -2612,10 +2612,10 @@
       "longitude": -73.99302401909992
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100002,
       "latitude": 40.76863578734461,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 268 - SE CO 2nd Avenue & 72nd Street",
       "availableForUse": true,
       "longitude": -73.95822445057821
@@ -2819,7 +2819,7 @@
       "longitude": -73.97465123299237
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 505100079,
       "latitude": 40.72376127391616,
       "binStatus": "Available",
@@ -2837,10 +2837,10 @@
       "longitude": -73.97379656746796
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100084,
       "latitude": 40.767171552566246,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 356 - SW CO 9 Ave & W 56 St",
       "availableForUse": true,
       "longitude": -73.9864215009938
@@ -3053,10 +3053,10 @@
       "longitude": -73.97793704431773
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100066,
       "latitude": 40.71424651872,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 256 - NW CO Grand St & Henry St",
       "availableForUse": true,
       "longitude": -73.98167006603096
@@ -3098,7 +3098,7 @@
       "longitude": -73.97335456220875
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 505100097,
       "latitude": 40.72556517707213,
       "binStatus": "Available",
@@ -3134,7 +3134,7 @@
       "longitude": -73.96841285680578
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 505100129,
       "latitude": 40.779702163230795,
       "binStatus": "Available",
@@ -3278,10 +3278,10 @@
       "longitude": -73.98511663223668
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100137,
       "latitude": 40.743433331711394,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 339 - SW CO 5 Ave & W 26 St",
       "availableForUse": true,
       "longitude": -73.98834843188524
@@ -3395,10 +3395,10 @@
       "longitude": -73.98478295989479
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100116,
       "latitude": 40.78914315936319,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 370 - NW CO Columbus Ave & W 90 St",
       "availableForUse": true,
       "longitude": -73.97035768079368
