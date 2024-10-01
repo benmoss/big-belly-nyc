@@ -74,7 +74,7 @@
       "longitude": -73.89971678571764
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 3590019,
       "latitude": 40.745991757187745,
       "binStatus": "Available",
@@ -164,7 +164,7 @@
       "longitude": -73.99473222632365
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 3590006,
       "latitude": 40.88282894758702,
       "binStatus": "Available",
@@ -695,7 +695,7 @@
       "longitude": -73.93176387995481
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 503000036,
       "latitude": 40.6778510426927,
       "binStatus": "Available",
@@ -704,7 +704,7 @@
       "longitude": -73.96890208125114
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000047,
       "latitude": 40.80229053822756,
       "binStatus": "Available",
@@ -776,10 +776,10 @@
       "longitude": -73.95172468826313
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 60,
       "serialNumber": 503000068,
       "latitude": 40.64305722769547,
-      "binStatus": "Nearly Full",
+      "binStatus": "Available",
       "description": "BIN 233 - SE Stuyvesant Place & Schuyler Street",
       "availableForUse": true,
       "longitude": -74.07695855945349
@@ -1001,7 +1001,7 @@
       "longitude": -73.95624071359634
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 503000076,
       "latitude": 40.791411617905716,
       "binStatus": "Available",
@@ -1424,7 +1424,7 @@
       "longitude": -73.91234535723925
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000172,
       "latitude": 40.69744237426521,
       "binStatus": "Available",
@@ -1550,7 +1550,7 @@
       "longitude": -73.95281285047531
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000207,
       "latitude": 40.68175217538853,
       "binStatus": "Available",
@@ -1928,7 +1928,7 @@
       "longitude": -73.95637851208448
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 40,
       "serialNumber": 503000257,
       "latitude": 40.670817086934036,
       "binStatus": "Available",
@@ -2333,7 +2333,7 @@
       "longitude": -73.99195962283002
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 60,
       "serialNumber": 505100019,
       "latitude": 40.731496522321486,
       "binStatus": "Available",
@@ -2351,7 +2351,7 @@
       "longitude": -73.99540269748928
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 505100031,
       "latitude": 40.72948121652991,
       "binStatus": "Available",
@@ -2477,12 +2477,12 @@
       "longitude": -73.99481938922054
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 505100037,
       "latitude": 40.739169439589006,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 331 - SE CO Greenwich Ave & 8th Ave",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -74.00274561377924
     },
     {
@@ -2531,7 +2531,7 @@
       "longitude": -73.99466765892298
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 505100032,
       "latitude": 40.765863654327504,
       "binStatus": "Available",
@@ -2576,7 +2576,7 @@
       "longitude": -74.0108494516408
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 60,
       "serialNumber": 505100033,
       "latitude": 40.78070495280861,
       "binStatus": "Available",
@@ -2720,10 +2720,10 @@
       "longitude": -74.0047200044207
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100059,
       "latitude": 40.718786682897935,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 244 - SW CO of Greenwich St & Harrison ST",
       "availableForUse": true,
       "longitude": -74.01055041700602
@@ -2855,10 +2855,10 @@
       "longitude": -73.9766103569379
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100074,
       "latitude": 40.77844967182979,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 364 - NW CO West End Ave & W 70 St",
       "availableForUse": true,
       "longitude": -73.98593114887535
@@ -3215,10 +3215,10 @@
       "longitude": -73.99655276134223
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100133,
       "latitude": 40.79786101513957,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 381 - SW CO W 104 St & Columbus Ave",
       "availableForUse": true,
       "longitude": -73.96400324926272
@@ -3242,10 +3242,10 @@
       "longitude": -73.99037571712044
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100136,
       "latitude": 40.764814574064715,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 354 - NE CO 9 Ave & W 52 St",
       "availableForUse": true,
       "longitude": -73.98776125245462
@@ -3404,10 +3404,10 @@
       "longitude": -73.97035768079368
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100145,
       "latitude": 40.74163391924499,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 338 - N/E CO W 21st Street and 6th Ave",
       "availableForUse": true,
       "longitude": -73.99363601223293
