@@ -74,7 +74,7 @@
       "longitude": -73.89971678571764
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 3590019,
       "latitude": 40.745991757187745,
       "binStatus": "Available",
@@ -515,7 +515,7 @@
       "longitude": -73.92496582120657
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 503000054,
       "latitude": 40.76387664872765,
       "binStatus": "Available",
@@ -632,7 +632,7 @@
       "longitude": -73.95354006439447
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 503000043,
       "latitude": 40.804732620856896,
       "binStatus": "Available",
@@ -695,7 +695,7 @@
       "longitude": -73.93176387995481
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 503000036,
       "latitude": 40.6778510426927,
       "binStatus": "Available",
@@ -794,7 +794,7 @@
       "longitude": -73.92632732264548
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 503000070,
       "latitude": 40.83161371635521,
       "binStatus": "Available",
@@ -821,7 +821,7 @@
       "longitude": -73.93320322036743
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 503000072,
       "latitude": 40.79737412009714,
       "binStatus": "Available",
@@ -992,7 +992,7 @@
       "longitude": -73.90491127967834
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 20,
       "serialNumber": 503000100,
       "latitude": 40.818994146499016,
       "binStatus": "Available",
@@ -1082,7 +1082,7 @@
       "longitude": -73.96265991032124
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000133,
       "latitude": 40.684197290894595,
       "binStatus": "Available",
@@ -1397,7 +1397,7 @@
       "longitude": -73.941904976964
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 40,
       "serialNumber": 503000179,
       "latitude": 40.67617742416484,
       "binStatus": "Available",
@@ -1442,7 +1442,7 @@
       "longitude": -73.95316857844591
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 503000187,
       "latitude": 40.75792909750536,
       "binStatus": "Available",
@@ -1505,7 +1505,7 @@
       "longitude": -73.85720618069172
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 503000200,
       "latitude": 40.68219457581468,
       "binStatus": "Available",
@@ -1541,7 +1541,7 @@
       "longitude": -73.83048333227634
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 60,
       "serialNumber": 503000191,
       "latitude": 40.80924767164232,
       "binStatus": "Available",
@@ -1613,7 +1613,7 @@
       "longitude": -73.92708376049995
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000203,
       "latitude": 40.695132218201906,
       "binStatus": "Available",
@@ -2288,19 +2288,19 @@
       "longitude": -73.94685207786003
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100020,
       "latitude": 40.72799056580962,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 317 - SE CO Ave B & E 12 St",
       "availableForUse": true,
       "longitude": -73.97899926258084
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100012,
       "latitude": 40.731190506042964,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 314 - NW CO 2nd Ave & 12th Street",
       "availableForUse": true,
       "longitude": -73.98598125432342
@@ -2342,12 +2342,12 @@
       "longitude": -73.99051628208568
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 505100008,
       "latitude": 40.7391347154904,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 337 - SE CO W 17 St & 6 Ave",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.99540269748928
     },
     {
@@ -2405,12 +2405,12 @@
       "longitude": -74.00526163846435
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 0,
       "serialNumber": 505100027,
       "latitude": 40.71904231972568,
-      "binStatus": "Full",
+      "binStatus": "Available",
       "description": "BIN 250 - SE CO Varick St. & Franklin St.",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -74.00695323944092
     },
     {
@@ -2423,12 +2423,12 @@
       "longitude": -74.00006544331396
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 0,
       "serialNumber": 505100022,
       "latitude": 40.73287635373648,
-      "binStatus": "Full",
+      "binStatus": "Available",
       "description": "BIN 334 - SW CO Hudson St & Christopher St",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -74.00655866692779
     },
     {
@@ -2450,7 +2450,7 @@
       "longitude": -74.01704739779234
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 60,
       "serialNumber": 505100007,
       "latitude": 40.730315325690235,
       "binStatus": "Available",
@@ -2504,10 +2504,10 @@
       "longitude": -73.99849525644926
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100029,
       "latitude": 40.710663476710224,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 249 - SE CO Gold St & Frankfort St.",
       "availableForUse": true,
       "longitude": -74.00341004133224
@@ -2558,19 +2558,19 @@
       "longitude": -73.95019042066897
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 0,
       "serialNumber": 505100044,
       "latitude": 40.73121273762785,
-      "binStatus": "Full",
+      "binStatus": "Available",
       "description": "BIN 335 - NE CO Morton ST & Greenwich ST",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -74.0077318323766
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 60,
       "serialNumber": 505100061,
       "latitude": 40.70860458493924,
-      "binStatus": "Nearly Full",
+      "binStatus": "Available",
       "description": "BIN 252 - SW CO Broadway & Cedar Street",
       "availableForUse": true,
       "longitude": -74.0108494516408
@@ -2684,7 +2684,7 @@
       "longitude": -73.98896138948061
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 60,
       "serialNumber": 505100072,
       "latitude": 40.71327373740936,
       "binStatus": "Available",
@@ -2927,7 +2927,7 @@
       "longitude": -73.98908566787568
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 505100108,
       "latitude": 40.72615124076925,
       "binStatus": "Available",
@@ -3017,7 +3017,7 @@
       "longitude": -73.90418004244566
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 505100094,
       "latitude": 40.79091410359447,
       "binStatus": "Available",
@@ -3116,12 +3116,12 @@
       "longitude": -73.96666802317641
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 505100132,
       "latitude": 40.757513465018945,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 325 - SW CO W Main Street and Main Street (by Tram Terminal)",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.95414933006201
     },
     {
@@ -3206,7 +3206,7 @@
       "longitude": -73.97343810525932
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 505100139,
       "latitude": 40.74272368457833,
       "binStatus": "Available",
