@@ -398,12 +398,12 @@
       "longitude": -73.93778998622929
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 0,
       "serialNumber": 503000023,
       "latitude": 40.84608111296369,
-      "binStatus": "Full",
+      "binStatus": "Available",
       "description": "BIN 59 - NE West 174th Street & Fort Washington Avenue",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.94016187638044
     },
     {
@@ -425,7 +425,7 @@
       "longitude": -73.91796863240839
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 0,
       "serialNumber": 503000024,
       "latitude": 40.87628033530234,
       "binStatus": "Available",
@@ -1469,10 +1469,10 @@
       "longitude": -73.91591713080048
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 503000184,
       "latitude": 40.673104182956976,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 189 - NE Underhill Avenue & Eastern Parkway",
       "availableForUse": true,
       "longitude": -73.96755293011665
@@ -2306,10 +2306,10 @@
       "longitude": -73.98598125432342
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 0,
       "serialNumber": 505100010,
       "latitude": 40.75280253801481,
-      "binStatus": "Nearly Full",
+      "binStatus": "Available",
       "description": "BIN 346 - NW CO 9 Ave & W 33 St",
       "availableForUse": true,
       "longitude": -73.99692150445948
@@ -2738,7 +2738,7 @@
       "longitude": -73.98495496580612
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 505100055,
       "latitude": 40.76405416975698,
       "binStatus": "Available",
@@ -3296,10 +3296,10 @@
       "longitude": -73.98753543655222
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 0,
       "serialNumber": 505100146,
       "latitude": 40.74723684953337,
-      "binStatus": "Nearly Full",
+      "binStatus": "Available",
       "description": "BIN 340 - SW CO 6 Ave & W 30 St",
       "availableForUse": true,
       "longitude": -73.98983752643882
@@ -3368,10 +3368,10 @@
       "longitude": -74.00684701383747
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 0,
       "serialNumber": 505100135,
       "latitude": 40.758930399023754,
-      "binStatus": "Nearly Full",
+      "binStatus": "Available",
       "description": "BIN 350 - SE CO W 43RD ST & 9TH AVE",
       "availableForUse": true,
       "longitude": -73.99201305589226
