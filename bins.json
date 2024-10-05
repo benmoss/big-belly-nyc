@@ -164,7 +164,7 @@
       "longitude": -73.99473222632365
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 3590006,
       "latitude": 40.88282894758702,
       "binStatus": "Available",
@@ -173,12 +173,12 @@
       "longitude": -73.89247186481953
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 503000030,
       "latitude": 40.715299657889645,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 423 - NE c/o Grand St & Pitt St",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.98393251001835
     },
     {
@@ -308,7 +308,7 @@
       "longitude": -73.92011906951666
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 503000012,
       "latitude": 40.820960776484476,
       "binStatus": "Available",
@@ -776,7 +776,7 @@
       "longitude": -73.95172468826313
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 503000068,
       "latitude": 40.64305722769547,
       "binStatus": "Available",
@@ -1127,7 +1127,7 @@
       "longitude": -73.94146978855133
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 503000145,
       "latitude": 40.68640155543058,
       "binStatus": "Available",
@@ -1442,7 +1442,7 @@
       "longitude": -73.95316857844591
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 503000187,
       "latitude": 40.75792909750536,
       "binStatus": "Available",
@@ -2054,7 +2054,7 @@
       "longitude": -73.92796251922846
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 60,
       "serialNumber": 503000271,
       "latitude": 40.74194368731704,
       "binStatus": "Available",
@@ -2738,10 +2738,10 @@
       "longitude": -73.98495496580612
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100055,
       "latitude": 40.76405416975698,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 291 - NE CO E 63 St & 3 Ave",
       "availableForUse": true,
       "longitude": -73.96450973157151
@@ -3278,12 +3278,12 @@
       "longitude": -73.98511663223668
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 505100137,
       "latitude": 40.743433331711394,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 339 - SW CO 5 Ave & W 26 St",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.98834843188524
     },
     {
