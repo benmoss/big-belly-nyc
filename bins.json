@@ -1010,7 +1010,7 @@
       "longitude": -73.9447372895371
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 0,
       "serialNumber": 503000074,
       "latitude": 40.80957426897732,
       "binStatus": "Available",
@@ -1550,7 +1550,7 @@
       "longitude": -73.95281285047531
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 503000207,
       "latitude": 40.68175217538853,
       "binStatus": "Available",
@@ -1964,7 +1964,7 @@
       "longitude": -73.96024390254057
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 503000264,
       "latitude": 40.67279917738334,
       "binStatus": "Available",
@@ -2288,12 +2288,12 @@
       "longitude": -73.94685207786003
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 0,
       "serialNumber": 505100020,
       "latitude": 40.72799056580962,
-      "binStatus": "Full",
+      "binStatus": "Available",
       "description": "BIN 317 - SE CO Ave B & E 12 St",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.97899926258084
     },
     {
@@ -2423,7 +2423,7 @@
       "longitude": -74.00006544331396
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 505100022,
       "latitude": 40.73287635373648,
       "binStatus": "Available",
@@ -2657,12 +2657,12 @@
       "longitude": -73.98977462491895
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 0,
       "serialNumber": 505100025,
       "latitude": 40.74240669511277,
-      "binStatus": "Full",
+      "binStatus": "Available",
       "description": "BIN 343 - NW CO 8TH AVE & 18TH ST",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -74.0007785662345
     },
     {
@@ -2783,19 +2783,19 @@
       "longitude": -73.9546898742066
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 0,
       "serialNumber": 505100089,
       "latitude": 40.77432420761129,
-      "binStatus": "Full",
+      "binStatus": "Available",
       "description": "BIN 362 - NW CO Amsterdam ave & W 65 St",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.98491537817117
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 0,
       "serialNumber": 505100096,
       "latitude": 40.77217779943119,
-      "binStatus": "Nearly Full",
+      "binStatus": "Available",
       "description": "BIN 360 - SW CO West End Ave & W 60 St",
       "availableForUse": true,
       "longitude": -73.99013103325534
@@ -3287,10 +3287,10 @@
       "longitude": -73.98834843188524
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 0,
       "serialNumber": 505100120,
       "latitude": 40.77519164031714,
-      "binStatus": "Nearly Full",
+      "binStatus": "Available",
       "description": "BIN 374 - SE CO West End Ave & W 65 St",
       "availableForUse": true,
       "longitude": -73.98753543655222
@@ -3341,7 +3341,7 @@
       "longitude": -73.97276669918094
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 505100117,
       "latitude": 40.78193045956682,
       "binStatus": "Available",
