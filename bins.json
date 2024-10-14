@@ -2,12 +2,12 @@
   "errorCode": "STATUS_OK",
   "compostAssets": [
     {
-      "latestFullness": 100,
+      "latestFullness": 0,
       "serialNumber": 3590004,
       "latitude": 40.740982515732185,
-      "binStatus": "Full",
+      "binStatus": "Available",
       "description": "BIN 406 - SE 47th Ave & 47th St",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.9180913195014
     },
     {
@@ -29,12 +29,12 @@
       "longitude": -73.92003797195594
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 0,
       "serialNumber": 3590017,
       "latitude": 40.7447717419058,
-      "binStatus": "Full",
+      "binStatus": "Available",
       "description": "BIN 403 - SW 43rd Ave & 47th St.",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.9175371080637
     },
     {
@@ -92,10 +92,10 @@
       "longitude": -73.91701877117157
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 0,
       "serialNumber": 3590016,
       "latitude": 40.74379131277653,
-      "binStatus": "Nearly Full",
+      "binStatus": "Available",
       "description": "BIN 405 - NW Queens Blvd & 43rd St",
       "availableForUse": true,
       "longitude": -73.92166045665941
@@ -380,7 +380,7 @@
       "longitude": -73.94264291971922
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 0,
       "serialNumber": 503000020,
       "latitude": 40.841033254239434,
       "binStatus": "Available",
@@ -398,10 +398,10 @@
       "longitude": -73.93778998622929
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 0,
       "serialNumber": 503000023,
       "latitude": 40.84608111296369,
-      "binStatus": "Nearly Full",
+      "binStatus": "Available",
       "description": "BIN 59 - NE West 174th Street & Fort Washington Avenue",
       "availableForUse": true,
       "longitude": -73.94016187638044
@@ -524,12 +524,12 @@
       "longitude": -73.92266314476728
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 0,
       "serialNumber": 503000055,
       "latitude": 40.85039540597644,
-      "binStatus": "Full",
+      "binStatus": "Available",
       "description": "BIN 60 - NE Wadsworth Avenue & West 182nd Street",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.93447995185852
     },
     {
@@ -1541,12 +1541,12 @@
       "longitude": -73.83048333227634
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 503000191,
       "latitude": 40.80924767164232,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 421 - NE c/o W 123 St & St Nicholas Ave",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.95281285047531
     },
     {
@@ -2054,10 +2054,10 @@
       "longitude": -73.92796251922846
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 0,
       "serialNumber": 503000271,
       "latitude": 40.74194368731704,
-      "binStatus": "Nearly Full",
+      "binStatus": "Available",
       "description": "BIN 408 - NW 40th St & 47th Ave",
       "availableForUse": true,
       "longitude": -73.92471789027536
@@ -2918,12 +2918,12 @@
       "longitude": -73.97107263571145
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 0,
       "serialNumber": 505100107,
       "latitude": 40.73674344375692,
-      "binStatus": "Full",
+      "binStatus": "Available",
       "description": "BIN 308 - NW CO Park Ave S/Union Square East & E 17 St",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.98908566787568
     },
     {
@@ -2945,7 +2945,7 @@
       "longitude": -73.97906581678058
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 0,
       "serialNumber": 505100077,
       "latitude": 40.84610840833878,
       "binStatus": "Available",
@@ -2999,7 +2999,7 @@
       "longitude": -73.95211949944496
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 0,
       "serialNumber": 505100076,
       "latitude": 40.85312543432193,
       "binStatus": "Available",
