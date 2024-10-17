@@ -164,7 +164,7 @@
       "longitude": -73.99473222632365
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 0,
       "serialNumber": 3590006,
       "latitude": 40.88282894758702,
       "binStatus": "Available",
@@ -434,12 +434,12 @@
       "longitude": -73.88136584311724
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 0,
       "serialNumber": 503000022,
       "latitude": 40.866201512573475,
-      "binStatus": "Full",
+      "binStatus": "Available",
       "description": "BIN 64 - SE Broadway & Academy Street",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.92508216202259
     },
     {
@@ -452,7 +452,7 @@
       "longitude": -73.92383761703968
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000033,
       "latitude": 40.86054008940285,
       "binStatus": "Available",
@@ -722,10 +722,10 @@
       "longitude": -73.86818949133158
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 503000063,
       "latitude": 40.76656936634833,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 19 - SE Crescent Street & 30th Drive",
       "availableForUse": true,
       "longitude": -73.92594543138473
@@ -1037,7 +1037,7 @@
       "longitude": -73.92586905509233
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 503000138,
       "latitude": 40.678764370117854,
       "binStatus": "Available",
@@ -1145,7 +1145,7 @@
       "longitude": -73.92045420260473
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000147,
       "latitude": 40.687583234935204,
       "binStatus": "Available",
@@ -1658,7 +1658,7 @@
       "longitude": -73.95670607686043
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 0,
       "serialNumber": 503000214,
       "latitude": 40.84592817625355,
       "binStatus": "Available",
@@ -2180,7 +2180,7 @@
       "longitude": -73.93855053931475
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 503000202,
       "latitude": 40.66971391909037,
       "binStatus": "Available",
@@ -2297,12 +2297,12 @@
       "longitude": -73.97899926258084
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 0,
       "serialNumber": 505100012,
       "latitude": 40.731190506042964,
-      "binStatus": "Full",
+      "binStatus": "Available",
       "description": "BIN 314 - NW CO 2nd Ave & 12th Street",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.98598125432342
     },
     {
@@ -2333,12 +2333,12 @@
       "longitude": -73.99195962283002
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 0,
       "serialNumber": 505100019,
       "latitude": 40.731496522321486,
-      "binStatus": "Full",
+      "binStatus": "Available",
       "description": "BIN 315 - NW CO 4 Ave & E 10 St",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.99051628208568
     },
     {
@@ -2351,12 +2351,12 @@
       "longitude": -73.99540269748928
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 505100031,
       "latitude": 40.72948121652991,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 328 - SE CO Bleecker St & 6 Ave",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -74.00212241864305
     },
     {
@@ -2396,12 +2396,12 @@
       "longitude": -73.9869912541827
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 0,
       "serialNumber": 505100045,
       "latitude": 40.74639647509707,
-      "binStatus": "Full",
+      "binStatus": "Available",
       "description": "BIN 342 - SW CO 10 Ave & W 21 St",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -74.00526163846435
     },
     {
@@ -2432,7 +2432,7 @@
       "longitude": -74.00655866692779
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 505100024,
       "latitude": 40.73699589127157,
       "binStatus": "Available",
@@ -2603,7 +2603,7 @@
       "longitude": -73.94763141892919
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 0,
       "serialNumber": 505100034,
       "latitude": 40.762820138671465,
       "binStatus": "Available",
@@ -2810,10 +2810,10 @@
       "longitude": -73.97570673483682
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 0,
       "serialNumber": 505100090,
       "latitude": 40.750719268455946,
-      "binStatus": "Nearly Full",
+      "binStatus": "Available",
       "description": "BIN 395 - SW CO 3 Ave & E 42 St",
       "availableForUse": true,
       "longitude": -73.97465123299237
@@ -2846,12 +2846,12 @@
       "longitude": -73.9864215009938
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 505100095,
       "latitude": 40.74408502157723,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 300 - SW CO E 33 St & 2 Ave",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.9766103569379
     },
     {
@@ -2882,7 +2882,7 @@
       "longitude": -73.9809653781084
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 0,
       "serialNumber": 505100088,
       "latitude": 40.72865169703771,
       "binStatus": "Available",
@@ -3044,10 +3044,10 @@
       "longitude": -73.9614462477865
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 0,
       "serialNumber": 505100091,
       "latitude": 40.74913400691257,
-      "binStatus": "Nearly Full",
+      "binStatus": "Available",
       "description": "BIN 297 - NW CO of Lexington Ave & E 38 St",
       "availableForUse": true,
       "longitude": -73.97793704431773
@@ -3071,7 +3071,7 @@
       "longitude": -73.95966351954947
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 0,
       "serialNumber": 505100102,
       "latitude": 40.74448956998408,
       "binStatus": "Available",
@@ -3188,10 +3188,10 @@
       "longitude": -73.98558684719369
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100098,
       "latitude": 40.741609115050146,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 301 - NE CO 2 Ave & E 29 ST",
       "availableForUse": true,
       "longitude": -73.97792649980364
@@ -3233,7 +3233,7 @@
       "longitude": -73.94652914221223
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 0,
       "serialNumber": 505100138,
       "latitude": 40.76639459170164,
       "binStatus": "Available",
@@ -3242,7 +3242,7 @@
       "longitude": -73.99037571712044
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 0,
       "serialNumber": 505100136,
       "latitude": 40.764814574064715,
       "binStatus": "Available",
@@ -3305,7 +3305,7 @@
       "longitude": -73.98983752643882
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 0,
       "serialNumber": 505100141,
       "latitude": 40.74960582599206,
       "binStatus": "Available",
@@ -3350,7 +3350,7 @@
       "longitude": -73.97196531694908
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 0,
       "serialNumber": 505100140,
       "latitude": 40.760441717606135,
       "binStatus": "Available",
