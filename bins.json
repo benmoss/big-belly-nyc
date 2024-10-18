@@ -830,10 +830,10 @@
       "longitude": -73.93469754606485
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 0,
       "serialNumber": 503000073,
       "latitude": 40.813082487843964,
-      "binStatus": "Nearly Full",
+      "binStatus": "Available",
       "description": "BIN 39 - NW West 135 Street & 5th Avenue",
       "availableForUse": true,
       "longitude": -73.93777001649141
@@ -875,7 +875,7 @@
       "longitude": -73.93855724483728
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 0,
       "serialNumber": 503000085,
       "latitude": 40.80984148378304,
       "binStatus": "Available",
@@ -1154,12 +1154,12 @@
       "longitude": -73.90656117349863
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 503000148,
       "latitude": 40.701373514374744,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 183 - NW St. Nicholas Avenue & Linden Street",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.91136553921112
     },
     {
@@ -1829,12 +1829,12 @@
       "longitude": -73.94294936209917
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 503000240,
       "latitude": 40.67428152112551,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 198 - NW New York Avenue & Prospect Place",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.94742764532566
     },
     {
@@ -2162,7 +2162,7 @@
       "longitude": -73.9109194278717
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 503000212,
       "latitude": 40.70585647534992,
       "binStatus": "Available",
@@ -2198,12 +2198,12 @@
       "longitude": -73.98717944724858
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 0,
       "serialNumber": 505100039,
       "latitude": 40.781609451116324,
-      "binStatus": "Full",
+      "binStatus": "Available",
       "description": "BIN 274 - SE CO E 92 St & 2 Ave",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.94892745726821
     },
     {
@@ -2279,10 +2279,10 @@
       "longitude": -73.9538887710376
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 0,
       "serialNumber": 505100014,
       "latitude": 40.78010940688603,
-      "binStatus": "Nearly Full",
+      "binStatus": "Available",
       "description": "BIN 267 - NE CO 1st Ave & 91ST St",
       "availableForUse": true,
       "longitude": -73.94685207786003
@@ -2351,7 +2351,7 @@
       "longitude": -73.99540269748928
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 0,
       "serialNumber": 505100031,
       "latitude": 40.72948121652991,
       "binStatus": "Available",
@@ -2441,7 +2441,7 @@
       "longitude": -73.97826863139804
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 505100043,
       "latitude": 40.70584702623706,
       "binStatus": "Available",
@@ -2459,7 +2459,7 @@
       "longitude": -74.00240702146108
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 505100009,
       "latitude": 40.7164061130962,
       "binStatus": "Available",
@@ -2594,12 +2594,12 @@
       "longitude": -73.95247723907232
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 0,
       "serialNumber": 505100026,
       "latitude": 40.78340997537408,
-      "binStatus": "Full",
+      "binStatus": "Available",
       "description": "BIN 272 - SE 2nd Ave & 95th St",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.94763141892919
     },
     {
@@ -3449,7 +3449,7 @@
       "longitude": -73.97587379945203
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 0,
       "serialNumber": 505100128,
       "latitude": 40.72662593513809,
       "binStatus": "Available",
