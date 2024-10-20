@@ -2,7 +2,7 @@
   "errorCode": "STATUS_OK",
   "compostAssets": [
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 3590004,
       "latitude": 40.740982515732185,
       "binStatus": "Available",
@@ -533,7 +533,7 @@
       "longitude": -73.95314779132605
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 503000050,
       "latitude": 40.829794034320685,
       "binStatus": "Available",
@@ -641,7 +641,7 @@
       "longitude": -73.9660133421421
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 40,
       "serialNumber": 503000039,
       "latitude": 40.82647613312916,
       "binStatus": "Available",
@@ -722,12 +722,12 @@
       "longitude": -73.92594543138473
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 503000061,
       "latitude": 40.76808087642403,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 15 - SE 31st Avenue & 14th Street",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.93193346987313
     },
     {
@@ -776,7 +776,7 @@
       "longitude": -74.07695855945349
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 503000067,
       "latitude": 40.76558557637679,
       "binStatus": "Available",
@@ -785,7 +785,7 @@
       "longitude": -73.92632732264548
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 503000070,
       "latitude": 40.83161371635521,
       "binStatus": "Available",
@@ -1046,7 +1046,7 @@
       "longitude": -73.92874404788017
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 503000131,
       "latitude": 40.688233556498346,
       "binStatus": "Available",
@@ -1406,10 +1406,10 @@
       "longitude": -73.90797402709723
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 503000188,
       "latitude": 40.690796900599814,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 153 - NW Central Avenue & Hancock Street",
       "availableForUse": true,
       "longitude": -73.91234535723925
@@ -1712,7 +1712,7 @@
       "longitude": -73.88819441199303
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000226,
       "latitude": 40.69043184045754,
       "binStatus": "Available",
@@ -2162,7 +2162,7 @@
       "longitude": -73.91865953781273
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 503000128,
       "latitude": 40.678977698412524,
       "binStatus": "Available",
@@ -2828,10 +2828,10 @@
       "longitude": -73.97379656746796
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100084,
       "latitude": 40.767171552566246,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 356 - SW CO 9 Ave & W 56 St",
       "availableForUse": true,
       "longitude": -73.9864215009938
@@ -2972,10 +2972,10 @@
       "longitude": -73.96902091534423
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100065,
       "latitude": 40.769098236486705,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 278 - SW CO West Road & Main Street",
       "availableForUse": true,
       "longitude": -73.94326507506806
@@ -3071,7 +3071,7 @@
       "longitude": -73.9728414833659
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 505100101,
       "latitude": 40.77228183243049,
       "binStatus": "Available",
@@ -3152,7 +3152,7 @@
       "longitude": -73.96592718820084
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 505100105,
       "latitude": 40.76175746497325,
       "binStatus": "Available",
@@ -3242,7 +3242,7 @@
       "longitude": -73.99037571712044
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 505100136,
       "latitude": 40.764814574064715,
       "binStatus": "Available",
@@ -3305,10 +3305,10 @@
       "longitude": -73.98983752643882
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100141,
       "latitude": 40.74960582599206,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 345 - NE CO W 26 St & 10 Ave",
       "availableForUse": true,
       "longitude": -74.00261308139008
