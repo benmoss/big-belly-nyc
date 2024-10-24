@@ -47,10 +47,10 @@
       "longitude": -73.92288388211199
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 3590020,
       "latitude": 40.746148800069264,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 400 - NE 51st St & Skillman Ave",
       "availableForUse": true,
       "longitude": -73.91328877313748
@@ -65,10 +65,10 @@
       "longitude": -73.89971678571764
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 3590019,
       "latitude": 40.745991757187745,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 398 - NW 57th St & Woodside Ave",
       "availableForUse": true,
       "longitude": -73.90727262943983
@@ -353,7 +353,7 @@
       "longitude": -73.94737802445889
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 503000019,
       "latitude": 40.76701705596692,
       "binStatus": "Available",
@@ -434,7 +434,7 @@
       "longitude": -73.92508216202259
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 503000031,
       "latitude": 40.70206803795076,
       "binStatus": "Available",
@@ -1289,12 +1289,12 @@
       "longitude": -73.96974126370019
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 503000169,
       "latitude": 40.690318203640174,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 118 - NE Lewis Avenue & Green Avenue",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.93640510737896
     },
     {
@@ -1784,7 +1784,7 @@
       "longitude": -73.89310654252768
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 503000186,
       "latitude": 40.6858662258759,
       "binStatus": "Available",
@@ -1910,10 +1910,10 @@
       "longitude": -73.91177110144258
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 503000254,
       "latitude": 40.67509191438939,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 195 - NE Franklin Avenue & Prospect Place",
       "availableForUse": true,
       "longitude": -73.95637851208448
@@ -1955,10 +1955,10 @@
       "longitude": -73.96024390254057
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 503000264,
       "latitude": 40.67279917738334,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 215 - NW Rogers Avenue & Sterling Place",
       "availableForUse": true,
       "longitude": -73.95310335432222
@@ -2270,12 +2270,12 @@
       "longitude": -73.9538887710376
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 0,
       "serialNumber": 505100014,
       "latitude": 40.78010940688603,
-      "binStatus": "Full",
+      "binStatus": "Available",
       "description": "BIN 267 - NE CO 1st Ave & 91ST St",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.94685207786003
     },
     {
@@ -2747,7 +2747,7 @@
       "longitude": -73.99644857287824
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 0,
       "serialNumber": 505100056,
       "latitude": 40.77779121756704,
       "binStatus": "Available",
@@ -2819,7 +2819,7 @@
       "longitude": -73.98540060636678
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 505100092,
       "latitude": 40.78957914389564,
       "binStatus": "Available",
@@ -2855,7 +2855,7 @@
       "longitude": -73.98593114887535
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 505100083,
       "latitude": 40.72496280254391,
       "binStatus": "Available",
@@ -3296,7 +3296,7 @@
       "longitude": -73.98753543655222
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 0,
       "serialNumber": 505100146,
       "latitude": 40.74723684953337,
       "binStatus": "Available",
@@ -3449,7 +3449,7 @@
       "longitude": -73.97587379945203
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 505100128,
       "latitude": 40.72662593513809,
       "binStatus": "Available",
