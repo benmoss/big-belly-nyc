@@ -200,7 +200,7 @@
       "longitude": -74.11656774580479
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 60,
       "serialNumber": 503000002,
       "latitude": 40.802377335586115,
       "binStatus": "Available",
@@ -1073,7 +1073,7 @@
       "longitude": -73.96265991032124
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 503000133,
       "latitude": 40.684197290894595,
       "binStatus": "Available",
@@ -1208,7 +1208,7 @@
       "longitude": -73.93099308013916
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 503000150,
       "latitude": 40.67358758069033,
       "binStatus": "Available",
@@ -1289,7 +1289,7 @@
       "longitude": -73.96974126370019
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000169,
       "latitude": 40.690318203640174,
       "binStatus": "Available",
@@ -1478,7 +1478,7 @@
       "longitude": -73.91690745949745
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000192,
       "latitude": 40.852149853823676,
       "binStatus": "Available",
@@ -1604,7 +1604,7 @@
       "longitude": -73.92708376049995
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000203,
       "latitude": 40.695132218201906,
       "binStatus": "Available",
@@ -1640,7 +1640,7 @@
       "longitude": -73.89510378241539
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 60,
       "serialNumber": 503000213,
       "latitude": 40.76718414067168,
       "binStatus": "Available",
@@ -1919,7 +1919,7 @@
       "longitude": -73.95637851208448
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 60,
       "serialNumber": 503000257,
       "latitude": 40.670817086934036,
       "binStatus": "Available",
@@ -2189,7 +2189,7 @@
       "longitude": -73.98717944724858
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 0,
       "serialNumber": 505100039,
       "latitude": 40.781609451116324,
       "binStatus": "Available",
@@ -2261,7 +2261,7 @@
       "longitude": -73.95631212223466
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 505100041,
       "latitude": 40.7703540345238,
       "binStatus": "Available",
@@ -2441,7 +2441,7 @@
       "longitude": -74.01704739779234
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 505100007,
       "latitude": 40.730315325690235,
       "binStatus": "Available",
@@ -2504,7 +2504,7 @@
       "longitude": -74.00341004133224
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 505100017,
       "latitude": 40.705075385840445,
       "binStatus": "Available",
@@ -2585,7 +2585,7 @@
       "longitude": -73.95247723907232
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 0,
       "serialNumber": 505100026,
       "latitude": 40.78340997537408,
       "binStatus": "Available",
@@ -2675,7 +2675,7 @@
       "longitude": -73.98896138948061
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 60,
       "serialNumber": 505100072,
       "latitude": 40.71327373740936,
       "binStatus": "Available",
@@ -3188,7 +3188,7 @@
       "longitude": -73.98558684719369
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 505100098,
       "latitude": 40.741609115050146,
       "binStatus": "Available",
@@ -3422,10 +3422,10 @@
       "longitude": -73.98222696429983
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100112,
       "latitude": 40.741522457226544,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 306 - NW CO 3rd Avenue & 27th Street",
       "availableForUse": true,
       "longitude": -73.98135114745574
@@ -3449,12 +3449,12 @@
       "longitude": -73.97587379945203
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 505100128,
       "latitude": 40.72662593513809,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 327 - SW CO Bond St & Lafayette St",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.99427816002996
     }
   ]
