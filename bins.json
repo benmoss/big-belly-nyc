@@ -47,12 +47,12 @@
       "longitude": -73.92288388211199
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 0,
       "serialNumber": 3590020,
       "latitude": 40.746148800069264,
-      "binStatus": "Full",
+      "binStatus": "Available",
       "description": "BIN 400 - NE 51st St & Skillman Ave",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.91328877313748
     },
     {
@@ -65,7 +65,7 @@
       "longitude": -73.89971678571764
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 0,
       "serialNumber": 3590019,
       "latitude": 40.745991757187745,
       "binStatus": "Available",
@@ -74,7 +74,7 @@
       "longitude": -73.90727262943983
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 0,
       "serialNumber": 3590015,
       "latitude": 40.746483770342856,
       "binStatus": "Available",
@@ -101,10 +101,10 @@
       "longitude": -73.91260653734207
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 0,
       "serialNumber": 3590003,
       "latitude": 40.7457242854218,
-      "binStatus": "Nearly Full",
+      "binStatus": "Available",
       "description": "BIN 399 - NW 54th St & Skillman Ave",
       "availableForUse": true,
       "longitude": -73.90995819121599
@@ -1028,7 +1028,7 @@
       "longitude": -73.92586905509233
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 0,
       "serialNumber": 503000138,
       "latitude": 40.678764370117854,
       "binStatus": "Available",
@@ -1199,7 +1199,7 @@
       "longitude": -73.91374111175537
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 0,
       "serialNumber": 503000164,
       "latitude": 40.69660505362728,
       "binStatus": "Available",
@@ -1208,10 +1208,10 @@
       "longitude": -73.93099308013916
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 0,
       "serialNumber": 503000150,
       "latitude": 40.67358758069033,
-      "binStatus": "Nearly Full",
+      "binStatus": "Available",
       "description": "BIN 193 - NW Washington Avenue & St. Johns Place",
       "availableForUse": true,
       "longitude": -73.96311119198799
@@ -1388,10 +1388,10 @@
       "longitude": -73.941904976964
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 0,
       "serialNumber": 503000179,
       "latitude": 40.67617742416484,
-      "binStatus": "Nearly Full",
+      "binStatus": "Available",
       "description": "BIN 190 - NE Underhill Avenue & Park Place",
       "availableForUse": true,
       "longitude": -73.96627854555845
@@ -1496,10 +1496,10 @@
       "longitude": -73.85720618069172
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 503000200,
       "latitude": 40.68219457581468,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 126 - NE Bedford Avenue & Hancock Street",
       "availableForUse": true,
       "longitude": -73.9536564052105
@@ -1577,7 +1577,7 @@
       "longitude": -73.8490579649806
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000201,
       "latitude": 40.68434297291138,
       "binStatus": "Available",
@@ -1829,7 +1829,7 @@
       "longitude": -73.94742764532566
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000243,
       "latitude": 40.8111366429278,
       "binStatus": "Available",
@@ -2693,7 +2693,7 @@
       "longitude": -74.01312500238419
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 505100057,
       "latitude": 40.77544607677087,
       "binStatus": "Available",
@@ -2846,7 +2846,7 @@
       "longitude": -73.9766103569379
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 505100074,
       "latitude": 40.77844967182979,
       "binStatus": "Available",
@@ -3116,7 +3116,7 @@
       "longitude": -73.95414933006201
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 0,
       "serialNumber": 505100124,
       "latitude": 40.74132799277233,
       "binStatus": "Available",
