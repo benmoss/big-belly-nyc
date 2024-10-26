@@ -425,12 +425,12 @@
       "longitude": -73.88136584311724
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 0,
       "serialNumber": 503000022,
       "latitude": 40.866201512573475,
-      "binStatus": "Full",
+      "binStatus": "Available",
       "description": "BIN 64 - SE Broadway & Academy Street",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.92508216202259
     },
     {
@@ -1280,12 +1280,12 @@
       "longitude": -73.94101046025753
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 503000168,
       "latitude": 40.6755571241916,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 188 - NW Vanderbilt Avenue & Plaza Street East",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.96974126370019
     },
     {
@@ -1613,7 +1613,7 @@
       "longitude": -73.928127810359
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 503000204,
       "latitude": 40.69300170948447,
       "binStatus": "Available",
@@ -1820,10 +1820,10 @@
       "longitude": -73.94294936209917
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 503000240,
       "latitude": 40.67428152112551,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 198 - NW New York Avenue & Prospect Place",
       "availableForUse": true,
       "longitude": -73.94742764532566
@@ -2342,7 +2342,7 @@
       "longitude": -73.99540269748928
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 0,
       "serialNumber": 505100031,
       "latitude": 40.72948121652991,
       "binStatus": "Available",
@@ -2441,7 +2441,7 @@
       "longitude": -74.01704739779234
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 0,
       "serialNumber": 505100007,
       "latitude": 40.730315325690235,
       "binStatus": "Available",
@@ -2468,7 +2468,7 @@
       "longitude": -73.99481938922054
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 505100037,
       "latitude": 40.739169439589006,
       "binStatus": "Available",
