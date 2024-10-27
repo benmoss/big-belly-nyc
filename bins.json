@@ -83,7 +83,7 @@
       "longitude": -73.91701877117157
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 3590016,
       "latitude": 40.74379131277653,
       "binStatus": "Available",
@@ -407,12 +407,12 @@
       "longitude": -73.90380453318357
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 503000032,
       "latitude": 40.76149921367936,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 17 - SE 38th Street & 31st Avenue",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.91796863240839
     },
     {
@@ -1280,12 +1280,12 @@
       "longitude": -73.94101046025753
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 80,
       "serialNumber": 503000168,
       "latitude": 40.6755571241916,
-      "binStatus": "Full",
+      "binStatus": "Nearly Full",
       "description": "BIN 188 - NW Vanderbilt Avenue & Plaza Street East",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.96974126370019
     },
     {
@@ -2864,10 +2864,10 @@
       "longitude": -73.99017938079861
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 60,
       "serialNumber": 505100080,
       "latitude": 40.7380040181738,
-      "binStatus": "Nearly Full",
+      "binStatus": "Available",
       "description": "BIN 389 - NW CO 2 Ave & E 23 St",
       "availableForUse": true,
       "longitude": -73.9809653781084
@@ -3224,7 +3224,7 @@
       "longitude": -73.96400324926272
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 505100143,
       "latitude": 40.77663888275979,
       "binStatus": "Available",
