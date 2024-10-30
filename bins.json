@@ -551,7 +551,7 @@
       "longitude": -73.94493098288339
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 0,
       "serialNumber": 503000049,
       "latitude": 40.79160725166976,
       "binStatus": "Available",
@@ -920,7 +920,7 @@
       "longitude": -73.92934955656528
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 0,
       "serialNumber": 503000080,
       "latitude": 40.87989884498878,
       "binStatus": "Available",
@@ -1172,7 +1172,7 @@
       "longitude": -73.9503475651145
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000132,
       "latitude": 40.70324915068062,
       "binStatus": "Available",
@@ -1388,7 +1388,7 @@
       "longitude": -73.941904976964
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 503000179,
       "latitude": 40.67617742416484,
       "binStatus": "Available",
@@ -1514,7 +1514,7 @@
       "longitude": -73.82693077466463
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 503000190,
       "latitude": 40.692363382489,
       "binStatus": "Available",
@@ -1631,7 +1631,7 @@
       "longitude": -73.85504934936762
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 0,
       "serialNumber": 503000215,
       "latitude": 40.865528589915826,
       "binStatus": "Available",
@@ -2045,12 +2045,12 @@
       "longitude": -73.92796251922846
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 503000271,
       "latitude": 40.74194368731704,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 408 - NW 40th St & 47th Ave",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.92471789027536
     },
     {
@@ -2135,10 +2135,10 @@
       "longitude": -73.92091434448957
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 503000205,
       "latitude": 40.68303106054966,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 113 - SW Patchen Avenue & Macdonough Street",
       "availableForUse": true,
       "longitude": -73.9261969551444
@@ -2504,7 +2504,7 @@
       "longitude": -74.00341004133224
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 505100017,
       "latitude": 40.705075385840445,
       "binStatus": "Available",
@@ -2639,10 +2639,10 @@
       "longitude": -73.97332561607193
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100028,
       "latitude": 40.762145800103276,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 348 - SE CO 9 Ave & W 48 St",
       "availableForUse": true,
       "longitude": -73.98977462491895
@@ -2882,7 +2882,7 @@
       "longitude": -73.99090145996239
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 0,
       "serialNumber": 505100106,
       "latitude": 40.78586060688359,
       "binStatus": "Available",
@@ -3197,7 +3197,7 @@
       "longitude": -73.97792649980364
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 505100127,
       "latitude": 40.79516392024059,
       "binStatus": "Available",
@@ -3269,10 +3269,10 @@
       "longitude": -73.99302401909992
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 0,
       "serialNumber": 505100142,
       "latitude": 40.73887358712755,
-      "binStatus": "Nearly Full",
+      "binStatus": "Available",
       "description": "BIN 390 - NE CO E 22 St & Lexington Ave",
       "availableForUse": true,
       "longitude": -73.98511663223668
