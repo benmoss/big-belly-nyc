@@ -2,7 +2,7 @@
   "errorCode": "STATUS_OK",
   "compostAssets": [
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 3590004,
       "latitude": 40.740982515732185,
       "binStatus": "Available",
@@ -830,7 +830,7 @@
       "longitude": -73.93777001649141
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 40,
       "serialNumber": 503000075,
       "latitude": 40.763666893592315,
       "binStatus": "Available",
@@ -1541,7 +1541,7 @@
       "longitude": -73.95281285047531
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 503000207,
       "latitude": 40.68175217538853,
       "binStatus": "Available",
@@ -1712,7 +1712,7 @@
       "longitude": -73.88819441199303
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 503000226,
       "latitude": 40.69043184045754,
       "binStatus": "Available",
@@ -1991,7 +1991,7 @@
       "longitude": -74.06930956989527
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 60,
       "serialNumber": 503000261,
       "latitude": 40.67676683153248,
       "binStatus": "Available",
@@ -2297,12 +2297,12 @@
       "longitude": -73.98598125432342
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 0,
       "serialNumber": 505100010,
       "latitude": 40.75280253801481,
-      "binStatus": "Full",
+      "binStatus": "Available",
       "description": "BIN 346 - NW CO 9 Ave & W 33 St",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.99692150445948
     },
     {
@@ -2441,7 +2441,7 @@
       "longitude": -74.01704739779234
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 0,
       "serialNumber": 505100007,
       "latitude": 40.730315325690235,
       "binStatus": "Available",
@@ -3026,7 +3026,7 @@
       "longitude": -73.96586280976997
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 505100067,
       "latitude": 40.77168450396742,
       "binStatus": "Available",
