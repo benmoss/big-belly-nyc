@@ -1460,12 +1460,12 @@
       "longitude": -73.91591713080048
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 503000184,
       "latitude": 40.673104182956976,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 189 - NE Underhill Avenue & Eastern Parkway",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.96755293011665
     },
     {
@@ -2207,19 +2207,19 @@
       "longitude": -73.94638707990978
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 0,
       "serialNumber": 505100038,
       "latitude": 40.780081383690586,
-      "binStatus": "Full",
+      "binStatus": "Available",
       "description": "BIN 277 - SW CO 3rd Ave & East 88th St",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.9532222620251
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 0,
       "serialNumber": 505100048,
       "latitude": 40.778333070963065,
-      "binStatus": "Nearly Full",
+      "binStatus": "Available",
       "description": "BIN 271 - NW CO 1st Ave & 88th St",
       "availableForUse": true,
       "longitude": -73.94848935814979
@@ -2279,7 +2279,7 @@
       "longitude": -73.94685207786003
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 0,
       "serialNumber": 505100020,
       "latitude": 40.72799056580962,
       "binStatus": "Available",
@@ -2387,7 +2387,7 @@
       "longitude": -73.9869912541827
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 505100045,
       "latitude": 40.74639647509707,
       "binStatus": "Available",
@@ -3296,7 +3296,7 @@
       "longitude": -73.98753543655222
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 0,
       "serialNumber": 505100146,
       "latitude": 40.74723684953337,
       "binStatus": "Available",
@@ -3404,7 +3404,7 @@
       "longitude": -73.97035768079368
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 0,
       "serialNumber": 505100145,
       "latitude": 40.74163391924499,
       "binStatus": "Available",
