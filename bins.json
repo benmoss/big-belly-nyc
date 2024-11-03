@@ -20,12 +20,12 @@
       "longitude": -73.92287585085252
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 3590013,
       "latitude": 40.74689511721386,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 402 - NW Skillman Ave & 44th St",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.92003797195594
     },
     {
@@ -290,7 +290,7 @@
       "longitude": -73.91942974179983
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000011,
       "latitude": 40.835456625319416,
       "binStatus": "Available",
@@ -794,10 +794,10 @@
       "longitude": -73.94291717559099
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 503000069,
       "latitude": 40.762088122135914,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 06 - NW 31st Street & Broadway",
       "availableForUse": true,
       "longitude": -73.92557334154844
@@ -2126,7 +2126,7 @@
       "longitude": -73.78518752753735
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 503000197,
       "latitude": 40.68749730455891,
       "binStatus": "Available",
