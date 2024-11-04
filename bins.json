@@ -155,7 +155,7 @@
       "longitude": -73.99473222632365
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 0,
       "serialNumber": 3590006,
       "latitude": 40.88282894758702,
       "binStatus": "Available",
@@ -877,11 +877,11 @@
     {
       "latestFullness": 0,
       "serialNumber": 503000088,
-      "latitude": 40.84471861958964,
+      "latitude": 40.84376090085538,
       "binStatus": "Available",
-      "description": "BIN 70 - SE Eastburn Avenue & East 174th Street",
+      "description": "BIN 70 - NE CO E 173 St & Weeks Ave",
       "availableForUse": true,
-      "longitude": -73.90847526490688
+      "longitude": -73.90755258500576
     },
     {
       "latestFullness": 0,
@@ -2324,12 +2324,12 @@
       "longitude": -73.99195962283002
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 0,
       "serialNumber": 505100019,
       "latitude": 40.731496522321486,
-      "binStatus": "Full",
+      "binStatus": "Available",
       "description": "BIN 315 - NW CO 4 Ave & E 10 St",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.99051628208568
     },
     {
@@ -3062,7 +3062,7 @@
       "longitude": -73.95966351954947
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 505100102,
       "latitude": 40.74448956998408,
       "binStatus": "Available",
