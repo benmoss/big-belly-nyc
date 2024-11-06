@@ -497,7 +497,7 @@
       "longitude": -73.95299658179283
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 60,
       "serialNumber": 503000053,
       "latitude": 40.764994993021595,
       "binStatus": "Available",
@@ -722,10 +722,10 @@
       "longitude": -73.92594543138473
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 503000061,
       "latitude": 40.76808087642403,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 15 - SE 31st Avenue & 14th Street",
       "availableForUse": true,
       "longitude": -73.93193346987313
@@ -902,10 +902,10 @@
       "longitude": -73.91521599143744
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 503000093,
       "latitude": 40.76223009405083,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 01 - NE 31st Avenue & 37th Street",
       "availableForUse": true,
       "longitude": -73.91863731029024
@@ -1001,10 +1001,10 @@
       "longitude": -73.9447372895371
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 503000074,
       "latitude": 40.80957426897732,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 54 - NE East 130th Street & 5th Avenue",
       "availableForUse": true,
       "longitude": -73.93987722694874
@@ -1379,7 +1379,7 @@
       "longitude": -73.91918834298849
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000178,
       "latitude": 40.671282700678354,
       "binStatus": "Available",
@@ -1496,10 +1496,10 @@
       "longitude": -73.85720618069172
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 503000200,
       "latitude": 40.68219457581468,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 126 - NE Bedford Avenue & Hancock Street",
       "availableForUse": true,
       "longitude": -73.9536564052105
@@ -1649,7 +1649,7 @@
       "longitude": -73.95670607686043
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 503000214,
       "latitude": 40.84592817625355,
       "binStatus": "Available",
@@ -1784,7 +1784,7 @@
       "longitude": -73.89310654252768
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 60,
       "serialNumber": 503000186,
       "latitude": 40.6858662258759,
       "binStatus": "Available",
@@ -1820,12 +1820,12 @@
       "longitude": -73.94294936209917
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 503000240,
       "latitude": 40.67428152112551,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 198 - NW New York Avenue & Prospect Place",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.94742764532566
     },
     {
@@ -1946,10 +1946,10 @@
       "longitude": -74.14217077195644
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 503000244,
       "latitude": 40.67498593224985,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 194 - NW Classon Avenue & Park Place",
       "availableForUse": true,
       "longitude": -73.96024390254057
@@ -2243,7 +2243,7 @@
       "longitude": -73.99693615022026
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 505100005,
       "latitude": 40.70815249011514,
       "binStatus": "Available",
@@ -2432,10 +2432,10 @@
       "longitude": -73.97826863139804
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100043,
       "latitude": 40.70584702623706,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 247 - NW CO 1ST PL & Little West St.",
       "availableForUse": true,
       "longitude": -74.01704739779234
@@ -2810,12 +2810,12 @@
       "longitude": -73.97465123299237
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 505100079,
       "latitude": 40.72376127391616,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 322 - NW CO Ave A & E 3 St",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.98540060636678
     },
     {
@@ -3026,7 +3026,7 @@
       "longitude": -73.96586280976997
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 505100067,
       "latitude": 40.77168450396742,
       "binStatus": "Available",
@@ -3053,7 +3053,7 @@
       "longitude": -73.98167006603096
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 505100100,
       "latitude": 40.773718493770346,
       "binStatus": "Available",
