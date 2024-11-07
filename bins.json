@@ -110,7 +110,7 @@
       "longitude": -73.90995819121599
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 3590011,
       "latitude": 40.73775011894243,
       "binStatus": "Available",
@@ -299,7 +299,7 @@
       "longitude": -73.92011906951666
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 503000012,
       "latitude": 40.820960776484476,
       "binStatus": "Available",
@@ -380,16 +380,16 @@
       "longitude": -73.93805466592312
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 503000006,
       "latitude": 40.855684792533886,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 61 - NE Cabrini Blvd. & West 187th Street",
       "availableForUse": true,
       "longitude": -73.93778998622929
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 503000023,
       "latitude": 40.84608111296369,
       "binStatus": "Available",
@@ -641,10 +641,10 @@
       "longitude": -73.9660133421421
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 503000039,
       "latitude": 40.82647613312916,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 25 - SW West 147th Street & Amsterdam Avenue",
       "availableForUse": true,
       "longitude": -73.94687759676215
@@ -1145,7 +1145,7 @@
       "longitude": -73.90656117349863
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000148,
       "latitude": 40.701373514374744,
       "binStatus": "Available",
@@ -2027,7 +2027,7 @@
       "longitude": -74.14456080612285
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000266,
       "latitude": 40.70289868141765,
       "binStatus": "Available",
@@ -2054,7 +2054,7 @@
       "longitude": -73.92471789027536
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 503000267,
       "latitude": 40.67165371443654,
       "binStatus": "Available",
@@ -2441,7 +2441,7 @@
       "longitude": -74.01704739779234
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 60,
       "serialNumber": 505100007,
       "latitude": 40.730315325690235,
       "binStatus": "Available",
@@ -3431,7 +3431,7 @@
       "longitude": -73.98135114745574
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 60,
       "serialNumber": 505100119,
       "latitude": 40.77611866432287,
       "binStatus": "Available",
@@ -3449,12 +3449,12 @@
       "longitude": -73.97587379945203
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 505100128,
       "latitude": 40.72662593513809,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 327 - SW CO Bond St & Lafayette St",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.99427816002996
     }
   ]
