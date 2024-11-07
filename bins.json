@@ -29,7 +29,7 @@
       "longitude": -73.92003797195594
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 0,
       "serialNumber": 3590017,
       "latitude": 40.7447717419058,
       "binStatus": "Available",
@@ -38,7 +38,7 @@
       "longitude": -73.9175371080637
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 0,
       "serialNumber": 3590014,
       "latitude": 40.745373137079994,
       "binStatus": "Available",
@@ -47,7 +47,7 @@
       "longitude": -73.92288388211199
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 0,
       "serialNumber": 3590020,
       "latitude": 40.746148800069264,
       "binStatus": "Available",
@@ -65,16 +65,16 @@
       "longitude": -73.89971678571764
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 0,
       "serialNumber": 3590019,
       "latitude": 40.745991757187745,
-      "binStatus": "Full",
+      "binStatus": "Available",
       "description": "BIN 398 - NW 57th St & Woodside Ave",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.90727262943983
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 0,
       "serialNumber": 3590015,
       "latitude": 40.746483770342856,
       "binStatus": "Available",
@@ -101,10 +101,10 @@
       "longitude": -73.91260653734207
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 0,
       "serialNumber": 3590003,
       "latitude": 40.7457242854218,
-      "binStatus": "Nearly Full",
+      "binStatus": "Available",
       "description": "BIN 399 - NW 54th St & Skillman Ave",
       "availableForUse": true,
       "longitude": -73.90995819121599
@@ -3251,7 +3251,7 @@
       "longitude": -73.98776125245462
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 505100144,
       "latitude": 40.78596763857327,
       "binStatus": "Available",
