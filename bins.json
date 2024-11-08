@@ -200,7 +200,7 @@
       "longitude": -74.11656774580479
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 0,
       "serialNumber": 503000002,
       "latitude": 40.802377335586115,
       "binStatus": "Available",
@@ -425,12 +425,12 @@
       "longitude": -73.88136584311724
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 503000022,
       "latitude": 40.866201512573475,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 64 - SE Broadway & Academy Street",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.92508216202259
     },
     {
@@ -992,7 +992,7 @@
       "longitude": -73.95624071359634
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 503000076,
       "latitude": 40.791411617905716,
       "binStatus": "Available",
@@ -1037,7 +1037,7 @@
       "longitude": -73.96537832915783
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 503000140,
       "latitude": 40.681352486961536,
       "binStatus": "Available",
@@ -1064,12 +1064,12 @@
       "longitude": -73.90436712652445
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 503000136,
       "latitude": 40.67726495043478,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 192 - NW Grand Avenue & St. Marks Avenue",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.96265991032124
     },
     {
@@ -1145,7 +1145,7 @@
       "longitude": -73.90656117349863
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 503000148,
       "latitude": 40.701373514374744,
       "binStatus": "Available",
@@ -1271,7 +1271,7 @@
       "longitude": -73.9129939918858
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 503000160,
       "latitude": 40.6827719802296,
       "binStatus": "Available",
@@ -1649,7 +1649,7 @@
       "longitude": -73.95670607686043
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 60,
       "serialNumber": 503000214,
       "latitude": 40.84592817625355,
       "binStatus": "Available",
@@ -1919,10 +1919,10 @@
       "longitude": -73.95637851208448
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 503000257,
       "latitude": 40.670817086934036,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 214 - SW Rogers Avenue & Lincoln Place",
       "availableForUse": true,
       "longitude": -73.95329229533672
@@ -2207,16 +2207,16 @@
       "longitude": -73.94638707990978
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100038,
       "latitude": 40.780081383690586,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 277 - SW CO 3rd Ave & East 88th St",
       "availableForUse": true,
       "longitude": -73.9532222620251
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 505100048,
       "latitude": 40.778333070963065,
       "binStatus": "Available",
@@ -2405,10 +2405,10 @@
       "longitude": -74.00695323944092
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100003,
       "latitude": 40.73776704120356,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 332 - SE CO 7 Ave & W 13 St",
       "availableForUse": true,
       "longitude": -74.00006544331396
@@ -2648,7 +2648,7 @@
       "longitude": -73.98977462491895
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 505100025,
       "latitude": 40.74240669511277,
       "binStatus": "Available",
@@ -2792,10 +2792,10 @@
       "longitude": -73.99013103325534
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100081,
       "latitude": 40.78693626205199,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 367 - SW CO Amsterdam Ave & W 85 St",
       "availableForUse": true,
       "longitude": -73.97570673483682
@@ -2855,10 +2855,10 @@
       "longitude": -73.98593114887535
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100083,
       "latitude": 40.72496280254391,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 324 - NE CO 2 Ave & E 2 St",
       "availableForUse": true,
       "longitude": -73.99017938079861
@@ -3332,10 +3332,10 @@
       "longitude": -73.95175657391553
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100121,
       "latitude": 40.7909709189525,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 371 - NW CO W 91 St & Amsterdam Ave",
       "availableForUse": true,
       "longitude": -73.97276669918094
@@ -3377,7 +3377,7 @@
       "longitude": -73.99201305589226
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 60,
       "serialNumber": 505100123,
       "latitude": 40.78331643218788,
       "binStatus": "Available",
