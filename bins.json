@@ -20,12 +20,12 @@
       "longitude": -73.92287585085252
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 80,
       "serialNumber": 3590013,
       "latitude": 40.74689511721386,
-      "binStatus": "Full",
+      "binStatus": "Nearly Full",
       "description": "BIN 402 - NW Skillman Ave & 44th St",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.92003797195594
     },
     {
@@ -56,19 +56,19 @@
       "longitude": -73.91328877313748
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 3590001,
       "latitude": 40.746548059294376,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "Bin 396 - NE 64th St. & 39th Ave",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.89971678571764
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 3590019,
       "latitude": 40.745991757187745,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 398 - NW 57th St & Woodside Ave",
       "availableForUse": true,
       "longitude": -73.90727262943983
@@ -335,7 +335,7 @@
       "longitude": -73.96496895700693
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 60,
       "serialNumber": 503000015,
       "latitude": 40.715768264498486,
       "binStatus": "Available",
@@ -668,10 +668,10 @@
       "longitude": -73.92041435458692
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 503000035,
       "latitude": 40.820298050767335,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 40 - NW West 141st Street & Fredrick Douglas Blvd",
       "availableForUse": true,
       "longitude": -73.94394144415855
@@ -803,7 +803,7 @@
       "longitude": -73.92557334154844
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 40,
       "serialNumber": 503000071,
       "latitude": 40.7948329016069,
       "binStatus": "Available",
@@ -1046,7 +1046,7 @@
       "longitude": -73.92874404788017
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 503000131,
       "latitude": 40.688233556498346,
       "binStatus": "Available",
@@ -1199,10 +1199,10 @@
       "longitude": -73.91374111175537
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 503000164,
       "latitude": 40.69660505362728,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 164 - NE Bushwick Avenue & Suydam Street",
       "availableForUse": true,
       "longitude": -73.93099308013916
@@ -1685,7 +1685,7 @@
       "longitude": -73.90800554305315
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000222,
       "latitude": 40.821624764178374,
       "binStatus": "Available",
@@ -1865,7 +1865,7 @@
       "longitude": -73.95897587267723
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 503000245,
       "latitude": 40.673484595144046,
       "binStatus": "Available",
@@ -2171,7 +2171,7 @@
       "longitude": -73.93855053931475
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 503000202,
       "latitude": 40.66971391909037,
       "binStatus": "Available",
@@ -2225,10 +2225,10 @@
       "longitude": -73.94848935814979
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100040,
       "latitude": 40.77068591297934,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 363 - NW CO W 63 St & Central Park W",
       "availableForUse": true,
       "longitude": -73.98008527492154
@@ -2306,10 +2306,10 @@
       "longitude": -73.99692150445948
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100049,
       "latitude": 40.70676048283521,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 253 - SW CO Maiden Lane & Pearl Street",
       "availableForUse": true,
       "longitude": -74.00691708161023
@@ -2405,10 +2405,10 @@
       "longitude": -74.00695323944092
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100003,
       "latitude": 40.73776704120356,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 332 - SE CO 7 Ave & W 13 St",
       "availableForUse": true,
       "longitude": -74.00006544331396
@@ -2423,10 +2423,10 @@
       "longitude": -74.00655866692779
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100024,
       "latitude": 40.73699589127157,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 302 - NE CO 1st Ave & E 23 St",
       "availableForUse": true,
       "longitude": -73.97826863139804
@@ -2585,10 +2585,10 @@
       "longitude": -73.95247723907232
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 80,
       "serialNumber": 505100026,
       "latitude": 40.78340997537408,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 272 - SE 2nd Ave & 95th St",
       "availableForUse": true,
       "longitude": -73.94763141892919
@@ -2711,10 +2711,10 @@
       "longitude": -74.0047200044207
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100059,
       "latitude": 40.718786682897935,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 244 - SW CO of Greenwich St & Harrison ST",
       "availableForUse": true,
       "longitude": -74.01055041700602
@@ -3233,10 +3233,10 @@
       "longitude": -73.94652914221223
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100138,
       "latitude": 40.76639459170164,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 353 - SE CO 10 Ave & W 53 St",
       "availableForUse": true,
       "longitude": -73.99037571712044
