@@ -155,7 +155,7 @@
       "longitude": -73.99473222632365
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 3590006,
       "latitude": 40.88282894758702,
       "binStatus": "Available",
@@ -200,12 +200,12 @@
       "longitude": -74.11656774580479
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 503000002,
       "latitude": 40.802377335586115,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 51 - NE East 120 Street & Madison Avenue",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.94273579120636
     },
     {
@@ -254,10 +254,10 @@
       "longitude": -73.94638694822788
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 503000008,
       "latitude": 40.761548735935826,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 05 - SW 24th Street & 34th Avenue",
       "availableForUse": true,
       "longitude": -73.93188491463661
@@ -443,7 +443,7 @@
       "longitude": -73.92383761703968
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 503000033,
       "latitude": 40.86054008940285,
       "binStatus": "Available",
@@ -776,7 +776,7 @@
       "longitude": -74.07695855945349
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 503000067,
       "latitude": 40.76558557637679,
       "binStatus": "Available",
@@ -983,7 +983,7 @@
       "longitude": -73.90491127967834
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 503000100,
       "latitude": 40.818994146499016,
       "binStatus": "Available",
@@ -1145,7 +1145,7 @@
       "longitude": -73.90656117349863
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 503000148,
       "latitude": 40.701373514374744,
       "binStatus": "Available",
@@ -1658,7 +1658,7 @@
       "longitude": -73.82940910756588
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 503000221,
       "latitude": 40.69040997746076,
       "binStatus": "Available",
@@ -1685,7 +1685,7 @@
       "longitude": -73.90800554305315
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 503000222,
       "latitude": 40.821624764178374,
       "binStatus": "Available",
@@ -1910,10 +1910,10 @@
       "longitude": -73.91177110144258
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 503000254,
       "latitude": 40.67509191438939,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 195 - NE Franklin Avenue & Prospect Place",
       "availableForUse": true,
       "longitude": -73.95637851208448
@@ -2018,7 +2018,7 @@
       "longitude": -74.0864036232233
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 503000272,
       "latitude": 40.62262016360215,
       "binStatus": "Available",
@@ -2045,7 +2045,7 @@
       "longitude": -73.92796251922846
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 60,
       "serialNumber": 503000271,
       "latitude": 40.74194368731704,
       "binStatus": "Available",
@@ -2081,7 +2081,7 @@
       "longitude": -73.95756002515554
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 60,
       "serialNumber": 503000273,
       "latitude": 40.67710908208188,
       "binStatus": "Available",
@@ -2234,7 +2234,7 @@
       "longitude": -73.98008527492154
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 505100042,
       "latitude": 40.73752862143271,
       "binStatus": "Available",
@@ -2324,7 +2324,7 @@
       "longitude": -73.99195962283002
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 60,
       "serialNumber": 505100019,
       "latitude": 40.731496522321486,
       "binStatus": "Available",
@@ -2396,21 +2396,21 @@
       "longitude": -74.00526163846435
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100027,
       "latitude": 40.71904231972568,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 250 - SE CO Varick St. & Franklin St.",
       "availableForUse": true,
       "longitude": -74.00695323944092
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 505100003,
       "latitude": 40.73776704120356,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 332 - SE CO 7 Ave & W 13 St",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -74.00006544331396
     },
     {
@@ -2459,12 +2459,12 @@
       "longitude": -74.0109745413065
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 80,
       "serialNumber": 505100023,
       "latitude": 40.7346470054958,
-      "binStatus": "Full",
+      "binStatus": "Nearly Full",
       "description": "BIN 311 - SW CO W 12 St & 5 Ave",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.99481938922054
     },
     {
@@ -2612,10 +2612,10 @@
       "longitude": -73.95822445057821
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100016,
       "latitude": 40.76390136307756,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 269 - SE CO E 66 St & 1 Ave",
       "availableForUse": true,
       "longitude": -73.95865606044225
@@ -2774,7 +2774,7 @@
       "longitude": -73.9546898742066
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 505100089,
       "latitude": 40.77432420761129,
       "binStatus": "Available",
@@ -2837,10 +2837,10 @@
       "longitude": -73.9864215009938
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100095,
       "latitude": 40.74408502157723,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 300 - SW CO E 33 St & 2 Ave",
       "availableForUse": true,
       "longitude": -73.9766103569379
@@ -3161,7 +3161,7 @@
       "longitude": -73.96866042855898
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 505100103,
       "latitude": 40.72946703338854,
       "binStatus": "Available",
@@ -3224,12 +3224,12 @@
       "longitude": -73.96400324926272
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 505100143,
       "latitude": 40.77663888275979,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 392 - NE CO York Ave & E 87 St",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.94652914221223
     },
     {
@@ -3269,12 +3269,12 @@
       "longitude": -73.99302401909992
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 505100142,
       "latitude": 40.73887358712755,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 390 - NE CO E 22 St & Lexington Ave",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.98511663223668
     },
     {
@@ -3287,7 +3287,7 @@
       "longitude": -73.98834843188524
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 505100120,
       "latitude": 40.77519164031714,
       "binStatus": "Available",
@@ -3296,7 +3296,7 @@
       "longitude": -73.98753543655222
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 505100146,
       "latitude": 40.74723684953337,
       "binStatus": "Available",
