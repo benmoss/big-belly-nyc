@@ -74,10 +74,10 @@
       "longitude": -73.90727262943983
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 3590015,
       "latitude": 40.746483770342856,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 401 - NE Skillman Ave & 47th St",
       "availableForUse": true,
       "longitude": -73.91701877117157
@@ -317,12 +317,12 @@
       "longitude": -73.93766775727272
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 503000013,
       "latitude": 40.86843300418909,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 65 - NE West 212th Street & Broadway",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.91832768131844
     },
     {
@@ -488,10 +488,10 @@
       "longitude": -73.87542713633172
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 503000060,
       "latitude": 40.81491836063367,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 27 - NE Convent Avenue & W 130 Street",
       "availableForUse": true,
       "longitude": -73.95299658179283
@@ -668,12 +668,12 @@
       "longitude": -73.92041435458692
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 503000035,
       "latitude": 40.820298050767335,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 40 - NW West 141st Street & Fredrick Douglas Blvd",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.94394144415855
     },
     {
@@ -875,7 +875,7 @@
       "longitude": -73.94765663892031
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 0,
       "serialNumber": 503000088,
       "latitude": 40.84376090085538,
       "binStatus": "Available",
@@ -1109,7 +1109,7 @@
       "longitude": -73.9499693736434
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000129,
       "latitude": 40.685812233251795,
       "binStatus": "Available",
@@ -2540,12 +2540,12 @@
       "longitude": -73.97783417254686
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 505100035,
       "latitude": 40.77152776150592,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 276 - NE CO York Avenue & 79th Street",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.95019042066897
     },
     {
@@ -2585,12 +2585,12 @@
       "longitude": -73.95247723907232
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 505100026,
       "latitude": 40.78340997537408,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 272 - SE 2nd Ave & 95th St",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.94763141892919
     },
     {
@@ -2846,10 +2846,10 @@
       "longitude": -73.9766103569379
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100074,
       "latitude": 40.77844967182979,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 364 - NW CO West End Ave & W 70 St",
       "availableForUse": true,
       "longitude": -73.98593114887535
@@ -2981,7 +2981,7 @@
       "longitude": -73.94326507506806
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 60,
       "serialNumber": 505100109,
       "latitude": 40.80401808886133,
       "binStatus": "Available",
@@ -3350,7 +3350,7 @@
       "longitude": -73.97196531694908
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 505100140,
       "latitude": 40.760441717606135,
       "binStatus": "Available",
