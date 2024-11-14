@@ -119,7 +119,7 @@
       "longitude": -73.92154820692338
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 3590008,
       "latitude": 40.741475328023036,
       "binStatus": "Available",
@@ -218,7 +218,7 @@
       "longitude": -73.86632109842786
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 503000028,
       "latitude": 40.798054852781554,
       "binStatus": "Available",
@@ -317,16 +317,16 @@
       "longitude": -73.93766775727272
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 0,
       "serialNumber": 503000013,
       "latitude": 40.86843300418909,
-      "binStatus": "Nearly Full",
+      "binStatus": "Available",
       "description": "BIN 65 - NE West 212th Street & Broadway",
       "availableForUse": true,
       "longitude": -73.91832768131844
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 0,
       "serialNumber": 503000016,
       "latitude": 40.80673101650625,
       "binStatus": "Available",
@@ -425,12 +425,12 @@
       "longitude": -73.88136584311724
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 0,
       "serialNumber": 503000022,
       "latitude": 40.866201512573475,
-      "binStatus": "Full",
+      "binStatus": "Available",
       "description": "BIN 64 - SE Broadway & Academy Street",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.92508216202259
     },
     {
@@ -479,7 +479,7 @@
       "longitude": -73.92958357930183
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 503000059,
       "latitude": 40.87534010684036,
       "binStatus": "Available",
@@ -551,7 +551,7 @@
       "longitude": -73.94493098288339
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 503000049,
       "latitude": 40.79160725166976,
       "binStatus": "Available",
@@ -632,7 +632,7 @@
       "longitude": -73.9623499576847
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 0,
       "serialNumber": 503000040,
       "latitude": 40.80557429253741,
       "binStatus": "Available",
@@ -695,7 +695,7 @@
       "longitude": -73.96890208125114
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 0,
       "serialNumber": 503000047,
       "latitude": 40.80229053822756,
       "binStatus": "Available",
@@ -947,7 +947,7 @@
       "longitude": -73.92875041812658
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 0,
       "serialNumber": 503000095,
       "latitude": 40.82739891873525,
       "binStatus": "Available",
@@ -1334,7 +1334,7 @@
       "longitude": -73.91542855650187
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 60,
       "serialNumber": 503000175,
       "latitude": 40.68014247411724,
       "binStatus": "Available",
@@ -1676,7 +1676,7 @@
       "longitude": -73.93744513392448
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 503000219,
       "latitude": 40.75685380877115,
       "binStatus": "Available",
@@ -1721,7 +1721,7 @@
       "longitude": -73.91965739428997
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 503000225,
       "latitude": 40.6865703680712,
       "binStatus": "Available",
@@ -1829,7 +1829,7 @@
       "longitude": -73.94742764532566
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 0,
       "serialNumber": 503000243,
       "latitude": 40.8111366429278,
       "binStatus": "Available",
@@ -1892,7 +1892,7 @@
       "longitude": -73.94772704690695
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000251,
       "latitude": 40.67459377925092,
       "binStatus": "Available",
@@ -1919,10 +1919,10 @@
       "longitude": -73.95637851208448
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 503000257,
       "latitude": 40.670817086934036,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 214 - SW Rogers Avenue & Lincoln Place",
       "availableForUse": true,
       "longitude": -73.95329229533672
@@ -1991,10 +1991,10 @@
       "longitude": -74.06930956989527
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 503000261,
       "latitude": 40.67676683153248,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 199 - NW New York Avenue & Dean Street",
       "availableForUse": true,
       "longitude": -73.9471010863781
@@ -2207,7 +2207,7 @@
       "longitude": -73.94638707990978
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 505100038,
       "latitude": 40.780081383690586,
       "binStatus": "Available",
@@ -2306,10 +2306,10 @@
       "longitude": -73.99692150445948
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 0,
       "serialNumber": 505100049,
       "latitude": 40.70676048283521,
-      "binStatus": "Nearly Full",
+      "binStatus": "Available",
       "description": "BIN 253 - SW CO Maiden Lane & Pearl Street",
       "availableForUse": true,
       "longitude": -74.00691708161023
@@ -2396,12 +2396,12 @@
       "longitude": -74.00526163846435
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 0,
       "serialNumber": 505100027,
       "latitude": 40.71904231972568,
-      "binStatus": "Full",
+      "binStatus": "Available",
       "description": "BIN 250 - SE CO Varick St. & Franklin St.",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -74.00695323944092
     },
     {
@@ -2414,7 +2414,7 @@
       "longitude": -74.00006544331396
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 0,
       "serialNumber": 505100022,
       "latitude": 40.73287635373648,
       "binStatus": "Available",
@@ -2423,7 +2423,7 @@
       "longitude": -74.00655866692779
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 505100024,
       "latitude": 40.73699589127157,
       "binStatus": "Available",
@@ -2468,10 +2468,10 @@
       "longitude": -73.99481938922054
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100037,
       "latitude": 40.739169439589006,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 331 - SE CO Greenwich Ave & 8th Ave",
       "availableForUse": true,
       "longitude": -74.00274561377924
@@ -2495,7 +2495,7 @@
       "longitude": -73.99849525644926
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 0,
       "serialNumber": 505100029,
       "latitude": 40.710663476710224,
       "binStatus": "Available",
@@ -2549,7 +2549,7 @@
       "longitude": -73.95019042066897
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 0,
       "serialNumber": 505100044,
       "latitude": 40.73121273762785,
       "binStatus": "Available",
@@ -2621,12 +2621,12 @@
       "longitude": -73.95865606044225
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 0,
       "serialNumber": 505100063,
       "latitude": 40.71256505742161,
-      "binStatus": "Full",
+      "binStatus": "Available",
       "description": "BIN 251 - NE CO Broadway & Park Place (City hall park side)",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -74.00756552771458
     },
     {
@@ -2666,7 +2666,7 @@
       "longitude": -73.99876398340452
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 0,
       "serialNumber": 505100058,
       "latitude": 40.716735019858994,
       "binStatus": "Available",
@@ -2702,7 +2702,7 @@
       "longitude": -73.9535946787067
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 0,
       "serialNumber": 505100069,
       "latitude": 40.724874101417406,
       "binStatus": "Available",
@@ -2738,7 +2738,7 @@
       "longitude": -73.96450973157151
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 0,
       "serialNumber": 505100060,
       "latitude": 40.71026346371404,
       "binStatus": "Available",
@@ -2819,16 +2819,16 @@
       "longitude": -73.98540060636678
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100092,
       "latitude": 40.78957914389564,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 369 - SW CO W 89 St & Amsterdam Ave",
       "availableForUse": true,
       "longitude": -73.97379656746796
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 0,
       "serialNumber": 505100084,
       "latitude": 40.767171552566246,
       "binStatus": "Available",
@@ -2945,10 +2945,10 @@
       "longitude": -73.93435451155901
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 0,
       "serialNumber": 505100073,
       "latitude": 40.80348382274017,
-      "binStatus": "Nearly Full",
+      "binStatus": "Available",
       "description": "BIN 385 - SE CO Broadway & W 109 St",
       "availableForUse": true,
       "longitude": -73.96686314261594
@@ -3152,7 +3152,7 @@
       "longitude": -73.96592718820084
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 505100105,
       "latitude": 40.76175746497325,
       "binStatus": "Available",
@@ -3215,7 +3215,7 @@
       "longitude": -73.99655276134223
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 505100133,
       "latitude": 40.79786101513957,
       "binStatus": "Available",
@@ -3224,7 +3224,7 @@
       "longitude": -73.96400324926272
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 60,
       "serialNumber": 505100143,
       "latitude": 40.77663888275979,
       "binStatus": "Available",
@@ -3242,7 +3242,7 @@
       "longitude": -73.99037571712044
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 505100136,
       "latitude": 40.764814574064715,
       "binStatus": "Available",
@@ -3323,12 +3323,12 @@
       "longitude": -73.97619309561924
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 505100149,
       "latitude": 40.77380204413203,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 393 - NW CO 1 Ave & E 81 St",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.95175657391553
     },
     {
@@ -3359,7 +3359,7 @@
       "longitude": -73.99506114554103
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 0,
       "serialNumber": 505100150,
       "latitude": 40.729589714367386,
       "binStatus": "Available",
@@ -3386,12 +3386,12 @@
       "longitude": -73.98062197434946
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 0,
       "serialNumber": 505100118,
       "latitude": 40.769273183978356,
-      "binStatus": "Full",
+      "binStatus": "Available",
       "description": "BIN 355 - NW CO  9th Ave & West 59th Street",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.98478295989479
     },
     {
