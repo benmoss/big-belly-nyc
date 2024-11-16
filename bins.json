@@ -2,7 +2,7 @@
   "errorCode": "STATUS_OK",
   "compostAssets": [
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 3590004,
       "latitude": 40.740982515732185,
       "binStatus": "Available",
@@ -317,7 +317,7 @@
       "longitude": -73.93766775727272
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 0,
       "serialNumber": 503000013,
       "latitude": 40.86843300418909,
       "binStatus": "Available",
@@ -425,12 +425,12 @@
       "longitude": -73.88136584311724
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 100,
       "serialNumber": 503000022,
       "latitude": 40.866201512573475,
-      "binStatus": "Available",
+      "binStatus": "Full",
       "description": "BIN 64 - SE Broadway & Academy Street",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.92508216202259
     },
     {
@@ -677,7 +677,7 @@
       "longitude": -73.94394144415855
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000034,
       "latitude": 40.774054817889976,
       "binStatus": "Available",
@@ -785,7 +785,7 @@
       "longitude": -73.92632732264548
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 503000070,
       "latitude": 40.83161371635521,
       "binStatus": "Available",
@@ -866,7 +866,7 @@
       "longitude": -73.93855724483728
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000085,
       "latitude": 40.80984148378304,
       "binStatus": "Available",
@@ -893,7 +893,7 @@
       "longitude": -73.93792377806369
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 503000087,
       "latitude": 40.84052114217759,
       "binStatus": "Available",
@@ -1280,7 +1280,7 @@
       "longitude": -73.94101046025753
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 60,
       "serialNumber": 503000168,
       "latitude": 40.6755571241916,
       "binStatus": "Available",
@@ -1460,7 +1460,7 @@
       "longitude": -73.91591713080048
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 60,
       "serialNumber": 503000184,
       "latitude": 40.673104182956976,
       "binStatus": "Available",
@@ -1496,7 +1496,7 @@
       "longitude": -73.85720618069172
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000200,
       "latitude": 40.68219457581468,
       "binStatus": "Available",
@@ -1856,7 +1856,7 @@
       "longitude": -73.93390157678125
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000241,
       "latitude": 40.6774118895118,
       "binStatus": "Available",
@@ -2081,7 +2081,7 @@
       "longitude": -73.95756002515554
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000273,
       "latitude": 40.67710908208188,
       "binStatus": "Available",
@@ -2189,7 +2189,7 @@
       "longitude": -73.98717944724858
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 505100039,
       "latitude": 40.781609451116324,
       "binStatus": "Available",
@@ -2198,7 +2198,7 @@
       "longitude": -73.94892745726821
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 505100018,
       "latitude": 40.77294782166341,
       "binStatus": "Available",
@@ -2270,7 +2270,7 @@
       "longitude": -73.9538887710376
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 505100014,
       "latitude": 40.78010940688603,
       "binStatus": "Available",
@@ -2369,7 +2369,7 @@
       "longitude": -73.9498927384089
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 505100013,
       "latitude": 40.73565255133342,
       "binStatus": "Available",
@@ -2477,7 +2477,7 @@
       "longitude": -74.00274561377924
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 505100047,
       "latitude": 40.73539348561974,
       "binStatus": "Available",
@@ -2522,7 +2522,7 @@
       "longitude": -73.99466765892298
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 505100032,
       "latitude": 40.765863654327504,
       "binStatus": "Available",
@@ -2540,7 +2540,7 @@
       "longitude": -73.97783417254686
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 505100035,
       "latitude": 40.77152776150592,
       "binStatus": "Available",
@@ -2603,7 +2603,7 @@
       "longitude": -73.98249430253485
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 505100002,
       "latitude": 40.76863578734461,
       "binStatus": "Available",
@@ -2639,7 +2639,7 @@
       "longitude": -73.97332561607193
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 505100028,
       "latitude": 40.762145800103276,
       "binStatus": "Available",
@@ -2711,7 +2711,7 @@
       "longitude": -74.0047200044207
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 60,
       "serialNumber": 505100059,
       "latitude": 40.718786682897935,
       "binStatus": "Available",
@@ -2855,7 +2855,7 @@
       "longitude": -73.98593114887535
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 505100083,
       "latitude": 40.72496280254391,
       "binStatus": "Available",
@@ -2909,10 +2909,10 @@
       "longitude": -73.97107263571145
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100107,
       "latitude": 40.73674344375692,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 308 - NW CO Park Ave S/Union Square East & E 17 St",
       "availableForUse": true,
       "longitude": -73.98908566787568
@@ -2954,7 +2954,7 @@
       "longitude": -73.96686314261594
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 505100068,
       "latitude": 40.7116258563826,
       "binStatus": "Available",
@@ -3179,10 +3179,10 @@
       "longitude": -73.96135753145826
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 0,
       "serialNumber": 505100113,
       "latitude": 40.741606235945184,
-      "binStatus": "Nearly Full",
+      "binStatus": "Available",
       "description": "BIN 307 - NW CO Park Ave S & E 25 St",
       "availableForUse": true,
       "longitude": -73.98558684719369
