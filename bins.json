@@ -2,7 +2,7 @@
   "errorCode": "STATUS_OK",
   "compostAssets": [
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 3590004,
       "latitude": 40.740982515732185,
       "binStatus": "Available",
@@ -155,7 +155,7 @@
       "longitude": -73.99473222632365
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 3590006,
       "latitude": 40.88282894758702,
       "binStatus": "Available",
@@ -506,12 +506,12 @@
       "longitude": -73.92496582120657
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 503000054,
       "latitude": 40.76387664872765,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 07 - SE 32nd Street & 31st Avenue",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.92266314476728
     },
     {
@@ -542,7 +542,7 @@
       "longitude": -73.94453756511211
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 503000048,
       "latitude": 40.7966226877643,
       "binStatus": "Available",
@@ -938,12 +938,12 @@
       "longitude": -73.90734169632196
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 503000094,
       "latitude": 40.7666826313674,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 11 - SW 31st Avenue & 23rd Street",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.92875041812658
     },
     {
@@ -1091,7 +1091,7 @@
       "longitude": -73.93217660486698
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 503000135,
       "latitude": 40.69796320197583,
       "binStatus": "Available",
@@ -1172,12 +1172,12 @@
       "longitude": -73.9503475651145
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 503000132,
       "latitude": 40.70324915068062,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 181 - SW St. Nicholas Avenue & Greene Avenue",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.91453684044001
     },
     {
@@ -2189,12 +2189,12 @@
       "longitude": -73.98717944724858
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 505100039,
       "latitude": 40.781609451116324,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 274 - SE CO E 92 St & 2 Ave",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.94892745726821
     },
     {
@@ -2855,7 +2855,7 @@
       "longitude": -73.98593114887535
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 505100083,
       "latitude": 40.72496280254391,
       "binStatus": "Available",
@@ -2972,7 +2972,7 @@
       "longitude": -73.96902091534423
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 505100065,
       "latitude": 40.769098236486705,
       "binStatus": "Available",
@@ -3062,7 +3062,7 @@
       "longitude": -73.95966351954947
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 505100102,
       "latitude": 40.74448956998408,
       "binStatus": "Available",
@@ -3449,12 +3449,12 @@
       "longitude": -73.97587379945203
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 505100128,
       "latitude": 40.72662593513809,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 327 - SW CO Bond St & Lafayette St",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.99427816002996
     }
   ]
