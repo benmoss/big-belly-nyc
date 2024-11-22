@@ -83,7 +83,7 @@
       "longitude": -73.91701877117157
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 3590016,
       "latitude": 40.74379131277653,
       "binStatus": "Available",
@@ -200,7 +200,7 @@
       "longitude": -74.11656774580479
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 60,
       "serialNumber": 503000002,
       "latitude": 40.802377335586115,
       "binStatus": "Available",
@@ -380,10 +380,10 @@
       "longitude": -73.93805466592312
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 503000006,
       "latitude": 40.855684792533886,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 61 - NE Cabrini Blvd. & West 187th Street",
       "availableForUse": true,
       "longitude": -73.93778998622929
@@ -1064,7 +1064,7 @@
       "longitude": -73.90436712652445
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 503000136,
       "latitude": 40.67726495043478,
       "binStatus": "Available",
@@ -1640,7 +1640,7 @@
       "longitude": -73.89510378241539
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 503000213,
       "latitude": 40.76718414067168,
       "binStatus": "Available",
@@ -2054,12 +2054,12 @@
       "longitude": -73.92471789027536
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 503000267,
       "latitude": 40.67165371443654,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 219 - SE Classon Avenue & Eastern Parkway",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.96107707172632
     },
     {
@@ -2072,10 +2072,10 @@
       "longitude": -73.93931295722723
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 503000276,
       "latitude": 40.67165676594622,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 196 - NE Franklin Avenue & Lincoln Place",
       "availableForUse": true,
       "longitude": -73.95756002515554
@@ -2279,10 +2279,10 @@
       "longitude": -73.94685207786003
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100020,
       "latitude": 40.72799056580962,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 317 - SE CO Ave B & E 12 St",
       "availableForUse": true,
       "longitude": -73.97899926258084
@@ -2306,10 +2306,10 @@
       "longitude": -73.99692150445948
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100049,
       "latitude": 40.70676048283521,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 253 - SW CO Maiden Lane & Pearl Street",
       "availableForUse": true,
       "longitude": -74.00691708161023
@@ -2459,7 +2459,7 @@
       "longitude": -74.0109745413065
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 60,
       "serialNumber": 505100023,
       "latitude": 40.7346470054958,
       "binStatus": "Available",
@@ -2621,7 +2621,7 @@
       "longitude": -73.95865606044225
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 505100063,
       "latitude": 40.71256505742161,
       "binStatus": "Available",
@@ -2729,12 +2729,12 @@
       "longitude": -73.98495496580612
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 505100055,
       "latitude": 40.76405416975698,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 291 - NE CO E 63 St & 3 Ave",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.96450973157151
     },
     {
@@ -2873,7 +2873,7 @@
       "longitude": -73.9809653781084
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 60,
       "serialNumber": 505100088,
       "latitude": 40.72865169703771,
       "binStatus": "Available",
@@ -3008,10 +3008,10 @@
       "longitude": -73.90418004244566
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100094,
       "latitude": 40.79091410359447,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 382 - SW CO W 93 St & Columbus Ave",
       "availableForUse": true,
       "longitude": -73.96910423686519
@@ -3359,10 +3359,10 @@
       "longitude": -73.99506114554103
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100150,
       "latitude": 40.729589714367386,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 329 - SE CO Clarkson & Hudson",
       "availableForUse": true,
       "longitude": -74.00684701383747
