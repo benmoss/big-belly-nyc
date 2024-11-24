@@ -2,7 +2,7 @@
   "errorCode": "STATUS_OK",
   "compostAssets": [
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 3590004,
       "latitude": 40.740982515732185,
       "binStatus": "Available",
@@ -389,10 +389,10 @@
       "longitude": -73.93778998622929
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 503000023,
       "latitude": 40.84608111296369,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 59 - NE West 174th Street & Fort Washington Avenue",
       "availableForUse": true,
       "longitude": -73.94016187638044
@@ -506,10 +506,10 @@
       "longitude": -73.92496582120657
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 503000054,
       "latitude": 40.76387664872765,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 07 - SE 32nd Street & 31st Avenue",
       "availableForUse": true,
       "longitude": -73.92266314476728
@@ -542,7 +542,7 @@
       "longitude": -73.94453756511211
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 503000048,
       "latitude": 40.7966226877643,
       "binStatus": "Available",
@@ -632,7 +632,7 @@
       "longitude": -73.9623499576847
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 60,
       "serialNumber": 503000040,
       "latitude": 40.80557429253741,
       "binStatus": "Available",
@@ -821,7 +821,7 @@
       "longitude": -73.93469754606485
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000073,
       "latitude": 40.813082487843964,
       "binStatus": "Available",
@@ -1145,12 +1145,12 @@
       "longitude": -73.90656117349863
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 503000148,
       "latitude": 40.701373514374744,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 183 - NW St. Nicholas Avenue & Linden Street",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.91136553921112
     },
     {
@@ -1550,12 +1550,12 @@
       "longitude": -73.9436212554574
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 503000206,
       "latitude": 40.68764908091782,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 122 - SW Tompkins Avenue & Quincy Street",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.94487351179123
     },
     {
@@ -1847,7 +1847,7 @@
       "longitude": -73.91427922993898
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 60,
       "serialNumber": 503000242,
       "latitude": 40.66973095285559,
       "binStatus": "Available",
@@ -2162,7 +2162,7 @@
       "longitude": -73.91865953781273
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 503000128,
       "latitude": 40.678977698412524,
       "binStatus": "Available",
@@ -2225,7 +2225,7 @@
       "longitude": -73.94848935814979
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 60,
       "serialNumber": 505100040,
       "latitude": 40.77068591297934,
       "binStatus": "Available",
@@ -2882,10 +2882,10 @@
       "longitude": -73.99090145996239
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100106,
       "latitude": 40.78586060688359,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 280 - SW CO E 95 Street & Park Ave",
       "availableForUse": true,
       "longitude": -73.95335140977043
@@ -3251,7 +3251,7 @@
       "longitude": -73.98776125245462
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 505100144,
       "latitude": 40.78596763857327,
       "binStatus": "Available",
@@ -3287,7 +3287,7 @@
       "longitude": -73.98834843188524
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 505100120,
       "latitude": 40.77519164031714,
       "binStatus": "Available",
