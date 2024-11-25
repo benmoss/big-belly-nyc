@@ -11,12 +11,12 @@
       "longitude": -73.9180913195014
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 3590010,
       "latitude": 40.74060865008307,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 409 - NE Greenpoint Ave & 42nd St",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.92287585085252
     },
     {
@@ -155,10 +155,10 @@
       "longitude": -73.99473222632365
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 3590006,
       "latitude": 40.88282894758702,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "Bin 415 - NW Gouverneur Ave & Sedgwick Ave",
       "availableForUse": true,
       "longitude": -73.89247186481953
@@ -497,12 +497,12 @@
       "longitude": -73.95299658179283
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 503000053,
       "latitude": 40.764994993021595,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 09 - SE 31st Avenue & 29th Street",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.92496582120657
     },
     {
@@ -524,7 +524,7 @@
       "longitude": -73.93447995185852
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 503000056,
       "latitude": 40.817629573974216,
       "binStatus": "Available",
@@ -533,12 +533,12 @@
       "longitude": -73.95314779132605
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 503000050,
       "latitude": 40.829794034320685,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 26 - NW Amsterdam Avenue & W 152 Street",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.94453756511211
     },
     {
@@ -1640,12 +1640,12 @@
       "longitude": -73.89510378241539
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 503000213,
       "latitude": 40.76718414067168,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "Bin 417 - SW c/o E 71 St & 1st Ave",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.95670607686043
     },
     {
@@ -2378,12 +2378,12 @@
       "longitude": -74.00171998103215
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 80,
       "serialNumber": 505100051,
       "latitude": 40.72504420607064,
-      "binStatus": "Full",
+      "binStatus": "Nearly Full",
       "description": "BIN 323 - SE CO 1 Ave & E 4 St",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.9869912541827
     },
     {
@@ -2414,12 +2414,12 @@
       "longitude": -74.00006544331396
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 0,
       "serialNumber": 505100022,
       "latitude": 40.73287635373648,
-      "binStatus": "Full",
+      "binStatus": "Available",
       "description": "BIN 334 - SW CO Hudson St & Christopher St",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -74.00655866692779
     },
     {
@@ -2549,7 +2549,7 @@
       "longitude": -73.95019042066897
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 0,
       "serialNumber": 505100044,
       "latitude": 40.73121273762785,
       "binStatus": "Available",
@@ -2558,7 +2558,7 @@
       "longitude": -74.0077318323766
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 505100061,
       "latitude": 40.70860458493924,
       "binStatus": "Available",
@@ -2603,12 +2603,12 @@
       "longitude": -73.98249430253485
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 505100002,
       "latitude": 40.76863578734461,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 268 - SE CO 2nd Avenue & 72nd Street",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.95822445057821
     },
     {
@@ -2963,10 +2963,10 @@
       "longitude": -73.9850452796422
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100110,
       "latitude": 40.75405449748158,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 295 - SE CO 2nd Ave & E 49 St",
       "availableForUse": true,
       "longitude": -73.96902091534423
@@ -3359,10 +3359,10 @@
       "longitude": -73.99506114554103
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 0,
       "serialNumber": 505100150,
       "latitude": 40.729589714367386,
-      "binStatus": "Nearly Full",
+      "binStatus": "Available",
       "description": "BIN 329 - SE CO Clarkson & Hudson",
       "availableForUse": true,
       "longitude": -74.00684701383747
@@ -3404,10 +3404,10 @@
       "longitude": -73.97035768079368
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100145,
       "latitude": 40.74163391924499,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 338 - N/E CO W 21st Street and 6th Ave",
       "availableForUse": true,
       "longitude": -73.99363601223293
