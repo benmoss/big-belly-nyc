@@ -245,7 +245,7 @@
       "longitude": -73.9441276370178
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 503000007,
       "latitude": 40.695555464715596,
       "binStatus": "Available",
@@ -1019,7 +1019,7 @@
       "longitude": -73.94525472074747
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 503000139,
       "latitude": 40.69385788678818,
       "binStatus": "Available",
@@ -1037,12 +1037,12 @@
       "longitude": -73.96537832915783
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 80,
       "serialNumber": 503000140,
       "latitude": 40.681352486961536,
-      "binStatus": "Full",
+      "binStatus": "Nearly Full",
       "description": "BIN 138 - NW Malcolm X Boulevard & Bainbridge Street",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.92874404788017
     },
     {
@@ -1397,7 +1397,7 @@
       "longitude": -73.96627854555845
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 503000180,
       "latitude": 40.69293663142478,
       "binStatus": "Available",
@@ -1730,7 +1730,7 @@
       "longitude": -73.95448587834835
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 503000228,
       "latitude": 40.68858947648064,
       "binStatus": "Available",
@@ -1829,12 +1829,12 @@
       "longitude": -73.94742764532566
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 503000243,
       "latitude": 40.8111366429278,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 28 - SE West 123 Street & Amsterdam Avenue",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.95765916089715
     },
     {
@@ -2090,10 +2090,10 @@
       "longitude": -73.95261202007532
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 503000275,
       "latitude": 40.75290526233439,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 228 - NW Queens Plaza North & 21st Street",
       "availableForUse": true,
       "longitude": -73.94352234899998
@@ -2369,10 +2369,10 @@
       "longitude": -73.9498927384089
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100013,
       "latitude": 40.73565255133342,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 330 - SW CO 7th Avenue South & Perry St",
       "availableForUse": true,
       "longitude": -74.00171998103215
@@ -2603,10 +2603,10 @@
       "longitude": -73.98249430253485
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100002,
       "latitude": 40.76863578734461,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 268 - SE CO 2nd Avenue & 72nd Street",
       "availableForUse": true,
       "longitude": -73.95822445057821
@@ -2648,12 +2648,12 @@
       "longitude": -73.98977462491895
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 505100025,
       "latitude": 40.74240669511277,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 343 - NW CO 8TH AVE & 18TH ST",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -74.0007785662345
     },
     {
@@ -2684,7 +2684,7 @@
       "longitude": -73.99222918721208
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 505100006,
       "latitude": 40.717415222837694,
       "binStatus": "Available",
@@ -2738,10 +2738,10 @@
       "longitude": -73.96450973157151
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100060,
       "latitude": 40.71026346371404,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 257 - NW CO Catherine St & Cherry St",
       "availableForUse": true,
       "longitude": -73.99644857287824
@@ -2819,21 +2819,21 @@
       "longitude": -73.98540060636678
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 505100092,
       "latitude": 40.78957914389564,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 369 - SW CO W 89 St & Amsterdam Ave",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.97379656746796
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 505100084,
       "latitude": 40.767171552566246,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 356 - SW CO 9 Ave & W 56 St",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.9864215009938
     },
     {
@@ -3116,30 +3116,30 @@
       "longitude": -73.95414933006201
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 505100124,
       "latitude": 40.74132799277233,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 397 - SE Queens Blvd & 60th St.",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.90472956001759
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100125,
       "latitude": 40.786641828294435,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 368 - NW CO W 88 St & Central Park W",
       "availableForUse": true,
       "longitude": -73.96841285680578
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 505100129,
       "latitude": 40.779702163230795,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 376 - NW CO Broadway & W 73 St",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.98189624416173
     },
     {
