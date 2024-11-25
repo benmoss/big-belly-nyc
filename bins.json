@@ -2,10 +2,10 @@
   "errorCode": "STATUS_OK",
   "compostAssets": [
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 3590004,
       "latitude": 40.740982515732185,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 406 - SE 47th Ave & 47th St",
       "availableForUse": true,
       "longitude": -73.9180913195014
@@ -110,7 +110,7 @@
       "longitude": -73.90995819121599
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 3590011,
       "latitude": 40.73775011894243,
       "binStatus": "Available",
@@ -119,10 +119,10 @@
       "longitude": -73.92154820692338
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 3590008,
       "latitude": 40.741475328023036,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 407 - NW 44th St & 47th Ave",
       "availableForUse": true,
       "longitude": -73.92099916934967
@@ -668,12 +668,12 @@
       "longitude": -73.92041435458692
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 503000035,
       "latitude": 40.820298050767335,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 40 - NW West 141st Street & Fredrick Douglas Blvd",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.94394144415855
     },
     {
@@ -722,21 +722,21 @@
       "longitude": -73.92594543138473
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 503000061,
       "latitude": 40.76808087642403,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 15 - SE 31st Avenue & 14th Street",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.93193346987313
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 503000062,
       "latitude": 40.80507840250284,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 35 - SW St. Nicholas Avenue & West 118 Street",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.95281787961721
     },
     {
@@ -1244,7 +1244,7 @@
       "longitude": -73.95497169345617
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 503000126,
       "latitude": 40.69237838108274,
       "binStatus": "Available",
