@@ -2,7 +2,7 @@
   "errorCode": "STATUS_OK",
   "compostAssets": [
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 3590004,
       "latitude": 40.740982515732185,
       "binStatus": "Available",
@@ -353,10 +353,10 @@
       "longitude": -73.94737802445889
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 503000019,
       "latitude": 40.76701705596692,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 12 - NW Crescent Street & 30th Drive",
       "availableForUse": true,
       "longitude": -73.92599746584892
@@ -2135,10 +2135,10 @@
       "longitude": -73.92091434448957
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 503000205,
       "latitude": 40.68303106054966,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 113 - SW Patchen Avenue & Macdonough Street",
       "availableForUse": true,
       "longitude": -73.9261969551444
@@ -2333,7 +2333,7 @@
       "longitude": -73.99051628208568
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 505100008,
       "latitude": 40.7391347154904,
       "binStatus": "Available",
