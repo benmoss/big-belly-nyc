@@ -425,12 +425,12 @@
       "longitude": -73.88136584311724
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 0,
       "serialNumber": 503000022,
       "latitude": 40.866201512573475,
-      "binStatus": "Full",
+      "binStatus": "Available",
       "description": "BIN 64 - SE Broadway & Academy Street",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.92508216202259
     },
     {
@@ -668,7 +668,7 @@
       "longitude": -73.92041435458692
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 0,
       "serialNumber": 503000035,
       "latitude": 40.820298050767335,
       "binStatus": "Available",
@@ -1028,19 +1028,19 @@
       "longitude": -73.92586905509233
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 503000138,
       "latitude": 40.678764370117854,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 191 - NE Underhill Avenue & Bergen Street",
       "availableForUse": true,
       "longitude": -73.96537832915783
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 503000140,
       "latitude": 40.681352486961536,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 138 - NW Malcolm X Boulevard & Bainbridge Street",
       "availableForUse": true,
       "longitude": -73.92874404788017
@@ -1460,12 +1460,12 @@
       "longitude": -73.91591713080048
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 503000184,
       "latitude": 40.673104182956976,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 189 - NE Underhill Avenue & Eastern Parkway",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.96755293011665
     },
     {
@@ -1550,10 +1550,10 @@
       "longitude": -73.9436212554574
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 503000206,
       "latitude": 40.68764908091782,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 122 - SW Tompkins Avenue & Quincy Street",
       "availableForUse": true,
       "longitude": -73.94487351179123
@@ -2189,12 +2189,12 @@
       "longitude": -73.98717944724858
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 0,
       "serialNumber": 505100039,
       "latitude": 40.781609451116324,
-      "binStatus": "Full",
+      "binStatus": "Available",
       "description": "BIN 274 - SE CO E 92 St & 2 Ave",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.94892745726821
     },
     {
@@ -2585,7 +2585,7 @@
       "longitude": -73.95247723907232
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 0,
       "serialNumber": 505100026,
       "latitude": 40.78340997537408,
       "binStatus": "Available",
@@ -3170,7 +3170,7 @@
       "longitude": -73.96866042855898
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 0,
       "serialNumber": 505100103,
       "latitude": 40.72946703338854,
       "binStatus": "Available",
@@ -3242,7 +3242,7 @@
       "longitude": -73.99037571712044
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 505100136,
       "latitude": 40.764814574064715,
       "binStatus": "Available",
@@ -3422,7 +3422,7 @@
       "longitude": -73.98222696429983
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 0,
       "serialNumber": 505100112,
       "latitude": 40.741522457226544,
       "binStatus": "Available",
