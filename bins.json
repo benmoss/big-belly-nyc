@@ -119,7 +119,7 @@
       "longitude": -73.92154820692338
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 3590008,
       "latitude": 40.741475328023036,
       "binStatus": "Available",
@@ -425,7 +425,7 @@
       "longitude": -73.88136584311724
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000022,
       "latitude": 40.866201512573475,
       "binStatus": "Available",
@@ -461,7 +461,7 @@
       "longitude": -73.92743781208992
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000018,
       "latitude": 40.83478846373379,
       "binStatus": "Available",
@@ -479,7 +479,7 @@
       "longitude": -73.92958357930183
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 503000059,
       "latitude": 40.87534010684036,
       "binStatus": "Available",
@@ -506,7 +506,7 @@
       "longitude": -73.92496582120657
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 503000054,
       "latitude": 40.76387664872765,
       "binStatus": "Available",
@@ -659,7 +659,7 @@
       "longitude": -73.89476414769888
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 503000038,
       "latitude": 40.76298113979361,
       "binStatus": "Available",
@@ -758,12 +758,12 @@
       "longitude": -73.92510951539327
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 0,
       "serialNumber": 503000064,
       "latitude": 40.78210605168062,
-      "binStatus": "Full",
+      "binStatus": "Available",
       "description": "BIN 50 - NW E 91st St & 3rd Avenue",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.95172468826313
     },
     {
@@ -812,7 +812,7 @@
       "longitude": -73.93320322036743
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000072,
       "latitude": 40.79737412009714,
       "binStatus": "Available",
@@ -866,10 +866,10 @@
       "longitude": -73.93855724483728
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 0,
       "serialNumber": 503000085,
       "latitude": 40.80984148378304,
-      "binStatus": "Nearly Full",
+      "binStatus": "Available",
       "description": "BIN 37 - NW West 126th Street & Adam Clayton Powell Jr Blvd",
       "availableForUse": true,
       "longitude": -73.94765663892031
@@ -1010,7 +1010,7 @@
       "longitude": -73.93987722694874
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 0,
       "serialNumber": 503000078,
       "latitude": 40.81357603431238,
       "binStatus": "Available",
@@ -1541,16 +1541,16 @@
       "longitude": -73.95281285047531
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 503000207,
       "latitude": 40.68175217538853,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 124 - SW Tompkins Avenue & Macon Street",
       "availableForUse": true,
       "longitude": -73.9436212554574
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 503000206,
       "latitude": 40.68764908091782,
       "binStatus": "Available",
@@ -1559,7 +1559,7 @@
       "longitude": -73.94487351179123
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000198,
       "latitude": 40.82896269217192,
       "binStatus": "Available",
@@ -1586,7 +1586,7 @@
       "longitude": -73.95393367856741
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 503000208,
       "latitude": 40.683812617651405,
       "binStatus": "Available",
@@ -1883,16 +1883,16 @@
       "longitude": -73.90651490539312
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 503000246,
       "latitude": 40.67049107908947,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 197 - NW New York Avenue & Lincoln Place",
       "availableForUse": true,
       "longitude": -73.94772704690695
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 503000251,
       "latitude": 40.67459377925092,
       "binStatus": "Available",
@@ -1919,12 +1919,12 @@
       "longitude": -73.95637851208448
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 503000257,
       "latitude": 40.670817086934036,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 214 - SW Rogers Avenue & Lincoln Place",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.95329229533672
     },
     {
@@ -2117,7 +2117,7 @@
       "longitude": -74.07558023929596
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 0,
       "serialNumber": 503000216,
       "latitude": 40.84382557774167,
       "binStatus": "Available",
@@ -2126,7 +2126,7 @@
       "longitude": -73.78518752753735
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000197,
       "latitude": 40.68749730455891,
       "binStatus": "Available",
@@ -2234,12 +2234,12 @@
       "longitude": -73.98008527492154
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 0,
       "serialNumber": 505100042,
       "latitude": 40.73752862143271,
-      "binStatus": "Full",
+      "binStatus": "Available",
       "description": "BIN 310 - NW 6 Ave & 14th Street",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.99693615022026
     },
     {
@@ -2423,7 +2423,7 @@
       "longitude": -74.00655866692779
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 0,
       "serialNumber": 505100024,
       "latitude": 40.73699589127157,
       "binStatus": "Available",
@@ -2495,7 +2495,7 @@
       "longitude": -73.99849525644926
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 505100029,
       "latitude": 40.710663476710224,
       "binStatus": "Available",
@@ -2594,12 +2594,12 @@
       "longitude": -73.94763141892919
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 0,
       "serialNumber": 505100034,
       "latitude": 40.7312028692314,
-      "binStatus": "Full",
+      "binStatus": "Available",
       "description": "BIN 352 - SE CO 1 Ave & E 14 St",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.98249430253485
     },
     {
@@ -2639,10 +2639,10 @@
       "longitude": -73.97332561607193
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 0,
       "serialNumber": 505100028,
       "latitude": 40.762145800103276,
-      "binStatus": "Nearly Full",
+      "binStatus": "Available",
       "description": "BIN 348 - SE CO 9 Ave & W 48 St",
       "availableForUse": true,
       "longitude": -73.98977462491895
@@ -2711,7 +2711,7 @@
       "longitude": -74.0047200044207
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 505100059,
       "latitude": 40.718786682897935,
       "binStatus": "Available",
@@ -2756,7 +2756,7 @@
       "longitude": -73.9519761287763
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 0,
       "serialNumber": 505100082,
       "latitude": 40.76216672199596,
       "binStatus": "Available",
@@ -3089,7 +3089,7 @@
       "longitude": -73.97335456220875
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 0,
       "serialNumber": 505100099,
       "latitude": 40.741373987128576,
       "binStatus": "Available",
@@ -3233,12 +3233,12 @@
       "longitude": -73.94652914221223
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 0,
       "serialNumber": 505100138,
       "latitude": 40.76639459170164,
-      "binStatus": "Full",
+      "binStatus": "Available",
       "description": "BIN 353 - SE CO 10 Ave & W 53 St",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.99037571712044
     },
     {
@@ -3278,7 +3278,7 @@
       "longitude": -73.98511663223668
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 0,
       "serialNumber": 505100137,
       "latitude": 40.743433331711394,
       "binStatus": "Available",
@@ -3350,12 +3350,12 @@
       "longitude": -73.97196531694908
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 0,
       "serialNumber": 505100140,
       "latitude": 40.760441717606135,
-      "binStatus": "Full",
+      "binStatus": "Available",
       "description": "BIN 351 - NW CO 10 Ave & W 43 St",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.99506114554103
     },
     {
@@ -3368,7 +3368,7 @@
       "longitude": -74.00684701383747
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 0,
       "serialNumber": 505100135,
       "latitude": 40.758930399023754,
       "binStatus": "Available",
@@ -3386,7 +3386,7 @@
       "longitude": -73.98062197434946
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 505100118,
       "latitude": 40.769273183978356,
       "binStatus": "Available",
@@ -3404,10 +3404,10 @@
       "longitude": -73.97035768079368
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 0,
       "serialNumber": 505100145,
       "latitude": 40.74163391924499,
-      "binStatus": "Nearly Full",
+      "binStatus": "Available",
       "description": "BIN 338 - N/E CO W 21st Street and 6th Ave",
       "availableForUse": true,
       "longitude": -73.99363601223293
@@ -3422,10 +3422,10 @@
       "longitude": -73.98222696429983
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 0,
       "serialNumber": 505100112,
       "latitude": 40.741522457226544,
-      "binStatus": "Nearly Full",
+      "binStatus": "Available",
       "description": "BIN 306 - NW CO 3rd Avenue & 27th Street",
       "availableForUse": true,
       "longitude": -73.98135114745574
