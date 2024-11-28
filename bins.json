@@ -155,7 +155,7 @@
       "longitude": -73.99473222632365
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 0,
       "serialNumber": 3590006,
       "latitude": 40.88282894758702,
       "binStatus": "Available",
@@ -164,7 +164,7 @@
       "longitude": -73.89247186481953
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000030,
       "latitude": 40.715299657889645,
       "binStatus": "Available",
@@ -479,7 +479,7 @@
       "longitude": -73.92958357930183
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 0,
       "serialNumber": 503000059,
       "latitude": 40.87534010684036,
       "binStatus": "Available",
@@ -686,7 +686,7 @@
       "longitude": -73.93176387995481
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 60,
       "serialNumber": 503000036,
       "latitude": 40.6778510426927,
       "binStatus": "Available",
@@ -956,7 +956,7 @@
       "longitude": -73.91744524240494
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 503000096,
       "latitude": 40.8721462108312,
       "binStatus": "Available",
@@ -1037,10 +1037,10 @@
       "longitude": -73.96537832915783
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 503000140,
       "latitude": 40.681352486961536,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 138 - NW Malcolm X Boulevard & Bainbridge Street",
       "availableForUse": true,
       "longitude": -73.92874404788017
@@ -1253,7 +1253,7 @@
       "longitude": -73.92284251749516
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 503000159,
       "latitude": 40.68815347424036,
       "binStatus": "Available",
@@ -1262,7 +1262,7 @@
       "longitude": -73.9271404221654
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 503000156,
       "latitude": 40.70249991438864,
       "binStatus": "Available",
@@ -1289,12 +1289,12 @@
       "longitude": -73.96974126370019
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 503000169,
       "latitude": 40.690318203640174,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 118 - NE Lewis Avenue & Green Avenue",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.93640510737896
     },
     {
@@ -1316,7 +1316,7 @@
       "longitude": -73.94148588180542
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 503000171,
       "latitude": 40.69608852271517,
       "binStatus": "Available",
@@ -1415,7 +1415,7 @@
       "longitude": -73.91234535723925
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000172,
       "latitude": 40.69744237426521,
       "binStatus": "Available",
@@ -1568,7 +1568,7 @@
       "longitude": -73.85669823735952
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000211,
       "latitude": 40.83852110249066,
       "binStatus": "Available",
@@ -1856,10 +1856,10 @@
       "longitude": -73.93390157678125
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 503000241,
       "latitude": 40.6774118895118,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 218 - SE Classon Avenue & Bergen Street",
       "availableForUse": true,
       "longitude": -73.95897587267723
@@ -1910,7 +1910,7 @@
       "longitude": -73.91177110144258
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000254,
       "latitude": 40.67509191438939,
       "binStatus": "Available",
@@ -1991,10 +1991,10 @@
       "longitude": -74.06930956989527
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 503000261,
       "latitude": 40.67676683153248,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 199 - NW New York Avenue & Dean Street",
       "availableForUse": true,
       "longitude": -73.9471010863781
@@ -2342,10 +2342,10 @@
       "longitude": -73.99540269748928
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 0,
       "serialNumber": 505100031,
       "latitude": 40.72948121652991,
-      "binStatus": "Nearly Full",
+      "binStatus": "Available",
       "description": "BIN 328 - SE CO Bleecker St & 6 Ave",
       "availableForUse": true,
       "longitude": -74.00212241864305
@@ -2405,7 +2405,7 @@
       "longitude": -74.00695323944092
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 505100003,
       "latitude": 40.73776704120356,
       "binStatus": "Available",
@@ -2522,12 +2522,12 @@
       "longitude": -73.99466765892298
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 505100032,
       "latitude": 40.765863654327504,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 279 - SW CO Main St & River Road",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.9463083404101
     },
     {
@@ -2612,7 +2612,7 @@
       "longitude": -73.95822445057821
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 505100016,
       "latitude": 40.76390136307756,
       "binStatus": "Available",
@@ -2648,7 +2648,7 @@
       "longitude": -73.98977462491895
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 505100025,
       "latitude": 40.74240669511277,
       "binStatus": "Available",
@@ -2702,7 +2702,7 @@
       "longitude": -73.9535946787067
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 505100069,
       "latitude": 40.724874101417406,
       "binStatus": "Available",
@@ -3071,7 +3071,7 @@
       "longitude": -73.9728414833659
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 505100101,
       "latitude": 40.77228183243049,
       "binStatus": "Available",
@@ -3242,12 +3242,12 @@
       "longitude": -73.99037571712044
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 0,
       "serialNumber": 505100136,
       "latitude": 40.764814574064715,
-      "binStatus": "Full",
+      "binStatus": "Available",
       "description": "BIN 354 - NE CO 9 Ave & W 52 St",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.98776125245462
     },
     {
@@ -3296,7 +3296,7 @@
       "longitude": -73.98753543655222
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 0,
       "serialNumber": 505100146,
       "latitude": 40.74723684953337,
       "binStatus": "Available",
