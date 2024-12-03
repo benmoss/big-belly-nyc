@@ -1028,12 +1028,12 @@
       "longitude": -73.92586905509233
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 0,
       "serialNumber": 503000138,
       "latitude": 40.678764370117854,
-      "binStatus": "Full",
+      "binStatus": "Available",
       "description": "BIN 191 - NE Underhill Avenue & Bergen Street",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.96537832915783
     },
     {
@@ -1208,12 +1208,12 @@
       "longitude": -73.93099308013916
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 0,
       "serialNumber": 503000150,
       "latitude": 40.67358758069033,
-      "binStatus": "Full",
+      "binStatus": "Available",
       "description": "BIN 193 - NW Washington Avenue & St. Johns Place",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.96311119198799
     },
     {
@@ -3056,9 +3056,9 @@
       "latestFullness": 40,
       "serialNumber": 505100100,
       "latitude": 40.773718493770346,
-      "binStatus": "Available",
+      "binStatus": "Out of Service",
       "description": "BIN 285 - NE CO 77th & Lexington Ave",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.95966351954947
     },
     {
