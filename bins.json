@@ -2,7 +2,7 @@
   "errorCode": "STATUS_OK",
   "compostAssets": [
     {
-      "latestFullness": 60,
+      "latestFullness": 0,
       "serialNumber": 3590004,
       "latitude": 40.740982515732185,
       "binStatus": "Available",
@@ -47,12 +47,12 @@
       "longitude": -73.92288388211199
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 0,
       "serialNumber": 3590020,
       "latitude": 40.746148800069264,
-      "binStatus": "Full",
+      "binStatus": "Available",
       "description": "BIN 400 - NE 51st St & Skillman Ave",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.91328877313748
     },
     {
@@ -65,7 +65,7 @@
       "longitude": -73.89971678571764
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 0,
       "serialNumber": 3590019,
       "latitude": 40.745991757187745,
       "binStatus": "Available",
@@ -101,7 +101,7 @@
       "longitude": -73.91260653734207
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 0,
       "serialNumber": 3590003,
       "latitude": 40.7457242854218,
       "binStatus": "Available",
@@ -119,7 +119,7 @@
       "longitude": -73.92154820692338
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 0,
       "serialNumber": 3590008,
       "latitude": 40.741475328023036,
       "binStatus": "Available",
@@ -3125,7 +3125,7 @@
       "longitude": -73.95414933006201
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 0,
       "serialNumber": 505100124,
       "latitude": 40.74132799277233,
       "binStatus": "Available",
@@ -3134,7 +3134,7 @@
       "longitude": -73.90472956001759
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 505100125,
       "latitude": 40.786641828294435,
       "binStatus": "Available",
