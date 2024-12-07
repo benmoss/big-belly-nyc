@@ -182,7 +182,7 @@
       "longitude": -73.95366545766592
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000027,
       "latitude": 40.76272343617805,
       "binStatus": "Available",
@@ -758,12 +758,12 @@
       "longitude": -73.92510951539327
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 0,
       "serialNumber": 503000064,
       "latitude": 40.78210605168062,
-      "binStatus": "Full",
+      "binStatus": "Available",
       "description": "BIN 50 - NW E 91st St & 3rd Avenue",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.95172468826313
     },
     {
@@ -1208,12 +1208,12 @@
       "longitude": -73.93099308013916
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 503000150,
       "latitude": 40.67358758069033,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 193 - NW Washington Avenue & St. Johns Place",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.96311119198799
     },
     {
@@ -2234,7 +2234,7 @@
       "longitude": -73.98008527492154
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 40,
       "serialNumber": 505100042,
       "latitude": 40.73752862143271,
       "binStatus": "Available",
@@ -2270,12 +2270,12 @@
       "longitude": -73.9538887710376
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 0,
       "serialNumber": 505100014,
       "latitude": 40.78010940688603,
-      "binStatus": "Full",
+      "binStatus": "Available",
       "description": "BIN 267 - NE CO 1st Ave & 91ST St",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.94685207786003
     },
     {
@@ -2828,7 +2828,7 @@
       "longitude": -73.97379656746796
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 505100084,
       "latitude": 40.767171552566246,
       "binStatus": "Available",
@@ -2855,7 +2855,7 @@
       "longitude": -73.98593114887535
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 0,
       "serialNumber": 505100083,
       "latitude": 40.72496280254391,
       "binStatus": "Available",
@@ -2882,10 +2882,10 @@
       "longitude": -73.99090145996239
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 0,
       "serialNumber": 505100106,
       "latitude": 40.78586060688359,
-      "binStatus": "Nearly Full",
+      "binStatus": "Available",
       "description": "BIN 280 - SW CO E 95 Street & Park Ave",
       "availableForUse": true,
       "longitude": -73.95335140977043
@@ -3062,7 +3062,7 @@
       "longitude": -73.95966351954947
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 0,
       "serialNumber": 505100102,
       "latitude": 40.74448956998408,
       "binStatus": "Available",
@@ -3188,10 +3188,10 @@
       "longitude": -73.96135753145826
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100098,
       "latitude": 40.741609115050146,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 301 - NE CO 2 Ave & E 29 ST",
       "availableForUse": true,
       "longitude": -73.97792649980364
@@ -3350,7 +3350,7 @@
       "longitude": -73.97196531694908
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 505100140,
       "latitude": 40.760441717606135,
       "binStatus": "Available",
