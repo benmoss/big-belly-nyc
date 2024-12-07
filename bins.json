@@ -2,7 +2,7 @@
   "errorCode": "STATUS_OK",
   "compostAssets": [
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 3590004,
       "latitude": 40.740982515732185,
       "binStatus": "Available",
@@ -38,7 +38,7 @@
       "longitude": -73.9175371080637
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 3590014,
       "latitude": 40.745373137079994,
       "binStatus": "Available",
@@ -74,7 +74,7 @@
       "longitude": -73.90727262943983
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 3590015,
       "latitude": 40.746483770342856,
       "binStatus": "Available",
@@ -92,7 +92,7 @@
       "longitude": -73.92166045665941
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 3590012,
       "latitude": 40.884080646656564,
       "binStatus": "Available",
@@ -128,7 +128,7 @@
       "longitude": -73.92099916934967
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 3590005,
       "latitude": 40.88661576005842,
       "binStatus": "Available",
@@ -407,10 +407,10 @@
       "longitude": -73.90380453318357
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 503000032,
       "latitude": 40.76149921367936,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 17 - SE 38th Street & 31st Avenue",
       "availableForUse": true,
       "longitude": -73.91796863240839
@@ -605,7 +605,7 @@
       "longitude": -73.92879232764244
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 503000042,
       "latitude": 40.764174520197706,
       "binStatus": "Available",
@@ -992,7 +992,7 @@
       "longitude": -73.95624071359634
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 503000076,
       "latitude": 40.791411617905716,
       "binStatus": "Available",
@@ -1208,10 +1208,10 @@
       "longitude": -73.93099308013916
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 503000150,
       "latitude": 40.67358758069033,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 193 - NW Washington Avenue & St. Johns Place",
       "availableForUse": true,
       "longitude": -73.96311119198799
@@ -1388,7 +1388,7 @@
       "longitude": -73.941904976964
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 503000179,
       "latitude": 40.67617742416484,
       "binStatus": "Available",
@@ -1640,10 +1640,10 @@
       "longitude": -73.89510378241539
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 503000213,
       "latitude": 40.76718414067168,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "Bin 417 - SW c/o E 71 St & 1st Ave",
       "availableForUse": true,
       "longitude": -73.95670607686043
@@ -2135,7 +2135,7 @@
       "longitude": -73.92091434448957
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 503000205,
       "latitude": 40.68303106054966,
       "binStatus": "Available",
@@ -2180,7 +2180,7 @@
       "longitude": -73.9421078891929
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 505100078,
       "latitude": 40.77113841285102,
       "binStatus": "Available",
@@ -2198,7 +2198,7 @@
       "longitude": -73.94892745726821
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 60,
       "serialNumber": 505100018,
       "latitude": 40.77294782166341,
       "binStatus": "Available",
@@ -2396,7 +2396,7 @@
       "longitude": -74.00526163846435
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 60,
       "serialNumber": 505100027,
       "latitude": 40.71904231972568,
       "binStatus": "Available",
@@ -2432,7 +2432,7 @@
       "longitude": -73.97826863139804
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 505100043,
       "latitude": 40.70584702623706,
       "binStatus": "Available",
@@ -2486,12 +2486,12 @@
       "longitude": -73.98759673124307
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 505100046,
       "latitude": 40.73534879130396,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 336 - SW CO 6 Ave & W 11 St",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.99849525644926
     },
     {
@@ -2774,7 +2774,7 @@
       "longitude": -73.9546898742066
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 505100089,
       "latitude": 40.77432420761129,
       "binStatus": "Available",
@@ -3017,16 +3017,16 @@
       "longitude": -73.96910423686519
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100111,
       "latitude": 40.758836000578,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 294 - NW CO E 56 St & 2 Ave",
       "availableForUse": true,
       "longitude": -73.96586280976997
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 505100067,
       "latitude": 40.77168450396742,
       "binStatus": "Available",
@@ -3053,7 +3053,7 @@
       "longitude": -73.98167006603096
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 40,
       "serialNumber": 505100100,
       "latitude": 40.773718493770346,
       "binStatus": "Available",
@@ -3269,7 +3269,7 @@
       "longitude": -73.99302401909992
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 505100142,
       "latitude": 40.73887358712755,
       "binStatus": "Available",
@@ -3341,7 +3341,7 @@
       "longitude": -73.97276669918094
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 505100117,
       "latitude": 40.78193045956682,
       "binStatus": "Available",
@@ -3449,10 +3449,10 @@
       "longitude": -73.97587379945203
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100128,
       "latitude": 40.72662593513809,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 327 - SW CO Bond St & Lafayette St",
       "availableForUse": true,
       "longitude": -73.99427816002996
