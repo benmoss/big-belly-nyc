@@ -1262,10 +1262,10 @@
       "longitude": -73.9271404221654
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 503000156,
       "latitude": 40.70249991438864,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 182 - NW St. Nicholas Avenue & Menahan Street",
       "availableForUse": true,
       "longitude": -73.9129939918858
@@ -2414,12 +2414,12 @@
       "longitude": -74.00006544331396
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 505100022,
       "latitude": 40.73287635373648,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 334 - SW CO Hudson St & Christopher St",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -74.00655866692779
     },
     {
@@ -3404,7 +3404,7 @@
       "longitude": -73.97035768079368
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 505100145,
       "latitude": 40.74163391924499,
       "binStatus": "Available",
