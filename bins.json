@@ -56,19 +56,19 @@
       "longitude": -73.91328877313748
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 0,
       "serialNumber": 3590001,
       "latitude": 40.746548059294376,
-      "binStatus": "Full",
+      "binStatus": "Available",
       "description": "Bin 396 - NE 64th St. & 39th Ave",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.89971678571764
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 0,
       "serialNumber": 3590019,
       "latitude": 40.745991757187745,
-      "binStatus": "Nearly Full",
+      "binStatus": "Available",
       "description": "BIN 398 - NW 57th St & Woodside Ave",
       "availableForUse": true,
       "longitude": -73.90727262943983
@@ -164,10 +164,10 @@
       "longitude": -73.89247186481953
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 503000030,
       "latitude": 40.715299657889645,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 423 - NE c/o Grand St & Pitt St",
       "availableForUse": true,
       "longitude": -73.98393251001835
@@ -182,12 +182,12 @@
       "longitude": -73.95366545766592
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 503000027,
       "latitude": 40.76272343617805,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 03 - SE 31st Avenue & 35th Street",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.92021738757299
     },
     {
@@ -218,7 +218,7 @@
       "longitude": -73.86632109842786
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 60,
       "serialNumber": 503000028,
       "latitude": 40.798054852781554,
       "binStatus": "Available",
@@ -515,10 +515,10 @@
       "longitude": -73.92266314476728
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 503000055,
       "latitude": 40.85039540597644,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 60 - NE Wadsworth Avenue & West 182nd Street",
       "availableForUse": true,
       "longitude": -73.93447995185852
@@ -587,7 +587,7 @@
       "longitude": -73.93639236688614
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 503000045,
       "latitude": 40.76832401280552,
       "binStatus": "Available",
@@ -641,12 +641,12 @@
       "longitude": -73.9660133421421
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 503000039,
       "latitude": 40.82647613312916,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 25 - SW West 147th Street & Amsterdam Avenue",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.94687759676215
     },
     {
@@ -776,7 +776,7 @@
       "longitude": -74.07695855945349
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 503000067,
       "latitude": 40.76558557637679,
       "binStatus": "Available",
@@ -812,7 +812,7 @@
       "longitude": -73.93320322036743
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 503000072,
       "latitude": 40.79737412009714,
       "binStatus": "Available",
@@ -1109,7 +1109,7 @@
       "longitude": -73.9499693736434
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 40,
       "serialNumber": 503000129,
       "latitude": 40.685812233251795,
       "binStatus": "Available",
@@ -1163,7 +1163,7 @@
       "longitude": -73.9155288040638
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 60,
       "serialNumber": 503000149,
       "latitude": 40.683936689634,
       "binStatus": "Available",
@@ -1190,7 +1190,7 @@
       "longitude": -73.93382884562016
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 503000166,
       "latitude": 40.68703129558847,
       "binStatus": "Available",
@@ -1199,10 +1199,10 @@
       "longitude": -73.91374111175537
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 503000164,
       "latitude": 40.69660505362728,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 164 - NE Bushwick Avenue & Suydam Street",
       "availableForUse": true,
       "longitude": -73.93099308013916
@@ -1217,10 +1217,10 @@
       "longitude": -73.96311119198799
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 503000152,
       "latitude": 40.68415381504779,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 157 - SE Bushwick Avenue & Chauncey Street",
       "availableForUse": true,
       "longitude": -73.90844576060772
@@ -1244,7 +1244,7 @@
       "longitude": -73.95497169345617
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 503000126,
       "latitude": 40.69237838108274,
       "binStatus": "Available",
@@ -1307,7 +1307,7 @@
       "longitude": -73.90959072858095
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 503000170,
       "latitude": 40.676454329310545,
       "binStatus": "Available",
@@ -1631,7 +1631,7 @@
       "longitude": -73.85504934936762
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 40,
       "serialNumber": 503000215,
       "latitude": 40.865528589915826,
       "binStatus": "Available",
@@ -1721,12 +1721,12 @@
       "longitude": -73.91965739428997
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 503000225,
       "latitude": 40.6865703680712,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 128 - NE Bedford Avenue & Quincy Street",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.95448587834835
     },
     {
@@ -1865,7 +1865,7 @@
       "longitude": -73.95897587267723
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 503000245,
       "latitude": 40.673484595144046,
       "binStatus": "Available",
@@ -2126,7 +2126,7 @@
       "longitude": -73.78518752753735
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 503000197,
       "latitude": 40.68749730455891,
       "binStatus": "Available",
@@ -2135,12 +2135,12 @@
       "longitude": -73.92091434448957
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 503000205,
       "latitude": 40.68303106054966,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 113 - SW Patchen Avenue & Macdonough Street",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.9261969551444
     },
     {
@@ -2234,7 +2234,7 @@
       "longitude": -73.98008527492154
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 40,
       "serialNumber": 505100042,
       "latitude": 40.73752862143271,
       "binStatus": "Available",
@@ -2279,10 +2279,10 @@
       "longitude": -73.94685207786003
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100020,
       "latitude": 40.72799056580962,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 317 - SE CO Ave B & E 12 St",
       "availableForUse": true,
       "longitude": -73.97899926258084
@@ -2450,19 +2450,19 @@
       "longitude": -74.00240702146108
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 505100009,
       "latitude": 40.7164061130962,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 245 - NW CO Greenwich St & Chambers St",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -74.0109745413065
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100023,
       "latitude": 40.7346470054958,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 311 - SW CO W 12 St & 5 Ave",
       "availableForUse": true,
       "longitude": -73.99481938922054
@@ -2477,7 +2477,7 @@
       "longitude": -74.00274561377924
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 505100047,
       "latitude": 40.73539348561974,
       "binStatus": "Available",
@@ -2549,12 +2549,12 @@
       "longitude": -73.95019042066897
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 505100044,
       "latitude": 40.73121273762785,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 335 - NE CO Morton ST & Greenwich ST",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -74.0077318323766
     },
     {
@@ -2630,7 +2630,7 @@
       "longitude": -74.00756552771458
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 505100011,
       "latitude": 40.75544386726651,
       "binStatus": "Available",
@@ -2666,7 +2666,7 @@
       "longitude": -73.99876398340452
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 505100058,
       "latitude": 40.716735019858994,
       "binStatus": "Available",
@@ -2711,12 +2711,12 @@
       "longitude": -74.0047200044207
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 505100059,
       "latitude": 40.718786682897935,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 244 - SW CO of Greenwich St & Harrison ST",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -74.01055041700602
     },
     {
@@ -2774,12 +2774,12 @@
       "longitude": -73.9546898742066
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 505100089,
       "latitude": 40.77432420761129,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 362 - NW CO Amsterdam ave & W 65 St",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.98491537817117
     },
     {
@@ -2819,16 +2819,16 @@
       "longitude": -73.98540060636678
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100092,
       "latitude": 40.78957914389564,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 369 - SW CO W 89 St & Amsterdam Ave",
       "availableForUse": true,
       "longitude": -73.97379656746796
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 505100084,
       "latitude": 40.767171552566246,
       "binStatus": "Available",
@@ -3017,10 +3017,10 @@
       "longitude": -73.96910423686519
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100111,
       "latitude": 40.758836000578,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 294 - NW CO E 56 St & 2 Ave",
       "availableForUse": true,
       "longitude": -73.96586280976997
@@ -3098,10 +3098,10 @@
       "longitude": -73.98526381245097
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100097,
       "latitude": 40.72556517707213,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 318 - SE CO Ave B & E 8 St",
       "availableForUse": true,
       "longitude": -73.9806513567258
@@ -3116,12 +3116,12 @@
       "longitude": -73.96666802317641
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 505100132,
       "latitude": 40.757513465018945,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 325 - SW CO W Main Street and Main Street (by Tram Terminal)",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.95414933006201
     },
     {
@@ -3179,10 +3179,10 @@
       "longitude": -73.9780299987419
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100104,
       "latitude": 40.76846754015715,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 287 - NE CO E 70th Street & 3rd Avenue",
       "availableForUse": true,
       "longitude": -73.96135753145826
@@ -3197,19 +3197,19 @@
       "longitude": -73.97792649980364
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100127,
       "latitude": 40.79516392024059,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 373 - SW CO W 96 St & West End Ave",
       "availableForUse": true,
       "longitude": -73.97343810525932
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100139,
       "latitude": 40.74272368457833,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 341 - SE CO 7th Avenue & W 21st Street",
       "availableForUse": true,
       "longitude": -73.99655276134223
@@ -3332,10 +3332,10 @@
       "longitude": -73.95175657391553
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100121,
       "latitude": 40.7909709189525,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 371 - NW CO W 91 St & Amsterdam Ave",
       "availableForUse": true,
       "longitude": -73.97276669918094
@@ -3350,7 +3350,7 @@
       "longitude": -73.97196531694908
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 505100140,
       "latitude": 40.760441717606135,
       "binStatus": "Available",
