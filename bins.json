@@ -758,12 +758,12 @@
       "longitude": -73.92510951539327
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 503000064,
       "latitude": 40.78210605168062,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 50 - NW E 91st St & 3rd Avenue",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.95172468826313
     },
     {
@@ -776,10 +776,10 @@
       "longitude": -74.07695855945349
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 503000067,
       "latitude": 40.76558557637679,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 10 - SE 31st Avenue & Crescent Street",
       "availableForUse": true,
       "longitude": -73.92632732264548
@@ -1397,7 +1397,7 @@
       "longitude": -73.96627854555845
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 503000180,
       "latitude": 40.69293663142478,
       "binStatus": "Available",
@@ -2621,7 +2621,7 @@
       "longitude": -73.95865606044225
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 60,
       "serialNumber": 505100063,
       "latitude": 40.71256505742161,
       "binStatus": "Available",
@@ -2963,10 +2963,10 @@
       "longitude": -73.9850452796422
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100110,
       "latitude": 40.75405449748158,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 295 - SE CO 2nd Ave & E 49 St",
       "availableForUse": true,
       "longitude": -73.96902091534423
@@ -3314,7 +3314,7 @@
       "longitude": -74.00261308139008
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 60,
       "serialNumber": 505100122,
       "latitude": 40.77622161241313,
       "binStatus": "Available",
