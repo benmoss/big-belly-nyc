@@ -29,10 +29,10 @@
       "longitude": -73.92003797195594
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 3590017,
       "latitude": 40.7447717419058,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 403 - SW 43rd Ave & 47th St.",
       "availableForUse": true,
       "longitude": -73.9175371080637
@@ -92,12 +92,12 @@
       "longitude": -73.92166045665941
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 3590012,
       "latitude": 40.884080646656564,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "Bin 413 - NW W 232nd St & Arlington Ave",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.91260653734207
     },
     {
@@ -506,10 +506,10 @@
       "longitude": -73.92496582120657
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 503000054,
       "latitude": 40.76387664872765,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 07 - SE 32nd Street & 31st Avenue",
       "availableForUse": true,
       "longitude": -73.92266314476728
@@ -551,10 +551,10 @@
       "longitude": -73.94493098288339
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 503000049,
       "latitude": 40.79160725166976,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 46 - SW E 109th Street & 1st Avenue",
       "availableForUse": true,
       "longitude": -73.93884859979153
@@ -1091,7 +1091,7 @@
       "longitude": -73.93217660486698
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 503000135,
       "latitude": 40.69796320197583,
       "binStatus": "Available",
@@ -2306,16 +2306,16 @@
       "longitude": -73.99692150445948
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100049,
       "latitude": 40.70676048283521,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 253 - SW CO Maiden Lane & Pearl Street",
       "availableForUse": true,
       "longitude": -74.00691708161023
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 505100052,
       "latitude": 40.71989182112748,
       "binStatus": "Available",
@@ -2612,7 +2612,7 @@
       "longitude": -73.95822445057821
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 505100016,
       "latitude": 40.76390136307756,
       "binStatus": "Available",
@@ -2675,7 +2675,7 @@
       "longitude": -73.98896138948061
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 505100072,
       "latitude": 40.71327373740936,
       "binStatus": "Available",
@@ -3008,12 +3008,12 @@
       "longitude": -73.90418004244566
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 505100094,
       "latitude": 40.79091410359447,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 382 - SW CO W 93 St & Columbus Ave",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.96910423686519
     },
     {
@@ -3341,7 +3341,7 @@
       "longitude": -73.97276669918094
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 505100117,
       "latitude": 40.78193045956682,
       "binStatus": "Available",
@@ -3377,12 +3377,12 @@
       "longitude": -73.99201305589226
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 505100123,
       "latitude": 40.78331643218788,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 377 - NW CO Broadway & W 78 St",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.98062197434946
     },
     {
@@ -3404,7 +3404,7 @@
       "longitude": -73.97035768079368
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 60,
       "serialNumber": 505100145,
       "latitude": 40.74163391924499,
       "binStatus": "Available",
