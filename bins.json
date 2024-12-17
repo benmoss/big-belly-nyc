@@ -1199,7 +1199,7 @@
       "longitude": -73.91374111175537
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 0,
       "serialNumber": 503000164,
       "latitude": 40.69660505362728,
       "binStatus": "Available",
@@ -1820,12 +1820,12 @@
       "longitude": -73.94294936209917
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 0,
       "serialNumber": 503000240,
       "latitude": 40.67428152112551,
-      "binStatus": "Full",
+      "binStatus": "Available",
       "description": "BIN 198 - NW New York Avenue & Prospect Place",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.94742764532566
     },
     {
@@ -1883,10 +1883,10 @@
       "longitude": -73.90651490539312
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 0,
       "serialNumber": 503000246,
       "latitude": 40.67049107908947,
-      "binStatus": "Nearly Full",
+      "binStatus": "Available",
       "description": "BIN 197 - NW New York Avenue & Lincoln Place",
       "availableForUse": true,
       "longitude": -73.94772704690695
@@ -2774,7 +2774,7 @@
       "longitude": -73.98491537817117
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 505100096,
       "latitude": 40.771722793444425,
       "binStatus": "Available",
