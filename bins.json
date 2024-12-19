@@ -20,7 +20,7 @@
       "longitude": -73.92287585085252
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 3590013,
       "latitude": 40.74689511721386,
       "binStatus": "Available",
@@ -317,7 +317,7 @@
       "longitude": -73.93766775727272
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 0,
       "serialNumber": 503000013,
       "latitude": 40.86843300418909,
       "binStatus": "Available",
@@ -470,7 +470,7 @@
       "longitude": -73.94085858017206
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000058,
       "latitude": 40.76737357054309,
       "binStatus": "Available",
@@ -542,7 +542,7 @@
       "longitude": -73.94453756511211
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 503000048,
       "latitude": 40.7966226877643,
       "binStatus": "Available",
@@ -767,7 +767,7 @@
       "longitude": -73.95172468826313
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000068,
       "latitude": 40.64305722769547,
       "binStatus": "Available",
@@ -1028,7 +1028,7 @@
       "longitude": -73.92586905509233
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 503000138,
       "latitude": 40.678764370117854,
       "binStatus": "Available",
@@ -1208,12 +1208,12 @@
       "longitude": -73.93099308013916
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 503000150,
       "latitude": 40.67358758069033,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 193 - NW Washington Avenue & St. Johns Place",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.96311119198799
     },
     {
@@ -1586,7 +1586,7 @@
       "longitude": -73.95393367856741
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000208,
       "latitude": 40.683812617651405,
       "binStatus": "Available",
@@ -1802,7 +1802,7 @@
       "longitude": -73.94181042909622
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000234,
       "latitude": 40.62214723793611,
       "binStatus": "Available",
@@ -2342,16 +2342,16 @@
       "longitude": -74.00212241864305
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 505100021,
       "latitude": 40.775317712188475,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 424 - NE c/o E 85 St & York Ave",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.94749872386456
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 505100004,
       "latitude": 40.784683566970614,
       "binStatus": "Available",
@@ -2441,10 +2441,10 @@
       "longitude": -74.00240702146108
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100009,
       "latitude": 40.7164061130962,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 245 - NW CO Greenwich St & Chambers St",
       "availableForUse": true,
       "longitude": -74.0109745413065
@@ -2603,10 +2603,10 @@
       "longitude": -73.95822445057821
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100016,
       "latitude": 40.76390136307756,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 269 - SE CO E 66 St & 1 Ave",
       "availableForUse": true,
       "longitude": -73.95865606044225
@@ -3440,7 +3440,7 @@
       "longitude": -73.97587379945203
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 505100128,
       "latitude": 40.72662593513809,
       "binStatus": "Available",
