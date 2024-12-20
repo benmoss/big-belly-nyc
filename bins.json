@@ -137,7 +137,7 @@
       "longitude": -73.90993109059836
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 3590009,
       "latitude": 40.88637790151751,
       "binStatus": "Available",
@@ -335,7 +335,7 @@
       "longitude": -73.96496895700693
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 503000015,
       "latitude": 40.715768264498486,
       "binStatus": "Available",
@@ -596,7 +596,7 @@
       "longitude": -73.92916951328516
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 503000041,
       "latitude": 40.81994765597217,
       "binStatus": "Available",
@@ -686,7 +686,7 @@
       "longitude": -73.93176387995481
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 60,
       "serialNumber": 503000036,
       "latitude": 40.6778510426927,
       "binStatus": "Available",
@@ -1280,7 +1280,7 @@
       "longitude": -73.94101046025753
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 503000168,
       "latitude": 40.6755571241916,
       "binStatus": "Available",
@@ -1433,7 +1433,7 @@
       "longitude": -73.95316857844591
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 503000187,
       "latitude": 40.75792909750536,
       "binStatus": "Available",
@@ -1532,7 +1532,7 @@
       "longitude": -73.83048333227634
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000191,
       "latitude": 40.80924767164232,
       "binStatus": "Available",
@@ -1910,7 +1910,7 @@
       "longitude": -73.91177110144258
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 503000254,
       "latitude": 40.67509191438939,
       "binStatus": "Available",
@@ -1955,7 +1955,7 @@
       "longitude": -73.96024390254057
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000264,
       "latitude": 40.67279917738334,
       "binStatus": "Available",
@@ -2198,12 +2198,12 @@
       "longitude": -73.94638707990978
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 505100038,
       "latitude": 40.780081383690586,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 277 - SW CO 3rd Ave & East 88th St",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.9532222620251
     },
     {
@@ -2306,10 +2306,10 @@
       "longitude": -74.00691708161023
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100052,
       "latitude": 40.71989182112748,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 255 -  NE CO Delancey St & Forsyth St",
       "availableForUse": true,
       "longitude": -73.99195962283002
@@ -2369,7 +2369,7 @@
       "longitude": -74.00171998103215
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 505100051,
       "latitude": 40.72504420607064,
       "binStatus": "Available",
@@ -2450,7 +2450,7 @@
       "longitude": -74.0109745413065
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 505100023,
       "latitude": 40.7346470054958,
       "binStatus": "Available",
@@ -2702,7 +2702,7 @@
       "longitude": -74.0047200044207
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 505100059,
       "latitude": 40.718786682897935,
       "binStatus": "Available",
@@ -2873,10 +2873,10 @@
       "longitude": -73.99090145996239
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100106,
       "latitude": 40.78586060688359,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 280 - SW CO E 95 Street & Park Ave",
       "availableForUse": true,
       "longitude": -73.95335140977043
@@ -3197,7 +3197,7 @@
       "longitude": -73.97343810525932
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 60,
       "serialNumber": 505100139,
       "latitude": 40.74272368457833,
       "binStatus": "Available",
@@ -3206,7 +3206,7 @@
       "longitude": -73.99655276134223
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 505100133,
       "latitude": 40.79786101513957,
       "binStatus": "Available",
@@ -3323,7 +3323,7 @@
       "longitude": -73.95175657391553
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 60,
       "serialNumber": 505100121,
       "latitude": 40.7909709189525,
       "binStatus": "Available",
@@ -3350,10 +3350,10 @@
       "longitude": -73.99506114554103
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100150,
       "latitude": 40.729589714367386,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 329 - SE CO Clarkson & Hudson",
       "availableForUse": true,
       "longitude": -74.00684701383747
