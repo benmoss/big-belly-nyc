@@ -2,7 +2,7 @@
   "errorCode": "STATUS_OK",
   "compostAssets": [
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 3590004,
       "latitude": 40.740982515732185,
       "binStatus": "Available",
@@ -47,10 +47,10 @@
       "longitude": -73.92288388211199
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 3590020,
       "latitude": 40.746148800069264,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 400 - NE 51st St & Skillman Ave",
       "availableForUse": true,
       "longitude": -73.91328877313748
@@ -425,12 +425,12 @@
       "longitude": -73.88136584311724
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 0,
       "serialNumber": 503000022,
       "latitude": 40.866201512573475,
-      "binStatus": "Full",
+      "binStatus": "Available",
       "description": "BIN 64 - SE Broadway & Academy Street",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.92508216202259
     },
     {
@@ -623,7 +623,7 @@
       "longitude": -73.95370233803988
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 60,
       "serialNumber": 503000043,
       "latitude": 40.804732620856896,
       "binStatus": "Available",
@@ -839,7 +839,7 @@
       "longitude": -73.92188027501106
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 0,
       "serialNumber": 503000081,
       "latitude": 40.79314191706756,
       "binStatus": "Available",
@@ -1064,10 +1064,10 @@
       "longitude": -73.90436712652445
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 503000136,
       "latitude": 40.67726495043478,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 192 - NW Grand Avenue & St. Marks Avenue",
       "availableForUse": true,
       "longitude": -73.96265991032124
@@ -1307,7 +1307,7 @@
       "longitude": -73.90959072858095
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000170,
       "latitude": 40.676454329310545,
       "binStatus": "Available",
@@ -1820,7 +1820,7 @@
       "longitude": -73.94294936209917
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 503000240,
       "latitude": 40.67428152112551,
       "binStatus": "Available",
@@ -2441,12 +2441,12 @@
       "longitude": -74.00240702146108
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 505100009,
       "latitude": 40.7164061130962,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 245 - NW CO Greenwich St & Chambers St",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -74.0109745413065
     },
     {
@@ -2639,7 +2639,7 @@
       "longitude": -73.98977462491895
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 505100025,
       "latitude": 40.74240669511277,
       "binStatus": "Available",
@@ -3269,7 +3269,7 @@
       "longitude": -73.98511663223668
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 505100137,
       "latitude": 40.743433331711394,
       "binStatus": "Available",
@@ -3440,10 +3440,10 @@
       "longitude": -73.97587379945203
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100128,
       "latitude": 40.72662593513809,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 327 - SW CO Bond St & Lafayette St",
       "availableForUse": true,
       "longitude": -73.99427816002996
