@@ -146,7 +146,7 @@
       "longitude": -73.91430705785751
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 60,
       "serialNumber": 3590002,
       "latitude": 40.7214226207243,
       "binStatus": "Available",
@@ -200,7 +200,7 @@
       "longitude": -74.11656774580479
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 503000002,
       "latitude": 40.802377335586115,
       "binStatus": "Available",
@@ -551,7 +551,7 @@
       "longitude": -73.94493098288339
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 503000049,
       "latitude": 40.79160725166976,
       "binStatus": "Available",
@@ -821,7 +821,7 @@
       "longitude": -73.93469754606485
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 503000073,
       "latitude": 40.813082487843964,
       "binStatus": "Available",
@@ -1037,7 +1037,7 @@
       "longitude": -73.96537832915783
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 503000140,
       "latitude": 40.681352486961536,
       "binStatus": "Available",
@@ -2063,12 +2063,12 @@
       "longitude": -73.93931295722723
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 503000276,
       "latitude": 40.67165676594622,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 196 - NE Franklin Avenue & Lincoln Place",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.95756002515554
     },
     {
@@ -2126,7 +2126,7 @@
       "longitude": -73.92091434448957
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 503000205,
       "latitude": 40.68303106054966,
       "binStatus": "Available",
@@ -2387,7 +2387,7 @@
       "longitude": -74.00526163846435
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 0,
       "serialNumber": 505100027,
       "latitude": 40.71904231972568,
       "binStatus": "Available",
@@ -2414,7 +2414,7 @@
       "longitude": -74.00655866692779
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 505100024,
       "latitude": 40.73699589127157,
       "binStatus": "Available",
@@ -2504,10 +2504,10 @@
       "longitude": -74.01322457939386
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100071,
       "latitude": 40.73149350965934,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 259 - SW CO University & 8th Street",
       "availableForUse": true,
       "longitude": -73.99466765892298
@@ -2981,7 +2981,7 @@
       "longitude": -73.95211949944496
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 505100076,
       "latitude": 40.85312543432193,
       "binStatus": "Available",
@@ -3017,12 +3017,12 @@
       "longitude": -73.96586280976997
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 505100067,
       "latitude": 40.77168450396742,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 290 - SW CO Lexington Ave & E 74 St",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.9614462477865
     },
     {
@@ -3170,12 +3170,12 @@
       "longitude": -73.9780299987419
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 505100104,
       "latitude": 40.76846754015715,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 287 - NE CO E 70th Street & 3rd Avenue",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.96135753145826
     },
     {
@@ -3197,10 +3197,10 @@
       "longitude": -73.97343810525932
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100139,
       "latitude": 40.74272368457833,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 341 - SE CO 7th Avenue & W 21st Street",
       "availableForUse": true,
       "longitude": -73.99655276134223
@@ -3422,10 +3422,10 @@
       "longitude": -73.98135114745574
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100119,
       "latitude": 40.77611866432287,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 359 - SW CO Columbus Ave & 70th Street",
       "availableForUse": true,
       "longitude": -73.9799463692325
