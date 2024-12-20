@@ -317,7 +317,7 @@
       "longitude": -73.93766775727272
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 60,
       "serialNumber": 503000013,
       "latitude": 40.86843300418909,
       "binStatus": "Available",
@@ -380,7 +380,7 @@
       "longitude": -73.93805466592312
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 60,
       "serialNumber": 503000006,
       "latitude": 40.855684792533886,
       "binStatus": "Available",
@@ -632,7 +632,7 @@
       "longitude": -73.9623499576847
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 60,
       "serialNumber": 503000040,
       "latitude": 40.80557429253741,
       "binStatus": "Available",
@@ -677,7 +677,7 @@
       "longitude": -73.94394144415855
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000034,
       "latitude": 40.774054817889976,
       "binStatus": "Available",
@@ -821,7 +821,7 @@
       "longitude": -73.93469754606485
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000073,
       "latitude": 40.813082487843964,
       "binStatus": "Available",
@@ -1811,7 +1811,7 @@
       "longitude": -74.07850451767445
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000239,
       "latitude": 40.69389322166022,
       "binStatus": "Available",
@@ -2216,7 +2216,7 @@
       "longitude": -73.94848935814979
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 505100040,
       "latitude": 40.77068591297934,
       "binStatus": "Available",
@@ -2234,7 +2234,7 @@
       "longitude": -73.99693615022026
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 505100005,
       "latitude": 40.70815249011514,
       "binStatus": "Available",
@@ -2324,7 +2324,7 @@
       "longitude": -73.99051628208568
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 60,
       "serialNumber": 505100008,
       "latitude": 40.7391347154904,
       "binStatus": "Available",
@@ -2405,7 +2405,7 @@
       "longitude": -74.00006544331396
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 505100022,
       "latitude": 40.73287635373648,
       "binStatus": "Available",
@@ -2414,7 +2414,7 @@
       "longitude": -74.00655866692779
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 505100024,
       "latitude": 40.73699589127157,
       "binStatus": "Available",
@@ -2495,7 +2495,7 @@
       "longitude": -74.00341004133224
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 60,
       "serialNumber": 505100017,
       "latitude": 40.705075385840445,
       "binStatus": "Available",
@@ -2567,12 +2567,12 @@
       "longitude": -73.97665659471008
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 505100062,
       "latitude": 40.768787421482166,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "Bin 416 - SW c/o York Ave & E 75 St",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.95247723907232
     },
     {
@@ -2612,7 +2612,7 @@
       "longitude": -73.95865606044225
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 40,
       "serialNumber": 505100063,
       "latitude": 40.71256505742161,
       "binStatus": "Available",
@@ -2837,7 +2837,7 @@
       "longitude": -73.9766103569379
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 60,
       "serialNumber": 505100074,
       "latitude": 40.77844967182979,
       "binStatus": "Available",
@@ -2873,7 +2873,7 @@
       "longitude": -73.99090145996239
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 60,
       "serialNumber": 505100106,
       "latitude": 40.78586060688359,
       "binStatus": "Available",
@@ -2891,10 +2891,10 @@
       "longitude": -73.96888427642509
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100093,
       "latitude": 40.7953036151945,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 383 - NE CO Broadway & W 97 St",
       "availableForUse": true,
       "longitude": -73.97107263571145
@@ -3062,7 +3062,7 @@
       "longitude": -73.9728414833659
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 505100101,
       "latitude": 40.77228183243049,
       "binStatus": "Available",
@@ -3260,7 +3260,7 @@
       "longitude": -73.99302401909992
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 505100142,
       "latitude": 40.73887358712755,
       "binStatus": "Available",
