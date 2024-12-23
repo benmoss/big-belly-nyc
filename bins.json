@@ -83,10 +83,10 @@
       "longitude": -73.91701877117157
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 3590016,
       "latitude": 40.74379131277653,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 405 - NW Queens Blvd & 43rd St",
       "availableForUse": true,
       "longitude": -73.92166045665941
@@ -344,7 +344,7 @@
       "longitude": -73.99040903896093
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 503000017,
       "latitude": 40.81773208281474,
       "binStatus": "Available",
@@ -374,9 +374,9 @@
       "latestFullness": 0,
       "serialNumber": 503000020,
       "latitude": 40.841033254239434,
-      "binStatus": "Available",
+      "binStatus": "Out of Service",
       "description": "BIN 58 - SW Audubon Avenue & West 169th St",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.93805466592312
     },
     {
@@ -533,7 +533,7 @@
       "longitude": -73.95314779132605
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 503000050,
       "latitude": 40.829794034320685,
       "binStatus": "Available",
@@ -884,7 +884,7 @@
       "longitude": -73.90755258500576
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 60,
       "serialNumber": 503000089,
       "latitude": 40.85572351653721,
       "binStatus": "Available",
@@ -1136,12 +1136,12 @@
       "longitude": -73.92045420260473
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 503000147,
       "latitude": 40.687583234935204,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 155 - NW Central Avenue & Moffat Street",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.90656117349863
     },
     {
@@ -1415,7 +1415,7 @@
       "longitude": -73.91234535723925
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 503000172,
       "latitude": 40.69744237426521,
       "binStatus": "Available",
@@ -1811,10 +1811,10 @@
       "longitude": -74.07850451767445
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 503000239,
       "latitude": 40.69389322166022,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 142 - SE Throop Avenue & Hart Street",
       "availableForUse": true,
       "longitude": -73.94294936209917
@@ -2126,7 +2126,7 @@
       "longitude": -73.92091434448957
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 503000205,
       "latitude": 40.68303106054966,
       "binStatus": "Available",
@@ -2189,10 +2189,10 @@
       "longitude": -73.94892745726821
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100018,
       "latitude": 40.77294782166341,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 270 - SW CO 83rd & East End",
       "availableForUse": true,
       "longitude": -73.94638707990978
@@ -2261,10 +2261,10 @@
       "longitude": -73.9538887710376
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100014,
       "latitude": 40.78010940688603,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 267 - NE CO 1st Ave & 91ST St",
       "availableForUse": true,
       "longitude": -73.94685207786003
@@ -2441,10 +2441,10 @@
       "longitude": -74.00240702146108
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100009,
       "latitude": 40.7164061130962,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 245 - NW CO Greenwich St & Chambers St",
       "availableForUse": true,
       "longitude": -74.0109745413065
@@ -2702,10 +2702,10 @@
       "longitude": -74.0047200044207
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100059,
       "latitude": 40.718786682897935,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 244 - SW CO of Greenwich St & Harrison ST",
       "availableForUse": true,
       "longitude": -74.01055041700602
@@ -3125,7 +3125,7 @@
       "longitude": -73.90472956001759
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 60,
       "serialNumber": 505100125,
       "latitude": 40.786641828294435,
       "binStatus": "Available",
@@ -3440,12 +3440,12 @@
       "longitude": -73.97587379945203
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 505100128,
       "latitude": 40.72662593513809,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 327 - SW CO Bond St & Lafayette St",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.99427816002996
     }
   ]
