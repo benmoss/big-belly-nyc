@@ -416,12 +416,12 @@
       "longitude": -73.88136584311724
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 0,
       "serialNumber": 503000022,
       "latitude": 40.866201512573475,
-      "binStatus": "Full",
+      "binStatus": "Available",
       "description": "BIN 64 - SE Broadway & Academy Street",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.92508216202259
     },
     {
@@ -2504,10 +2504,10 @@
       "longitude": -73.99466765892298
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100032,
       "latitude": 40.765863654327504,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 279 - SW CO Main St & River Road",
       "availableForUse": true,
       "longitude": -73.9463083404101
