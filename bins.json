@@ -857,7 +857,7 @@
       "longitude": -73.93855724483728
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 503000085,
       "latitude": 40.80984148378304,
       "binStatus": "Available",
@@ -2288,7 +2288,7 @@
       "longitude": -73.99692150445948
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 60,
       "serialNumber": 505100049,
       "latitude": 40.70676048283521,
       "binStatus": "Available",
@@ -2486,7 +2486,7 @@
       "longitude": -74.00341004133224
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 505100017,
       "latitude": 40.705075385840445,
       "binStatus": "Available",
@@ -2909,10 +2909,10 @@
       "longitude": -73.9833025251433
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100086,
       "latitude": 40.781894893686875,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 366 - NE CO W 77 St & Amsterdam Ave",
       "availableForUse": true,
       "longitude": -73.97906581678058
@@ -3206,10 +3206,10 @@
       "longitude": -73.96400324926272
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100143,
       "latitude": 40.77663888275979,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 392 - NE CO York Ave & E 87 St",
       "availableForUse": true,
       "longitude": -73.94652914221223
@@ -3305,10 +3305,10 @@
       "longitude": -73.97619309561924
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 0,
       "serialNumber": 505100149,
       "latitude": 40.77380204413203,
-      "binStatus": "Nearly Full",
+      "binStatus": "Available",
       "description": "BIN 393 - NW CO 1 Ave & E 81 St",
       "availableForUse": true,
       "longitude": -73.95175657391553
@@ -3359,12 +3359,12 @@
       "longitude": -73.99201305589226
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 505100123,
       "latitude": 40.78331643218788,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 377 - NW CO Broadway & W 78 St",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.98062197434946
     },
     {
@@ -3395,7 +3395,7 @@
       "longitude": -73.99363601223293
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 505100148,
       "latitude": 40.735894111584756,
       "binStatus": "Available",
