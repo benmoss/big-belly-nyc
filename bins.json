@@ -398,12 +398,12 @@
       "longitude": -73.90380453318357
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 503000032,
       "latitude": 40.76149921367936,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 17 - SE 38th Street & 31st Avenue",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.91796863240839
     },
     {
@@ -704,16 +704,16 @@
       "longitude": -73.86818949133158
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 503000063,
       "latitude": 40.76656936634833,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 19 - SE Crescent Street & 30th Drive",
       "availableForUse": true,
       "longitude": -73.92594543138473
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 60,
       "serialNumber": 503000061,
       "latitude": 40.76808087642403,
       "binStatus": "Available",
@@ -1001,12 +1001,12 @@
       "longitude": -73.93987722694874
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 503000078,
       "latitude": 40.81357603431238,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 38 - NW West 132 Street & Adam Clayton Powell Jr Blvd",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.94525472074747
     },
     {
@@ -1091,7 +1091,7 @@
       "longitude": -73.91719682217655
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 503000143,
       "latitude": 40.6825487482924,
       "binStatus": "Available",
@@ -1190,7 +1190,7 @@
       "longitude": -73.91374111175537
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 503000164,
       "latitude": 40.69660505362728,
       "binStatus": "Available",
@@ -1334,7 +1334,7 @@
       "longitude": -73.96811317652464
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 503000162,
       "latitude": 40.704966472832965,
       "binStatus": "Available",
@@ -1397,7 +1397,7 @@
       "longitude": -73.90797402709723
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000188,
       "latitude": 40.690796900599814,
       "binStatus": "Available",
@@ -2054,12 +2054,12 @@
       "longitude": -73.93931295722723
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 503000276,
       "latitude": 40.67165676594622,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 196 - NE Franklin Avenue & Lincoln Place",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.95756002515554
     },
     {
@@ -2180,7 +2180,7 @@
       "longitude": -73.94892745726821
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 0,
       "serialNumber": 505100018,
       "latitude": 40.77294782166341,
       "binStatus": "Available",
@@ -2333,7 +2333,7 @@
       "longitude": -74.00212241864305
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 505100021,
       "latitude": 40.775317712188475,
       "binStatus": "Available",
@@ -2441,10 +2441,10 @@
       "longitude": -74.0109745413065
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100023,
       "latitude": 40.7346470054958,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 311 - SW CO W 12 St & 5 Ave",
       "availableForUse": true,
       "longitude": -73.99481938922054
@@ -2576,7 +2576,7 @@
       "longitude": -73.94763141892919
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 60,
       "serialNumber": 505100034,
       "latitude": 40.7312028692314,
       "binStatus": "Available",
@@ -2639,10 +2639,10 @@
       "longitude": -74.0007785662345
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100064,
       "latitude": 40.718560301291866,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 261 - NW CO Hester ST & Baxter St",
       "availableForUse": true,
       "longitude": -73.99876398340452
@@ -3242,7 +3242,7 @@
       "longitude": -73.97864520220962
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 40,
       "serialNumber": 505100134,
       "latitude": 40.762820138671465,
       "binStatus": "Available",
@@ -3260,7 +3260,7 @@
       "longitude": -73.98511663223668
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 505100137,
       "latitude": 40.743433331711394,
       "binStatus": "Available",
