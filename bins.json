@@ -2,7 +2,7 @@
   "errorCode": "STATUS_OK",
   "compostAssets": [
     {
-      "latestFullness": 20,
+      "latestFullness": 0,
       "serialNumber": 3590004,
       "latitude": 40.740982515732185,
       "binStatus": "Available",
@@ -11,7 +11,7 @@
       "longitude": -73.9180913195014
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 0,
       "serialNumber": 3590010,
       "latitude": 40.74060865008307,
       "binStatus": "Available",
@@ -29,7 +29,7 @@
       "longitude": -73.92003797195594
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 0,
       "serialNumber": 3590017,
       "latitude": 40.7447717419058,
       "binStatus": "Available",
@@ -38,7 +38,7 @@
       "longitude": -73.9175371080637
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 0,
       "serialNumber": 3590014,
       "latitude": 40.745373137079994,
       "binStatus": "Available",
@@ -83,7 +83,7 @@
       "longitude": -73.91701877117157
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 0,
       "serialNumber": 3590016,
       "latitude": 40.74379131277653,
       "binStatus": "Available",
@@ -119,7 +119,7 @@
       "longitude": -73.92154820692338
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 0,
       "serialNumber": 3590008,
       "latitude": 40.741475328023036,
       "binStatus": "Available",
@@ -290,10 +290,10 @@
       "longitude": -73.92011906951666
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 0,
       "serialNumber": 503000012,
       "latitude": 40.820960776484476,
-      "binStatus": "Nearly Full",
+      "binStatus": "Available",
       "description": "BIN 24 - SW West 138th Street & Amsterdam Avenue",
       "availableForUse": true,
       "longitude": -73.95101174712181
@@ -605,7 +605,7 @@
       "longitude": -73.92345808446407
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 0,
       "serialNumber": 503000046,
       "latitude": 40.81204666270059,
       "binStatus": "Available",
@@ -1811,16 +1811,16 @@
       "longitude": -73.94294936209917
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 0,
       "serialNumber": 503000240,
       "latitude": 40.67428152112551,
-      "binStatus": "Full",
+      "binStatus": "Available",
       "description": "BIN 198 - NW New York Avenue & Prospect Place",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.94742764532566
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 0,
       "serialNumber": 503000243,
       "latitude": 40.8111366429278,
       "binStatus": "Available",
@@ -1874,7 +1874,7 @@
       "longitude": -73.90651490539312
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 0,
       "serialNumber": 503000246,
       "latitude": 40.67049107908947,
       "binStatus": "Available",
@@ -1982,7 +1982,7 @@
       "longitude": -74.06930956989527
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 0,
       "serialNumber": 503000265,
       "latitude": 40.67028714230085,
       "binStatus": "Available",
@@ -2027,12 +2027,12 @@
       "longitude": -73.92796251922846
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 0,
       "serialNumber": 503000271,
       "latitude": 40.74194368731704,
-      "binStatus": "Full",
+      "binStatus": "Available",
       "description": "BIN 408 - NW 40th St & 47th Ave",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.92471789027536
     },
     {
@@ -2207,7 +2207,7 @@
       "longitude": -73.94848935814979
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 0,
       "serialNumber": 505100040,
       "latitude": 40.77068591297934,
       "binStatus": "Available",
@@ -2252,7 +2252,7 @@
       "longitude": -73.9538887710376
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 505100014,
       "latitude": 40.78010940688603,
       "binStatus": "Available",
@@ -2279,7 +2279,7 @@
       "longitude": -73.98598125432342
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 60,
       "serialNumber": 505100010,
       "latitude": 40.75280253801481,
       "binStatus": "Available",
@@ -2333,7 +2333,7 @@
       "longitude": -74.00212241864305
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 0,
       "serialNumber": 505100021,
       "latitude": 40.775317712188475,
       "binStatus": "Available",
@@ -2459,7 +2459,7 @@
       "longitude": -74.00274561377924
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 0,
       "serialNumber": 505100047,
       "latitude": 40.73539348561974,
       "binStatus": "Available",
@@ -2810,7 +2810,7 @@
       "longitude": -73.97379656746796
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 0,
       "serialNumber": 505100084,
       "latitude": 40.767171552566246,
       "binStatus": "Available",
@@ -2846,7 +2846,7 @@
       "longitude": -73.99017938079861
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 0,
       "serialNumber": 505100080,
       "latitude": 40.7380040181738,
       "binStatus": "Available",
@@ -3116,12 +3116,12 @@
       "longitude": -73.90472956001759
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 0,
       "serialNumber": 505100125,
       "latitude": 40.786641828294435,
-      "binStatus": "Full",
+      "binStatus": "Available",
       "description": "BIN 368 - NW CO W 88 St & Central Park W",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.96841285680578
     },
     {
@@ -3215,7 +3215,7 @@
       "longitude": -73.94652914221223
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 0,
       "serialNumber": 505100138,
       "latitude": 40.76639459170164,
       "binStatus": "Available",
@@ -3251,7 +3251,7 @@
       "longitude": -73.99302401909992
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 0,
       "serialNumber": 505100142,
       "latitude": 40.73887358712755,
       "binStatus": "Available",
@@ -3296,7 +3296,7 @@
       "longitude": -74.00261308139008
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 0,
       "serialNumber": 505100122,
       "latitude": 40.77622161241313,
       "binStatus": "Available",
@@ -3323,7 +3323,7 @@
       "longitude": -73.97276669918094
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 0,
       "serialNumber": 505100117,
       "latitude": 40.78193045956682,
       "binStatus": "Available",
@@ -3332,10 +3332,10 @@
       "longitude": -73.97196531694908
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100140,
       "latitude": 40.760441717606135,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 351 - NW CO 10 Ave & W 43 St",
       "availableForUse": true,
       "longitude": -73.99506114554103
@@ -3395,16 +3395,16 @@
       "longitude": -73.99363601223293
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 0,
       "serialNumber": 505100148,
       "latitude": 40.735894111584756,
-      "binStatus": "Nearly Full",
+      "binStatus": "Available",
       "description": "BIN 391 - SE CO 2 Ave & E 20 St",
       "availableForUse": true,
       "longitude": -73.98222696429983
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 0,
       "serialNumber": 505100112,
       "latitude": 40.741522457226544,
       "binStatus": "Available",
