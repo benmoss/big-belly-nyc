@@ -56,7 +56,7 @@
       "longitude": -73.91328877313748
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 3590001,
       "latitude": 40.746548059294376,
       "binStatus": "Available",
@@ -380,10 +380,10 @@
       "longitude": -73.93778998622929
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 503000023,
       "latitude": 40.84608111296369,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 59 - NE West 174th Street & Fort Washington Avenue",
       "availableForUse": true,
       "longitude": -73.94016187638044
@@ -479,7 +479,7 @@
       "longitude": -73.87542713633172
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 503000060,
       "latitude": 40.81491836063367,
       "binStatus": "Available",
@@ -677,10 +677,10 @@
       "longitude": -73.93176387995481
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 503000036,
       "latitude": 40.6778510426927,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 187 - NW Vanderbilt Avenue & Prospect Place",
       "availableForUse": true,
       "longitude": -73.96890208125114
@@ -776,7 +776,7 @@
       "longitude": -73.92632732264548
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 503000070,
       "latitude": 40.83161371635521,
       "binStatus": "Available",
@@ -803,10 +803,10 @@
       "longitude": -73.93320322036743
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 503000072,
       "latitude": 40.79737412009714,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 49 - SW East 118th Street & 1 Avenue",
       "availableForUse": true,
       "longitude": -73.93469754606485
@@ -830,7 +830,7 @@
       "longitude": -73.92188027501106
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 60,
       "serialNumber": 503000081,
       "latitude": 40.79314191706756,
       "binStatus": "Available",
@@ -1658,16 +1658,16 @@
       "longitude": -73.82940910756588
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 503000221,
       "latitude": 40.69040997746076,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 121 - SW Tompkins Avenue & Lafayette Avenue",
       "availableForUse": true,
       "longitude": -73.94542437046766
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000218,
       "latitude": 40.694661178530154,
       "binStatus": "Available",
@@ -1721,7 +1721,7 @@
       "longitude": -73.91965739428997
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 503000225,
       "latitude": 40.6865703680712,
       "binStatus": "Available",
@@ -1793,7 +1793,7 @@
       "longitude": -73.9355384244532
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000235,
       "latitude": 40.67303171113777,
       "binStatus": "Available",
@@ -2045,12 +2045,12 @@
       "longitude": -73.92471789027536
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 503000267,
       "latitude": 40.67165371443654,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 219 - SE Classon Avenue & Eastern Parkway",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.96107707172632
     },
     {
@@ -2261,7 +2261,7 @@
       "longitude": -73.9538887710376
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 60,
       "serialNumber": 505100014,
       "latitude": 40.78010940688603,
       "binStatus": "Available",
@@ -2360,7 +2360,7 @@
       "longitude": -73.9498927384089
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 505100013,
       "latitude": 40.73565255133342,
       "binStatus": "Available",
@@ -2441,10 +2441,10 @@
       "longitude": -74.00240702146108
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 0,
       "serialNumber": 505100009,
       "latitude": 40.7164061130962,
-      "binStatus": "Nearly Full",
+      "binStatus": "Available",
       "description": "BIN 245 - NW CO Greenwich St & Chambers St",
       "availableForUse": true,
       "longitude": -74.0109745413065
@@ -2558,7 +2558,7 @@
       "longitude": -74.0108494516408
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 60,
       "serialNumber": 505100033,
       "latitude": 40.78070495280861,
       "binStatus": "Available",
@@ -2612,12 +2612,12 @@
       "longitude": -73.95865606044225
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 505100063,
       "latitude": 40.71256505742161,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 251 - NE CO Broadway & Park Place (City hall park side)",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -74.00756552771458
     },
     {
@@ -2702,12 +2702,12 @@
       "longitude": -74.0047200044207
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 0,
       "serialNumber": 505100059,
       "latitude": 40.718786682897935,
-      "binStatus": "Full",
+      "binStatus": "Available",
       "description": "BIN 244 - SW CO of Greenwich St & Harrison ST",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -74.01055041700602
     },
     {
@@ -2936,12 +2936,12 @@
       "longitude": -73.93435451155901
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 505100073,
       "latitude": 40.80348382274017,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 385 - SE CO Broadway & W 109 St",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.96686314261594
     },
     {
@@ -2954,7 +2954,7 @@
       "longitude": -73.9850452796422
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 505100110,
       "latitude": 40.75405449748158,
       "binStatus": "Available",
@@ -3017,7 +3017,7 @@
       "longitude": -73.96586280976997
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 60,
       "serialNumber": 505100067,
       "latitude": 40.77168450396742,
       "binStatus": "Available",
@@ -3044,7 +3044,7 @@
       "longitude": -73.98167006603096
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 40,
       "serialNumber": 505100100,
       "latitude": 40.773718493770346,
       "binStatus": "Available",
@@ -3107,10 +3107,10 @@
       "longitude": -73.96666802317641
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100132,
       "latitude": 40.757513465018945,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 325 - SW CO W Main Street and Main Street (by Tram Terminal)",
       "availableForUse": true,
       "longitude": -73.95414933006201
@@ -3134,7 +3134,7 @@
       "longitude": -73.96841285680578
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 60,
       "serialNumber": 505100129,
       "latitude": 40.779702163230795,
       "binStatus": "Available",
@@ -3305,7 +3305,7 @@
       "longitude": -74.00261308139008
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 60,
       "serialNumber": 505100122,
       "latitude": 40.77622161241313,
       "binStatus": "Available",
@@ -3368,7 +3368,7 @@
       "longitude": -73.99201305589226
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 505100123,
       "latitude": 40.78331643218788,
       "binStatus": "Available",
@@ -3413,7 +3413,7 @@
       "longitude": -73.98222696429983
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 505100112,
       "latitude": 40.741522457226544,
       "binStatus": "Available",
@@ -3440,10 +3440,10 @@
       "longitude": -73.97587379945203
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100128,
       "latitude": 40.72662593513809,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 327 - SW CO Bond St & Lafayette St",
       "availableForUse": true,
       "longitude": -73.99427816002996
