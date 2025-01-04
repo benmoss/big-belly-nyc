@@ -2,7 +2,7 @@
   "errorCode": "STATUS_OK",
   "compostAssets": [
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 3590004,
       "latitude": 40.740982515732185,
       "binStatus": "Available",
@@ -317,7 +317,7 @@
       "longitude": -73.91832768131844
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 60,
       "serialNumber": 503000016,
       "latitude": 40.80673101650625,
       "binStatus": "Available",
@@ -380,7 +380,7 @@
       "longitude": -73.93778998622929
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 503000023,
       "latitude": 40.84608111296369,
       "binStatus": "Available",
@@ -389,7 +389,7 @@
       "longitude": -73.94016187638044
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000025,
       "latitude": 40.854894794369606,
       "binStatus": "Available",
@@ -416,12 +416,12 @@
       "longitude": -73.88136584311724
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 0,
       "serialNumber": 503000022,
       "latitude": 40.866201512573475,
-      "binStatus": "Full",
+      "binStatus": "Available",
       "description": "BIN 64 - SE Broadway & Academy Street",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.92508216202259
     },
     {
@@ -659,7 +659,7 @@
       "longitude": -73.92041435458692
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 503000035,
       "latitude": 40.820298050767335,
       "binStatus": "Available",
@@ -749,7 +749,7 @@
       "longitude": -73.92510951539327
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 0,
       "serialNumber": 503000064,
       "latitude": 40.78210605168062,
       "binStatus": "Available",
@@ -767,7 +767,7 @@
       "longitude": -74.07695855945349
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 503000067,
       "latitude": 40.76558557637679,
       "binStatus": "Available",
@@ -1154,7 +1154,7 @@
       "longitude": -73.9155288040638
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 503000149,
       "latitude": 40.683936689634,
       "binStatus": "Available",
@@ -1586,7 +1586,7 @@
       "longitude": -73.95393367856741
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000208,
       "latitude": 40.683812617651405,
       "binStatus": "Available",
@@ -1658,10 +1658,10 @@
       "longitude": -73.82940910756588
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 503000221,
       "latitude": 40.69040997746076,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 121 - SW Tompkins Avenue & Lafayette Avenue",
       "availableForUse": true,
       "longitude": -73.94542437046766
@@ -2198,7 +2198,7 @@
       "longitude": -73.94638707990978
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 0,
       "serialNumber": 505100038,
       "latitude": 40.780081383690586,
       "binStatus": "Available",
@@ -2216,7 +2216,7 @@
       "longitude": -73.94848935814979
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 0,
       "serialNumber": 505100040,
       "latitude": 40.77068591297934,
       "binStatus": "Available",
@@ -2279,7 +2279,7 @@
       "longitude": -73.97899926258084
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 0,
       "serialNumber": 505100012,
       "latitude": 40.731190506042964,
       "binStatus": "Available",
@@ -2378,7 +2378,7 @@
       "longitude": -73.9869912541827
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 505100045,
       "latitude": 40.74639647509707,
       "binStatus": "Available",
@@ -2432,7 +2432,7 @@
       "longitude": -74.01704739779234
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 0,
       "serialNumber": 505100007,
       "latitude": 40.730315325690235,
       "binStatus": "Available",
@@ -2540,7 +2540,7 @@
       "longitude": -73.95019042066897
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 0,
       "serialNumber": 505100044,
       "latitude": 40.73121273762785,
       "binStatus": "Available",
@@ -2585,10 +2585,10 @@
       "longitude": -73.94763141892919
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100034,
       "latitude": 40.7312028692314,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 352 - SE CO 1 Ave & E 14 St",
       "availableForUse": true,
       "longitude": -73.98249430253485
@@ -2603,7 +2603,7 @@
       "longitude": -73.95822445057821
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 60,
       "serialNumber": 505100016,
       "latitude": 40.76390136307756,
       "binStatus": "Available",
@@ -2612,7 +2612,7 @@
       "longitude": -73.95865606044225
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 505100063,
       "latitude": 40.71256505742161,
       "binStatus": "Available",
@@ -2630,7 +2630,7 @@
       "longitude": -73.97332561607193
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 0,
       "serialNumber": 505100028,
       "latitude": 40.762145800103276,
       "binStatus": "Available",
@@ -2819,7 +2819,7 @@
       "longitude": -73.97379656746796
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 0,
       "serialNumber": 505100084,
       "latitude": 40.767171552566246,
       "binStatus": "Available",
@@ -3008,7 +3008,7 @@
       "longitude": -73.96910423686519
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 60,
       "serialNumber": 505100111,
       "latitude": 40.758836000578,
       "binStatus": "Available",
@@ -3044,7 +3044,7 @@
       "longitude": -73.98167006603096
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 0,
       "serialNumber": 505100100,
       "latitude": 40.773718493770346,
       "binStatus": "Available",
@@ -3224,16 +3224,16 @@
       "longitude": -73.94652914221223
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 80,
       "serialNumber": 505100138,
       "latitude": 40.76639459170164,
-      "binStatus": "Full",
+      "binStatus": "Nearly Full",
       "description": "BIN 353 - SE CO 10 Ave & W 53 St",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.99037571712044
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 0,
       "serialNumber": 505100136,
       "latitude": 40.764814574064715,
       "binStatus": "Available",
@@ -3359,7 +3359,7 @@
       "longitude": -74.00684701383747
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 0,
       "serialNumber": 505100135,
       "latitude": 40.758930399023754,
       "binStatus": "Available",
@@ -3395,7 +3395,7 @@
       "longitude": -73.97035768079368
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 505100145,
       "latitude": 40.74163391924499,
       "binStatus": "Available",
