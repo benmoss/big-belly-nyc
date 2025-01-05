@@ -83,12 +83,12 @@
       "longitude": -73.91701877117157
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 3590016,
       "latitude": 40.74379131277653,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 405 - NW Queens Blvd & 43rd St",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.92166045665941
     },
     {
@@ -299,7 +299,7 @@
       "longitude": -73.95101174712181
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 503000014,
       "latitude": 40.762625726342314,
       "binStatus": "Available",
@@ -488,7 +488,7 @@
       "longitude": -73.95299658179283
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 503000053,
       "latitude": 40.764994993021595,
       "binStatus": "Available",
@@ -569,7 +569,7 @@
       "longitude": -73.94713159650564
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000044,
       "latitude": 40.80556261860785,
       "binStatus": "Available",
@@ -767,10 +767,10 @@
       "longitude": -74.07695855945349
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 503000067,
       "latitude": 40.76558557637679,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 10 - SE 31st Avenue & Crescent Street",
       "availableForUse": true,
       "longitude": -73.92632732264548
@@ -812,10 +812,10 @@
       "longitude": -73.93469754606485
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 503000073,
       "latitude": 40.813082487843964,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 39 - NW West 135 Street & 5th Avenue",
       "availableForUse": true,
       "longitude": -73.93777001649141
@@ -1001,10 +1001,10 @@
       "longitude": -73.93987722694874
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 503000078,
       "latitude": 40.81357603431238,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 38 - NW West 132 Street & Adam Clayton Powell Jr Blvd",
       "availableForUse": true,
       "longitude": -73.94525472074747
@@ -1631,7 +1631,7 @@
       "longitude": -73.85504934936762
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 503000215,
       "latitude": 40.865528589915826,
       "binStatus": "Available",
@@ -2162,7 +2162,7 @@
       "longitude": -73.93855053931475
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 503000202,
       "latitude": 40.66971391909037,
       "binStatus": "Available",
@@ -2333,10 +2333,10 @@
       "longitude": -73.99540269748928
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100031,
       "latitude": 40.72948121652991,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 328 - SE CO Bleecker St & 6 Ave",
       "availableForUse": true,
       "longitude": -74.00212241864305
@@ -2432,10 +2432,10 @@
       "longitude": -74.01704739779234
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100007,
       "latitude": 40.730315325690235,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 333 - SE CO Carmine ST & Bleeker St",
       "availableForUse": true,
       "longitude": -74.00240702146108
@@ -2531,10 +2531,10 @@
       "longitude": -73.97783417254686
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100035,
       "latitude": 40.77152776150592,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 276 - NE CO York Avenue & 79th Street",
       "availableForUse": true,
       "longitude": -73.95019042066897
@@ -2603,7 +2603,7 @@
       "longitude": -73.95822445057821
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 60,
       "serialNumber": 505100016,
       "latitude": 40.76390136307756,
       "binStatus": "Available",
@@ -2612,10 +2612,10 @@
       "longitude": -73.95865606044225
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 80,
       "serialNumber": 505100063,
       "latitude": 40.71256505742161,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 251 - NE CO Broadway & Park Place (City hall park side)",
       "availableForUse": true,
       "longitude": -74.00756552771458
@@ -2657,7 +2657,7 @@
       "longitude": -73.99876398340452
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 505100058,
       "latitude": 40.716735019858994,
       "binStatus": "Available",
@@ -2783,7 +2783,7 @@
       "longitude": -73.99052800018954
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 505100081,
       "latitude": 40.78693626205199,
       "binStatus": "Available",
@@ -2882,19 +2882,19 @@
       "longitude": -73.95335140977043
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 505100087,
       "latitude": 40.798370790247,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 384 - SE CO Broadway & W 102 St",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.96888427642509
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100093,
       "latitude": 40.7953036151945,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 383 - NE CO Broadway & W 97 St",
       "availableForUse": true,
       "longitude": -73.97107263571145
@@ -2954,7 +2954,7 @@
       "longitude": -73.9850452796422
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 60,
       "serialNumber": 505100110,
       "latitude": 40.75405449748158,
       "binStatus": "Available",
@@ -2972,10 +2972,10 @@
       "longitude": -73.94326507506806
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100109,
       "latitude": 40.80401808886133,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 420 - NW c/o Adam Clayton Powell Jr Blvd & 117 St",
       "availableForUse": true,
       "longitude": -73.95211949944496
@@ -3341,7 +3341,7 @@
       "longitude": -73.97196531694908
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 505100140,
       "latitude": 40.760441717606135,
       "binStatus": "Available",
