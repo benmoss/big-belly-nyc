@@ -398,7 +398,7 @@
       "longitude": -73.90380453318357
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000032,
       "latitude": 40.76149921367936,
       "binStatus": "Available",
@@ -947,7 +947,7 @@
       "longitude": -73.91744524240494
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000096,
       "latitude": 40.8721462108312,
       "binStatus": "Available",
@@ -2162,7 +2162,7 @@
       "longitude": -73.93855053931475
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 503000202,
       "latitude": 40.66971391909037,
       "binStatus": "Available",
@@ -2180,7 +2180,7 @@
       "longitude": -73.98717944724858
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 505100039,
       "latitude": 40.781609451116324,
       "binStatus": "Available",
@@ -2396,7 +2396,7 @@
       "longitude": -74.00695323944092
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 505100003,
       "latitude": 40.73776704120356,
       "binStatus": "Available",
@@ -2468,10 +2468,10 @@
       "longitude": -74.00274561377924
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100047,
       "latitude": 40.73539348561974,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 309 - NE CO Irving PL & E 16 St",
       "availableForUse": true,
       "longitude": -73.98759673124307
@@ -3098,7 +3098,7 @@
       "longitude": -73.9806513567258
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 40,
       "serialNumber": 505100126,
       "latitude": 40.789118885800946,
       "binStatus": "Available",
@@ -3377,12 +3377,12 @@
       "longitude": -73.98062197434946
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 505100118,
       "latitude": 40.769273183978356,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 355 - NW CO  9th Ave & West 59th Street",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.98478295989479
     },
     {
@@ -3431,10 +3431,10 @@
       "longitude": -73.9799463692325
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100115,
       "latitude": 40.78876861933553,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 380 - SE CO Broadway & W 87 St",
       "availableForUse": true,
       "longitude": -73.97587379945203
