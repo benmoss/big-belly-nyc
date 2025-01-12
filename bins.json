@@ -2,7 +2,7 @@
   "errorCode": "STATUS_OK",
   "compostAssets": [
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 3590004,
       "latitude": 40.740982515732185,
       "binStatus": "Available",
@@ -551,7 +551,7 @@
       "longitude": -73.93884859979153
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 503000051,
       "latitude": 40.83816928203937,
       "binStatus": "Available",
@@ -587,7 +587,7 @@
       "longitude": -73.92916951328516
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000041,
       "latitude": 40.81994765597217,
       "binStatus": "Available",
@@ -605,10 +605,10 @@
       "longitude": -73.92345808446407
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 503000046,
       "latitude": 40.81204666270059,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 21 - SW West 126th St & Morningside Ave",
       "availableForUse": true,
       "longitude": -73.95370233803988
@@ -713,7 +713,7 @@
       "longitude": -73.92594543138473
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 503000061,
       "latitude": 40.76808087642403,
       "binStatus": "Available",
@@ -893,12 +893,12 @@
       "longitude": -73.91521599143744
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 503000093,
       "latitude": 40.76223009405083,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 01 - NE 31st Avenue & 37th Street",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.91863731029024
     },
     {
@@ -2054,7 +2054,7 @@
       "longitude": -73.93931295722723
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000276,
       "latitude": 40.67165676594622,
       "binStatus": "Available",
@@ -2063,7 +2063,7 @@
       "longitude": -73.95756002515554
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 503000273,
       "latitude": 40.67710908208188,
       "binStatus": "Available",
@@ -3251,12 +3251,12 @@
       "longitude": -73.99302401909992
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 505100142,
       "latitude": 40.73887358712755,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 390 - NE CO E 22 St & Lexington Ave",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.98511663223668
     },
     {
