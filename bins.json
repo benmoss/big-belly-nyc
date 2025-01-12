@@ -2,10 +2,10 @@
   "errorCode": "STATUS_OK",
   "compostAssets": [
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 3590004,
       "latitude": 40.740982515732185,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 406 - SE 47th Ave & 47th St",
       "availableForUse": true,
       "longitude": -73.9180913195014
@@ -704,7 +704,7 @@
       "longitude": -73.86818949133158
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 60,
       "serialNumber": 503000063,
       "latitude": 40.76656936634833,
       "binStatus": "Available",
@@ -1712,12 +1712,12 @@
       "longitude": -73.91965739428997
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 503000225,
       "latitude": 40.6865703680712,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 128 - NE Bedford Avenue & Quincy Street",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.95448587834835
     },
     {
@@ -1730,7 +1730,7 @@
       "longitude": -73.9304231107235
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000229,
       "latitude": 40.82775764614125,
       "binStatus": "Available",
@@ -1901,7 +1901,7 @@
       "longitude": -73.91177110144258
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 503000254,
       "latitude": 40.67509191438939,
       "binStatus": "Available",
