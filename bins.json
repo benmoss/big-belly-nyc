@@ -38,10 +38,10 @@
       "longitude": -73.9175371080637
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 3590014,
       "latitude": 40.745373137079994,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 404 - SE 43rd Ave & 41st St",
       "availableForUse": true,
       "longitude": -73.92288388211199
@@ -380,12 +380,12 @@
       "longitude": -73.93778998622929
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 0,
       "serialNumber": 503000023,
       "latitude": 40.84608111296369,
-      "binStatus": "Full",
+      "binStatus": "Available",
       "description": "BIN 59 - NE West 174th Street & Fort Washington Avenue",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.94016187638044
     },
     {
@@ -488,7 +488,7 @@
       "longitude": -73.95299658179283
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 40,
       "serialNumber": 503000053,
       "latitude": 40.764994993021595,
       "binStatus": "Available",
@@ -713,7 +713,7 @@
       "longitude": -73.92594543138473
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 40,
       "serialNumber": 503000061,
       "latitude": 40.76808087642403,
       "binStatus": "Available",
@@ -1577,7 +1577,7 @@
       "longitude": -73.95393367856741
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 503000208,
       "latitude": 40.683812617651405,
       "binStatus": "Available",
@@ -2297,10 +2297,10 @@
       "longitude": -74.00691708161023
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100052,
       "latitude": 40.71989182112748,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 255 -  NE CO Delancey St & Forsyth St",
       "availableForUse": true,
       "longitude": -73.99195962283002
@@ -3053,10 +3053,10 @@
       "longitude": -73.9728414833659
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100101,
       "latitude": 40.77228183243049,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 283 - SW CO 3rd Ave & 76th St",
       "availableForUse": true,
       "longitude": -73.95896668550664
@@ -3206,12 +3206,12 @@
       "longitude": -73.96400324926272
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 505100143,
       "latitude": 40.77663888275979,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 392 - NE CO York Ave & E 87 St",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.94652914221223
     },
     {
