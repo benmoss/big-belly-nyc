@@ -551,7 +551,7 @@
       "longitude": -73.93884859979153
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 503000051,
       "latitude": 40.83816928203937,
       "binStatus": "Available",
@@ -560,12 +560,12 @@
       "longitude": -73.93815591931343
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 80,
       "serialNumber": 503000052,
       "latitude": 40.805835432729474,
-      "binStatus": "Full",
+      "binStatus": "Nearly Full",
       "description": "BIN 36 - SW West 122 Street & Malcolm X Blvd",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.94713159650564
     },
     {
@@ -776,12 +776,12 @@
       "longitude": -73.92632732264548
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 503000070,
       "latitude": 40.83161371635521,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 55 - NE Amsterdam Avenue & West 155th Street",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.94291717559099
     },
     {
@@ -1100,10 +1100,10 @@
       "longitude": -73.94146978855133
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 503000145,
       "latitude": 40.68640155543058,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 137 - NW Malcolm X Boulevard & Putnam Avenue",
       "availableForUse": true,
       "longitude": -73.92984341830015
@@ -1118,7 +1118,7 @@
       "longitude": -73.92045420260473
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 60,
       "serialNumber": 503000147,
       "latitude": 40.687583234935204,
       "binStatus": "Available",
@@ -1586,10 +1586,10 @@
       "longitude": -73.92018981277943
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 503000210,
       "latitude": 40.70378294439786,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 176 - SW Knickerbocker Avenue & Jefferson Street",
       "availableForUse": true,
       "longitude": -73.92708376049995
@@ -2135,10 +2135,10 @@
       "longitude": -73.9109194278717
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 503000212,
       "latitude": 40.70585647534992,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 178 - NE St. Nicholas Avenue & Hart Street",
       "availableForUse": true,
       "longitude": -73.91865953781273
@@ -2351,7 +2351,7 @@
       "longitude": -73.9498927384089
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 505100013,
       "latitude": 40.73565255133342,
       "binStatus": "Available",
