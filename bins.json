@@ -344,7 +344,7 @@
       "longitude": -73.94737802445889
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 503000019,
       "latitude": 40.76701705596692,
       "binStatus": "Available",
@@ -398,10 +398,10 @@
       "longitude": -73.90380453318357
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 503000032,
       "latitude": 40.76149921367936,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 17 - SE 38th Street & 31st Avenue",
       "availableForUse": true,
       "longitude": -73.91796863240839
@@ -569,7 +569,7 @@
       "longitude": -73.94713159650564
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 0,
       "serialNumber": 503000044,
       "latitude": 40.80556261860785,
       "binStatus": "Available",
@@ -704,10 +704,10 @@
       "longitude": -73.86818949133158
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 503000063,
       "latitude": 40.76656936634833,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 19 - SE Crescent Street & 30th Drive",
       "availableForUse": true,
       "longitude": -73.92594543138473
@@ -731,7 +731,7 @@
       "longitude": -73.95281787961721
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 503000066,
       "latitude": 40.764940904595754,
       "binStatus": "Available",
@@ -785,12 +785,12 @@
       "longitude": -73.94291717559099
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 503000069,
       "latitude": 40.762088122135914,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 06 - NW 31st Street & Broadway",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.92557334154844
     },
     {
@@ -812,10 +812,10 @@
       "longitude": -73.93469754606485
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 0,
       "serialNumber": 503000073,
       "latitude": 40.813082487843964,
-      "binStatus": "Nearly Full",
+      "binStatus": "Available",
       "description": "BIN 39 - NW West 135 Street & 5th Avenue",
       "availableForUse": true,
       "longitude": -73.93777001649141
@@ -893,7 +893,7 @@
       "longitude": -73.91521599143744
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 503000093,
       "latitude": 40.76223009405083,
       "binStatus": "Available",
@@ -1100,7 +1100,7 @@
       "longitude": -73.94146978855133
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 503000145,
       "latitude": 40.68640155543058,
       "binStatus": "Available",
@@ -1145,7 +1145,7 @@
       "longitude": -73.9155288040638
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 40,
       "serialNumber": 503000149,
       "latitude": 40.683936689634,
       "binStatus": "Available",
@@ -1406,7 +1406,7 @@
       "longitude": -73.92379101365805
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 40,
       "serialNumber": 503000189,
       "latitude": 40.67990830015172,
       "binStatus": "Available",
@@ -2063,7 +2063,7 @@
       "longitude": -73.95756002515554
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 60,
       "serialNumber": 503000273,
       "latitude": 40.67710908208188,
       "binStatus": "Available",
@@ -2099,7 +2099,7 @@
       "longitude": -74.07558023929596
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 0,
       "serialNumber": 503000216,
       "latitude": 40.84382557774167,
       "binStatus": "Available",
@@ -2171,10 +2171,10 @@
       "longitude": -73.98717944724858
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 0,
       "serialNumber": 505100039,
       "latitude": 40.781609451116324,
-      "binStatus": "Nearly Full",
+      "binStatus": "Available",
       "description": "BIN 274 - SE CO E 92 St & 2 Ave",
       "availableForUse": true,
       "longitude": -73.94892745726821
@@ -2279,12 +2279,12 @@
       "longitude": -73.98598125432342
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 0,
       "serialNumber": 505100010,
       "latitude": 40.75280253801481,
-      "binStatus": "Full",
+      "binStatus": "Available",
       "description": "BIN 346 - NW CO 9 Ave & W 33 St",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.99692150445948
     },
     {
@@ -2333,7 +2333,7 @@
       "longitude": -74.00212241864305
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 0,
       "serialNumber": 505100021,
       "latitude": 40.775317712188475,
       "binStatus": "Available",
@@ -2702,10 +2702,10 @@
       "longitude": -74.01055041700602
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 0,
       "serialNumber": 505100054,
       "latitude": 40.7191714224125,
-      "binStatus": "Nearly Full",
+      "binStatus": "Available",
       "description": "BIN 264 - NE CO Clinton Street & Rivington St",
       "availableForUse": true,
       "longitude": -73.98495496580612
@@ -2729,10 +2729,10 @@
       "longitude": -73.99644857287824
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 0,
       "serialNumber": 505100056,
       "latitude": 40.77779121756704,
-      "binStatus": "Nearly Full",
+      "binStatus": "Available",
       "description": "BIN 265 - SW CO 2nd Avenue & E 86th Street",
       "availableForUse": true,
       "longitude": -73.9519761287763
@@ -3251,10 +3251,10 @@
       "longitude": -73.99302401909992
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 0,
       "serialNumber": 505100142,
       "latitude": 40.73887358712755,
-      "binStatus": "Nearly Full",
+      "binStatus": "Available",
       "description": "BIN 390 - NE CO E 22 St & Lexington Ave",
       "availableForUse": true,
       "longitude": -73.98511663223668
@@ -3350,7 +3350,7 @@
       "longitude": -74.00684701383747
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 0,
       "serialNumber": 505100135,
       "latitude": 40.758930399023754,
       "binStatus": "Available",
