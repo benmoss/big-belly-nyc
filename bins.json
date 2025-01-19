@@ -2,7 +2,7 @@
   "errorCode": "STATUS_OK",
   "compostAssets": [
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 3590004,
       "latitude": 40.740982515732185,
       "binStatus": "Available",
@@ -56,12 +56,12 @@
       "longitude": -73.91328877313748
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 3590001,
       "latitude": 40.746548059294376,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "Bin 396 - NE 64th St. & 39th Ave",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.89971678571764
     },
     {
@@ -182,7 +182,7 @@
       "longitude": -73.95366545766592
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 40,
       "serialNumber": 503000027,
       "latitude": 40.76272343617805,
       "binStatus": "Available",
@@ -515,7 +515,7 @@
       "longitude": -73.93447995185852
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 503000056,
       "latitude": 40.817629573974216,
       "binStatus": "Available",
@@ -677,12 +677,12 @@
       "longitude": -73.93176387995481
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 503000036,
       "latitude": 40.6778510426927,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 187 - NW Vanderbilt Avenue & Prospect Place",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.96890208125114
     },
     {
@@ -1424,7 +1424,7 @@
       "longitude": -73.90980195254087
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 503000181,
       "latitude": 40.68065836586844,
       "binStatus": "Available",
@@ -1946,7 +1946,7 @@
       "longitude": -73.96024390254057
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 503000264,
       "latitude": 40.67279917738334,
       "binStatus": "Available",
@@ -2720,7 +2720,7 @@
       "longitude": -73.96450973157151
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 505100060,
       "latitude": 40.71026346371404,
       "binStatus": "Available",
@@ -3107,10 +3107,10 @@
       "longitude": -73.95414933006201
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100124,
       "latitude": 40.74132799277233,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 397 - SE Queens Blvd & 60th St.",
       "availableForUse": true,
       "longitude": -73.90472956001759
@@ -3323,7 +3323,7 @@
       "longitude": -73.97276669918094
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 505100117,
       "latitude": 40.78193045956682,
       "binStatus": "Available",
@@ -3350,7 +3350,7 @@
       "longitude": -74.00684701383747
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 505100135,
       "latitude": 40.758930399023754,
       "binStatus": "Available",
