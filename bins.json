@@ -2,7 +2,7 @@
   "errorCode": "STATUS_OK",
   "compostAssets": [
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 3590004,
       "latitude": 40.740982515732185,
       "binStatus": "Available",
@@ -218,7 +218,7 @@
       "longitude": -73.86632109842786
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 40,
       "serialNumber": 503000028,
       "latitude": 40.798054852781554,
       "binStatus": "Available",
@@ -470,7 +470,7 @@
       "longitude": -73.92958357930183
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 503000059,
       "latitude": 40.87534010684036,
       "binStatus": "Available",
@@ -704,12 +704,12 @@
       "longitude": -73.86818949133158
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 503000063,
       "latitude": 40.76656936634833,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 19 - SE Crescent Street & 30th Drive",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.92594543138473
     },
     {
@@ -857,7 +857,7 @@
       "longitude": -73.93855724483728
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 503000085,
       "latitude": 40.80984148378304,
       "binStatus": "Available",
@@ -2063,12 +2063,12 @@
       "longitude": -73.95756002515554
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 503000273,
       "latitude": 40.67710908208188,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 217 - NE Rogers Avenue & Dean Street",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.95261202007532
     },
     {
@@ -2153,7 +2153,7 @@
       "longitude": -73.93855053931475
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 503000202,
       "latitude": 40.66971391909037,
       "binStatus": "Available",
@@ -2171,10 +2171,10 @@
       "longitude": -73.98717944724858
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100039,
       "latitude": 40.781609451116324,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 274 - SE CO E 92 St & 2 Ave",
       "availableForUse": true,
       "longitude": -73.94892745726821
@@ -2252,12 +2252,12 @@
       "longitude": -73.9538887710376
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 505100014,
       "latitude": 40.78010940688603,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 267 - NE CO 1st Ave & 91ST St",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.94685207786003
     },
     {
@@ -2351,7 +2351,7 @@
       "longitude": -73.9498927384089
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 505100013,
       "latitude": 40.73565255133342,
       "binStatus": "Available",
@@ -2450,12 +2450,12 @@
       "longitude": -73.99481938922054
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 505100037,
       "latitude": 40.739169439589006,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 331 - SE CO Greenwich Ave & 8th Ave",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -74.00274561377924
     },
     {
@@ -2702,7 +2702,7 @@
       "longitude": -74.01055041700602
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 60,
       "serialNumber": 505100054,
       "latitude": 40.7191714224125,
       "binStatus": "Available",
@@ -2945,10 +2945,10 @@
       "longitude": -73.9850452796422
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100110,
       "latitude": 40.75405449748158,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 295 - SE CO 2nd Ave & E 49 St",
       "availableForUse": true,
       "longitude": -73.96902091534423
@@ -3008,7 +3008,7 @@
       "longitude": -73.96586280976997
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 60,
       "serialNumber": 505100067,
       "latitude": 40.77168450396742,
       "binStatus": "Available",
@@ -3197,7 +3197,7 @@
       "longitude": -73.99655276134223
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 505100133,
       "latitude": 40.79786101513957,
       "binStatus": "Available",
@@ -3233,7 +3233,7 @@
       "longitude": -73.98776125245462
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 505100144,
       "latitude": 40.78596763857327,
       "binStatus": "Available",
@@ -3404,12 +3404,12 @@
       "longitude": -73.98222696429983
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 505100112,
       "latitude": 40.741522457226544,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 306 - NW CO 3rd Avenue & 27th Street",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.98135114745574
     },
     {
