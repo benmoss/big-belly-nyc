@@ -101,7 +101,7 @@
       "longitude": -73.91260653734207
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 3590003,
       "latitude": 40.7457242854218,
       "binStatus": "Available",
@@ -371,10 +371,10 @@
       "longitude": -73.93805466592312
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 503000006,
       "latitude": 40.855684792533886,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 61 - NE Cabrini Blvd. & West 187th Street",
       "availableForUse": true,
       "longitude": -73.93778998622929
@@ -398,10 +398,10 @@
       "longitude": -73.90380453318357
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 503000032,
       "latitude": 40.76149921367936,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 17 - SE 38th Street & 31st Avenue",
       "availableForUse": true,
       "longitude": -73.91796863240839
@@ -524,10 +524,10 @@
       "longitude": -73.95314779132605
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 503000050,
       "latitude": 40.829794034320685,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 26 - NW Amsterdam Avenue & W 152 Street",
       "availableForUse": true,
       "longitude": -73.94453756511211
@@ -596,7 +596,7 @@
       "longitude": -73.92879232764244
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 503000042,
       "latitude": 40.764174520197706,
       "binStatus": "Available",
@@ -677,10 +677,10 @@
       "longitude": -73.93176387995481
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 503000036,
       "latitude": 40.6778510426927,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 187 - NW Vanderbilt Avenue & Prospect Place",
       "availableForUse": true,
       "longitude": -73.96890208125114
@@ -731,7 +731,7 @@
       "longitude": -73.95281787961721
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 40,
       "serialNumber": 503000066,
       "latitude": 40.764940904595754,
       "binStatus": "Available",
@@ -1046,7 +1046,7 @@
       "longitude": -73.90436712652445
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 503000136,
       "latitude": 40.67726495043478,
       "binStatus": "Available",
@@ -1154,7 +1154,7 @@
       "longitude": -73.9503475651145
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 503000132,
       "latitude": 40.70324915068062,
       "binStatus": "Available",
@@ -1181,7 +1181,7 @@
       "longitude": -73.91374111175537
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000164,
       "latitude": 40.69660505362728,
       "binStatus": "Available",
@@ -1514,7 +1514,7 @@
       "longitude": -73.83048333227634
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 60,
       "serialNumber": 503000193,
       "latitude": 40.676794793886764,
       "binStatus": "Available",
@@ -1784,7 +1784,7 @@
       "longitude": -73.9355384244532
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 503000235,
       "latitude": 40.67303171113777,
       "binStatus": "Available",
@@ -1811,7 +1811,7 @@
       "longitude": -73.94294936209917
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 503000240,
       "latitude": 40.67428152112551,
       "binStatus": "Available",
@@ -2036,12 +2036,12 @@
       "longitude": -73.92471789027536
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 503000267,
       "latitude": 40.67165371443654,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 219 - SE Classon Avenue & Eastern Parkway",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.96107707172632
     },
     {
@@ -2333,7 +2333,7 @@
       "longitude": -74.00212241864305
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 505100021,
       "latitude": 40.775317712188475,
       "binStatus": "Available",
@@ -2423,12 +2423,12 @@
       "longitude": -74.01704739779234
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 505100007,
       "latitude": 40.730315325690235,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 333 - SE CO Carmine ST & Bleeker St",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -74.00240702146108
     },
     {
@@ -2594,10 +2594,10 @@
       "longitude": -73.95822445057821
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100016,
       "latitude": 40.76390136307756,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 269 - SE CO E 66 St & 1 Ave",
       "availableForUse": true,
       "longitude": -73.95865606044225
@@ -2657,7 +2657,7 @@
       "longitude": -73.98896138948061
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 505100072,
       "latitude": 40.71327373740936,
       "binStatus": "Available",
@@ -3206,7 +3206,7 @@
       "longitude": -73.96400324926272
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 40,
       "serialNumber": 505100143,
       "latitude": 40.77663888275979,
       "binStatus": "Available",
@@ -3260,7 +3260,7 @@
       "longitude": -73.98511663223668
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 505100137,
       "latitude": 40.743433331711394,
       "binStatus": "Available",
