@@ -2,10 +2,10 @@
   "errorCode": "STATUS_OK",
   "compostAssets": [
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 3590004,
       "latitude": 40.740982515732185,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 406 - SE 47th Ave & 47th St",
       "availableForUse": true,
       "longitude": -73.9180913195014
@@ -1424,10 +1424,10 @@
       "longitude": -73.90980195254087
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 503000181,
       "latitude": 40.68065836586844,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 115 - NE Lewis Avenue & Bainbridge Street",
       "availableForUse": true,
       "longitude": -73.93454968929291
@@ -2207,7 +2207,7 @@
       "longitude": -73.94848935814979
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 60,
       "serialNumber": 505100040,
       "latitude": 40.77068591297934,
       "binStatus": "Available",
@@ -2693,12 +2693,12 @@
       "longitude": -74.0047200044207
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 505100059,
       "latitude": 40.718786682897935,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 244 - SW CO of Greenwich St & Harrison ST",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -74.01055041700602
     },
     {
@@ -2774,12 +2774,12 @@
       "longitude": -73.99052800018954
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 505100081,
       "latitude": 40.78693626205199,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 367 - SW CO Amsterdam Ave & W 85 St",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.97570673483682
     },
     {
@@ -3053,10 +3053,10 @@
       "longitude": -73.9728414833659
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100101,
       "latitude": 40.77228183243049,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 283 - SW CO 3rd Ave & 76th St",
       "availableForUse": true,
       "longitude": -73.95896668550664
