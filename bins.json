@@ -56,7 +56,7 @@
       "longitude": -73.91328877313748
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 3590001,
       "latitude": 40.746548059294376,
       "binStatus": "Available",
@@ -533,7 +533,7 @@
       "longitude": -73.94453756511211
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 503000048,
       "latitude": 40.7966226877643,
       "binStatus": "Available",
@@ -1064,7 +1064,7 @@
       "longitude": -73.93525745719671
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 503000144,
       "latitude": 40.7019656047617,
       "binStatus": "Available",
@@ -1100,7 +1100,7 @@
       "longitude": -73.94146978855133
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000145,
       "latitude": 40.68640155543058,
       "binStatus": "Available",
@@ -1190,10 +1190,10 @@
       "longitude": -73.93099308013916
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 503000150,
       "latitude": 40.67358758069033,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 193 - NW Washington Avenue & St. Johns Place",
       "availableForUse": true,
       "longitude": -73.96311119198799
@@ -1253,7 +1253,7 @@
       "longitude": -73.9129939918858
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000160,
       "latitude": 40.6827719802296,
       "binStatus": "Available",
@@ -1316,7 +1316,7 @@
       "longitude": -73.91542855650187
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 60,
       "serialNumber": 503000175,
       "latitude": 40.68014247411724,
       "binStatus": "Available",
@@ -1496,7 +1496,7 @@
       "longitude": -73.82693077466463
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000190,
       "latitude": 40.692363382489,
       "binStatus": "Available",
@@ -1523,7 +1523,7 @@
       "longitude": -73.94724616137695
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 60,
       "serialNumber": 503000191,
       "latitude": 40.80924767164232,
       "binStatus": "Available",
@@ -1802,7 +1802,7 @@
       "longitude": -74.07850451767445
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 503000239,
       "latitude": 40.69389322166022,
       "binStatus": "Available",
@@ -1811,7 +1811,7 @@
       "longitude": -73.94294936209917
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000240,
       "latitude": 40.67428152112551,
       "binStatus": "Available",
@@ -1820,7 +1820,7 @@
       "longitude": -73.94742764532566
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000243,
       "latitude": 40.8111366429278,
       "binStatus": "Available",
@@ -1883,7 +1883,7 @@
       "longitude": -73.94772704690695
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000251,
       "latitude": 40.67459377925092,
       "binStatus": "Available",
@@ -2216,7 +2216,7 @@
       "longitude": -73.98008527492154
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 505100042,
       "latitude": 40.73752862143271,
       "binStatus": "Available",
@@ -2252,7 +2252,7 @@
       "longitude": -73.9538887710376
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 505100014,
       "latitude": 40.78010940688603,
       "binStatus": "Available",
@@ -2378,7 +2378,7 @@
       "longitude": -74.00526163846435
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 60,
       "serialNumber": 505100027,
       "latitude": 40.71904231972568,
       "binStatus": "Available",
@@ -2432,10 +2432,10 @@
       "longitude": -74.00240702146108
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100009,
       "latitude": 40.7164061130962,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 245 - NW CO Greenwich St & Chambers St",
       "availableForUse": true,
       "longitude": -74.0109745413065
@@ -2495,12 +2495,12 @@
       "longitude": -74.01322457939386
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 505100071,
       "latitude": 40.73149350965934,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 259 - SW CO University & 8th Street",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.99466765892298
     },
     {
@@ -2621,10 +2621,10 @@
       "longitude": -73.97332561607193
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 80,
       "serialNumber": 505100028,
       "latitude": 40.762145800103276,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 348 - SE CO 9 Ave & W 48 St",
       "availableForUse": true,
       "longitude": -73.98977462491895
@@ -3026,7 +3026,7 @@
       "longitude": -73.97793704431773
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 505100066,
       "latitude": 40.71424651872,
       "binStatus": "Available",
@@ -3098,7 +3098,7 @@
       "longitude": -73.96666802317641
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 505100132,
       "latitude": 40.757513465018945,
       "binStatus": "Available",
@@ -3296,7 +3296,7 @@
       "longitude": -74.00261308139008
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 505100122,
       "latitude": 40.77622161241313,
       "binStatus": "Available",
