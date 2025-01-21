@@ -92,12 +92,12 @@
       "longitude": -73.92166045665941
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 0,
       "serialNumber": 3590012,
       "latitude": 40.884080646656564,
-      "binStatus": "Full",
+      "binStatus": "Available",
       "description": "Bin 413 - NW W 232nd St & Arlington Ave",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.91260653734207
     },
     {
@@ -128,16 +128,16 @@
       "longitude": -73.92099916934967
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 0,
       "serialNumber": 3590005,
       "latitude": 40.88661576005842,
-      "binStatus": "Full",
+      "binStatus": "Available",
       "description": "BIN 411 - SW W 236th St & Johnson Ave",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.90993109059836
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 0,
       "serialNumber": 3590009,
       "latitude": 40.88637790151751,
       "binStatus": "Available",
@@ -200,12 +200,12 @@
       "longitude": -74.11656774580479
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 503000002,
       "latitude": 40.802377335586115,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 51 - NE East 120 Street & Madison Avenue",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.94273579120636
     },
     {
@@ -992,10 +992,10 @@
       "longitude": -73.9447372895371
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 503000078,
       "latitude": 40.81357603431238,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 38 - NW West 132 Street & Adam Clayton Powell Jr Blvd",
       "availableForUse": true,
       "longitude": -73.94525472074747
@@ -1073,7 +1073,7 @@
       "longitude": -73.93217660486698
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000135,
       "latitude": 40.69796320197583,
       "binStatus": "Available",
@@ -1784,7 +1784,7 @@
       "longitude": -73.9355384244532
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000235,
       "latitude": 40.67303171113777,
       "binStatus": "Available",
@@ -2117,7 +2117,7 @@
       "longitude": -73.92091434448957
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000205,
       "latitude": 40.68303106054966,
       "binStatus": "Available",
@@ -3233,7 +3233,7 @@
       "longitude": -73.98776125245462
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 505100144,
       "latitude": 40.78596763857327,
       "binStatus": "Available",
@@ -3359,7 +3359,7 @@
       "longitude": -73.99201305589226
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 505100123,
       "latitude": 40.78331643218788,
       "binStatus": "Available",
