@@ -830,7 +830,7 @@
       "longitude": -73.92188027501106
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000081,
       "latitude": 40.79314191706756,
       "binStatus": "Available",
@@ -1019,7 +1019,7 @@
       "longitude": -73.96537832915783
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 503000140,
       "latitude": 40.681352486961536,
       "binStatus": "Available",
@@ -1145,7 +1145,7 @@
       "longitude": -73.9155288040638
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 40,
       "serialNumber": 503000149,
       "latitude": 40.683936689634,
       "binStatus": "Available",
@@ -1586,7 +1586,7 @@
       "longitude": -73.92018981277943
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 503000210,
       "latitude": 40.70378294439786,
       "binStatus": "Available",
@@ -1874,10 +1874,10 @@
       "longitude": -73.90651490539312
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 503000246,
       "latitude": 40.67049107908947,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 197 - NW New York Avenue & Lincoln Place",
       "availableForUse": true,
       "longitude": -73.94772704690695
@@ -2180,10 +2180,10 @@
       "longitude": -73.94892745726821
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100018,
       "latitude": 40.77294782166341,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 270 - SW CO 83rd & East End",
       "availableForUse": true,
       "longitude": -73.94638707990978
@@ -3260,10 +3260,10 @@
       "longitude": -73.98511663223668
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100137,
       "latitude": 40.743433331711394,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 339 - SW CO 5 Ave & W 26 St",
       "availableForUse": true,
       "longitude": -73.98834843188524
@@ -3413,12 +3413,12 @@
       "longitude": -73.98135114745574
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 505100119,
       "latitude": 40.77611866432287,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 359 - SW CO Columbus Ave & 70th Street",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.9799463692325
     },
     {
