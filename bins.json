@@ -101,7 +101,7 @@
       "longitude": -73.91260653734207
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 3590003,
       "latitude": 40.7457242854218,
       "binStatus": "Available",
@@ -407,7 +407,7 @@
       "longitude": -73.91796863240839
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 0,
       "serialNumber": 503000024,
       "latitude": 40.87628033530234,
       "binStatus": "Available",
@@ -416,12 +416,12 @@
       "longitude": -73.88136584311724
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 0,
       "serialNumber": 503000022,
       "latitude": 40.866201512573475,
-      "binStatus": "Full",
+      "binStatus": "Available",
       "description": "BIN 64 - SE Broadway & Academy Street",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.92508216202259
     },
     {
@@ -704,7 +704,7 @@
       "longitude": -73.86818949133158
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 503000063,
       "latitude": 40.76656936634833,
       "binStatus": "Available",
@@ -1514,10 +1514,10 @@
       "longitude": -73.83048333227634
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 503000193,
       "latitude": 40.676794793886764,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 199 - NW New York Avenue & Dean Street",
       "availableForUse": true,
       "longitude": -73.94724616137695
@@ -3386,7 +3386,7 @@
       "longitude": -73.97035768079368
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 0,
       "serialNumber": 505100145,
       "latitude": 40.74163391924499,
       "binStatus": "Available",
