@@ -56,7 +56,7 @@
       "longitude": -73.91328877313748
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 0,
       "serialNumber": 3590001,
       "latitude": 40.746548059294376,
       "binStatus": "Available",
@@ -263,7 +263,7 @@
       "longitude": -73.94863547733536
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 0,
       "serialNumber": 503000009,
       "latitude": 40.700382392327064,
       "binStatus": "Available",
@@ -398,7 +398,7 @@
       "longitude": -73.90380453318357
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 0,
       "serialNumber": 503000032,
       "latitude": 40.76149921367936,
       "binStatus": "Available",
@@ -1208,7 +1208,7 @@
       "longitude": -73.90844576060772
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 0,
       "serialNumber": 503000157,
       "latitude": 40.698774108656224,
       "binStatus": "Available",
@@ -1253,7 +1253,7 @@
       "longitude": -73.9129939918858
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 0,
       "serialNumber": 503000160,
       "latitude": 40.6827719802296,
       "binStatus": "Available",
@@ -1289,7 +1289,7 @@
       "longitude": -73.90959072858095
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 0,
       "serialNumber": 503000170,
       "latitude": 40.676454329310545,
       "binStatus": "Available",
@@ -1415,7 +1415,7 @@
       "longitude": -73.95316857844591
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 0,
       "serialNumber": 503000187,
       "latitude": 40.75792909750536,
       "binStatus": "Available",
@@ -1442,12 +1442,12 @@
       "longitude": -73.91591713080048
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 503000184,
       "latitude": 40.673104182956976,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 189 - NE Underhill Avenue & Eastern Parkway",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.96755293011665
     },
     {
@@ -1532,16 +1532,16 @@
       "longitude": -73.95281285047531
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 0,
       "serialNumber": 503000207,
       "latitude": 40.68175217538853,
-      "binStatus": "Nearly Full",
+      "binStatus": "Available",
       "description": "BIN 124 - SW Tompkins Avenue & Macon Street",
       "availableForUse": true,
       "longitude": -73.9436212554574
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 0,
       "serialNumber": 503000206,
       "latitude": 40.68764908091782,
       "binStatus": "Available",
@@ -1649,7 +1649,7 @@
       "longitude": -73.82940910756588
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 0,
       "serialNumber": 503000221,
       "latitude": 40.69040997746076,
       "binStatus": "Available",
@@ -1667,7 +1667,7 @@
       "longitude": -73.93744513392448
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 0,
       "serialNumber": 503000219,
       "latitude": 40.75685380877115,
       "binStatus": "Available",
@@ -1802,7 +1802,7 @@
       "longitude": -74.07850451767445
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 0,
       "serialNumber": 503000239,
       "latitude": 40.69389322166022,
       "binStatus": "Available",
@@ -2975,9 +2975,9 @@
       "latestFullness": 0,
       "serialNumber": 505100076,
       "latitude": 40.85312543432193,
-      "binStatus": "Available",
+      "binStatus": "Out of Service",
       "description": "BIN 387 - NE CO W 188 St & Audubon Ave",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.92903912094495
     },
     {
