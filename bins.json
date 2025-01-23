@@ -1127,12 +1127,12 @@
       "longitude": -73.90656117349863
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 0,
       "serialNumber": 503000148,
       "latitude": 40.701373514374744,
-      "binStatus": "Full",
+      "binStatus": "Available",
       "description": "BIN 183 - NW St. Nicholas Avenue & Linden Street",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.91136553921112
     },
     {
@@ -1154,7 +1154,7 @@
       "longitude": -73.9503475651145
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 0,
       "serialNumber": 503000132,
       "latitude": 40.70324915068062,
       "binStatus": "Available",
@@ -1244,7 +1244,7 @@
       "longitude": -73.9271404221654
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 0,
       "serialNumber": 503000156,
       "latitude": 40.70249991438864,
       "binStatus": "Available",
@@ -1424,7 +1424,7 @@
       "longitude": -73.90980195254087
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 503000181,
       "latitude": 40.68065836586844,
       "binStatus": "Available",
@@ -1514,7 +1514,7 @@
       "longitude": -73.83048333227634
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 60,
       "serialNumber": 503000193,
       "latitude": 40.676794793886764,
       "binStatus": "Available",
@@ -1901,10 +1901,10 @@
       "longitude": -73.91177110144258
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 503000254,
       "latitude": 40.67509191438939,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 195 - NE Franklin Avenue & Prospect Place",
       "availableForUse": true,
       "longitude": -73.95637851208448
@@ -1937,12 +1937,12 @@
       "longitude": -74.14217077195644
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 503000244,
       "latitude": 40.67498593224985,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 194 - NW Classon Avenue & Park Place",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.96024390254057
     },
     {
@@ -2738,7 +2738,7 @@
       "longitude": -73.9519761287763
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 505100082,
       "latitude": 40.76216672199596,
       "binStatus": "Available",
@@ -2882,7 +2882,7 @@
       "longitude": -73.96888427642509
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 505100093,
       "latitude": 40.7953036151945,
       "binStatus": "Available",
@@ -3098,12 +3098,12 @@
       "longitude": -73.96666802317641
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 505100132,
       "latitude": 40.757513465018945,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 325 - SW CO W Main Street and Main Street (by Tram Terminal)",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.95414933006201
     },
     {
@@ -3152,7 +3152,7 @@
       "longitude": -73.96866042855898
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 0,
       "serialNumber": 505100103,
       "latitude": 40.72946703338854,
       "binStatus": "Available",
@@ -3404,10 +3404,10 @@
       "longitude": -73.98222696429983
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 0,
       "serialNumber": 505100112,
       "latitude": 40.741522457226544,
-      "binStatus": "Nearly Full",
+      "binStatus": "Available",
       "description": "BIN 306 - NW CO 3rd Avenue & 27th Street",
       "availableForUse": true,
       "longitude": -73.98135114745574
