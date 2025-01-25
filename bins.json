@@ -2,7 +2,7 @@
   "errorCode": "STATUS_OK",
   "compostAssets": [
     {
-      "latestFullness": 20,
+      "latestFullness": 0,
       "serialNumber": 3590004,
       "latitude": 40.740982515732185,
       "binStatus": "Available",
@@ -47,12 +47,12 @@
       "longitude": -73.92288388211199
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 0,
       "serialNumber": 3590020,
       "latitude": 40.746148800069264,
-      "binStatus": "Full",
+      "binStatus": "Available",
       "description": "BIN 400 - NE 51st St & Skillman Ave",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.91328877313748
     },
     {
@@ -101,7 +101,7 @@
       "longitude": -73.91260653734207
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 0,
       "serialNumber": 3590003,
       "latitude": 40.7457242854218,
       "binStatus": "Available",
@@ -344,7 +344,7 @@
       "longitude": -73.94737802445889
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 0,
       "serialNumber": 503000019,
       "latitude": 40.76701705596692,
       "binStatus": "Available",
@@ -1055,7 +1055,7 @@
       "longitude": -73.96265991032124
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 0,
       "serialNumber": 503000133,
       "latitude": 40.684197290894595,
       "binStatus": "Available",
@@ -1190,10 +1190,10 @@
       "longitude": -73.93099308013916
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 503000150,
       "latitude": 40.67358758069033,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 193 - NW Washington Avenue & St. Johns Place",
       "availableForUse": true,
       "longitude": -73.96311119198799
@@ -1235,7 +1235,7 @@
       "longitude": -73.92284251749516
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 0,
       "serialNumber": 503000159,
       "latitude": 40.68815347424036,
       "binStatus": "Available",
@@ -1424,7 +1424,7 @@
       "longitude": -73.90980195254087
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 0,
       "serialNumber": 503000181,
       "latitude": 40.68065836586844,
       "binStatus": "Available",
@@ -1577,7 +1577,7 @@
       "longitude": -73.95393367856741
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 0,
       "serialNumber": 503000208,
       "latitude": 40.683812617651405,
       "binStatus": "Available",
@@ -1757,7 +1757,7 @@
       "longitude": -73.88005122542381
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 0,
       "serialNumber": 503000232,
       "latitude": 40.68513798940631,
       "binStatus": "Available",
@@ -1847,7 +1847,7 @@
       "longitude": -73.93390157678125
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 0,
       "serialNumber": 503000241,
       "latitude": 40.6774118895118,
       "binStatus": "Available",
@@ -1901,10 +1901,10 @@
       "longitude": -73.91177110144258
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 0,
       "serialNumber": 503000254,
       "latitude": 40.67509191438939,
-      "binStatus": "Nearly Full",
+      "binStatus": "Available",
       "description": "BIN 195 - NE Franklin Avenue & Prospect Place",
       "availableForUse": true,
       "longitude": -73.95637851208448
@@ -1937,7 +1937,7 @@
       "longitude": -74.14217077195644
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 0,
       "serialNumber": 503000244,
       "latitude": 40.67498593224985,
       "binStatus": "Available",
@@ -2036,7 +2036,7 @@
       "longitude": -73.92471789027536
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 0,
       "serialNumber": 503000267,
       "latitude": 40.67165371443654,
       "binStatus": "Available",
@@ -2054,10 +2054,10 @@
       "longitude": -73.93931295722723
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 0,
       "serialNumber": 503000276,
       "latitude": 40.67165676594622,
-      "binStatus": "Nearly Full",
+      "binStatus": "Available",
       "description": "BIN 196 - NE Franklin Avenue & Lincoln Place",
       "availableForUse": true,
       "longitude": -73.95756002515554
@@ -2108,7 +2108,7 @@
       "longitude": -73.78518752753735
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 0,
       "serialNumber": 503000197,
       "latitude": 40.68749730455891,
       "binStatus": "Available",
@@ -3098,7 +3098,7 @@
       "longitude": -73.95414933006201
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 0,
       "serialNumber": 505100124,
       "latitude": 40.74132799277233,
       "binStatus": "Available",
