@@ -524,7 +524,7 @@
       "longitude": -73.95314779132605
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 503000050,
       "latitude": 40.829794034320685,
       "binStatus": "Available",
@@ -578,7 +578,7 @@
       "longitude": -73.93639236688614
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 503000045,
       "latitude": 40.76832401280552,
       "binStatus": "Available",
@@ -1181,7 +1181,7 @@
       "longitude": -73.91374111175537
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000164,
       "latitude": 40.69660505362728,
       "binStatus": "Available",
@@ -1190,10 +1190,10 @@
       "longitude": -73.93099308013916
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 503000150,
       "latitude": 40.67358758069033,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 193 - NW Washington Avenue & St. Johns Place",
       "availableForUse": true,
       "longitude": -73.96311119198799
@@ -1811,10 +1811,10 @@
       "longitude": -73.94294936209917
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 503000240,
       "latitude": 40.67428152112551,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 198 - NW New York Avenue & Prospect Place",
       "availableForUse": true,
       "longitude": -73.94742764532566
@@ -1901,12 +1901,12 @@
       "longitude": -73.91177110144258
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 503000254,
       "latitude": 40.67509191438939,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 195 - NE Franklin Avenue & Prospect Place",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.95637851208448
     },
     {
@@ -1955,7 +1955,7 @@
       "longitude": -73.95310335432222
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 60,
       "serialNumber": 503000263,
       "latitude": 40.67867868263691,
       "binStatus": "Available",
@@ -1982,7 +1982,7 @@
       "longitude": -74.06930956989527
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000265,
       "latitude": 40.67028714230085,
       "binStatus": "Available",
@@ -2036,10 +2036,10 @@
       "longitude": -73.92471789027536
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 503000267,
       "latitude": 40.67165371443654,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 219 - SE Classon Avenue & Eastern Parkway",
       "availableForUse": true,
       "longitude": -73.96107707172632
@@ -2396,10 +2396,10 @@
       "longitude": -74.00006544331396
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100022,
       "latitude": 40.73287635373648,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 334 - SW CO Hudson St & Christopher St",
       "availableForUse": true,
       "longitude": -74.00655866692779
@@ -2639,7 +2639,7 @@
       "longitude": -74.0007785662345
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 60,
       "serialNumber": 505100064,
       "latitude": 40.718560301291866,
       "binStatus": "Available",
@@ -2801,7 +2801,7 @@
       "longitude": -73.97379656746796
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 505100084,
       "latitude": 40.767171552566246,
       "binStatus": "Available",
@@ -3278,12 +3278,12 @@
       "longitude": -73.98983752643882
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 505100141,
       "latitude": 40.74960582599206,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 345 - NE CO W 26 St & 10 Ave",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -74.00261308139008
     },
     {
@@ -3332,7 +3332,7 @@
       "longitude": -73.99506114554103
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 505100150,
       "latitude": 40.729589714367386,
       "binStatus": "Available",
