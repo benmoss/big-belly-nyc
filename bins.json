@@ -2,7 +2,7 @@
   "errorCode": "STATUS_OK",
   "compostAssets": [
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 3590004,
       "latitude": 40.740982515732185,
       "binStatus": "Available",
@@ -119,12 +119,12 @@
       "longitude": -73.92154820692338
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 3590008,
       "latitude": 40.741475328023036,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 407 - NW 44th St & 47th Ave",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.92099916934967
     },
     {
@@ -389,7 +389,7 @@
       "longitude": -73.94016187638044
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 503000025,
       "latitude": 40.854894794369606,
       "binStatus": "Available",
@@ -1253,12 +1253,12 @@
       "longitude": -73.9129939918858
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 503000160,
       "latitude": 40.6827719802296,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 140 - SW Throop Avenue & Halsey Street",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.94101046025753
     },
     {
@@ -2522,12 +2522,12 @@
       "longitude": -73.97783417254686
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 505100035,
       "latitude": 40.77152776150592,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 276 - NE CO York Avenue & 79th Street",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.95019042066897
     },
     {
@@ -2882,7 +2882,7 @@
       "longitude": -73.97107263571145
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 505100107,
       "latitude": 40.73674344375692,
       "binStatus": "Available",
@@ -2927,7 +2927,7 @@
       "longitude": -73.96686314261594
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 60,
       "serialNumber": 505100068,
       "latitude": 40.7116258563826,
       "binStatus": "Available",
@@ -2963,7 +2963,7 @@
       "longitude": -73.95211949944496
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 505100076,
       "latitude": 40.85312543432193,
       "binStatus": "Available",
@@ -3422,12 +3422,12 @@
       "longitude": -73.97587379945203
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 80,
       "serialNumber": 505100128,
       "latitude": 40.72662593513809,
-      "binStatus": "Full",
+      "binStatus": "Nearly Full",
       "description": "BIN 327 - SW CO Bond St & Lafayette St",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.99427816002996
     }
   ]
