@@ -146,7 +146,7 @@
       "longitude": -73.91430705785751
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 0,
       "serialNumber": 3590002,
       "latitude": 40.7214226207243,
       "binStatus": "Available",
@@ -299,7 +299,7 @@
       "longitude": -73.95101174712181
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 0,
       "serialNumber": 503000014,
       "latitude": 40.762625726342314,
       "binStatus": "Available",
@@ -317,10 +317,10 @@
       "longitude": -73.91832768131844
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 0,
       "serialNumber": 503000016,
       "latitude": 40.80673101650625,
-      "binStatus": "Nearly Full",
+      "binStatus": "Available",
       "description": "BIN 418 - SW c/o Broadway & W 114 St",
       "availableForUse": true,
       "longitude": -73.96496895700693
@@ -614,7 +614,7 @@
       "longitude": -73.95370233803988
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 0,
       "serialNumber": 503000043,
       "latitude": 40.804732620856896,
       "binStatus": "Available",
@@ -623,7 +623,7 @@
       "longitude": -73.9623499576847
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 0,
       "serialNumber": 503000040,
       "latitude": 40.80557429253741,
       "binStatus": "Available",
@@ -1109,10 +1109,10 @@
       "longitude": -73.92984341830015
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 0,
       "serialNumber": 503000127,
       "latitude": 40.706692511000654,
-      "binStatus": "Nearly Full",
+      "binStatus": "Available",
       "description": "BIN 177 - SW St. Nicholas Avenue & Willoughby Avenue",
       "availableForUse": true,
       "longitude": -73.92045420260473
@@ -1325,7 +1325,7 @@
       "longitude": -73.96811317652464
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 0,
       "serialNumber": 503000162,
       "latitude": 40.704966472832965,
       "binStatus": "Available",
@@ -1433,12 +1433,12 @@
       "longitude": -73.93454968929291
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 0,
       "serialNumber": 503000185,
       "latitude": 40.704219889937,
-      "binStatus": "Full",
+      "binStatus": "Available",
       "description": "BIN 180 - NW St. Nicholas Avenue & Himrod Street",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.91591713080048
     },
     {
@@ -1856,10 +1856,10 @@
       "longitude": -73.95897587267723
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 0,
       "serialNumber": 503000245,
       "latitude": 40.673484595144046,
-      "binStatus": "Nearly Full",
+      "binStatus": "Available",
       "description": "BIN 205 - NE Schenectady Avenue & Prospect Place",
       "availableForUse": true,
       "longitude": -73.93339063972235
@@ -1919,10 +1919,10 @@
       "longitude": -73.95329229533672
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 0,
       "serialNumber": 503000255,
       "latitude": 40.67155276024617,
-      "binStatus": "Nearly Full",
+      "binStatus": "Available",
       "description": "BIN 206 - SE Schenectady Avenue & Sterling Place",
       "availableForUse": true,
       "longitude": -73.93360521644354
@@ -1982,7 +1982,7 @@
       "longitude": -74.06930956989527
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 0,
       "serialNumber": 503000265,
       "latitude": 40.67028714230085,
       "binStatus": "Available",
@@ -2009,10 +2009,10 @@
       "longitude": -74.14456080612285
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 503000266,
       "latitude": 40.70289868141765,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 175 - NE Knickerbocker Avenue & Starr Street",
       "availableForUse": true,
       "longitude": -73.92522666603327
@@ -2072,10 +2072,10 @@
       "longitude": -73.95261202007532
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 0,
       "serialNumber": 503000275,
       "latitude": 40.75290526233439,
-      "binStatus": "Nearly Full",
+      "binStatus": "Available",
       "description": "BIN 228 - NW Queens Plaza North & 21st Street",
       "availableForUse": true,
       "longitude": -73.94352234899998
@@ -2261,7 +2261,7 @@
       "longitude": -73.94685207786003
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 505100020,
       "latitude": 40.72799056580962,
       "binStatus": "Available",
@@ -2351,7 +2351,7 @@
       "longitude": -73.9498927384089
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 505100013,
       "latitude": 40.73565255133342,
       "binStatus": "Available",
@@ -2378,12 +2378,12 @@
       "longitude": -74.00526163846435
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 505100027,
       "latitude": 40.71904231972568,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 250 - SE CO Varick St. & Franklin St.",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -74.00695323944092
     },
     {
@@ -2531,12 +2531,12 @@
       "longitude": -73.95019042066897
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 0,
       "serialNumber": 505100044,
       "latitude": 40.73121273762785,
-      "binStatus": "Full",
+      "binStatus": "Available",
       "description": "BIN 335 - NE CO Morton ST & Greenwich ST",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -74.0077318323766
     },
     {
@@ -2657,7 +2657,7 @@
       "longitude": -73.98896138948061
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 0,
       "serialNumber": 505100072,
       "latitude": 40.71327373740936,
       "binStatus": "Available",
@@ -2675,12 +2675,12 @@
       "longitude": -73.9535946787067
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 0,
       "serialNumber": 505100069,
       "latitude": 40.724874101417406,
-      "binStatus": "Full",
+      "binStatus": "Available",
       "description": "BIN 254 - SW CO 6 Ave & Dominick St",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -74.0047200044207
     },
     {
@@ -2855,12 +2855,12 @@
       "longitude": -73.99090145996239
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 0,
       "serialNumber": 505100106,
       "latitude": 40.78586060688359,
-      "binStatus": "Full",
+      "binStatus": "Available",
       "description": "BIN 280 - SW CO E 95 Street & Park Ave",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.95335140977043
     },
     {
@@ -2936,10 +2936,10 @@
       "longitude": -73.9850452796422
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100110,
       "latitude": 40.75405449748158,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 295 - SE CO 2nd Ave & E 49 St",
       "availableForUse": true,
       "longitude": -73.96902091534423
