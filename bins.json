@@ -92,10 +92,10 @@
       "longitude": -73.92166045665941
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 3590012,
       "latitude": 40.884080646656564,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "Bin 413 - NW W 232nd St & Arlington Ave",
       "availableForUse": true,
       "longitude": -73.91260653734207
@@ -776,12 +776,12 @@
       "longitude": -73.92632732264548
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 80,
       "serialNumber": 503000070,
       "latitude": 40.83161371635521,
-      "binStatus": "Full",
+      "binStatus": "Nearly Full",
       "description": "BIN 55 - NE Amsterdam Avenue & West 155th Street",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.94291717559099
     },
     {
@@ -1082,10 +1082,10 @@
       "longitude": -73.91719682217655
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 503000143,
       "latitude": 40.6825487482924,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 145 - SE Nostrand Avenue & Hancock Street",
       "availableForUse": true,
       "longitude": -73.9499693736434
@@ -1523,7 +1523,7 @@
       "longitude": -73.94724616137695
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 60,
       "serialNumber": 503000191,
       "latitude": 40.80924767164232,
       "binStatus": "Available",
@@ -1802,10 +1802,10 @@
       "longitude": -74.07850451767445
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 503000239,
       "latitude": 40.69389322166022,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 142 - SE Throop Avenue & Hart Street",
       "availableForUse": true,
       "longitude": -73.94294936209917
@@ -2072,10 +2072,10 @@
       "longitude": -73.95261202007532
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 503000275,
       "latitude": 40.75290526233439,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 228 - NW Queens Plaza North & 21st Street",
       "availableForUse": true,
       "longitude": -73.94352234899998
@@ -2108,7 +2108,7 @@
       "longitude": -73.78518752753735
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 503000197,
       "latitude": 40.68749730455891,
       "binStatus": "Available",
@@ -2423,12 +2423,12 @@
       "longitude": -74.01704739779234
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 505100007,
       "latitude": 40.730315325690235,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 333 - SE CO Carmine ST & Bleeker St",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -74.00240702146108
     },
     {
@@ -2441,12 +2441,12 @@
       "longitude": -74.0109745413065
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 505100023,
       "latitude": 40.7346470054958,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 311 - SW CO W 12 St & 5 Ave",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.99481938922054
     },
     {
@@ -2594,10 +2594,10 @@
       "longitude": -73.95822445057821
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100016,
       "latitude": 40.76390136307756,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 269 - SE CO E 66 St & 1 Ave",
       "availableForUse": true,
       "longitude": -73.95865606044225
@@ -2774,7 +2774,7 @@
       "longitude": -73.97570673483682
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 505100090,
       "latitude": 40.750719268455946,
       "binStatus": "Available",
