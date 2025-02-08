@@ -371,7 +371,7 @@
       "longitude": -73.93805466592312
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 0,
       "serialNumber": 503000006,
       "latitude": 40.855684792533886,
       "binStatus": "Available",
@@ -416,12 +416,12 @@
       "longitude": -73.88136584311724
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 0,
       "serialNumber": 503000022,
       "latitude": 40.866201512573475,
-      "binStatus": "Full",
+      "binStatus": "Available",
       "description": "BIN 64 - SE Broadway & Academy Street",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.92508216202259
     },
     {
@@ -803,7 +803,7 @@
       "longitude": -73.93320322036743
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000072,
       "latitude": 40.79737412009714,
       "binStatus": "Available",
@@ -1424,7 +1424,7 @@
       "longitude": -73.90980195254087
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000181,
       "latitude": 40.68065836586844,
       "binStatus": "Available",
@@ -1541,10 +1541,10 @@
       "longitude": -73.9436212554574
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 503000206,
       "latitude": 40.68764908091782,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 122 - SW Tompkins Avenue & Quincy Street",
       "availableForUse": true,
       "longitude": -73.94487351179123
@@ -1577,10 +1577,10 @@
       "longitude": -73.95393367856741
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 503000208,
       "latitude": 40.683812617651405,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 133 - NW Howard Avenue & Macdonough Street",
       "availableForUse": true,
       "longitude": -73.92018981277943
@@ -1820,7 +1820,7 @@
       "longitude": -73.94742764532566
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000243,
       "latitude": 40.8111366429278,
       "binStatus": "Available",
@@ -2369,10 +2369,10 @@
       "longitude": -73.9869912541827
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 0,
       "serialNumber": 505100045,
       "latitude": 40.74639647509707,
-      "binStatus": "Nearly Full",
+      "binStatus": "Available",
       "description": "BIN 342 - SW CO 10 Ave & W 21 St",
       "availableForUse": true,
       "longitude": -74.00526163846435
@@ -3188,7 +3188,7 @@
       "longitude": -73.99655276134223
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 505100133,
       "latitude": 40.79786101513957,
       "binStatus": "Available",
@@ -3368,7 +3368,7 @@
       "longitude": -73.98478295989479
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 505100116,
       "latitude": 40.78914315936319,
       "binStatus": "Available",
