@@ -92,7 +92,7 @@
       "longitude": -73.92166045665941
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 3590012,
       "latitude": 40.884080646656564,
       "binStatus": "Available",
@@ -497,7 +497,7 @@
       "longitude": -73.92496582120657
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 503000054,
       "latitude": 40.76387664872765,
       "binStatus": "Available",
@@ -623,10 +623,10 @@
       "longitude": -73.9623499576847
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 503000040,
       "latitude": 40.80557429253741,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 30 - SW West 112 Street & Broadway",
       "availableForUse": true,
       "longitude": -73.9660133421421
@@ -2198,12 +2198,12 @@
       "longitude": -73.9532222620251
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 505100048,
       "latitude": 40.778333070963065,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 271 - NW CO 1st Ave & 88th St",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.94848935814979
     },
     {
@@ -2279,7 +2279,7 @@
       "longitude": -73.98598125432342
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 40,
       "serialNumber": 505100010,
       "latitude": 40.75280253801481,
       "binStatus": "Available",
@@ -2702,10 +2702,10 @@
       "longitude": -73.98495496580612
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100055,
       "latitude": 40.76405416975698,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 291 - NE CO E 63 St & 3 Ave",
       "availableForUse": true,
       "longitude": -73.96450973157151
@@ -3161,10 +3161,10 @@
       "longitude": -73.96135753145826
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100098,
       "latitude": 40.741609115050146,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 301 - NE CO 2 Ave & E 29 ST",
       "availableForUse": true,
       "longitude": -73.97792649980364
