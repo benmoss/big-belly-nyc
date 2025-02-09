@@ -74,7 +74,7 @@
       "longitude": -73.90727262943983
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 3590015,
       "latitude": 40.746483770342856,
       "binStatus": "Available",
@@ -308,12 +308,12 @@
       "longitude": -73.93766775727272
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 0,
       "serialNumber": 503000013,
       "latitude": 40.86843300418909,
-      "binStatus": "Full",
+      "binStatus": "Available",
       "description": "BIN 65 - NE West 212th Street & Broadway",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.91832768131844
     },
     {
@@ -533,7 +533,7 @@
       "longitude": -73.94453756511211
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 503000048,
       "latitude": 40.7966226877643,
       "binStatus": "Available",
@@ -596,7 +596,7 @@
       "longitude": -73.92879232764244
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000042,
       "latitude": 40.764174520197706,
       "binStatus": "Available",
@@ -776,7 +776,7 @@
       "longitude": -73.92632732264548
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 503000070,
       "latitude": 40.83161371635521,
       "binStatus": "Available",
@@ -947,7 +947,7 @@
       "longitude": -73.91744524240494
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 0,
       "serialNumber": 503000096,
       "latitude": 40.8721462108312,
       "binStatus": "Available",
@@ -1118,7 +1118,7 @@
       "longitude": -73.92045420260473
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 0,
       "serialNumber": 503000147,
       "latitude": 40.687583234935204,
       "binStatus": "Available",
@@ -1397,7 +1397,7 @@
       "longitude": -73.91234535723925
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 503000172,
       "latitude": 40.69744237426521,
       "binStatus": "Available",
@@ -2297,10 +2297,10 @@
       "longitude": -74.00691708161023
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 0,
       "serialNumber": 505100052,
       "latitude": 40.71989182112748,
-      "binStatus": "Nearly Full",
+      "binStatus": "Available",
       "description": "BIN 255 -  NE CO Delancey St & Forsyth St",
       "availableForUse": true,
       "longitude": -73.99195962283002
@@ -2360,12 +2360,12 @@
       "longitude": -74.00171998103215
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 0,
       "serialNumber": 505100051,
       "latitude": 40.72504420607064,
-      "binStatus": "Full",
+      "binStatus": "Available",
       "description": "BIN 323 - SE CO 1 Ave & E 4 St",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.9869912541827
     },
     {
@@ -2396,12 +2396,12 @@
       "longitude": -74.00006544331396
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 0,
       "serialNumber": 505100022,
       "latitude": 40.73287635373648,
-      "binStatus": "Full",
+      "binStatus": "Available",
       "description": "BIN 334 - SW CO Hudson St & Christopher St",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -74.00655866692779
     },
     {
@@ -2486,7 +2486,7 @@
       "longitude": -74.00341004133224
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 505100017,
       "latitude": 40.705075385840445,
       "binStatus": "Available",
@@ -2756,10 +2756,10 @@
       "longitude": -73.98491537817117
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 0,
       "serialNumber": 505100096,
       "latitude": 40.771722793444425,
-      "binStatus": "Nearly Full",
+      "binStatus": "Available",
       "description": "BIN 360 - NW CO West End Ave & W 59 St",
       "availableForUse": true,
       "longitude": -73.99052800018954
@@ -2828,12 +2828,12 @@
       "longitude": -73.98593114887535
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 0,
       "serialNumber": 505100083,
       "latitude": 40.72496280254391,
-      "binStatus": "Full",
+      "binStatus": "Available",
       "description": "BIN 324 - NE CO 2 Ave & E 2 St",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.99017938079861
     },
     {
@@ -2864,12 +2864,12 @@
       "longitude": -73.95335140977043
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 0,
       "serialNumber": 505100087,
       "latitude": 40.798370790247,
-      "binStatus": "Full",
+      "binStatus": "Available",
       "description": "BIN 384 - SE CO Broadway & W 102 St",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.96888427642509
     },
     {
@@ -2882,10 +2882,10 @@
       "longitude": -73.97107263571145
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100107,
       "latitude": 40.73674344375692,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 308 - NW CO Park Ave S/Union Square East & E 17 St",
       "availableForUse": true,
       "longitude": -73.98908566787568
@@ -2918,12 +2918,12 @@
       "longitude": -73.93435451155901
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 0,
       "serialNumber": 505100073,
       "latitude": 40.80348382274017,
-      "binStatus": "Full",
+      "binStatus": "Available",
       "description": "BIN 385 - SE CO Broadway & W 109 St",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.96686314261594
     },
     {
@@ -3260,10 +3260,10 @@
       "longitude": -73.98834843188524
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100120,
       "latitude": 40.77519164031714,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 374 - SE CO West End Ave & W 65 St",
       "availableForUse": true,
       "longitude": -73.98753543655222
@@ -3359,12 +3359,12 @@
       "longitude": -73.98062197434946
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 0,
       "serialNumber": 505100118,
       "latitude": 40.769273183978356,
-      "binStatus": "Full",
+      "binStatus": "Available",
       "description": "BIN 355 - NW CO  9th Ave & West 59th Street",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.98478295989479
     },
     {
