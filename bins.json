@@ -29,7 +29,7 @@
       "longitude": -73.92003797195594
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 0,
       "serialNumber": 3590017,
       "latitude": 40.7447717419058,
       "binStatus": "Available",
@@ -38,30 +38,30 @@
       "longitude": -73.9175371080637
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 0,
       "serialNumber": 3590014,
       "latitude": 40.745373137079994,
-      "binStatus": "Full",
+      "binStatus": "Available",
       "description": "BIN 404 - SE 43rd Ave & 41st St",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.92288388211199
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 0,
       "serialNumber": 3590020,
       "latitude": 40.746148800069264,
-      "binStatus": "Full",
+      "binStatus": "Available",
       "description": "BIN 400 - NE 51st St & Skillman Ave",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.91328877313748
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 0,
       "serialNumber": 3590001,
       "latitude": 40.746548059294376,
-      "binStatus": "Full",
+      "binStatus": "Available",
       "description": "Bin 396 - NE 64th St. & 39th Ave",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.89971678571764
     },
     {
@@ -200,10 +200,10 @@
       "longitude": -74.11656774580479
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 503000002,
       "latitude": 40.802377335586115,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 51 - NE East 120 Street & Madison Avenue",
       "availableForUse": true,
       "longitude": -73.94273579120636
@@ -317,10 +317,10 @@
       "longitude": -73.91832768131844
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 503000016,
       "latitude": 40.80673101650625,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 418 - SW c/o Broadway & W 114 St",
       "availableForUse": true,
       "longitude": -73.96496895700693
@@ -1532,7 +1532,7 @@
       "longitude": -73.95281285047531
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 503000207,
       "latitude": 40.68175217538853,
       "binStatus": "Available",
