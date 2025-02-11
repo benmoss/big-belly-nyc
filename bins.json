@@ -2792,7 +2792,7 @@
       "longitude": -73.98540060636678
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 505100092,
       "latitude": 40.78957914389564,
       "binStatus": "Available",
@@ -3089,10 +3089,10 @@
       "longitude": -73.96666802317641
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100132,
       "latitude": 40.757513465018945,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 325 - SW CO W Main Street and Main Street (by Tram Terminal)",
       "availableForUse": true,
       "longitude": -73.95414933006201
@@ -3332,12 +3332,12 @@
       "longitude": -73.99506114554103
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 505100150,
       "latitude": 40.729589714367386,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 329 - SE CO Clarkson & Hudson",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -74.00684701383747
     },
     {
