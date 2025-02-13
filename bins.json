@@ -263,22 +263,13 @@
       "longitude": -73.94863547733536
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000009,
       "latitude": 40.700382392327064,
       "binStatus": "Available",
       "description": "BIN 147 - NW Central Avenue & Troutman Street",
       "availableForUse": true,
       "longitude": -73.92903984180296
-    },
-    {
-      "latestFullness": 0,
-      "serialNumber": 503000010,
-      "latitude": 40.76236771749731,
-      "binStatus": "Available",
-      "description": "BIN 18 - SE 31st Avenue & 36th Street",
-      "availableForUse": true,
-      "longitude": -73.91942974179983
     },
     {
       "latestFullness": 0,
@@ -776,7 +767,7 @@
       "longitude": -73.92632732264548
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000070,
       "latitude": 40.83161371635521,
       "binStatus": "Available",
@@ -1559,7 +1550,7 @@
       "longitude": -73.85669823735952
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000211,
       "latitude": 40.83852110249066,
       "binStatus": "Available",
@@ -1604,7 +1595,7 @@
       "longitude": -73.928127810359
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 503000204,
       "latitude": 40.69300170948447,
       "binStatus": "Available",
@@ -1811,7 +1802,7 @@
       "longitude": -73.94294936209917
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 503000240,
       "latitude": 40.67428152112551,
       "binStatus": "Available",
@@ -2054,7 +2045,7 @@
       "longitude": -73.93931295722723
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 503000276,
       "latitude": 40.67165676594622,
       "binStatus": "Available",
@@ -2088,6 +2079,15 @@
       "description": "BIN 357 - SW CO 11th Ave & W 57th St",
       "availableForUse": true,
       "longitude": -73.99166207937031
+    },
+    {
+      "latestFullness": 0,
+      "serialNumber": 503000277,
+      "latitude": 40.76236771749731,
+      "binStatus": "Available",
+      "description": "BIN 18 - SE 31st Avenue & 36th Street",
+      "availableForUse": true,
+      "longitude": -73.91942974179983
     },
     {
       "latestFullness": 0,
@@ -2378,7 +2378,7 @@
       "longitude": -74.00526163846435
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 505100027,
       "latitude": 40.71904231972568,
       "binStatus": "Available",
@@ -2639,12 +2639,12 @@
       "longitude": -74.0007785662345
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 505100064,
       "latitude": 40.718560301291866,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 261 - NW CO Hester ST & Baxter St",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.99876398340452
     },
     {
@@ -2666,10 +2666,10 @@
       "longitude": -73.99222918721208
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100057,
       "latitude": 40.77544607677087,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 266 - NW CO 2nd Ave & 82nd Street",
       "availableForUse": true,
       "longitude": -73.9535946787067
@@ -2918,10 +2918,10 @@
       "longitude": -73.93435451155901
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100073,
       "latitude": 40.80348382274017,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 385 - SE CO Broadway & W 109 St",
       "availableForUse": true,
       "longitude": -73.96686314261594
@@ -2981,16 +2981,16 @@
       "longitude": -73.90418004244566
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 505100094,
       "latitude": 40.79091410359447,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 382 - SW CO W 93 St & Columbus Ave",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.96910423686519
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 60,
       "serialNumber": 505100111,
       "latitude": 40.758836000578,
       "binStatus": "Available",
@@ -3251,7 +3251,7 @@
       "longitude": -73.98511663223668
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 505100137,
       "latitude": 40.743433331711394,
       "binStatus": "Available",
