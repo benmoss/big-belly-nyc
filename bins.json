@@ -38,7 +38,7 @@
       "longitude": -73.9175371080637
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 3590014,
       "latitude": 40.745373137079994,
       "binStatus": "Available",
@@ -74,7 +74,7 @@
       "longitude": -73.90727262943983
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 3590015,
       "latitude": 40.746483770342856,
       "binStatus": "Available",
@@ -308,7 +308,7 @@
       "longitude": -73.91832768131844
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 503000016,
       "latitude": 40.80673101650625,
       "binStatus": "Available",
@@ -560,7 +560,7 @@
       "longitude": -73.94713159650564
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 503000044,
       "latitude": 40.80556261860785,
       "binStatus": "Available",
@@ -569,7 +569,7 @@
       "longitude": -73.93639236688614
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 60,
       "serialNumber": 503000045,
       "latitude": 40.76832401280552,
       "binStatus": "Available",
@@ -794,7 +794,7 @@
       "longitude": -73.93320322036743
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 60,
       "serialNumber": 503000072,
       "latitude": 40.79737412009714,
       "binStatus": "Available",
@@ -812,7 +812,7 @@
       "longitude": -73.93777001649141
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 60,
       "serialNumber": 503000075,
       "latitude": 40.763666893592315,
       "binStatus": "Available",
@@ -1172,7 +1172,7 @@
       "longitude": -73.91374111175537
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000164,
       "latitude": 40.69660505362728,
       "binStatus": "Available",
@@ -1352,7 +1352,7 @@
       "longitude": -73.91918834298849
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000178,
       "latitude": 40.671282700678354,
       "binStatus": "Available",
@@ -1892,7 +1892,7 @@
       "longitude": -73.91177110144258
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 503000254,
       "latitude": 40.67509191438939,
       "binStatus": "Available",
@@ -1937,7 +1937,7 @@
       "longitude": -73.96024390254057
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 60,
       "serialNumber": 503000264,
       "latitude": 40.67279917738334,
       "binStatus": "Available",
@@ -1946,10 +1946,10 @@
       "longitude": -73.95310335432222
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 503000263,
       "latitude": 40.67867868263691,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 220 - NE Flatbush Avenue & Prospect Place",
       "availableForUse": true,
       "longitude": -73.97343333810568
@@ -2252,10 +2252,10 @@
       "longitude": -73.9538887710376
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100014,
       "latitude": 40.78010940688603,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 267 - NE CO 1st Ave & 91ST St",
       "availableForUse": true,
       "longitude": -73.94685207786003
@@ -2288,12 +2288,12 @@
       "longitude": -73.99692150445948
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 505100049,
       "latitude": 40.70676048283521,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 253 - SW CO Maiden Lane & Pearl Street",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -74.00691708161023
     },
     {
@@ -2360,7 +2360,7 @@
       "longitude": -74.00171998103215
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 60,
       "serialNumber": 505100051,
       "latitude": 40.72504420607064,
       "binStatus": "Available",
@@ -2405,7 +2405,7 @@
       "longitude": -74.00655866692779
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 505100024,
       "latitude": 40.73699589127157,
       "binStatus": "Available",
@@ -2594,7 +2594,7 @@
       "longitude": -73.95822445057821
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 505100016,
       "latitude": 40.76390136307756,
       "binStatus": "Available",
@@ -2864,10 +2864,10 @@
       "longitude": -73.95335140977043
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100087,
       "latitude": 40.798370790247,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 384 - SE CO Broadway & W 102 St",
       "availableForUse": true,
       "longitude": -73.96888427642509
@@ -3116,7 +3116,7 @@
       "longitude": -73.96841285680578
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 60,
       "serialNumber": 505100129,
       "latitude": 40.779702163230795,
       "binStatus": "Available",
@@ -3224,7 +3224,7 @@
       "longitude": -73.98776125245462
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 40,
       "serialNumber": 505100144,
       "latitude": 40.78596763857327,
       "binStatus": "Available",
@@ -3242,7 +3242,7 @@
       "longitude": -73.99302401909992
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 505100142,
       "latitude": 40.73887358712755,
       "binStatus": "Available",
@@ -3368,7 +3368,7 @@
       "longitude": -73.98478295989479
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 505100116,
       "latitude": 40.78914315936319,
       "binStatus": "Available",
@@ -3395,12 +3395,12 @@
       "longitude": -73.98222696429983
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 505100112,
       "latitude": 40.741522457226544,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 306 - NW CO 3rd Avenue & 27th Street",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.98135114745574
     },
     {
