@@ -128,12 +128,12 @@
       "longitude": -73.92099916934967
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 0,
       "serialNumber": 3590005,
       "latitude": 40.88661576005842,
-      "binStatus": "Full",
+      "binStatus": "Available",
       "description": "BIN 411 - SW W 236th St & Johnson Ave",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.90993109059836
     },
     {
@@ -245,7 +245,7 @@
       "longitude": -73.94638694822788
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000003,
       "latitude": 40.803170053254796,
       "binStatus": "Available",
@@ -2810,7 +2810,7 @@
       "longitude": -73.98593114887535
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 505100083,
       "latitude": 40.72496280254391,
       "binStatus": "Available",
