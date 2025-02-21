@@ -2,7 +2,7 @@
   "errorCode": "STATUS_OK",
   "compostAssets": [
     {
-      "latestFullness": 20,
+      "latestFullness": 0,
       "serialNumber": 3590004,
       "latitude": 40.740982515732185,
       "binStatus": "Available",
@@ -353,10 +353,10 @@
       "longitude": -73.93805466592312
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 503000006,
       "latitude": 40.855684792533886,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 61 - NE Cabrini Blvd & W 187 St",
       "availableForUse": true,
       "longitude": -73.93778998622929
@@ -659,10 +659,10 @@
       "longitude": -73.93176387995481
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 0,
       "serialNumber": 503000036,
       "latitude": 40.6778510426927,
-      "binStatus": "Nearly Full",
+      "binStatus": "Available",
       "description": "BIN 187 - NW Vanderbilt Ave & Prospect Place",
       "availableForUse": true,
       "longitude": -73.96890208125114
@@ -974,7 +974,7 @@
       "longitude": -73.9447372895371
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 503000078,
       "latitude": 40.81357603431238,
       "binStatus": "Available",
@@ -992,7 +992,7 @@
       "longitude": -73.92586905509233
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 0,
       "serialNumber": 503000138,
       "latitude": 40.678764370117854,
       "binStatus": "Available",
@@ -1028,7 +1028,7 @@
       "longitude": -73.90436712652445
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 0,
       "serialNumber": 503000136,
       "latitude": 40.67726495043478,
       "binStatus": "Available",
@@ -1244,7 +1244,7 @@
       "longitude": -73.94101046025753
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 0,
       "serialNumber": 503000168,
       "latitude": 40.6755571241916,
       "binStatus": "Available",
@@ -1352,7 +1352,7 @@
       "longitude": -73.941904976964
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 0,
       "serialNumber": 503000179,
       "latitude": 40.67617742416484,
       "binStatus": "Available",
@@ -1424,7 +1424,7 @@
       "longitude": -73.91591713080048
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 0,
       "serialNumber": 503000184,
       "latitude": 40.673104182956976,
       "binStatus": "Available",
@@ -1928,7 +1928,7 @@
       "longitude": -73.95310335432222
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 0,
       "serialNumber": 503000263,
       "latitude": 40.67867868263691,
       "binStatus": "Available",
@@ -2000,7 +2000,7 @@
       "longitude": -73.92796251922846
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 0,
       "serialNumber": 503000271,
       "latitude": 40.74194368731704,
       "binStatus": "Available",
@@ -2243,7 +2243,7 @@
       "longitude": -73.94685207786003
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 0,
       "serialNumber": 505100020,
       "latitude": 40.72799056580962,
       "binStatus": "Available",
@@ -2342,7 +2342,7 @@
       "longitude": -74.00171998103215
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 60,
       "serialNumber": 505100051,
       "latitude": 40.72504420607064,
       "binStatus": "Available",
@@ -2351,7 +2351,7 @@
       "longitude": -73.9869912541827
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 0,
       "serialNumber": 505100045,
       "latitude": 40.74639647509707,
       "binStatus": "Available",
@@ -2558,7 +2558,7 @@
       "longitude": -73.94763141892919
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 0,
       "serialNumber": 505100034,
       "latitude": 40.7312028692314,
       "binStatus": "Available",
@@ -2684,7 +2684,7 @@
       "longitude": -73.98495496580612
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 0,
       "serialNumber": 505100055,
       "latitude": 40.76405416975698,
       "binStatus": "Available",
@@ -2756,7 +2756,7 @@
       "longitude": -73.97570673483682
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 0,
       "serialNumber": 505100090,
       "latitude": 40.750719268455946,
       "binStatus": "Available",
@@ -2792,12 +2792,12 @@
       "longitude": -73.9864215009938
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 0,
       "serialNumber": 505100095,
       "latitude": 40.74408502157723,
-      "binStatus": "Full",
+      "binStatus": "Available",
       "description": "BIN 300 - SW E 33 St & 2 Ave",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.9766103569379
     },
     {
@@ -2864,7 +2864,7 @@
       "longitude": -73.97107263571145
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 0,
       "serialNumber": 505100107,
       "latitude": 40.73674344375692,
       "binStatus": "Available",
@@ -2873,7 +2873,7 @@
       "longitude": -73.98908566787568
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 0,
       "serialNumber": 505100108,
       "latitude": 40.72615124076925,
       "binStatus": "Available",
@@ -2918,10 +2918,10 @@
       "longitude": -73.9850452796422
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 0,
       "serialNumber": 505100110,
       "latitude": 40.75405449748158,
-      "binStatus": "Nearly Full",
+      "binStatus": "Available",
       "description": "BIN 295 - SE 2 Ave & E 49 St",
       "availableForUse": true,
       "longitude": -73.96902091534423
@@ -2972,10 +2972,10 @@
       "longitude": -73.96910423686519
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 0,
       "serialNumber": 505100111,
       "latitude": 40.758836000578,
-      "binStatus": "Nearly Full",
+      "binStatus": "Available",
       "description": "BIN 294 - NW E 56 St & 2 Ave",
       "availableForUse": true,
       "longitude": -73.96586280976997
@@ -2990,7 +2990,7 @@
       "longitude": -73.9614462477865
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 0,
       "serialNumber": 505100091,
       "latitude": 40.74913400691257,
       "binStatus": "Available",
@@ -3053,7 +3053,7 @@
       "longitude": -73.98526381245097
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 0,
       "serialNumber": 505100097,
       "latitude": 40.72556517707213,
       "binStatus": "Available",
@@ -3143,7 +3143,7 @@
       "longitude": -73.96135753145826
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 0,
       "serialNumber": 505100098,
       "latitude": 40.741609115050146,
       "binStatus": "Available",
@@ -3233,10 +3233,10 @@
       "longitude": -73.98511663223668
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 0,
       "serialNumber": 505100137,
       "latitude": 40.743433331711394,
-      "binStatus": "Nearly Full",
+      "binStatus": "Available",
       "description": "BIN 339 - SW 5 Ave & W 26 St",
       "availableForUse": true,
       "longitude": -73.98834843188524
@@ -3260,7 +3260,7 @@
       "longitude": -73.98983752643882
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 0,
       "serialNumber": 505100141,
       "latitude": 40.74960582599206,
       "binStatus": "Available",
@@ -3305,7 +3305,7 @@
       "longitude": -73.97196531694908
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 0,
       "serialNumber": 505100140,
       "latitude": 40.760441717606135,
       "binStatus": "Available",
