@@ -56,7 +56,7 @@
       "longitude": -73.91328877313748
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 3590001,
       "latitude": 40.746548059294376,
       "binStatus": "Available",
@@ -173,7 +173,7 @@
       "longitude": -73.98393251001835
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 0,
       "serialNumber": 503000029,
       "latitude": 40.80195426083978,
       "binStatus": "Available",
@@ -245,7 +245,7 @@
       "longitude": -73.94638694822788
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 0,
       "serialNumber": 503000003,
       "latitude": 40.803170053254796,
       "binStatus": "Available",
@@ -506,7 +506,7 @@
       "longitude": -73.95314779132605
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 0,
       "serialNumber": 503000050,
       "latitude": 40.829794034320685,
       "binStatus": "Available",
@@ -614,12 +614,12 @@
       "longitude": -73.9660133421421
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 0,
       "serialNumber": 503000039,
       "latitude": 40.82647613312916,
-      "binStatus": "Full",
+      "binStatus": "Available",
       "description": "BIN 25 - SW W 147 St & Amsterdam Ave",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.94687759676215
     },
     {
@@ -821,7 +821,7 @@
       "longitude": -73.94825711846352
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 0,
       "serialNumber": 503000082,
       "latitude": 40.746466564173716,
       "binStatus": "Available",
@@ -956,7 +956,7 @@
       "longitude": -73.90491127967834
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 0,
       "serialNumber": 503000100,
       "latitude": 40.818994146499016,
       "binStatus": "Available",
@@ -1001,7 +1001,7 @@
       "longitude": -73.96537832915783
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 503000140,
       "latitude": 40.681352486961536,
       "binStatus": "Available",
@@ -1073,7 +1073,7 @@
       "longitude": -73.9499693736434
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000129,
       "latitude": 40.685812233251795,
       "binStatus": "Available",
@@ -1514,10 +1514,10 @@
       "longitude": -73.95281285047531
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 503000207,
       "latitude": 40.68175217538853,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 124 - SW Tompkins Ave & Macon St",
       "availableForUse": true,
       "longitude": -73.9436212554574
@@ -1658,7 +1658,7 @@
       "longitude": -73.90800554305315
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 0,
       "serialNumber": 503000222,
       "latitude": 40.821624764178374,
       "binStatus": "Available",
@@ -1703,7 +1703,7 @@
       "longitude": -73.95448587834835
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000228,
       "latitude": 40.68858947648064,
       "binStatus": "Available",
@@ -1964,7 +1964,7 @@
       "longitude": -73.92812234686723
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 0,
       "serialNumber": 503000269,
       "latitude": 40.64137790224041,
       "binStatus": "Available",
@@ -2144,7 +2144,7 @@
       "longitude": -73.9421078891929
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 0,
       "serialNumber": 505100078,
       "latitude": 40.77113841285102,
       "binStatus": "Available",
@@ -2279,7 +2279,7 @@
       "longitude": -74.00691708161023
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 0,
       "serialNumber": 505100052,
       "latitude": 40.71989182112748,
       "binStatus": "Available",
@@ -2315,12 +2315,12 @@
       "longitude": -74.00212241864305
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 505100021,
       "latitude": 40.775317712188475,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 424 - NE E 85 St & York Ave",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.94749872386456
     },
     {
@@ -2342,10 +2342,10 @@
       "longitude": -74.00171998103215
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100051,
       "latitude": 40.72504420607064,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 323 - SE 1 Ave & E 4 St",
       "availableForUse": true,
       "longitude": -73.9869912541827
@@ -2441,10 +2441,10 @@
       "longitude": -74.00274561377924
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 0,
       "serialNumber": 505100047,
       "latitude": 40.73539348561974,
-      "binStatus": "Nearly Full",
+      "binStatus": "Available",
       "description": "BIN 309 - NE Irving Place & E 16 St",
       "availableForUse": true,
       "longitude": -73.98759673124307
@@ -2531,7 +2531,7 @@
       "longitude": -74.0108494516408
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 0,
       "serialNumber": 505100033,
       "latitude": 40.78070495280861,
       "binStatus": "Available",
@@ -2558,7 +2558,7 @@
       "longitude": -73.94763141892919
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 505100034,
       "latitude": 40.7312028692314,
       "binStatus": "Available",
@@ -2576,7 +2576,7 @@
       "longitude": -73.95822445057821
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 0,
       "serialNumber": 505100016,
       "latitude": 40.76390136307756,
       "binStatus": "Available",
@@ -2738,7 +2738,7 @@
       "longitude": -73.98491537817117
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 0,
       "serialNumber": 505100096,
       "latitude": 40.771722793444425,
       "binStatus": "Available",
@@ -2801,7 +2801,7 @@
       "longitude": -73.9766103569379
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 0,
       "serialNumber": 505100074,
       "latitude": 40.77844967182979,
       "binStatus": "Available",
@@ -2882,10 +2882,10 @@
       "longitude": -73.9833025251433
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 0,
       "serialNumber": 505100086,
       "latitude": 40.781894893686875,
-      "binStatus": "Nearly Full",
+      "binStatus": "Available",
       "description": "BIN 366 - NE W 77 St & Amsterdam Ave",
       "availableForUse": true,
       "longitude": -73.97906581678058
@@ -2918,10 +2918,10 @@
       "longitude": -73.9850452796422
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 0,
       "serialNumber": 505100110,
       "latitude": 40.75405449748158,
-      "binStatus": "Nearly Full",
+      "binStatus": "Available",
       "description": "BIN 295 - SE 2 Ave & E 49 St",
       "availableForUse": true,
       "longitude": -73.96902091534423
@@ -2972,7 +2972,7 @@
       "longitude": -73.96910423686519
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 0,
       "serialNumber": 505100111,
       "latitude": 40.758836000578,
       "binStatus": "Available",
@@ -3098,7 +3098,7 @@
       "longitude": -73.96841285680578
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 0,
       "serialNumber": 505100129,
       "latitude": 40.779702163230795,
       "binStatus": "Available",
@@ -3116,7 +3116,7 @@
       "longitude": -73.96592718820084
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 0,
       "serialNumber": 505100105,
       "latitude": 40.76175746497325,
       "binStatus": "Available",
@@ -3125,7 +3125,7 @@
       "longitude": -73.96866042855898
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 505100103,
       "latitude": 40.72946703338854,
       "binStatus": "Available",
@@ -3323,16 +3323,16 @@
       "longitude": -74.00684701383747
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 505100135,
       "latitude": 40.758930399023754,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 350 - SE W 43 St & 9 Ave",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.99201305589226
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 0,
       "serialNumber": 505100123,
       "latitude": 40.78331643218788,
       "binStatus": "Available",
@@ -3386,10 +3386,10 @@
       "longitude": -73.98135114745574
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 0,
       "serialNumber": 505100119,
       "latitude": 40.77611866432287,
-      "binStatus": "Nearly Full",
+      "binStatus": "Available",
       "description": "BIN 359 - SW Columbus Ave & W 70 St",
       "availableForUse": true,
       "longitude": -73.9799463692325
@@ -3404,7 +3404,7 @@
       "longitude": -73.97587379945203
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 0,
       "serialNumber": 505100128,
       "latitude": 40.72662593513809,
       "binStatus": "Available",
