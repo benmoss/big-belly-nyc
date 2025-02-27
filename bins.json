@@ -29,7 +29,7 @@
       "longitude": -73.92003797195594
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 60,
       "serialNumber": 3590017,
       "latitude": 40.7447717419058,
       "binStatus": "Available",
@@ -56,10 +56,10 @@
       "longitude": -73.91328877313748
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 3590001,
       "latitude": 40.746548059294376,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "Bin 396 - NE 64 St & 39 Ave",
       "availableForUse": true,
       "longitude": -73.89971678571764
@@ -884,7 +884,7 @@
       "longitude": -73.92934955656528
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 0,
       "serialNumber": 503000080,
       "latitude": 40.87989884498878,
       "binStatus": "Available",
@@ -2198,10 +2198,10 @@
       "longitude": -73.98008527492154
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100042,
       "latitude": 40.73752862143271,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 310 - NW 6 Ave & W 14 St",
       "availableForUse": true,
       "longitude": -73.99693615022026
@@ -2432,12 +2432,12 @@
       "longitude": -73.99481938922054
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 505100037,
       "latitude": 40.739169439589006,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 331 - SE Greenwich Ave & 8 Ave",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -74.00274561377924
     },
     {
@@ -2810,10 +2810,10 @@
       "longitude": -73.98593114887535
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 0,
       "serialNumber": 505100083,
       "latitude": 40.72496280254391,
-      "binStatus": "Nearly Full",
+      "binStatus": "Available",
       "description": "BIN 324 - NE 2 Ave & E 2 St",
       "availableForUse": true,
       "longitude": -73.99017938079861
@@ -3053,7 +3053,7 @@
       "longitude": -73.98526381245097
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 0,
       "serialNumber": 505100097,
       "latitude": 40.72556517707213,
       "binStatus": "Available",
