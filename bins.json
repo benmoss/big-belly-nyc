@@ -380,7 +380,7 @@
       "longitude": -73.91796863240839
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 0,
       "serialNumber": 503000024,
       "latitude": 40.87628033530234,
       "binStatus": "Available",
@@ -389,12 +389,12 @@
       "longitude": -73.88136584311724
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 0,
       "serialNumber": 503000022,
       "latitude": 40.866201512573475,
-      "binStatus": "Full",
+      "binStatus": "Available",
       "description": "BIN 64 - SE Broadway & Academy St",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.92508216202259
     },
     {
@@ -1100,10 +1100,10 @@
       "longitude": -73.90656117349863
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 503000148,
       "latitude": 40.701373514374744,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 183 - SW St. Nicholas Ave & Linden St",
       "availableForUse": true,
       "longitude": -73.91136553921112
@@ -2000,10 +2000,10 @@
       "longitude": -73.92796251922846
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 503000271,
       "latitude": 40.74194368731704,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 408 - NW 40 St & 47 Ave",
       "availableForUse": true,
       "longitude": -73.92471789027536
@@ -2882,7 +2882,7 @@
       "longitude": -73.9833025251433
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 0,
       "serialNumber": 505100086,
       "latitude": 40.781894893686875,
       "binStatus": "Available",
