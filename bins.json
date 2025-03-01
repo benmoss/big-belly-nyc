@@ -650,12 +650,12 @@
       "longitude": -73.93176387995481
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 0,
       "serialNumber": 503000036,
       "latitude": 40.6778510426927,
-      "binStatus": "Full",
+      "binStatus": "Available",
       "description": "BIN 187 - NW Vanderbilt Ave & Prospect Place",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.96890208125114
     },
     {
@@ -1037,7 +1037,7 @@
       "longitude": -73.93525745719671
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 0,
       "serialNumber": 503000144,
       "latitude": 40.7019656047617,
       "binStatus": "Available",
@@ -1289,10 +1289,10 @@
       "longitude": -73.91542855650187
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 0,
       "serialNumber": 503000175,
       "latitude": 40.68014247411724,
-      "binStatus": "Nearly Full",
+      "binStatus": "Available",
       "description": "BIN 186 - SW Vanderbilt Ave & Dean St",
       "availableForUse": true,
       "longitude": -73.96811317652464
@@ -1550,10 +1550,10 @@
       "longitude": -73.8490579649806
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 503000201,
       "latitude": 40.68434297291138,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 127 - NE Bedford Ave & Madison St",
       "availableForUse": true,
       "longitude": -73.95393367856741
@@ -1883,10 +1883,10 @@
       "longitude": -73.95637851208448
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 0,
       "serialNumber": 503000257,
       "latitude": 40.670817086934036,
-      "binStatus": "Nearly Full",
+      "binStatus": "Available",
       "description": "BIN 214 - SW Rogers Ave & Lincoln Place",
       "availableForUse": true,
       "longitude": -73.95329229533672
@@ -1928,7 +1928,7 @@
       "longitude": -73.95310335432222
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 0,
       "serialNumber": 503000263,
       "latitude": 40.67867868263691,
       "binStatus": "Available",
