@@ -2,7 +2,7 @@
   "errorCode": "STATUS_OK",
   "compostAssets": [
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 3590004,
       "latitude": 40.740982515732185,
       "binStatus": "Available",
@@ -281,7 +281,7 @@
       "longitude": -73.93766775727272
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 503000013,
       "latitude": 40.86843300418909,
       "binStatus": "Available",
@@ -290,7 +290,7 @@
       "longitude": -73.91832768131844
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000016,
       "latitude": 40.80673101650625,
       "binStatus": "Available",
@@ -605,7 +605,7 @@
       "longitude": -73.9660133421421
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 503000039,
       "latitude": 40.82647613312916,
       "binStatus": "Available",
@@ -677,12 +677,12 @@
       "longitude": -73.86818949133158
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 503000063,
       "latitude": 40.76656936634833,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 19 - SE Crescent St & 30 Dr",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.92594543138473
     },
     {
@@ -848,7 +848,7 @@
       "longitude": -73.90853963792324
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 40,
       "serialNumber": 503000089,
       "latitude": 40.85572351653721,
       "binStatus": "Available",
@@ -1244,12 +1244,12 @@
       "longitude": -73.96974126370019
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 503000169,
       "latitude": 40.690318203640174,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 118 - NE Lewis Ave & Green Ave",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.93640510737896
     },
     {
@@ -1361,7 +1361,7 @@
       "longitude": -73.96627854555845
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 0,
       "serialNumber": 503000180,
       "latitude": 40.69293663142478,
       "binStatus": "Available",
@@ -1406,7 +1406,7 @@
       "longitude": -73.90980195254087
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 503000181,
       "latitude": 40.68065836586844,
       "binStatus": "Available",
@@ -1694,10 +1694,10 @@
       "longitude": -73.91965739428997
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 503000225,
       "latitude": 40.6865703680712,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 128 - NE Bedford Ave & Quincy St",
       "availableForUse": true,
       "longitude": -73.95448587834835
@@ -1811,7 +1811,7 @@
       "longitude": -73.95765916089715
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 0,
       "serialNumber": 503000237,
       "latitude": 40.69656438204717,
       "binStatus": "Available",
@@ -1829,12 +1829,12 @@
       "longitude": -73.93390157678125
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 503000241,
       "latitude": 40.6774118895118,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 218 - SE Classon Ave & Bergen St",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.95897587267723
     },
     {
@@ -2207,7 +2207,7 @@
       "longitude": -73.99693615022026
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 505100005,
       "latitude": 40.70815249011514,
       "binStatus": "Available",
@@ -2432,7 +2432,7 @@
       "longitude": -73.99481938922054
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 505100037,
       "latitude": 40.739169439589006,
       "binStatus": "Available",
@@ -2621,7 +2621,7 @@
       "longitude": -74.0007785662345
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 505100064,
       "latitude": 40.718560301291866,
       "binStatus": "Available",
@@ -2657,7 +2657,7 @@
       "longitude": -73.9535946787067
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 505100069,
       "latitude": 40.724874101417406,
       "binStatus": "Available",
@@ -2720,7 +2720,7 @@
       "longitude": -73.99722146507379
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 60,
       "serialNumber": 505100075,
       "latitude": 40.778178709659024,
       "binStatus": "Available",
@@ -2846,7 +2846,7 @@
       "longitude": -73.95335140977043
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 505100087,
       "latitude": 40.798370790247,
       "binStatus": "Available",
@@ -2927,7 +2927,7 @@
       "longitude": -73.96902091534423
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 505100065,
       "latitude": 40.769098236486705,
       "binStatus": "Available",
@@ -2999,7 +2999,7 @@
       "longitude": -73.97793704431773
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 505100066,
       "latitude": 40.71424651872,
       "binStatus": "Available",
@@ -3350,10 +3350,10 @@
       "longitude": -73.98478295989479
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100116,
       "latitude": 40.78914315936319,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 370 - NW Columbus Ave & W 90 St",
       "availableForUse": true,
       "longitude": -73.97035768079368
@@ -3404,12 +3404,12 @@
       "longitude": -73.97587379945203
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 505100128,
       "latitude": 40.72662593513809,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 327 - SW Bond St & Lafayette St",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.99427816002996
     }
   ]
