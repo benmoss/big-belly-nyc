@@ -38,7 +38,7 @@
       "longitude": -73.9175371080637
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 3590014,
       "latitude": 40.745373137079994,
       "binStatus": "Available",
@@ -425,7 +425,7 @@
       "longitude": -73.92743781208992
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 0,
       "serialNumber": 503000018,
       "latitude": 40.83478846373379,
       "binStatus": "Available",
@@ -533,10 +533,10 @@
       "longitude": -73.93815591931343
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 0,
       "serialNumber": 503000052,
       "latitude": 40.805835432729474,
-      "binStatus": "Nearly Full",
+      "binStatus": "Available",
       "description": "BIN 36 - SW W 122 St & Malcolm X Blvd",
       "availableForUse": true,
       "longitude": -73.94713159650564
@@ -911,10 +911,10 @@
       "longitude": -73.92875041812658
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 503000095,
       "latitude": 40.82739891873525,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 67 - NW Morris Ave & E 163 St",
       "availableForUse": true,
       "longitude": -73.91744524240494
@@ -1055,12 +1055,12 @@
       "longitude": -73.91719682217655
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 503000143,
       "latitude": 40.6825487482924,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 145 - SE Nostrand Ave & Hancock St",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.9499693736434
     },
     {
@@ -1622,7 +1622,7 @@
       "longitude": -73.95670607686043
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 0,
       "serialNumber": 503000214,
       "latitude": 40.84592817625355,
       "binStatus": "Available",
@@ -3233,12 +3233,12 @@
       "longitude": -73.98511663223668
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 0,
       "serialNumber": 505100137,
       "latitude": 40.743433331711394,
-      "binStatus": "Full",
+      "binStatus": "Available",
       "description": "BIN 339 - SW 5 Ave & W 26 St",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.98834843188524
     },
     {
@@ -3404,7 +3404,7 @@
       "longitude": -73.97587379945203
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 505100128,
       "latitude": 40.72662593513809,
       "binStatus": "Available",
