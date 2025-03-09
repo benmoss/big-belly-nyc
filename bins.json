@@ -641,19 +641,19 @@
       "longitude": -73.94394144415855
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 503000034,
       "latitude": 40.774054817889976,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 229 - SW 27 Ave & 8 St",
       "availableForUse": true,
       "longitude": -73.93176387995481
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 503000036,
       "latitude": 40.6778510426927,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 187 - NW Vanderbilt Ave & Prospect Place",
       "availableForUse": true,
       "longitude": -73.96890208125114
@@ -866,12 +866,12 @@
       "longitude": -73.91521599143744
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 503000093,
       "latitude": 40.76223009405083,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 01 - NE 31 Ave & 37 St",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.91863731029024
     },
     {
@@ -1586,12 +1586,12 @@
       "longitude": -73.928127810359
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 503000204,
       "latitude": 40.69300170948447,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 130 - SE Bedford Ave & Willoughby Ave",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.9556797966361
     },
     {
@@ -1631,12 +1631,12 @@
       "longitude": -73.82940910756588
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 503000221,
       "latitude": 40.69040997746076,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 121 - SW Tompkins Ave & Lafayette Ave",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.94542437046766
     },
     {
@@ -2522,7 +2522,7 @@
       "longitude": -74.0077318323766
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 505100061,
       "latitude": 40.70860458493924,
       "binStatus": "Available",
@@ -2576,7 +2576,7 @@
       "longitude": -73.95822445057821
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 505100016,
       "latitude": 40.76390136307756,
       "binStatus": "Available",
@@ -2639,7 +2639,7 @@
       "longitude": -73.98896138948061
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 505100072,
       "latitude": 40.71327373740936,
       "binStatus": "Available",
@@ -3053,7 +3053,7 @@
       "longitude": -73.98526381245097
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 505100097,
       "latitude": 40.72556517707213,
       "binStatus": "Available",
@@ -3143,7 +3143,7 @@
       "longitude": -73.96135753145826
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 505100098,
       "latitude": 40.741609115050146,
       "binStatus": "Available",
@@ -3152,7 +3152,7 @@
       "longitude": -73.97792649980364
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 505100127,
       "latitude": 40.79516392024059,
       "binStatus": "Available",
@@ -3161,7 +3161,7 @@
       "longitude": -73.97343810525932
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 505100139,
       "latitude": 40.74272368457833,
       "binStatus": "Available",
@@ -3332,7 +3332,7 @@
       "longitude": -73.99201305589226
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 505100123,
       "latitude": 40.78331643218788,
       "binStatus": "Available",
@@ -3377,7 +3377,7 @@
       "longitude": -73.98222696429983
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 505100112,
       "latitude": 40.741522457226544,
       "binStatus": "Available",
@@ -3404,7 +3404,7 @@
       "longitude": -73.97587379945203
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 505100128,
       "latitude": 40.72662593513809,
       "binStatus": "Available",
