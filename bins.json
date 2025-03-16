@@ -47,10 +47,10 @@
       "longitude": -73.92288388211199
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 3590020,
       "latitude": 40.746148800069264,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 400 - NE 51 St & Skillman Ave",
       "availableForUse": true,
       "longitude": -73.91328877313748
@@ -128,12 +128,12 @@
       "longitude": -73.92099916934967
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 3590005,
       "latitude": 40.88661576005842,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 411 - SW W 236 St & Johnson Ave",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.90993109059836
     },
     {
@@ -686,7 +686,7 @@
       "longitude": -73.92594543138473
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 503000061,
       "latitude": 40.76808087642403,
       "binStatus": "Available",
@@ -1784,7 +1784,7 @@
       "longitude": -74.07850451767445
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 503000239,
       "latitude": 40.69389322166022,
       "binStatus": "Available",
