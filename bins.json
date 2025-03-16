@@ -596,7 +596,7 @@
       "longitude": -73.9623499576847
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000040,
       "latitude": 40.80557429253741,
       "binStatus": "Available",
@@ -758,12 +758,12 @@
       "longitude": -73.94291717559099
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 503000069,
       "latitude": 40.762088122135914,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 06 - NW 31 St & Broadway",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.92557334154844
     },
     {
@@ -1523,10 +1523,10 @@
       "longitude": -73.9436212554574
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 503000206,
       "latitude": 40.68764908091782,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 122 - SW Tompkins Ave & Quincy St",
       "availableForUse": true,
       "longitude": -73.94487351179123
@@ -3278,7 +3278,7 @@
       "longitude": -73.97619309561924
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 505100149,
       "latitude": 40.77380204413203,
       "binStatus": "Available",
