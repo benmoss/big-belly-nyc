@@ -155,7 +155,7 @@
       "longitude": -73.99473222632365
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 3590006,
       "latitude": 40.88282894758702,
       "binStatus": "Available",
@@ -740,10 +740,10 @@
       "longitude": -74.07695855945349
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 503000067,
       "latitude": 40.76558557637679,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 10 - SE 31 Ave & Crescent St",
       "availableForUse": true,
       "longitude": -73.92632732264548
@@ -1073,12 +1073,12 @@
       "longitude": -73.94146978855133
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 80,
       "serialNumber": 503000145,
       "latitude": 40.68640155543058,
-      "binStatus": "Full",
+      "binStatus": "Nearly Full",
       "description": "BIN 137 - NW Malcolm X Blvd & Putnam Ave",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.92984341830015
     },
     {
@@ -1163,10 +1163,10 @@
       "longitude": -73.93099308013916
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 503000150,
       "latitude": 40.67358758069033,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 193 - NW Washington Ave & St. Johns Place",
       "availableForUse": true,
       "longitude": -73.96311119198799
@@ -1406,12 +1406,12 @@
       "longitude": -73.90980195254087
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 503000181,
       "latitude": 40.68065836586844,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 115 - NE Lewis Ave & Bainbridge St",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.93454968929291
     },
     {
@@ -1865,10 +1865,10 @@
       "longitude": -73.94772704690695
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 503000251,
       "latitude": 40.67459377925092,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 216 - NE Rogers Ave & Prospect Place",
       "availableForUse": true,
       "longitude": -73.95274545997381
@@ -2234,12 +2234,12 @@
       "longitude": -73.9538887710376
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 505100014,
       "latitude": 40.78010940688603,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 267 - NE 1 Ave & E 91 St",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.94685207786003
     },
     {
@@ -3287,7 +3287,7 @@
       "longitude": -73.95175657391553
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 505100121,
       "latitude": 40.7909709189525,
       "binStatus": "Available",
