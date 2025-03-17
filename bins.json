@@ -65,10 +65,10 @@
       "longitude": -73.89971678571764
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 0,
       "serialNumber": 3590019,
       "latitude": 40.745991757187745,
-      "binStatus": "Nearly Full",
+      "binStatus": "Available",
       "description": "BIN 398 - NW 57 St & Woodside Ave",
       "availableForUse": true,
       "longitude": -73.90727262943983
@@ -1874,12 +1874,12 @@
       "longitude": -73.95274545997381
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 0,
       "serialNumber": 503000254,
       "latitude": 40.67509191438939,
-      "binStatus": "Full",
+      "binStatus": "Available",
       "description": "BIN 195 - NE Franklin Ave & Prospect Place",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.95637851208448
     },
     {
@@ -2027,12 +2027,12 @@
       "longitude": -73.93931295722723
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 0,
       "serialNumber": 503000276,
       "latitude": 40.67165676594622,
-      "binStatus": "Full",
+      "binStatus": "Available",
       "description": "BIN 196 - NE Franklin Ave & Lincoln Place",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.95756002515554
     },
     {
@@ -2693,7 +2693,7 @@
       "longitude": -73.96450973157151
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 505100060,
       "latitude": 40.71026346371404,
       "binStatus": "Available",
