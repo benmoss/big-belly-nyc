@@ -56,12 +56,12 @@
       "longitude": -73.91328877313748
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 80,
       "serialNumber": 3590001,
       "latitude": 40.746548059294376,
-      "binStatus": "Full",
+      "binStatus": "Nearly Full",
       "description": "Bin 396 - NE 64 St & 39 Ave",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.89971678571764
     },
     {
@@ -740,12 +740,12 @@
       "longitude": -74.07695855945349
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 503000067,
       "latitude": 40.76558557637679,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 10 - SE 31 Ave & Crescent St",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.92632732264548
     },
     {
@@ -1802,10 +1802,10 @@
       "longitude": -73.94742764532566
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 503000243,
       "latitude": 40.8111366429278,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 28 - SE W 123 St & Amsterdam Ave",
       "availableForUse": true,
       "longitude": -73.95765916089715
@@ -2162,10 +2162,10 @@
       "longitude": -73.94892745726821
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100018,
       "latitude": 40.77294782166341,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 270 - SW E 83 St & East End Ave",
       "availableForUse": true,
       "longitude": -73.94638707990978
@@ -2432,10 +2432,10 @@
       "longitude": -73.99481938922054
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 60,
       "serialNumber": 505100037,
       "latitude": 40.739169439589006,
-      "binStatus": "Nearly Full",
+      "binStatus": "Available",
       "description": "BIN 331 - SE Greenwich Ave & 8 Ave",
       "availableForUse": true,
       "longitude": -74.00274561377924
@@ -2837,7 +2837,7 @@
       "longitude": -73.99090145996239
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 505100106,
       "latitude": 40.78586060688359,
       "binStatus": "Available",
