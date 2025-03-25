@@ -1793,10 +1793,10 @@
       "longitude": -73.94294936209917
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 0,
       "serialNumber": 503000240,
       "latitude": 40.67428152112551,
-      "binStatus": "Nearly Full",
+      "binStatus": "Available",
       "description": "BIN 198 - NW New York Ave & Prospect Place",
       "availableForUse": true,
       "longitude": -73.94742764532566
@@ -2261,12 +2261,12 @@
       "longitude": -73.98598125432342
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 505100010,
       "latitude": 40.75280253801481,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 346 - NW 9 Ave & W 33 St",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.99692150445948
     },
     {
@@ -3161,7 +3161,7 @@
       "longitude": -73.97343810525932
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 505100139,
       "latitude": 40.74272368457833,
       "binStatus": "Available",
