@@ -2,19 +2,19 @@
   "errorCode": "STATUS_OK",
   "compostAssets": [
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 3590004,
       "latitude": 40.740982515732185,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 406 - SE 47 Ave & 47 St",
       "availableForUse": true,
       "longitude": -73.9180913195014
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 3590010,
       "latitude": 40.74060865008307,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 409 - NE Greenpoint Ave & 42 St",
       "availableForUse": true,
       "longitude": -73.92287585085252
@@ -209,7 +209,7 @@
       "longitude": -73.86632109842786
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 503000004,
       "latitude": 40.75444696790806,
       "binStatus": "Available",
@@ -254,7 +254,7 @@
       "longitude": -73.92903984180296
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 503000011,
       "latitude": 40.835456625319416,
       "binStatus": "Available",
@@ -290,7 +290,7 @@
       "longitude": -73.91832768131844
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 60,
       "serialNumber": 503000016,
       "latitude": 40.80673101650625,
       "binStatus": "Available",
@@ -461,7 +461,7 @@
       "longitude": -73.95299658179283
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000053,
       "latitude": 40.764994993021595,
       "binStatus": "Available",
@@ -866,12 +866,12 @@
       "longitude": -73.91521599143744
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 503000093,
       "latitude": 40.76223009405083,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 01 - NE 31 Ave & 37 St",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.91863731029024
     },
     {
@@ -1757,12 +1757,12 @@
       "longitude": -73.89310654252768
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 503000186,
       "latitude": 40.6858662258759,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 117 - NE Lewis Ave & Putnam Ave",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.9355384244532
     },
     {
@@ -2225,12 +2225,12 @@
       "longitude": -73.9538887710376
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 505100014,
       "latitude": 40.78010940688603,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 267 - NE 1 Ave & E 91 St",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.94685207786003
     },
     {
@@ -2333,7 +2333,7 @@
       "longitude": -74.00171998103215
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 60,
       "serialNumber": 505100051,
       "latitude": 40.72504420607064,
       "binStatus": "Available",
@@ -2657,12 +2657,12 @@
       "longitude": -74.0047200044207
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 505100059,
       "latitude": 40.718786682897935,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 244 - SW Greenwich St & Harrison St",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -74.01055041700602
     },
     {
@@ -3260,7 +3260,7 @@
       "longitude": -74.00261308139008
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 505100122,
       "latitude": 40.77622161241313,
       "binStatus": "Available",
@@ -3305,7 +3305,7 @@
       "longitude": -73.99506114554103
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 505100150,
       "latitude": 40.729589714367386,
       "binStatus": "Available",
