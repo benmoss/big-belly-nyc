@@ -2,19 +2,19 @@
   "errorCode": "STATUS_OK",
   "compostAssets": [
     {
-      "latestFullness": 100,
+      "latestFullness": 0,
       "serialNumber": 3590004,
       "latitude": 40.740982515732185,
-      "binStatus": "Full",
+      "binStatus": "Available",
       "description": "BIN 406 - SE 47 Ave & 47 St",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.9180913195014
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 0,
       "serialNumber": 3590010,
       "latitude": 40.74060865008307,
-      "binStatus": "Nearly Full",
+      "binStatus": "Available",
       "description": "BIN 409 - NE Greenpoint Ave & 42 St",
       "availableForUse": true,
       "longitude": -73.92287585085252
@@ -83,12 +83,12 @@
       "longitude": -73.91701877117157
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 0,
       "serialNumber": 3590016,
       "latitude": 40.74379131277653,
-      "binStatus": "Full",
+      "binStatus": "Available",
       "description": "BIN 405 - NW Queens Blvd & 43 St",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.92166045665941
     },
     {
@@ -110,7 +110,7 @@
       "longitude": -73.90995819121599
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 0,
       "serialNumber": 3590011,
       "latitude": 40.73775011894243,
       "binStatus": "Available",
@@ -119,10 +119,10 @@
       "longitude": -73.92154820692338
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 0,
       "serialNumber": 3590008,
       "latitude": 40.741475328023036,
-      "binStatus": "Nearly Full",
+      "binStatus": "Available",
       "description": "BIN 407 - NW 44 St & 47 Ave",
       "availableForUse": true,
       "longitude": -73.92099916934967
@@ -191,12 +191,12 @@
       "longitude": -73.92021738757299
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 0,
       "serialNumber": 503000002,
       "latitude": 40.802377335586115,
-      "binStatus": "Full",
+      "binStatus": "Available",
       "description": "BIN 51 - NE E 120 St & Madison Ave",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.94273579120636
     },
     {
@@ -506,7 +506,7 @@
       "longitude": -73.94453756511211
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 0,
       "serialNumber": 503000048,
       "latitude": 40.7966226877643,
       "binStatus": "Available",
@@ -569,12 +569,12 @@
       "longitude": -73.92879232764244
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 0,
       "serialNumber": 503000042,
       "latitude": 40.764174520197706,
-      "binStatus": "Full",
+      "binStatus": "Available",
       "description": "BIN 20 - SE 31 St & 31 Ave",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.92345808446407
     },
     {
@@ -767,7 +767,7 @@
       "longitude": -73.92557334154844
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 0,
       "serialNumber": 503000071,
       "latitude": 40.7948329016069,
       "binStatus": "Available",
@@ -776,7 +776,7 @@
       "longitude": -73.93320322036743
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 0,
       "serialNumber": 503000072,
       "latitude": 40.79737412009714,
       "binStatus": "Available",
@@ -803,7 +803,7 @@
       "longitude": -73.92188027501106
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 0,
       "serialNumber": 503000081,
       "latitude": 40.79314191706756,
       "binStatus": "Available",
@@ -983,16 +983,16 @@
       "longitude": -73.92586905509233
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 0,
       "serialNumber": 503000138,
       "latitude": 40.678764370117854,
-      "binStatus": "Full",
+      "binStatus": "Available",
       "description": "BIN 191 - SW Underhill Ave & Bergen St",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.96537832915783
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 0,
       "serialNumber": 503000140,
       "latitude": 40.681352486961536,
       "binStatus": "Available",
@@ -1019,12 +1019,12 @@
       "longitude": -73.90436712652445
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 0,
       "serialNumber": 503000136,
       "latitude": 40.67726495043478,
-      "binStatus": "Full",
+      "binStatus": "Available",
       "description": "BIN 192 - NW Grand Ave & St. Marks Ave",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.96265991032124
     },
     {
@@ -1325,7 +1325,7 @@
       "longitude": -73.89874320477247
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 0,
       "serialNumber": 503000176,
       "latitude": 40.680852618800145,
       "binStatus": "Available",
@@ -1334,7 +1334,7 @@
       "longitude": -73.91968253999949
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 0,
       "serialNumber": 503000163,
       "latitude": 40.67812844942252,
       "binStatus": "Available",
@@ -1352,12 +1352,12 @@
       "longitude": -73.941904976964
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 0,
       "serialNumber": 503000179,
       "latitude": 40.67617742416484,
-      "binStatus": "Full",
+      "binStatus": "Available",
       "description": "BIN 190 - NE Underhill Ave & Park Place",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.96627854555845
     },
     {
@@ -1703,7 +1703,7 @@
       "longitude": -73.95448587834835
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 0,
       "serialNumber": 503000228,
       "latitude": 40.68858947648064,
       "binStatus": "Available",
@@ -1829,12 +1829,12 @@
       "longitude": -73.93390157678125
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 0,
       "serialNumber": 503000241,
       "latitude": 40.6774118895118,
-      "binStatus": "Full",
+      "binStatus": "Available",
       "description": "BIN 218 - SE Classon Ave & Bergen St",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.95897587267723
     },
     {
@@ -2153,10 +2153,10 @@
       "longitude": -73.94892745726821
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 0,
       "serialNumber": 505100018,
       "latitude": 40.77294782166341,
-      "binStatus": "Nearly Full",
+      "binStatus": "Available",
       "description": "BIN 270 - SW E 83 St & East End Ave",
       "availableForUse": true,
       "longitude": -73.94638707990978
@@ -2306,12 +2306,12 @@
       "longitude": -74.00212241864305
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 0,
       "serialNumber": 505100021,
       "latitude": 40.775317712188475,
-      "binStatus": "Full",
+      "binStatus": "Available",
       "description": "BIN 424 - NE E 85 St & York Ave",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.94749872386456
     },
     {
@@ -3170,16 +3170,16 @@
       "longitude": -73.96400324926272
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 0,
       "serialNumber": 505100143,
       "latitude": 40.77663888275979,
-      "binStatus": "Nearly Full",
+      "binStatus": "Available",
       "description": "BIN 392 - NE York Ave & E 87 St",
       "availableForUse": true,
       "longitude": -73.94652914221223
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 0,
       "serialNumber": 505100138,
       "latitude": 40.76639459170164,
       "binStatus": "Available",
@@ -3206,7 +3206,7 @@
       "longitude": -73.97864520220962
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 0,
       "serialNumber": 505100134,
       "latitude": 40.762820138671465,
       "binStatus": "Available",
@@ -3269,12 +3269,12 @@
       "longitude": -73.97619309561924
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 0,
       "serialNumber": 505100149,
       "latitude": 40.77380204413203,
-      "binStatus": "Full",
+      "binStatus": "Available",
       "description": "BIN 393 - NW 1 Ave & E 81 St",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.95175657391553
     },
     {
