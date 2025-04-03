@@ -2,7 +2,7 @@
   "errorCode": "STATUS_OK",
   "compostAssets": [
     {
-      "latestFullness": 40,
+      "latestFullness": 0,
       "serialNumber": 3590004,
       "latitude": 40.740982515732185,
       "binStatus": "Available",
@@ -119,7 +119,7 @@
       "longitude": -73.92154820692338
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 0,
       "serialNumber": 3590008,
       "latitude": 40.741475328023036,
       "binStatus": "Available",
@@ -659,7 +659,7 @@
       "longitude": -73.93176387995481
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 0,
       "serialNumber": 503000036,
       "latitude": 40.6778510426927,
       "binStatus": "Available",
@@ -1001,7 +1001,7 @@
       "longitude": -73.92586905509233
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 0,
       "serialNumber": 503000138,
       "latitude": 40.678764370117854,
       "binStatus": "Available",
@@ -1037,7 +1037,7 @@
       "longitude": -73.90436712652445
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 0,
       "serialNumber": 503000136,
       "latitude": 40.67726495043478,
       "binStatus": "Available",
@@ -1154,7 +1154,7 @@
       "longitude": -73.91453684044001
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 0,
       "serialNumber": 503000165,
       "latitude": 40.69828985201461,
       "binStatus": "Available",
@@ -1181,12 +1181,12 @@
       "longitude": -73.93099308013916
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 0,
       "serialNumber": 503000150,
       "latitude": 40.67358758069033,
-      "binStatus": "Full",
+      "binStatus": "Available",
       "description": "BIN 193 - NW Washington Ave & St. Johns Place",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.96311119198799
     },
     {
@@ -1370,10 +1370,10 @@
       "longitude": -73.941904976964
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 0,
       "serialNumber": 503000179,
       "latitude": 40.67617742416484,
-      "binStatus": "Nearly Full",
+      "binStatus": "Available",
       "description": "BIN 190 - NE Underhill Ave & Park Place",
       "availableForUse": true,
       "longitude": -73.96627854555845
@@ -1442,7 +1442,7 @@
       "longitude": -73.91591713080048
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 0,
       "serialNumber": 503000184,
       "latitude": 40.673104182956976,
       "binStatus": "Available",
