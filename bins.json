@@ -56,7 +56,7 @@
       "longitude": -73.91328877313748
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 3590001,
       "latitude": 40.746548059294376,
       "binStatus": "Available",
@@ -740,7 +740,7 @@
       "longitude": -74.07695855945349
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000067,
       "latitude": 40.76558557637679,
       "binStatus": "Available",
@@ -776,12 +776,12 @@
       "longitude": -73.93320322036743
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 503000072,
       "latitude": 40.79737412009714,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 49 - SW E 118 St & 1 Ave",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.93469754606485
     },
     {
@@ -1154,7 +1154,7 @@
       "longitude": -73.93382884562016
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000166,
       "latitude": 40.68703129558847,
       "binStatus": "Available",
@@ -1397,7 +1397,7 @@
       "longitude": -73.92379101365805
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000189,
       "latitude": 40.67990830015172,
       "binStatus": "Available",
@@ -1802,7 +1802,7 @@
       "longitude": -73.94294936209917
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 503000240,
       "latitude": 40.67428152112551,
       "binStatus": "Available",
@@ -1838,7 +1838,7 @@
       "longitude": -73.93390157678125
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 503000241,
       "latitude": 40.6774118895118,
       "binStatus": "Available",
@@ -1901,7 +1901,7 @@
       "longitude": -73.95329229533672
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000255,
       "latitude": 40.67155276024617,
       "binStatus": "Available",
@@ -2117,7 +2117,7 @@
       "longitude": -73.9261969551444
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 503000212,
       "latitude": 40.70585647534992,
       "binStatus": "Available",
@@ -2315,7 +2315,7 @@
       "longitude": -74.00212241864305
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 60,
       "serialNumber": 505100021,
       "latitude": 40.775317712188475,
       "binStatus": "Available",
@@ -2342,7 +2342,7 @@
       "longitude": -74.00171998103215
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 505100051,
       "latitude": 40.72504420607064,
       "binStatus": "Available",
@@ -2360,7 +2360,7 @@
       "longitude": -74.00526163846435
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 60,
       "serialNumber": 505100027,
       "latitude": 40.718798372078474,
       "binStatus": "Available",
@@ -2423,7 +2423,7 @@
       "longitude": -74.0109745413065
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 60,
       "serialNumber": 505100023,
       "latitude": 40.7346470054958,
       "binStatus": "Available",
@@ -2495,7 +2495,7 @@
       "longitude": -73.9463083404101
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 60,
       "serialNumber": 505100030,
       "latitude": 40.77884195910523,
       "binStatus": "Available",
@@ -2576,7 +2576,7 @@
       "longitude": -73.95822445057821
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 505100016,
       "latitude": 40.76390136307756,
       "binStatus": "Available",
@@ -2711,7 +2711,7 @@
       "longitude": -73.9519761287763
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 505100082,
       "latitude": 40.76216672199596,
       "binStatus": "Available",
@@ -2747,7 +2747,7 @@
       "longitude": -73.99052800018954
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 505100081,
       "latitude": 40.78693626205199,
       "binStatus": "Available",
@@ -2909,7 +2909,7 @@
       "longitude": -73.96686314261594
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 0,
       "serialNumber": 505100068,
       "latitude": 40.7116258563826,
       "binStatus": "Available",
@@ -3089,7 +3089,7 @@
       "longitude": -73.90472956001759
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 60,
       "serialNumber": 505100125,
       "latitude": 40.786641828294435,
       "binStatus": "Available",
@@ -3206,10 +3206,10 @@
       "longitude": -73.98776125245462
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100144,
       "latitude": 40.78596763857327,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 358 - NW W 82 St & Broadway",
       "availableForUse": true,
       "longitude": -73.97864520220962
@@ -3242,7 +3242,7 @@
       "longitude": -73.98834843188524
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 60,
       "serialNumber": 505100120,
       "latitude": 40.77519164031714,
       "binStatus": "Available",
