@@ -92,7 +92,7 @@
       "longitude": -73.92166045665941
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 60,
       "serialNumber": 3590012,
       "latitude": 40.884080646656564,
       "binStatus": "Available",
@@ -146,7 +146,7 @@
       "longitude": -73.91430705785751
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 0,
       "serialNumber": 3590002,
       "latitude": 40.7214226207243,
       "binStatus": "Available",
@@ -191,10 +191,10 @@
       "longitude": -73.92021738757299
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 0,
       "serialNumber": 503000002,
       "latitude": 40.802377335586115,
-      "binStatus": "Nearly Full",
+      "binStatus": "Available",
       "description": "BIN 51 - NE E 120 St & Madison Ave",
       "availableForUse": true,
       "longitude": -73.94273579120636
@@ -317,12 +317,12 @@
       "longitude": -73.94737802445889
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 503000019,
       "latitude": 40.76701705596692,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 12 - NW Crescent St & 30 Dr",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.92599746584892
     },
     {
@@ -659,7 +659,7 @@
       "longitude": -73.96890208125114
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 0,
       "serialNumber": 503000047,
       "latitude": 40.80229053822756,
       "binStatus": "Available",
@@ -1091,7 +1091,7 @@
       "longitude": -73.92984341830015
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 0,
       "serialNumber": 503000127,
       "latitude": 40.706692511000654,
       "binStatus": "Available",
@@ -1307,7 +1307,7 @@
       "longitude": -73.96811317652464
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 503000162,
       "latitude": 40.704966472832965,
       "binStatus": "Available",
@@ -2045,10 +2045,10 @@
       "longitude": -73.95756002515554
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 503000273,
       "latitude": 40.67710908208188,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 217 - NE Rogers Ave & Dean St",
       "availableForUse": true,
       "longitude": -73.95261202007532
@@ -2117,12 +2117,12 @@
       "longitude": -73.9261969551444
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 0,
       "serialNumber": 503000212,
       "latitude": 40.70585647534992,
-      "binStatus": "Full",
+      "binStatus": "Available",
       "description": "BIN 178 - NE St. Nicholas Ave & Hart St",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.91865953781273
     },
     {
@@ -2351,10 +2351,10 @@
       "longitude": -73.9869912541827
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100045,
       "latitude": 40.74639647509707,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 342 - SW 10 Ave & W 21 St",
       "availableForUse": true,
       "longitude": -74.00526163846435
@@ -2621,12 +2621,12 @@
       "longitude": -74.0007785662345
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 0,
       "serialNumber": 505100064,
       "latitude": 40.718560301291866,
-      "binStatus": "Full",
+      "binStatus": "Available",
       "description": "BIN 261 - NW Hester St & Baxter St",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.99876398340452
     },
     {
@@ -2711,7 +2711,7 @@
       "longitude": -73.9519761287763
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 0,
       "serialNumber": 505100082,
       "latitude": 40.76216672199596,
       "binStatus": "Available",
@@ -2882,12 +2882,12 @@
       "longitude": -73.9833025251433
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 505100086,
       "latitude": 40.781894893686875,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 366 - NE W 77 St & Amsterdam Ave",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.97906581678058
     },
     {
@@ -3188,10 +3188,10 @@
       "longitude": -73.94652914221223
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 0,
       "serialNumber": 505100138,
       "latitude": 40.76639459170164,
-      "binStatus": "Nearly Full",
+      "binStatus": "Available",
       "description": "BIN 353 - SE 10 Ave & W 53 St",
       "availableForUse": true,
       "longitude": -73.99037571712044
@@ -3215,10 +3215,10 @@
       "longitude": -73.97864520220962
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 0,
       "serialNumber": 505100134,
       "latitude": 40.762820138671465,
-      "binStatus": "Nearly Full",
+      "binStatus": "Available",
       "description": "BIN 313 - NE W 47 St & 10 Ave",
       "availableForUse": true,
       "longitude": -73.99302401909992
@@ -3260,12 +3260,12 @@
       "longitude": -73.98983752643882
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 505100141,
       "latitude": 40.74960582599206,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 345 - NE W 26 St & 10 Ave",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -74.00261308139008
     },
     {
@@ -3305,10 +3305,10 @@
       "longitude": -73.97196531694908
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 0,
       "serialNumber": 505100140,
       "latitude": 40.760441717606135,
-      "binStatus": "Nearly Full",
+      "binStatus": "Available",
       "description": "BIN 351 - NW 10 Ave & W 43 St",
       "availableForUse": true,
       "longitude": -73.99506114554103
@@ -3323,7 +3323,7 @@
       "longitude": -74.00684701383747
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 505100135,
       "latitude": 40.758930399023754,
       "binStatus": "Available",
