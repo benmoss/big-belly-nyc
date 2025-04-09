@@ -371,10 +371,10 @@
       "longitude": -73.90380453318357
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 0,
       "serialNumber": 503000032,
       "latitude": 40.76149921367936,
-      "binStatus": "Nearly Full",
+      "binStatus": "Available",
       "description": "BIN 17 - SE 38 St & 31 Ave",
       "availableForUse": true,
       "longitude": -73.91796863240839
@@ -866,7 +866,7 @@
       "longitude": -73.91521599143744
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 0,
       "serialNumber": 503000093,
       "latitude": 40.76223009405083,
       "binStatus": "Available",
@@ -2066,9 +2066,9 @@
       "latestFullness": 0,
       "serialNumber": 503000270,
       "latitude": 40.77020285341154,
-      "binStatus": "Available",
+      "binStatus": "Out of Service",
       "description": "BIN 357 - SW 11 Ave & W 57 St",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.99166207937031
     },
     {
