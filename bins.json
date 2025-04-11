@@ -2,7 +2,7 @@
   "errorCode": "STATUS_OK",
   "compostAssets": [
     {
-      "latestFullness": 20,
+      "latestFullness": 0,
       "serialNumber": 3590004,
       "latitude": 40.740982515732185,
       "binStatus": "Available",
@@ -119,7 +119,7 @@
       "longitude": -73.92154820692338
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 0,
       "serialNumber": 3590008,
       "latitude": 40.741475328023036,
       "binStatus": "Available",
@@ -965,10 +965,10 @@
       "longitude": -73.9447372895371
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 0,
       "serialNumber": 503000074,
       "latitude": 40.71595784085541,
-      "binStatus": "Nearly Full",
+      "binStatus": "Available",
       "description": "BIN 425 - SE Lafayette St and Leonard St",
       "availableForUse": true,
       "longitude": -74.00267075747252
@@ -1199,7 +1199,7 @@
       "longitude": -73.92600182443857
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 0,
       "serialNumber": 503000158,
       "latitude": 40.68871201420607,
       "binStatus": "Available",
@@ -1415,7 +1415,7 @@
       "longitude": -73.90980195254087
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 0,
       "serialNumber": 503000181,
       "latitude": 40.68065836586844,
       "binStatus": "Available",
@@ -1469,7 +1469,7 @@
       "longitude": -73.85720618069172
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 0,
       "serialNumber": 503000200,
       "latitude": 40.68219457581468,
       "binStatus": "Available",
@@ -1595,7 +1595,7 @@
       "longitude": -73.928127810359
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 0,
       "serialNumber": 503000204,
       "latitude": 40.69300170948447,
       "binStatus": "Available",
@@ -1703,12 +1703,12 @@
       "longitude": -73.91965739428997
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 0,
       "serialNumber": 503000225,
       "latitude": 40.6865703680712,
-      "binStatus": "Full",
+      "binStatus": "Available",
       "description": "BIN 128 - NE Bedford Ave & Quincy St",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.95448587834835
     },
     {
@@ -1748,7 +1748,7 @@
       "longitude": -73.88005122542381
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 0,
       "serialNumber": 503000232,
       "latitude": 40.68513798940631,
       "binStatus": "Available",
@@ -1766,10 +1766,10 @@
       "longitude": -73.89310654252768
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 0,
       "serialNumber": 503000186,
       "latitude": 40.6858662258759,
-      "binStatus": "Nearly Full",
+      "binStatus": "Available",
       "description": "BIN 117 - NE Lewis Ave & Putnam Ave",
       "availableForUse": true,
       "longitude": -73.9355384244532
@@ -1874,7 +1874,7 @@
       "longitude": -73.94772704690695
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 0,
       "serialNumber": 503000251,
       "latitude": 40.67459377925092,
       "binStatus": "Available",
@@ -1892,10 +1892,10 @@
       "longitude": -73.95637851208448
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 0,
       "serialNumber": 503000257,
       "latitude": 40.670817086934036,
-      "binStatus": "Nearly Full",
+      "binStatus": "Available",
       "description": "BIN 214 - SW Rogers Ave & Lincoln Place",
       "availableForUse": true,
       "longitude": -73.95329229533672
@@ -2045,7 +2045,7 @@
       "longitude": -73.95756002515554
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 0,
       "serialNumber": 503000273,
       "latitude": 40.67710908208188,
       "binStatus": "Available",
@@ -2612,10 +2612,10 @@
       "longitude": -73.98977462491895
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100025,
       "latitude": 40.74240669511277,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 343 - NW 8 Ave & W 18 St",
       "availableForUse": true,
       "longitude": -74.0007785662345
@@ -2936,7 +2936,7 @@
       "longitude": -73.94326507506806
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 505100109,
       "latitude": 40.80401808886133,
       "binStatus": "Available",
