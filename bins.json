@@ -704,7 +704,7 @@
       "longitude": -73.95281787961721
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 60,
       "serialNumber": 503000066,
       "latitude": 40.764940904595754,
       "binStatus": "Available",
@@ -722,12 +722,12 @@
       "longitude": -73.92510951539327
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 503000064,
       "latitude": 40.78210605168062,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 50 - NW E 91 St & 3 Ave",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.95172468826313
     },
     {
@@ -812,7 +812,7 @@
       "longitude": -73.94825711846352
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 503000082,
       "latitude": 40.746466564173716,
       "binStatus": "Available",
@@ -2045,7 +2045,7 @@
       "longitude": -73.95756002515554
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 503000273,
       "latitude": 40.67710908208188,
       "binStatus": "Available",
@@ -2342,10 +2342,10 @@
       "longitude": -74.00171998103215
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100051,
       "latitude": 40.72504420607064,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 323 - SE 1 Ave & E 4 St",
       "availableForUse": true,
       "longitude": -73.9869912541827
@@ -2639,7 +2639,7 @@
       "longitude": -73.98896138948061
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 505100072,
       "latitude": 40.71327373740936,
       "binStatus": "Available",
@@ -3098,7 +3098,7 @@
       "longitude": -73.96841285680578
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 505100129,
       "latitude": 40.779702163230795,
       "binStatus": "Available",
@@ -3107,10 +3107,10 @@
       "longitude": -73.98189624416173
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100114,
       "latitude": 40.76550445210295,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 289 - NW Lexington Ave & E 64 St",
       "availableForUse": true,
       "longitude": -73.96592718820084
@@ -3395,10 +3395,10 @@
       "longitude": -73.9799463692325
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100115,
       "latitude": 40.78876861933553,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 380 - SE Broadway & W 87 St",
       "availableForUse": true,
       "longitude": -73.97587379945203
