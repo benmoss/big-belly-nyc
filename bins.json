@@ -245,7 +245,7 @@
       "longitude": -73.94863547733536
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 503000009,
       "latitude": 40.700382392327064,
       "binStatus": "Available",
@@ -461,7 +461,7 @@
       "longitude": -73.95299658179283
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 60,
       "serialNumber": 503000053,
       "latitude": 40.764994993021595,
       "binStatus": "Available",
@@ -587,7 +587,7 @@
       "longitude": -73.95370233803988
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 503000043,
       "latitude": 40.804732620856896,
       "binStatus": "Available",
@@ -749,7 +749,7 @@
       "longitude": -73.92632732264548
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000070,
       "latitude": 40.83161371635521,
       "binStatus": "Available",
@@ -794,7 +794,7 @@
       "longitude": -73.93777001649141
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 503000075,
       "latitude": 40.763666893592315,
       "binStatus": "Available",
@@ -1217,7 +1217,7 @@
       "longitude": -73.92284251749516
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 503000159,
       "latitude": 40.68815347424036,
       "binStatus": "Available",
@@ -1379,7 +1379,7 @@
       "longitude": -73.90797402709723
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000188,
       "latitude": 40.690796900599814,
       "binStatus": "Available",
@@ -1649,7 +1649,7 @@
       "longitude": -73.94542437046766
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 503000218,
       "latitude": 40.694661178530154,
       "binStatus": "Available",
@@ -2108,12 +2108,12 @@
       "longitude": -73.92091434448957
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 503000205,
       "latitude": 40.68303106054966,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 113 - NW Patchen Ave & Macdonough St",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.9261969551444
     },
     {
@@ -2135,7 +2135,7 @@
       "longitude": -73.93855053931475
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 503000202,
       "latitude": 40.66971391909037,
       "binStatus": "Available",
@@ -2171,7 +2171,7 @@
       "longitude": -73.94638707990978
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 505100038,
       "latitude": 40.780081383690586,
       "binStatus": "Available",
@@ -2513,7 +2513,7 @@
       "longitude": -73.95019042066897
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 505100044,
       "latitude": 40.73121273762785,
       "binStatus": "Available",
@@ -2684,7 +2684,7 @@
       "longitude": -73.98495496580612
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 60,
       "serialNumber": 505100055,
       "latitude": 40.76405416975698,
       "binStatus": "Available",
@@ -2855,7 +2855,7 @@
       "longitude": -73.96888427642509
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 60,
       "serialNumber": 505100093,
       "latitude": 40.7953036151945,
       "binStatus": "Available",
@@ -2927,7 +2927,7 @@
       "longitude": -73.96902091534423
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 505100065,
       "latitude": 40.769098236486705,
       "binStatus": "Available",
@@ -2981,10 +2981,10 @@
       "longitude": -73.96586280976997
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100067,
       "latitude": 40.77168450396742,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 290 - SW Lexington Ave & E 74 St",
       "availableForUse": true,
       "longitude": -73.9614462477865
@@ -3107,7 +3107,7 @@
       "longitude": -73.98189624416173
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 505100114,
       "latitude": 40.76550445210295,
       "binStatus": "Available",
@@ -3143,10 +3143,10 @@
       "longitude": -73.96135753145826
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100098,
       "latitude": 40.741609115050146,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 301 - NE 2 Ave & E 29 St",
       "availableForUse": true,
       "longitude": -73.97792649980364
@@ -3197,16 +3197,16 @@
       "longitude": -73.99037571712044
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 505100136,
       "latitude": 40.764814574064715,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 354 - NE 9 Ave & W 52 St",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.98776125245462
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 505100144,
       "latitude": 40.78596763857327,
       "binStatus": "Available",
@@ -3323,7 +3323,7 @@
       "longitude": -74.00684701383747
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 60,
       "serialNumber": 505100135,
       "latitude": 40.758930399023754,
       "binStatus": "Available",
@@ -3350,7 +3350,7 @@
       "longitude": -73.98478295989479
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 40,
       "serialNumber": 505100116,
       "latitude": 40.78914315936319,
       "binStatus": "Available",
