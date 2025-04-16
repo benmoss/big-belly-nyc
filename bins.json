@@ -2,7 +2,7 @@
   "errorCode": "STATUS_OK",
   "compostAssets": [
     {
-      "latestFullness": 20,
+      "latestFullness": 0,
       "serialNumber": 3590004,
       "latitude": 40.740982515732185,
       "binStatus": "Available",
@@ -119,7 +119,7 @@
       "longitude": -73.92154820692338
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 0,
       "serialNumber": 3590008,
       "latitude": 40.741475328023036,
       "binStatus": "Available",
@@ -191,7 +191,7 @@
       "longitude": -73.92021738757299
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 0,
       "serialNumber": 503000002,
       "latitude": 40.802377335586115,
       "binStatus": "Available",
@@ -533,7 +533,7 @@
       "longitude": -73.93815591931343
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 0,
       "serialNumber": 503000052,
       "latitude": 40.805835432729474,
       "binStatus": "Available",
@@ -920,12 +920,12 @@
       "longitude": -73.91744524240494
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 80,
       "serialNumber": 503000096,
       "latitude": 40.8721462108312,
-      "binStatus": "Full",
+      "binStatus": "Nearly Full",
       "description": "BIN 91 - NW Bainbridge Ave & E Mosholu Parkway S",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.88263955712318
     },
     {
@@ -2180,12 +2180,12 @@
       "longitude": -73.9532222620251
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 0,
       "serialNumber": 505100048,
       "latitude": 40.778333070963065,
-      "binStatus": "Full",
+      "binStatus": "Available",
       "description": "BIN 271 - NW 1 Ave & E 88 St",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.94848935814979
     },
     {
@@ -2234,10 +2234,10 @@
       "longitude": -73.9538887710376
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 0,
       "serialNumber": 505100014,
       "latitude": 40.78010940688603,
-      "binStatus": "Nearly Full",
+      "binStatus": "Available",
       "description": "BIN 267 - NE 1 Ave & E 91 St",
       "availableForUse": true,
       "longitude": -73.94685207786003
@@ -2432,7 +2432,7 @@
       "longitude": -73.99481938922054
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 0,
       "serialNumber": 505100037,
       "latitude": 40.739169439589006,
       "binStatus": "Available",
@@ -2612,7 +2612,7 @@
       "longitude": -73.98977462491895
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 0,
       "serialNumber": 505100025,
       "latitude": 40.74240669511277,
       "binStatus": "Available",
@@ -3044,7 +3044,7 @@
       "longitude": -73.97335456220875
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 0,
       "serialNumber": 505100099,
       "latitude": 40.74145324331832,
       "binStatus": "Available",
@@ -3161,7 +3161,7 @@
       "longitude": -73.97343810525932
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 0,
       "serialNumber": 505100139,
       "latitude": 40.74272368457833,
       "binStatus": "Available",
@@ -3233,7 +3233,7 @@
       "longitude": -73.98511663223668
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 0,
       "serialNumber": 505100137,
       "latitude": 40.743433331711394,
       "binStatus": "Available",
@@ -3251,10 +3251,10 @@
       "longitude": -73.98753543655222
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 0,
       "serialNumber": 505100146,
       "latitude": 40.74723684953337,
-      "binStatus": "Nearly Full",
+      "binStatus": "Available",
       "description": "BIN 340 - SW 6 Ave & W 30 St",
       "availableForUse": true,
       "longitude": -73.98983752643882
@@ -3359,7 +3359,7 @@
       "longitude": -73.97035768079368
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 0,
       "serialNumber": 505100145,
       "latitude": 40.74163391924499,
       "binStatus": "Available",
