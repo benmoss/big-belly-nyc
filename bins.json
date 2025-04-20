@@ -182,10 +182,10 @@
       "longitude": -73.95366545766592
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 80,
       "serialNumber": 503000027,
       "latitude": 40.76272343617805,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 03 - SE 31 Ave & 35 St",
       "availableForUse": true,
       "longitude": -73.92021738757299
@@ -461,10 +461,10 @@
       "longitude": -73.95299658179283
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 503000053,
       "latitude": 40.764994993021595,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 09 - SE 31 Ave & 29 St",
       "availableForUse": true,
       "longitude": -73.92496582120657
@@ -551,12 +551,12 @@
       "longitude": -73.93639236688614
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 503000045,
       "latitude": 40.76832401280552,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 16 - NW 21 St & 30 Dr",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.92916951328516
     },
     {
@@ -704,10 +704,10 @@
       "longitude": -73.95281787961721
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 503000066,
       "latitude": 40.764940904595754,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 13 - NE Crescent St & 31 Rd",
       "availableForUse": true,
       "longitude": -73.92701134085655
@@ -1226,12 +1226,12 @@
       "longitude": -73.9271404221654
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 503000156,
       "latitude": 40.70249991438864,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 182 - NW St. Nicholas Ave & Menahan St",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.9129939918858
     },
     {
@@ -1532,12 +1532,12 @@
       "longitude": -73.9436212554574
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 503000206,
       "latitude": 40.68764908091782,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 122 - SW Tompkins Ave & Quincy St",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.94487351179123
     },
     {
@@ -1775,7 +1775,7 @@
       "longitude": -73.9355384244532
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 503000235,
       "latitude": 40.67303171113777,
       "binStatus": "Available",
@@ -2036,12 +2036,12 @@
       "longitude": -73.93931295722723
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 80,
       "serialNumber": 503000276,
       "latitude": 40.67165676594622,
-      "binStatus": "Full",
+      "binStatus": "Nearly Full",
       "description": "BIN 196 - NE Franklin Ave & Lincoln Place",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.95756002515554
     },
     {
@@ -2063,7 +2063,7 @@
       "longitude": -73.94352234899998
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000270,
       "latitude": 40.77020285341154,
       "binStatus": "Available",
@@ -2072,12 +2072,12 @@
       "longitude": -73.99166207937031
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 503000277,
       "latitude": 40.76236771749731,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 18 - SE 31 Ave & 36 St",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.91942974179983
     },
     {
@@ -2270,7 +2270,7 @@
       "longitude": -73.98598125432342
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 60,
       "serialNumber": 505100049,
       "latitude": 40.70676048283521,
       "binStatus": "Available",
@@ -2567,10 +2567,10 @@
       "longitude": -73.98249430253485
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100002,
       "latitude": 40.76863578734461,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 268 - SE 2 Ave & E 72 St",
       "availableForUse": true,
       "longitude": -73.95822445057821
@@ -2684,7 +2684,7 @@
       "longitude": -73.98495496580612
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 60,
       "serialNumber": 505100055,
       "latitude": 40.76405416975698,
       "binStatus": "Available",
@@ -2864,7 +2864,7 @@
       "longitude": -73.97107263571145
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 505100107,
       "latitude": 40.73674344375692,
       "binStatus": "Available",
@@ -3026,7 +3026,7 @@
       "longitude": -73.9728414833659
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 60,
       "serialNumber": 505100101,
       "latitude": 40.77228183243049,
       "binStatus": "Available",
