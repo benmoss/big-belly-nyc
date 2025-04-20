@@ -11,7 +11,7 @@
       "longitude": -73.9180913195014
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 3590010,
       "latitude": 40.74060865008307,
       "binStatus": "Available",
@@ -20,19 +20,19 @@
       "longitude": -73.92287585085252
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 3590013,
       "latitude": 40.74689511721386,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 402 - NW Skillman Ave & 44 St",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.92003797195594
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 3590017,
       "latitude": 40.7447717419058,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 403 - SW 43 Ave & 47 St",
       "availableForUse": true,
       "longitude": -73.9175371080637
@@ -1298,12 +1298,12 @@
       "longitude": -73.91542855650187
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 503000175,
       "latitude": 40.68014247411724,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 186 - SW Vanderbilt Ave & Dean St",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.96811317652464
     },
     {
@@ -1532,7 +1532,7 @@
       "longitude": -73.9436212554574
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 60,
       "serialNumber": 503000206,
       "latitude": 40.68764908091782,
       "binStatus": "Available",
@@ -1640,10 +1640,10 @@
       "longitude": -73.82940910756588
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 503000221,
       "latitude": 40.69040997746076,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 121 - SW Tompkins Ave & Lafayette Ave",
       "availableForUse": true,
       "longitude": -73.94542437046766
@@ -1775,7 +1775,7 @@
       "longitude": -73.9355384244532
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 503000235,
       "latitude": 40.67303171113777,
       "binStatus": "Available",
@@ -2657,7 +2657,7 @@
       "longitude": -73.9535946787067
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 505100069,
       "latitude": 40.724874101417406,
       "binStatus": "Available",
@@ -2783,7 +2783,7 @@
       "longitude": -73.97379656746796
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 505100084,
       "latitude": 40.767171552566246,
       "binStatus": "Available",
