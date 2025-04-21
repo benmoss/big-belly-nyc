@@ -146,10 +146,10 @@
       "longitude": -73.91430705785751
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 0,
       "serialNumber": 3590002,
       "latitude": 40.7214226207243,
-      "binStatus": "Nearly Full",
+      "binStatus": "Available",
       "description": "BIN 263 - NW Elizabeth St & Spring St",
       "availableForUse": true,
       "longitude": -73.99473222632365
@@ -317,12 +317,12 @@
       "longitude": -73.94737802445889
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 503000019,
       "latitude": 40.76701705596692,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 12 - NW Crescent St & 30 Dr",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.92599746584892
     },
     {
@@ -1127,10 +1127,10 @@
       "longitude": -73.9155288040638
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 503000149,
       "latitude": 40.683936689634,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 144 - SW Nostrand Ave & Putnam Ave",
       "availableForUse": true,
       "longitude": -73.9503475651145
@@ -2162,10 +2162,10 @@
       "longitude": -73.98717944724858
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100039,
       "latitude": 40.781609451116324,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 274 - SE E 92 St & 2 Ave",
       "availableForUse": true,
       "longitude": -73.94892745726821
@@ -2252,12 +2252,12 @@
       "longitude": -73.94685207786003
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 505100020,
       "latitude": 40.72799056580962,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 317 - SE Ave B & E 12 St",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.97899926258084
     },
     {
@@ -2621,12 +2621,12 @@
       "longitude": -74.0007785662345
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 0,
       "serialNumber": 505100064,
       "latitude": 40.718560301291866,
-      "binStatus": "Full",
+      "binStatus": "Available",
       "description": "BIN 261 - NW Hester St & Baxter St",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.99876398340452
     },
     {
@@ -2657,12 +2657,12 @@
       "longitude": -73.9535946787067
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 0,
       "serialNumber": 505100069,
       "latitude": 40.724874101417406,
-      "binStatus": "Full",
+      "binStatus": "Available",
       "description": "BIN 254 - SW 6 Ave & Dominick St",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -74.0047200044207
     },
     {
@@ -3089,7 +3089,7 @@
       "longitude": -73.90472956001759
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 505100125,
       "latitude": 40.786641828294435,
       "binStatus": "Available",
@@ -3215,7 +3215,7 @@
       "longitude": -73.97864520220962
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 40,
       "serialNumber": 505100134,
       "latitude": 40.762820138671465,
       "binStatus": "Available",
