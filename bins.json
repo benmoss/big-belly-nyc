@@ -38,16 +38,16 @@
       "longitude": -73.9175371080637
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 0,
       "serialNumber": 3590014,
       "latitude": 40.745373137079994,
-      "binStatus": "Full",
+      "binStatus": "Available",
       "description": "BIN 404 - SE 43 Ave & 41 St",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.92288388211199
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 0,
       "serialNumber": 3590020,
       "latitude": 40.746148800069264,
       "binStatus": "Available",
@@ -74,10 +74,10 @@
       "longitude": -73.90727262943983
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 0,
       "serialNumber": 3590015,
       "latitude": 40.746483770342856,
-      "binStatus": "Nearly Full",
+      "binStatus": "Available",
       "description": "BIN 401 - NE Skillman Ave & 47 St",
       "availableForUse": true,
       "longitude": -73.91701877117157
@@ -650,10 +650,10 @@
       "longitude": -73.93176387995481
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 0,
       "serialNumber": 503000036,
       "latitude": 40.6778510426927,
-      "binStatus": "Nearly Full",
+      "binStatus": "Available",
       "description": "BIN 187 - NW Vanderbilt Ave & Prospect Place",
       "availableForUse": true,
       "longitude": -73.96890208125114
@@ -1298,12 +1298,12 @@
       "longitude": -73.91542855650187
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 0,
       "serialNumber": 503000175,
       "latitude": 40.68014247411724,
-      "binStatus": "Full",
+      "binStatus": "Available",
       "description": "BIN 186 - SW Vanderbilt Ave & Dean St",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.96811317652464
     },
     {
@@ -1649,7 +1649,7 @@
       "longitude": -73.94542437046766
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 0,
       "serialNumber": 503000218,
       "latitude": 40.694661178530154,
       "binStatus": "Available",
@@ -1937,12 +1937,12 @@
       "longitude": -73.95310335432222
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 0,
       "serialNumber": 503000263,
       "latitude": 40.67867868263691,
-      "binStatus": "Full",
+      "binStatus": "Available",
       "description": "BIN 220 - NE Flatbush Ave & Prospect Place",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.97343333810568
     },
     {
@@ -3107,7 +3107,7 @@
       "longitude": -73.98189624416173
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 505100114,
       "latitude": 40.76550445210295,
       "binStatus": "Available",
