@@ -2,7 +2,7 @@
   "errorCode": "STATUS_OK",
   "compostAssets": [
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 3590004,
       "latitude": 40.740982515732185,
       "binStatus": "Available",
@@ -173,7 +173,7 @@
       "longitude": -73.98393251001835
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 0,
       "serialNumber": 503000029,
       "latitude": 40.80195426083978,
       "binStatus": "Available",
@@ -443,7 +443,7 @@
       "longitude": -73.92958357930183
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 0,
       "serialNumber": 503000059,
       "latitude": 40.87534010684036,
       "binStatus": "Available",
@@ -542,7 +542,7 @@
       "longitude": -73.94713159650564
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 0,
       "serialNumber": 503000044,
       "latitude": 40.80556261860785,
       "binStatus": "Available",
@@ -623,7 +623,7 @@
       "longitude": -73.89476414769888
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 40,
       "serialNumber": 503000038,
       "latitude": 40.76298113979361,
       "binStatus": "Available",
@@ -695,7 +695,7 @@
       "longitude": -73.93193346987313
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 0,
       "serialNumber": 503000062,
       "latitude": 40.80507840250284,
       "binStatus": "Available",
@@ -830,7 +830,7 @@
       "longitude": -73.93855724483728
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 0,
       "serialNumber": 503000085,
       "latitude": 40.80984148378304,
       "binStatus": "Available",
@@ -920,10 +920,10 @@
       "longitude": -73.91744524240494
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 0,
       "serialNumber": 503000096,
       "latitude": 40.8721462108312,
-      "binStatus": "Nearly Full",
+      "binStatus": "Available",
       "description": "BIN 91 - NW Bainbridge Ave & E Mosholu Parkway S",
       "availableForUse": true,
       "longitude": -73.88263955712318
@@ -974,7 +974,7 @@
       "longitude": -74.00267075747252
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 0,
       "serialNumber": 503000078,
       "latitude": 40.81357603431238,
       "binStatus": "Available",
@@ -1118,7 +1118,7 @@
       "longitude": -73.91136553921112
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000137,
       "latitude": 40.692716484079774,
       "binStatus": "Available",
@@ -1316,10 +1316,10 @@
       "longitude": -73.91751361469018
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 0,
       "serialNumber": 503000153,
       "latitude": 40.798054852781554,
-      "binStatus": "Nearly Full",
+      "binStatus": "Available",
       "description": "BIN 32 - SW W 112 St & 5 Ave",
       "availableForUse": true,
       "longitude": -73.94852463470318
@@ -1388,7 +1388,7 @@
       "longitude": -73.91234535723925
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000172,
       "latitude": 40.69744237426521,
       "binStatus": "Available",
@@ -1424,7 +1424,7 @@
       "longitude": -73.93454968929291
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 503000185,
       "latitude": 40.704219889937,
       "binStatus": "Available",
@@ -1910,7 +1910,7 @@
       "longitude": -73.93360521644354
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000256,
       "latitude": 40.63370350108601,
       "binStatus": "Available",
@@ -2252,7 +2252,7 @@
       "longitude": -73.94685207786003
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 0,
       "serialNumber": 505100020,
       "latitude": 40.72799056580962,
       "binStatus": "Available",
@@ -2279,7 +2279,7 @@
       "longitude": -74.00691708161023
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 0,
       "serialNumber": 505100052,
       "latitude": 40.71989182112748,
       "binStatus": "Available",
@@ -2360,10 +2360,10 @@
       "longitude": -74.00526163846435
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 0,
       "serialNumber": 505100027,
       "latitude": 40.718798372078474,
-      "binStatus": "Nearly Full",
+      "binStatus": "Available",
       "description": "BIN 250 - SE W Broadway & Franklin St",
       "availableForUse": true,
       "longitude": -74.00657773017883
@@ -2414,12 +2414,12 @@
       "longitude": -74.00240702146108
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 0,
       "serialNumber": 505100009,
       "latitude": 40.7164061130962,
-      "binStatus": "Full",
+      "binStatus": "Available",
       "description": "BIN 245 - NW Greenwich St & Chambers St",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -74.0109745413065
     },
     {
@@ -2468,12 +2468,12 @@
       "longitude": -74.00341004133224
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 0,
       "serialNumber": 505100017,
       "latitude": 40.705075385840445,
-      "binStatus": "Full",
+      "binStatus": "Available",
       "description": "BIN 243 - NE Broadway & Beaver St",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -74.01322457939386
     },
     {
@@ -2522,10 +2522,10 @@
       "longitude": -74.0077318323766
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 0,
       "serialNumber": 505100061,
       "latitude": 40.70860458493924,
-      "binStatus": "Nearly Full",
+      "binStatus": "Available",
       "description": "BIN 252 - SW Broadway & Cedar St",
       "availableForUse": true,
       "longitude": -74.0108494516408
@@ -2657,7 +2657,7 @@
       "longitude": -73.9535946787067
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 0,
       "serialNumber": 505100069,
       "latitude": 40.724874101417406,
       "binStatus": "Available",
@@ -2666,16 +2666,16 @@
       "longitude": -74.0047200044207
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 0,
       "serialNumber": 505100059,
       "latitude": 40.718786682897935,
-      "binStatus": "Full",
+      "binStatus": "Available",
       "description": "BIN 244 - SW Greenwich St & Harrison St",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -74.01055041700602
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 0,
       "serialNumber": 505100054,
       "latitude": 40.7191714224125,
       "binStatus": "Available",
@@ -2792,7 +2792,7 @@
       "longitude": -73.9864215009938
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 0,
       "serialNumber": 505100095,
       "latitude": 40.74408502157723,
       "binStatus": "Available",
@@ -3017,7 +3017,7 @@
       "longitude": -73.95966351954947
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 0,
       "serialNumber": 505100102,
       "latitude": 40.74448956998408,
       "binStatus": "Available",
@@ -3224,7 +3224,7 @@
       "longitude": -73.99302401909992
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 0,
       "serialNumber": 505100142,
       "latitude": 40.73887358712755,
       "binStatus": "Available",
