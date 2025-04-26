@@ -74,12 +74,12 @@
       "longitude": -73.90727262943983
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 3590015,
       "latitude": 40.746483770342856,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 401 - NE Skillman Ave & 47 St",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.91701877117157
     },
     {
@@ -380,7 +380,7 @@
       "longitude": -73.91796863240839
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 0,
       "serialNumber": 503000024,
       "latitude": 40.87628033530234,
       "binStatus": "Available",
@@ -389,12 +389,12 @@
       "longitude": -73.88136584311724
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 0,
       "serialNumber": 503000022,
       "latitude": 40.866201512573475,
-      "binStatus": "Full",
+      "binStatus": "Available",
       "description": "BIN 64 - SE Broadway & Academy St",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.92508216202259
     },
     {
@@ -1199,10 +1199,10 @@
       "longitude": -73.92600182443857
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 503000158,
       "latitude": 40.68871201420607,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 129 - NE Bedford Ave & Clifton Place",
       "availableForUse": true,
       "longitude": -73.95497169345617
@@ -1838,10 +1838,10 @@
       "longitude": -73.93390157678125
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 503000241,
       "latitude": 40.6774118895118,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 218 - SE Classon Ave & Bergen St",
       "availableForUse": true,
       "longitude": -73.95897587267723
@@ -3251,7 +3251,7 @@
       "longitude": -73.98753543655222
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 0,
       "serialNumber": 505100146,
       "latitude": 40.74723684953337,
       "binStatus": "Available",
