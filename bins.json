@@ -2,7 +2,7 @@
   "errorCode": "STATUS_OK",
   "compostAssets": [
     {
-      "latestFullness": 40,
+      "latestFullness": 0,
       "serialNumber": 3590004,
       "latitude": 40.740982515732185,
       "binStatus": "Available",
@@ -119,7 +119,7 @@
       "longitude": -73.92154820692338
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 0,
       "serialNumber": 3590008,
       "latitude": 40.741475328023036,
       "binStatus": "Available",
@@ -1298,7 +1298,7 @@
       "longitude": -73.91542855650187
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 0,
       "serialNumber": 503000175,
       "latitude": 40.68014247411724,
       "binStatus": "Available",
@@ -1937,7 +1937,7 @@
       "longitude": -73.95310335432222
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 0,
       "serialNumber": 503000263,
       "latitude": 40.67867868263691,
       "binStatus": "Available",
@@ -1973,12 +1973,12 @@
       "longitude": -73.92812234686723
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 80,
       "serialNumber": 503000269,
       "latitude": 40.64137790224041,
-      "binStatus": "Full",
+      "binStatus": "Nearly Full",
       "description": "BIN 234 - NE Layton Ave & Jersey St",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -74.0864036232233
     },
     {
@@ -2378,7 +2378,7 @@
       "longitude": -74.00006544331396
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 505100022,
       "latitude": 40.73287635373648,
       "binStatus": "Available",
@@ -2783,7 +2783,7 @@
       "longitude": -73.97379656746796
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 505100084,
       "latitude": 40.767171552566246,
       "binStatus": "Available",
@@ -3080,7 +3080,7 @@
       "longitude": -73.95414933006201
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 0,
       "serialNumber": 505100124,
       "latitude": 40.74132799277233,
       "binStatus": "Available",
