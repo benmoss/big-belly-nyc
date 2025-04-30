@@ -326,7 +326,7 @@
       "longitude": -73.92599746584892
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000021,
       "latitude": 40.785809419537095,
       "binStatus": "Available",
@@ -1838,7 +1838,7 @@
       "longitude": -73.93390157678125
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000241,
       "latitude": 40.6774118895118,
       "binStatus": "Available",
@@ -1955,7 +1955,7 @@
       "longitude": -73.93871281296015
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 503000250,
       "latitude": 40.61258951334761,
       "binStatus": "Available",
@@ -2324,7 +2324,7 @@
       "longitude": -73.94749872386456
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 505100004,
       "latitude": 40.784683566970614,
       "binStatus": "Available",
@@ -2990,7 +2990,7 @@
       "longitude": -73.9614462477865
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 40,
       "serialNumber": 505100091,
       "latitude": 40.74913400691257,
       "binStatus": "Available",
@@ -3197,7 +3197,7 @@
       "longitude": -73.99037571712044
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 505100136,
       "latitude": 40.764814574064715,
       "binStatus": "Available",
@@ -3278,12 +3278,12 @@
       "longitude": -73.97619309561924
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 505100149,
       "latitude": 40.77380204413203,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 393 - NW 1 Ave & E 81 St",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.95175657391553
     },
     {
@@ -3341,10 +3341,10 @@
       "longitude": -73.98062197434946
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100118,
       "latitude": 40.769273183978356,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 355 - NW 9 Ave & W 59 St",
       "availableForUse": true,
       "longitude": -73.98478295989479
