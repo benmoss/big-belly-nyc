@@ -2,7 +2,7 @@
   "errorCode": "STATUS_OK",
   "compostAssets": [
     {
-      "latestFullness": 40,
+      "latestFullness": 0,
       "serialNumber": 3590004,
       "latitude": 40.740982515732185,
       "binStatus": "Available",
@@ -1838,12 +1838,12 @@
       "longitude": -73.93390157678125
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 0,
       "serialNumber": 503000241,
       "latitude": 40.6774118895118,
-      "binStatus": "Full",
+      "binStatus": "Available",
       "description": "BIN 218 - SE Classon Ave & Bergen St",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.95897587267723
     },
     {
@@ -2207,7 +2207,7 @@
       "longitude": -73.98008527492154
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 60,
       "serialNumber": 505100042,
       "latitude": 40.73752862143271,
       "binStatus": "Available",
@@ -3080,7 +3080,7 @@
       "longitude": -73.95414933006201
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 0,
       "serialNumber": 505100124,
       "latitude": 40.74132799277233,
       "binStatus": "Available",
