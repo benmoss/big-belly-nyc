@@ -380,10 +380,10 @@
       "longitude": -73.91796863240839
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 0,
       "serialNumber": 503000024,
       "latitude": 40.87628033530234,
-      "binStatus": "Nearly Full",
+      "binStatus": "Available",
       "description": "BIN 94 - NE E Mosholu Parkway N & Van Cortlandt Ave",
       "availableForUse": true,
       "longitude": -73.88136584311724
@@ -722,10 +722,10 @@
       "longitude": -73.92510951539327
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 0,
       "serialNumber": 503000064,
       "latitude": 40.78210605168062,
-      "binStatus": "Nearly Full",
+      "binStatus": "Available",
       "description": "BIN 50 - NW E 91 St & 3 Ave",
       "availableForUse": true,
       "longitude": -73.95172468826313
@@ -1190,7 +1190,7 @@
       "longitude": -73.90844576060772
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000157,
       "latitude": 40.698774108656224,
       "binStatus": "Available",
@@ -1361,12 +1361,12 @@
       "longitude": -73.941904976964
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 503000179,
       "latitude": 40.67617742416484,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 190 - NE Underhill Ave & Park Place",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.96627854555845
     },
     {
@@ -1424,7 +1424,7 @@
       "longitude": -73.93454968929291
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 503000185,
       "latitude": 40.704219889937,
       "binStatus": "Available",
@@ -1640,10 +1640,10 @@
       "longitude": -73.82940910756588
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 503000221,
       "latitude": 40.69040997746076,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 121 - SW Tompkins Ave & Lafayette Ave",
       "availableForUse": true,
       "longitude": -73.94542437046766
@@ -1838,7 +1838,7 @@
       "longitude": -73.93390157678125
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 503000241,
       "latitude": 40.6774118895118,
       "binStatus": "Available",
@@ -1883,12 +1883,12 @@
       "longitude": -73.95274545997381
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 503000254,
       "latitude": 40.67509191438939,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 195 - NE Franklin Ave & Prospect Place",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.95637851208448
     },
     {
@@ -1928,7 +1928,7 @@
       "longitude": -73.96024390254057
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 503000264,
       "latitude": 40.67279917738334,
       "binStatus": "Available",
@@ -2180,7 +2180,7 @@
       "longitude": -73.94638707990978
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 0,
       "serialNumber": 505100038,
       "latitude": 40.780081383690586,
       "binStatus": "Available",
@@ -2657,7 +2657,7 @@
       "longitude": -73.9535946787067
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 505100069,
       "latitude": 40.724874101417406,
       "binStatus": "Available",
@@ -3251,7 +3251,7 @@
       "longitude": -73.98753543655222
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 0,
       "serialNumber": 505100146,
       "latitude": 40.74723684953337,
       "binStatus": "Available",
