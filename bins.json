@@ -857,7 +857,7 @@
       "longitude": -73.93792377806369
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 503000087,
       "latitude": 40.84052114217759,
       "binStatus": "Available",
@@ -1568,12 +1568,12 @@
       "longitude": -73.95389076322317
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 0,
       "serialNumber": 503000208,
       "latitude": 40.683812617651405,
-      "binStatus": "Full",
+      "binStatus": "Available",
       "description": "BIN 133 - NW Howard Ave & Macdonough St",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.92018981277943
     },
     {
@@ -3296,10 +3296,10 @@
       "longitude": -73.97196531694908
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100140,
       "latitude": 40.760441717606135,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 351 - NW 10 Ave & W 43 St",
       "availableForUse": true,
       "longitude": -73.99506114554103
