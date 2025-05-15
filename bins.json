@@ -2,7 +2,7 @@
   "errorCode": "STATUS_OK",
   "compostAssets": [
     {
-      "latestFullness": 20,
+      "latestFullness": 0,
       "serialNumber": 3590004,
       "latitude": 40.740982515732185,
       "binStatus": "Available",
@@ -11,7 +11,7 @@
       "longitude": -73.9180913195014
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 0,
       "serialNumber": 3590010,
       "latitude": 40.74060865008307,
       "binStatus": "Available",
@@ -83,7 +83,7 @@
       "longitude": -73.91701877117157
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 0,
       "serialNumber": 3590016,
       "latitude": 40.74379131277653,
       "binStatus": "Available",
@@ -2009,12 +2009,12 @@
       "longitude": -73.92796251922846
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 0,
       "serialNumber": 503000271,
       "latitude": 40.74194368731704,
-      "binStatus": "Full",
+      "binStatus": "Available",
       "description": "BIN 408 - NW 40 St & 47 Ave",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.92471789027536
     },
     {
@@ -2432,10 +2432,10 @@
       "longitude": -74.00274561377924
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 0,
       "serialNumber": 505100047,
       "latitude": 40.735409744769015,
-      "binStatus": "Nearly Full",
+      "binStatus": "Available",
       "description": "BIN 309 - NW Irving Place & E 16 St",
       "availableForUse": true,
       "longitude": -73.98789177423471
@@ -2468,7 +2468,7 @@
       "longitude": -74.01322457939386
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 505100071,
       "latitude": 40.73149350965934,
       "binStatus": "Available",
