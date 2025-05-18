@@ -2,7 +2,7 @@
   "errorCode": "STATUS_OK",
   "compostAssets": [
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 3590004,
       "latitude": 40.740982515732185,
       "binStatus": "Available",
@@ -533,7 +533,7 @@
       "longitude": -73.93815591931343
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000052,
       "latitude": 40.805835432729474,
       "binStatus": "Available",
@@ -1838,12 +1838,12 @@
       "longitude": -73.93390157678125
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 503000241,
       "latitude": 40.6774118895118,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 218 - SE Classon Ave & Bergen St",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.95897587267723
     },
     {
@@ -2045,10 +2045,10 @@
       "longitude": -73.95756002515554
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 503000273,
       "latitude": 40.67710908208188,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 217 - NE Rogers Ave & Dean St",
       "availableForUse": true,
       "longitude": -73.95261202007532
@@ -2234,7 +2234,7 @@
       "longitude": -73.9538887710376
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 505100014,
       "latitude": 40.78010940688603,
       "binStatus": "Available",
@@ -2405,7 +2405,7 @@
       "longitude": -74.00240702146108
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 505100009,
       "latitude": 40.7164061130962,
       "binStatus": "Available",
@@ -2648,7 +2648,7 @@
       "longitude": -73.9535946787067
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 505100069,
       "latitude": 40.724874101417406,
       "binStatus": "Available",
@@ -2855,7 +2855,7 @@
       "longitude": -73.97107263571145
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 505100107,
       "latitude": 40.73674344375692,
       "binStatus": "Available",
@@ -2909,7 +2909,7 @@
       "longitude": -73.9850452796422
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 505100110,
       "latitude": 40.75405449748158,
       "binStatus": "Available",
@@ -3170,7 +3170,7 @@
       "longitude": -73.96400324926272
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 505100143,
       "latitude": 40.77663888275979,
       "binStatus": "Available",
