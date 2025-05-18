@@ -182,7 +182,7 @@
       "longitude": -73.95366545766592
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 503000027,
       "latitude": 40.76272343617805,
       "binStatus": "Available",
@@ -389,7 +389,7 @@
       "longitude": -73.88136584311724
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 503000022,
       "latitude": 40.866201512573475,
       "binStatus": "Available",
@@ -1244,12 +1244,12 @@
       "longitude": -73.94101046025753
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 80,
       "serialNumber": 503000168,
       "latitude": 40.6755571241916,
-      "binStatus": "Full",
+      "binStatus": "Nearly Full",
       "description": "BIN 188 - NW Vanderbilt Ave & Plaza St E",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.96974126370019
     },
     {
@@ -1469,12 +1469,12 @@
       "longitude": -73.85720618069172
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 503000200,
       "latitude": 40.68219457581468,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 126 - NE Bedford Ave & Hancock St",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.9536564052105
     },
     {
@@ -1802,12 +1802,12 @@
       "longitude": -73.94294936209917
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 503000240,
       "latitude": 40.67428152112551,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 198 - NW New York Ave & Prospect Place",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.94742764532566
     },
     {
@@ -1892,19 +1892,19 @@
       "longitude": -73.95637851208448
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 503000257,
       "latitude": 40.670817086934036,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 214 - SW Rogers Ave & Lincoln Place",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.95329229533672
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 503000255,
       "latitude": 40.67155276024617,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 206 - SE Schenectady Ave & Sterling Place",
       "availableForUse": true,
       "longitude": -73.93360521644354
@@ -2270,7 +2270,7 @@
       "longitude": -74.00691708161023
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 505100052,
       "latitude": 40.71989182112748,
       "binStatus": "Available",
@@ -2279,7 +2279,7 @@
       "longitude": -73.99195962283002
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 505100019,
       "latitude": 40.731496522321486,
       "binStatus": "Available",
@@ -2288,7 +2288,7 @@
       "longitude": -73.99051628208568
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 505100008,
       "latitude": 40.7391347154904,
       "binStatus": "Available",
@@ -2297,19 +2297,19 @@
       "longitude": -73.99540269748928
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100031,
       "latitude": 40.72948121652991,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 328 - SE Bleeker St & 6 Ave",
       "availableForUse": true,
       "longitude": -74.00212241864305
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100021,
       "latitude": 40.775317712188475,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 424 - NE E 85 St & York Ave",
       "availableForUse": true,
       "longitude": -73.94749872386456
@@ -2783,7 +2783,7 @@
       "longitude": -73.9864215009938
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 505100095,
       "latitude": 40.74408502157723,
       "binStatus": "Available",
@@ -2810,7 +2810,7 @@
       "longitude": -73.99017938079861
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 505100080,
       "latitude": 40.7380040181738,
       "binStatus": "Available",
