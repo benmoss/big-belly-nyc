@@ -443,7 +443,7 @@
       "longitude": -73.92958357930183
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 503000059,
       "latitude": 40.87534010684036,
       "binStatus": "Available",
@@ -1091,12 +1091,12 @@
       "longitude": -73.92984341830015
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 0,
       "serialNumber": 503000127,
       "latitude": 40.706692511000654,
-      "binStatus": "Full",
+      "binStatus": "Available",
       "description": "BIN 177 - SW St. Nicholas Ave & Willoughby Ave",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.92045420260473
     },
     {
@@ -1136,12 +1136,12 @@
       "longitude": -73.9503475651145
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 0,
       "serialNumber": 503000132,
       "latitude": 40.70324915068062,
-      "binStatus": "Full",
+      "binStatus": "Available",
       "description": "BIN 181 - SW St. Nicholas Ave & Greene Ave",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.91453684044001
     },
     {
@@ -1163,12 +1163,12 @@
       "longitude": -73.91374111175537
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 503000164,
       "latitude": 40.69660505362728,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 164 - NE Bushwick Ave & Suydam St",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.93099308013916
     },
     {
@@ -1226,10 +1226,10 @@
       "longitude": -73.9271404221654
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 0,
       "serialNumber": 503000156,
       "latitude": 40.70249991438864,
-      "binStatus": "Nearly Full",
+      "binStatus": "Available",
       "description": "BIN 182 - NW St. Nicholas Ave & Menahan St",
       "availableForUse": true,
       "longitude": -73.9129939918858
@@ -1307,10 +1307,10 @@
       "longitude": -73.96811317652464
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 0,
       "serialNumber": 503000162,
       "latitude": 40.704966472832965,
-      "binStatus": "Nearly Full",
+      "binStatus": "Available",
       "description": "BIN 179 - SW St. Nicholas Ave & Stockholm St",
       "availableForUse": true,
       "longitude": -73.91751361469018
@@ -1829,10 +1829,10 @@
       "longitude": -73.91427922993898
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 0,
       "serialNumber": 503000242,
       "latitude": 40.66973095285559,
-      "binStatus": "Nearly Full",
+      "binStatus": "Available",
       "description": "BIN 207 - SW Schenectady Ave & Lincoln Place",
       "availableForUse": true,
       "longitude": -73.93390157678125
@@ -1901,12 +1901,12 @@
       "longitude": -73.95329229533672
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 0,
       "serialNumber": 503000255,
       "latitude": 40.67155276024617,
-      "binStatus": "Full",
+      "binStatus": "Available",
       "description": "BIN 206 - SE Schenectady Ave & Sterling Place",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.93360521644354
     },
     {
@@ -2108,10 +2108,10 @@
       "longitude": -73.9261969551444
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 0,
       "serialNumber": 503000212,
       "latitude": 40.70585647534992,
-      "binStatus": "Nearly Full",
+      "binStatus": "Available",
       "description": "BIN 178 - NE St. Nicholas Ave & Hart St",
       "availableForUse": true,
       "longitude": -73.91865953781273
@@ -2297,12 +2297,12 @@
       "longitude": -73.99540269748928
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 80,
       "serialNumber": 505100031,
       "latitude": 40.72948121652991,
-      "binStatus": "Full",
+      "binStatus": "Nearly Full",
       "description": "BIN 328 - SE Bleeker St & 6 Ave",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -74.00212241864305
     },
     {
@@ -2540,10 +2540,10 @@
       "longitude": -73.95247723907232
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100026,
       "latitude": 40.78340997537408,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 272 - SE 2 Ave & E 95 St",
       "availableForUse": true,
       "longitude": -73.94763141892919
@@ -2612,12 +2612,12 @@
       "longitude": -74.0007785662345
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 0,
       "serialNumber": 505100064,
       "latitude": 40.718560301291866,
-      "binStatus": "Full",
+      "binStatus": "Available",
       "description": "BIN 261 - NW Hester St & Baxter St",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.99876398340452
     },
     {
@@ -2648,12 +2648,12 @@
       "longitude": -73.9535946787067
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 0,
       "serialNumber": 505100069,
       "latitude": 40.724874101417406,
-      "binStatus": "Full",
+      "binStatus": "Available",
       "description": "BIN 254 - SW 6 Ave & Dominick St",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -74.0047200044207
     },
     {
@@ -2936,7 +2936,7 @@
       "longitude": -73.95211949944496
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 505100076,
       "latitude": 40.85312543432193,
       "binStatus": "Available",
@@ -3404,7 +3404,7 @@
       "longitude": -73.99427816002996
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 505100209,
       "latitude": 40.73970769392492,
       "binStatus": "Available",
