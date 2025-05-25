@@ -2,7 +2,7 @@
   "errorCode": "STATUS_OK",
   "compostAssets": [
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 3590004,
       "latitude": 40.740982515732185,
       "binStatus": "Available",
@@ -569,10 +569,10 @@
       "longitude": -73.92879232764244
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 503000042,
       "latitude": 40.764174520197706,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 20 - SE 31 St & 31 Ave",
       "availableForUse": true,
       "longitude": -73.92345808446407
@@ -749,7 +749,7 @@
       "longitude": -73.92632732264548
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 503000070,
       "latitude": 40.83161371635521,
       "binStatus": "Available",
@@ -1046,7 +1046,7 @@
       "longitude": -73.93525745719671
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 503000144,
       "latitude": 40.7019656047617,
       "binStatus": "Available",
@@ -1883,12 +1883,12 @@
       "longitude": -73.95637851208448
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 503000257,
       "latitude": 40.670817086934036,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 214 - SW Rogers Ave & Lincoln Place",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.95329229533672
     },
     {
@@ -3377,10 +3377,10 @@
       "longitude": -73.98135114745574
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100119,
       "latitude": 40.77611866432287,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 359 - SW Columbus Ave & W 70 St",
       "availableForUse": true,
       "longitude": -73.9799463692325
@@ -3503,7 +3503,7 @@
       "longitude": -73.94229970204982
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 505100208,
       "latitude": 40.7469626558944,
       "binStatus": "Available",
