@@ -2,7 +2,7 @@
   "errorCode": "STATUS_OK",
   "compostAssets": [
     {
-      "latestFullness": 60,
+      "latestFullness": 0,
       "serialNumber": 3590004,
       "latitude": 40.740982515732185,
       "binStatus": "Available",
@@ -812,12 +812,12 @@
       "longitude": -73.94825711846352
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 0,
       "serialNumber": 503000082,
       "latitude": 40.746466564173716,
-      "binStatus": "Full",
+      "binStatus": "Available",
       "description": "BIN 344 - SE 8 Ave & W 25 St",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.9975130736801
     },
     {
@@ -2162,7 +2162,7 @@
       "longitude": -73.94892745726821
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 0,
       "serialNumber": 505100018,
       "latitude": 40.77294782166341,
       "binStatus": "Available",
@@ -2603,7 +2603,7 @@
       "longitude": -73.98977462491895
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 0,
       "serialNumber": 505100025,
       "latitude": 40.74240669511277,
       "binStatus": "Available",
@@ -3152,7 +3152,7 @@
       "longitude": -73.97343810525932
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 0,
       "serialNumber": 505100139,
       "latitude": 40.74272368457833,
       "binStatus": "Available",
@@ -3224,10 +3224,10 @@
       "longitude": -73.98511663223668
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 0,
       "serialNumber": 505100137,
       "latitude": 40.743433331711394,
-      "binStatus": "Nearly Full",
+      "binStatus": "Available",
       "description": "BIN 339 - SW 5 Ave & W 26 St",
       "availableForUse": true,
       "longitude": -73.98834843188524
@@ -3242,7 +3242,7 @@
       "longitude": -73.98753543655222
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 0,
       "serialNumber": 505100146,
       "latitude": 40.74723684953337,
       "binStatus": "Available",
@@ -3350,7 +3350,7 @@
       "longitude": -73.97035768079368
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 0,
       "serialNumber": 505100145,
       "latitude": 40.74163391924499,
       "binStatus": "Available",
