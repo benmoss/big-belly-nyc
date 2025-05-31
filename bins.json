@@ -1082,7 +1082,7 @@
       "longitude": -73.94146978855133
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000145,
       "latitude": 40.68640155543058,
       "binStatus": "Available",
@@ -1388,7 +1388,7 @@
       "longitude": -73.91234535723925
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000172,
       "latitude": 40.69744237426521,
       "binStatus": "Available",
@@ -1793,7 +1793,7 @@
       "longitude": -73.94294936209917
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 503000240,
       "latitude": 40.67428152112551,
       "binStatus": "Available",
@@ -2018,7 +2018,7 @@
       "longitude": -73.92471789027536
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 503000267,
       "latitude": 40.67165371443654,
       "binStatus": "Available",
@@ -2036,10 +2036,10 @@
       "longitude": -73.93931295722723
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 503000276,
       "latitude": 40.67165676594622,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 196 - NE Franklin Ave & Lincoln Place",
       "availableForUse": true,
       "longitude": -73.95756002515554
@@ -2072,7 +2072,7 @@
       "longitude": -73.91942974179983
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000274,
       "latitude": 40.643029752327344,
       "binStatus": "Available",
@@ -2297,7 +2297,7 @@
       "longitude": -73.99540269748928
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 0,
       "serialNumber": 505100031,
       "latitude": 40.72948121652991,
       "binStatus": "Available",
@@ -2360,12 +2360,12 @@
       "longitude": -74.00657773017883
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 505100003,
       "latitude": 40.73776704120356,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 332 - SE 7 Ave & W 13 St",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -74.00006544331396
     },
     {
@@ -2648,7 +2648,7 @@
       "longitude": -73.9535946787067
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 0,
       "serialNumber": 505100069,
       "latitude": 40.724874101417406,
       "binStatus": "Available",
@@ -2819,7 +2819,7 @@
       "longitude": -73.9809653781084
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 505100088,
       "latitude": 40.72865169703771,
       "binStatus": "Available",
@@ -2837,7 +2837,7 @@
       "longitude": -73.95335140977043
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 0,
       "serialNumber": 505100087,
       "latitude": 40.798370790247,
       "binStatus": "Available",
@@ -2846,7 +2846,7 @@
       "longitude": -73.96888427642509
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 0,
       "serialNumber": 505100093,
       "latitude": 40.7953036151945,
       "binStatus": "Available",
@@ -3143,7 +3143,7 @@
       "longitude": -73.97792649980364
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 0,
       "serialNumber": 505100127,
       "latitude": 40.79516392024059,
       "binStatus": "Available",
@@ -3287,7 +3287,7 @@
       "longitude": -73.97276669918094
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 505100117,
       "latitude": 40.78193045956682,
       "binStatus": "Available",
@@ -3332,7 +3332,7 @@
       "longitude": -73.98062197434946
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 60,
       "serialNumber": 505100118,
       "latitude": 40.769273183978356,
       "binStatus": "Available",
@@ -3386,7 +3386,7 @@
       "longitude": -73.9799463692325
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 0,
       "serialNumber": 505100115,
       "latitude": 40.78876861933553,
       "binStatus": "Available",
@@ -3395,10 +3395,10 @@
       "longitude": -73.97587379945203
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 60,
       "serialNumber": 505100128,
       "latitude": 40.72662593513809,
-      "binStatus": "Nearly Full",
+      "binStatus": "Available",
       "description": "BIN 327 - SW Bond St & Lafayette St",
       "availableForUse": true,
       "longitude": -73.99427816002996
