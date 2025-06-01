@@ -542,7 +542,7 @@
       "longitude": -73.94713159650564
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000044,
       "latitude": 40.80556261860785,
       "binStatus": "Available",
@@ -623,7 +623,7 @@
       "longitude": -73.89476414769888
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000038,
       "latitude": 40.76298113979361,
       "binStatus": "Available",
@@ -1397,7 +1397,7 @@
       "longitude": -73.92379101365805
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 503000189,
       "latitude": 40.67990830015172,
       "binStatus": "Available",
@@ -1433,7 +1433,7 @@
       "longitude": -73.96755293011665
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000182,
       "latitude": 40.688928869836005,
       "binStatus": "Available",
@@ -1631,12 +1631,12 @@
       "longitude": -73.82940910756588
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 503000221,
       "latitude": 40.69040997746076,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 121 - SW Tompkins Ave & Lafayette Ave",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.94542437046766
     },
     {
@@ -1775,12 +1775,12 @@
       "longitude": -73.94181042909622
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 503000234,
       "latitude": 40.62214723793611,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 235 - NW Hill St & Tompkins Ave",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -74.07850451767445
     },
     {
@@ -1928,12 +1928,12 @@
       "longitude": -73.95310335432222
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 503000263,
       "latitude": 40.67867868263691,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 220 - NE Flatbush Ave & Prospect Place",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.97343333810568
     },
     {
@@ -2009,12 +2009,12 @@
       "longitude": -73.92796251922846
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 503000271,
       "latitude": 40.74194368731704,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 408 - NW 40 St & 47 Ave",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.92471789027536
     },
     {
@@ -2369,12 +2369,12 @@
       "longitude": -74.00006544331396
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 505100022,
       "latitude": 40.73287635373648,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 334 - SW Hudson St & Christopher St",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -74.00655866692779
     },
     {
@@ -2414,12 +2414,12 @@
       "longitude": -74.0109745413065
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 505100023,
       "latitude": 40.7346470054958,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 311 - SW W 12 St & 5 Ave",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.99481938922054
     },
     {
@@ -2504,7 +2504,7 @@
       "longitude": -73.95019042066897
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 505100044,
       "latitude": 40.73121273762785,
       "binStatus": "Available",
@@ -2828,7 +2828,7 @@
       "longitude": -73.99090145996239
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 505100106,
       "latitude": 40.78586060688359,
       "binStatus": "Available",
@@ -2846,7 +2846,7 @@
       "longitude": -73.96888427642509
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 60,
       "serialNumber": 505100093,
       "latitude": 40.7953036151945,
       "binStatus": "Available",
@@ -2900,7 +2900,7 @@
       "longitude": -73.96686314261594
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 505100068,
       "latitude": 40.7116258563826,
       "binStatus": "Available",
@@ -3386,10 +3386,10 @@
       "longitude": -73.9799463692325
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100115,
       "latitude": 40.78876861933553,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 380 - SE Broadway & W 87 St",
       "availableForUse": true,
       "longitude": -73.97587379945203
