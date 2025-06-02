@@ -209,7 +209,7 @@
       "longitude": -73.86632109842786
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 0,
       "serialNumber": 503000004,
       "latitude": 40.75444696790806,
       "binStatus": "Available",
@@ -218,7 +218,7 @@
       "longitude": -73.90916280189015
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000005,
       "latitude": 40.68477302089155,
       "binStatus": "Available",
@@ -443,7 +443,7 @@
       "longitude": -73.92958357930183
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 503000059,
       "latitude": 40.87534010684036,
       "binStatus": "Available",
@@ -470,7 +470,7 @@
       "longitude": -73.92496582120657
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 0,
       "serialNumber": 503000054,
       "latitude": 40.75743808952642,
       "binStatus": "Available",
@@ -623,7 +623,7 @@
       "longitude": -73.89476414769888
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 0,
       "serialNumber": 503000038,
       "latitude": 40.76298113979361,
       "binStatus": "Available",
@@ -812,7 +812,7 @@
       "longitude": -73.94825711846352
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 503000082,
       "latitude": 40.746466564173716,
       "binStatus": "Available",
@@ -821,7 +821,7 @@
       "longitude": -73.9975130736801
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 503000083,
       "latitude": 40.826256762400135,
       "binStatus": "Available",
@@ -1406,10 +1406,10 @@
       "longitude": -73.95316857844591
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 0,
       "serialNumber": 503000187,
       "latitude": 40.75792909750536,
-      "binStatus": "Nearly Full",
+      "binStatus": "Available",
       "description": "BIN 223 - SE 31 Ave & 49 St",
       "availableForUse": true,
       "longitude": -73.90980195254087
@@ -1451,7 +1451,7 @@
       "longitude": -73.88634603470564
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 503000183,
       "latitude": 40.81799951849948,
       "binStatus": "Available",
@@ -1613,10 +1613,10 @@
       "longitude": -73.89510378241539
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 0,
       "serialNumber": 503000213,
       "latitude": 40.76718414067168,
-      "binStatus": "Nearly Full",
+      "binStatus": "Available",
       "description": "BIN 417 - SW E 71 St & 1 Ave",
       "availableForUse": true,
       "longitude": -73.95670607686043
@@ -1649,10 +1649,10 @@
       "longitude": -73.93744513392448
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 0,
       "serialNumber": 503000219,
       "latitude": 40.75685380877115,
-      "binStatus": "Nearly Full",
+      "binStatus": "Available",
       "description": "BIN 230 - SW 31 Ave & 51 St",
       "availableForUse": true,
       "longitude": -73.90800554305315
@@ -1829,12 +1829,12 @@
       "longitude": -73.93390157678125
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 0,
       "serialNumber": 503000241,
       "latitude": 40.6774118895118,
-      "binStatus": "Full",
+      "binStatus": "Available",
       "description": "BIN 218 - SE Classon Ave & Bergen St",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.95897587267723
     },
     {
@@ -1874,12 +1874,12 @@
       "longitude": -73.95274545997381
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 0,
       "serialNumber": 503000254,
       "latitude": 40.67509191438939,
-      "binStatus": "Full",
+      "binStatus": "Available",
       "description": "BIN 195 - NE Franklin Ave & Prospect Place",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.95637851208448
     },
     {
@@ -1910,12 +1910,12 @@
       "longitude": -74.14217077195644
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 0,
       "serialNumber": 503000244,
       "latitude": 40.67498593224985,
-      "binStatus": "Full",
+      "binStatus": "Available",
       "description": "BIN 194 - NW Classon Ave & Park Place",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.96024390254057
     },
     {
@@ -2018,12 +2018,12 @@
       "longitude": -73.92471789027536
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 0,
       "serialNumber": 503000267,
       "latitude": 40.67165371443654,
-      "binStatus": "Full",
+      "binStatus": "Available",
       "description": "BIN 219 - SE Classon Ave & Eastern Parkway",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.96107707172632
     },
     {
@@ -2036,12 +2036,12 @@
       "longitude": -73.93931295722723
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 0,
       "serialNumber": 503000276,
       "latitude": 40.67165676594622,
-      "binStatus": "Full",
+      "binStatus": "Available",
       "description": "BIN 196 - NE Franklin Ave & Lincoln Place",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.95756002515554
     },
     {
@@ -2126,16 +2126,16 @@
       "longitude": -73.93855053931475
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 0,
       "serialNumber": 503000202,
       "latitude": 40.66971391909037,
-      "binStatus": "Nearly Full",
+      "binStatus": "Available",
       "description": "BIN 210 - NE Kingston Ave & Eastern Parkway",
       "availableForUse": true,
       "longitude": -73.9421078891929
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 0,
       "serialNumber": 503000236,
       "latitude": 40.75290055773551,
       "binStatus": "Available",
@@ -2162,7 +2162,7 @@
       "longitude": -73.94892745726821
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 0,
       "serialNumber": 505100018,
       "latitude": 40.77294782166341,
       "binStatus": "Available",
@@ -2225,10 +2225,10 @@
       "longitude": -73.95631212223466
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 0,
       "serialNumber": 505100041,
       "latitude": 40.7703540345238,
-      "binStatus": "Nearly Full",
+      "binStatus": "Available",
       "description": "BIN 275 - NE E 76 St & 1 Ave",
       "availableForUse": true,
       "longitude": -73.9538887710376
@@ -2342,7 +2342,7 @@
       "longitude": -73.9869912541827
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 0,
       "serialNumber": 505100045,
       "latitude": 40.74639647509707,
       "binStatus": "Available",
@@ -2495,7 +2495,7 @@
       "longitude": -73.97783417254686
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 0,
       "serialNumber": 505100035,
       "latitude": 40.77152776150592,
       "binStatus": "Available",
@@ -2531,7 +2531,7 @@
       "longitude": -73.97665659471008
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 0,
       "serialNumber": 505100062,
       "latitude": 40.768787421482166,
       "binStatus": "Available",
@@ -2567,7 +2567,7 @@
       "longitude": -73.95822445057821
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 0,
       "serialNumber": 505100016,
       "latitude": 40.76390136307756,
       "binStatus": "Available",
@@ -3008,7 +3008,7 @@
       "longitude": -73.95966351954947
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 0,
       "serialNumber": 505100102,
       "latitude": 40.74448956998408,
       "binStatus": "Available",
@@ -3152,7 +3152,7 @@
       "longitude": -73.97343810525932
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 0,
       "serialNumber": 505100139,
       "latitude": 40.74272368457833,
       "binStatus": "Available",
@@ -3314,7 +3314,7 @@
       "longitude": -74.00684701383747
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 0,
       "serialNumber": 505100135,
       "latitude": 40.758930399023754,
       "binStatus": "Available",
