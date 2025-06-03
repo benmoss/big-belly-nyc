@@ -740,12 +740,12 @@
       "longitude": -73.95172468826313
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 0,
       "serialNumber": 503000068,
       "latitude": 40.64305722769547,
-      "binStatus": "Full",
+      "binStatus": "Available",
       "description": "BIN 233 - SE Stuyvesant Place & Schuyler St",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -74.07695855945349
     },
     {
@@ -2153,7 +2153,7 @@
       "longitude": -73.98717944724858
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 505100039,
       "latitude": 40.781609451116324,
       "binStatus": "Available",
@@ -3152,10 +3152,10 @@
       "longitude": -73.97343810525932
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 20,
       "serialNumber": 505100139,
       "latitude": 40.74272368457833,
-      "binStatus": "Nearly Full",
+      "binStatus": "Available",
       "description": "BIN 341 - SE 7 Ave & W 21 St",
       "availableForUse": true,
       "longitude": -73.99655276134223
