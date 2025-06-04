@@ -2,7 +2,7 @@
   "errorCode": "STATUS_OK",
   "compostAssets": [
     {
-      "latestFullness": 20,
+      "latestFullness": 0,
       "serialNumber": 3590004,
       "latitude": 40.740982515732185,
       "binStatus": "Available",
@@ -2027,10 +2027,10 @@
       "longitude": -73.92796251922846
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 0,
       "serialNumber": 503000271,
       "latitude": 40.74194368731704,
-      "binStatus": "Nearly Full",
+      "binStatus": "Available",
       "description": "BIN 408 - NW 40 St & 47 Ave",
       "availableForUse": true,
       "longitude": -73.92471789027536
@@ -3305,10 +3305,10 @@
       "longitude": -73.97196531694908
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 0,
       "serialNumber": 505100140,
       "latitude": 40.760441717606135,
-      "binStatus": "Nearly Full",
+      "binStatus": "Available",
       "description": "BIN 351 - NW 10 Ave & W 43 St",
       "availableForUse": true,
       "longitude": -73.99506114554103
@@ -3341,10 +3341,10 @@
       "longitude": -73.98062197434946
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100118,
       "latitude": 40.769273183978356,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 355 - NW 9 Ave & W 59 St",
       "availableForUse": true,
       "longitude": -73.98478295989479
