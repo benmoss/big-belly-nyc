@@ -29,7 +29,7 @@
       "longitude": -73.92003797195594
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 60,
       "serialNumber": 3590017,
       "latitude": 40.7447717419058,
       "binStatus": "Available",
@@ -794,12 +794,12 @@
       "longitude": -73.93320322036743
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 503000072,
       "latitude": 40.79737412009714,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 49 - SW E 118 St & 1 Ave",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.93469754606485
     },
     {
@@ -893,12 +893,12 @@
       "longitude": -73.91863731029024
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 0,
       "serialNumber": 503000084,
       "latitude": 40.83612097520797,
-      "binStatus": "Full",
+      "binStatus": "Available",
       "description": "BIN 73 - NE W 166 St & University Ave",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.92934955656528
     },
     {
@@ -1370,7 +1370,7 @@
       "longitude": -73.941904976964
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 503000179,
       "latitude": 40.67617742416484,
       "binStatus": "Available",
@@ -1568,7 +1568,7 @@
       "longitude": -73.8490579649806
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 503000201,
       "latitude": 40.68428195430438,
       "binStatus": "Available",
@@ -1649,7 +1649,7 @@
       "longitude": -73.82940910756588
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 503000221,
       "latitude": 40.69040997746076,
       "binStatus": "Available",
@@ -2198,7 +2198,7 @@
       "longitude": -73.9532222620251
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 505100048,
       "latitude": 40.778333070963065,
       "binStatus": "Available",
@@ -2315,7 +2315,7 @@
       "longitude": -73.99540269748928
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 505100031,
       "latitude": 40.72948121652991,
       "binStatus": "Available",
@@ -2423,7 +2423,7 @@
       "longitude": -74.00240702146108
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 505100009,
       "latitude": 40.7164061130962,
       "binStatus": "Available",
@@ -2441,7 +2441,7 @@
       "longitude": -73.99481938922054
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 505100037,
       "latitude": 40.739169439589006,
       "binStatus": "Available",
@@ -2558,7 +2558,7 @@
       "longitude": -73.95247723907232
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 60,
       "serialNumber": 505100026,
       "latitude": 40.78340997537408,
       "binStatus": "Available",
@@ -3044,7 +3044,7 @@
       "longitude": -73.97335456220875
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 505100099,
       "latitude": 40.74145324331832,
       "binStatus": "Available",
@@ -3107,7 +3107,7 @@
       "longitude": -73.98189624416173
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 40,
       "serialNumber": 505100114,
       "latitude": 40.76550445210295,
       "binStatus": "Available",
@@ -3134,10 +3134,10 @@
       "longitude": -73.9780299987419
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100104,
       "latitude": 40.76846754015715,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 287 - NE E 70 St & 3 Ave",
       "availableForUse": true,
       "longitude": -73.96135753145826
