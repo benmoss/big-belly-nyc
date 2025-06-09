@@ -101,12 +101,12 @@
       "longitude": -73.92166045665941
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 0,
       "serialNumber": 3590012,
       "latitude": 40.884080646656564,
-      "binStatus": "Full",
+      "binStatus": "Available",
       "description": "BIN 413 - NW W 232 St & Arlington Ave",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.91260653734207
     },
     {
@@ -137,10 +137,10 @@
       "longitude": -73.92099916934967
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 0,
       "serialNumber": 3590005,
       "latitude": 40.88661576005842,
-      "binStatus": "Nearly Full",
+      "binStatus": "Available",
       "description": "BIN 411 - SW W 236 St & Johnson Ave",
       "availableForUse": true,
       "longitude": -73.90993109059836
@@ -515,7 +515,7 @@
       "longitude": -73.95314779132605
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 503000050,
       "latitude": 40.829794034320685,
       "binStatus": "Available",
@@ -1208,7 +1208,7 @@
       "longitude": -73.92600182443857
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000158,
       "latitude": 40.68871201420607,
       "binStatus": "Available",
@@ -1370,7 +1370,7 @@
       "longitude": -73.941904976964
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000179,
       "latitude": 40.67617742416484,
       "binStatus": "Available",
@@ -1784,7 +1784,7 @@
       "longitude": -73.9355384244532
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000235,
       "latitude": 40.67303171113777,
       "binStatus": "Available",
@@ -1802,7 +1802,7 @@
       "longitude": -74.07850451767445
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000239,
       "latitude": 40.69389322166022,
       "binStatus": "Available",
@@ -1892,7 +1892,7 @@
       "longitude": -73.95274545997381
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 503000254,
       "latitude": 40.67509191438939,
       "binStatus": "Available",
@@ -2234,7 +2234,7 @@
       "longitude": -74.00206860154867
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 505100050,
       "latitude": 40.77142731268294,
       "binStatus": "Available",
@@ -2504,7 +2504,7 @@
       "longitude": -73.9463083404101
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 505100030,
       "latitude": 40.77884195910523,
       "binStatus": "Available",
@@ -2747,7 +2747,7 @@
       "longitude": -73.99052800018954
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 505100081,
       "latitude": 40.78693626205199,
       "binStatus": "Available",
@@ -2783,7 +2783,7 @@
       "longitude": -73.97379656746796
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 505100084,
       "latitude": 40.767171552566246,
       "binStatus": "Available",
@@ -3008,7 +3008,7 @@
       "longitude": -73.98167006603096
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 505100100,
       "latitude": 40.773718493770346,
       "binStatus": "Available",
@@ -3341,7 +3341,7 @@
       "longitude": -73.98062197434946
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 505100118,
       "latitude": 40.769273183978356,
       "binStatus": "Available",
@@ -3485,7 +3485,7 @@
       "longitude": -73.95379403122635
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 505100193,
       "latitude": 40.747515134439,
       "binStatus": "Available",
