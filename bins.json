@@ -659,10 +659,10 @@
       "longitude": -73.94394144415855
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 503000034,
       "latitude": 40.774054817889976,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 229 - SW 27 Ave & 8 St",
       "availableForUse": true,
       "longitude": -73.93176387995481
@@ -713,10 +713,10 @@
       "longitude": -73.93193346987313
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 503000062,
       "latitude": 40.80507840250284,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 35 - SW St. Nicholas Ave & W 118 St",
       "availableForUse": true,
       "longitude": -73.95281787961721
@@ -1028,7 +1028,7 @@
       "longitude": -73.92874404788017
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000131,
       "latitude": 40.688233556498346,
       "binStatus": "Available",
@@ -1208,10 +1208,10 @@
       "longitude": -73.92600182443857
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 503000158,
       "latitude": 40.68871201420607,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 129 - NE Bedford Ave & Clifton Place",
       "availableForUse": true,
       "longitude": -73.95497169345617
@@ -1235,12 +1235,12 @@
       "longitude": -73.9271404221654
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 503000156,
       "latitude": 40.70249991438864,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 182 - NW St. Nicholas Ave & Menahan St",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.9129939918858
     },
     {
@@ -1649,10 +1649,10 @@
       "longitude": -73.82940910756588
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 503000221,
       "latitude": 40.69040997746076,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 121 - SW Tompkins Ave & Lafayette Ave",
       "availableForUse": true,
       "longitude": -73.94542437046766
@@ -1757,10 +1757,10 @@
       "longitude": -73.88005122542381
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 503000232,
       "latitude": 40.68513798940631,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 112 - SW Patchen Ave & Hancock St",
       "availableForUse": true,
       "longitude": -73.92664052546024
@@ -2036,12 +2036,12 @@
       "longitude": -73.92471789027536
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 503000267,
       "latitude": 40.67165371443654,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 219 - SE Classon Ave & Eastern Parkway",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.96107707172632
     },
     {
@@ -2126,10 +2126,10 @@
       "longitude": -73.9261969551444
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 503000212,
       "latitude": 40.70585647534992,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 178 - NE St. Nicholas Ave & Hart St",
       "availableForUse": true,
       "longitude": -73.91865953781273
@@ -2414,10 +2414,10 @@
       "longitude": -74.01704739779234
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100007,
       "latitude": 40.730315325690235,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 333 - SE Carmine St & Bleeker St",
       "availableForUse": true,
       "longitude": -74.00240702146108
@@ -2792,7 +2792,7 @@
       "longitude": -73.9864215009938
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 505100095,
       "latitude": 40.74408502157723,
       "binStatus": "Available",
@@ -2936,7 +2936,7 @@
       "longitude": -73.94326507506806
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 505100109,
       "latitude": 40.80401808886133,
       "binStatus": "Available",
@@ -3008,7 +3008,7 @@
       "longitude": -73.98167006603096
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 40,
       "serialNumber": 505100100,
       "latitude": 40.773718493770346,
       "binStatus": "Available",
@@ -3062,7 +3062,7 @@
       "longitude": -73.9806513567258
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 505100126,
       "latitude": 40.789118885800946,
       "binStatus": "Available",
@@ -3152,10 +3152,10 @@
       "longitude": -73.97792649980364
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100127,
       "latitude": 40.79516392024059,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 373 - SW W 96 St & West End Ave",
       "availableForUse": true,
       "longitude": -73.97343810525932
@@ -3215,7 +3215,7 @@
       "longitude": -73.97864520220962
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 505100134,
       "latitude": 40.762820138671465,
       "binStatus": "Available",
@@ -3440,10 +3440,10 @@
       "longitude": -73.92241423759894
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100196,
       "latitude": 40.74368886339107,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 430 - SE Center Blvd & 50 Ave",
       "availableForUse": true,
       "longitude": -73.95933442215124
@@ -3503,7 +3503,7 @@
       "longitude": -73.95997052760285
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 505100211,
       "latitude": 40.74885214234578,
       "binStatus": "Available",
