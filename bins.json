@@ -2,7 +2,7 @@
   "errorCode": "STATUS_OK",
   "compostAssets": [
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 3590004,
       "latitude": 40.740982515732185,
       "binStatus": "Available",
@@ -929,7 +929,7 @@
       "longitude": -73.92875041812658
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 503000095,
       "latitude": 40.82739891873525,
       "binStatus": "Available",
@@ -1865,7 +1865,7 @@
       "longitude": -73.93339063972235
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 503000253,
       "latitude": 40.69199578878015,
       "binStatus": "Available",
@@ -2045,10 +2045,10 @@
       "longitude": -73.96107707172632
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 503000260,
       "latitude": 40.670941691695425,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 201 - SW Albany Ave & St. Johns Place",
       "availableForUse": true,
       "longitude": -73.93935050815344
@@ -2207,7 +2207,7 @@
       "longitude": -73.94848935814979
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 505100040,
       "latitude": 40.77068591297934,
       "binStatus": "Available",
@@ -2540,10 +2540,10 @@
       "longitude": -74.0108494516408
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100033,
       "latitude": 40.78070495280861,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 365 - SW W 77 St & Columbus Ave",
       "availableForUse": true,
       "longitude": -73.97665659471008
@@ -2675,12 +2675,12 @@
       "longitude": -74.0047200044207
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 505100059,
       "latitude": 40.718786682897935,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 244 - SW Greenwich St & Harrison St",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -74.01055041700602
     },
     {
@@ -3323,7 +3323,7 @@
       "longitude": -74.00684701383747
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 60,
       "serialNumber": 505100135,
       "latitude": 40.758930399023754,
       "binStatus": "Available",
