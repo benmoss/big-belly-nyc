@@ -56,10 +56,10 @@
       "longitude": -73.92984341830015
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 3590020,
       "latitude": 40.746148800069264,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 400 - NE 51 St & Skillman Ave",
       "availableForUse": true,
       "longitude": -73.91328877313748
@@ -902,7 +902,7 @@
       "longitude": -73.92934955656528
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 0,
       "serialNumber": 503000080,
       "latitude": 40.87989884498878,
       "binStatus": "Available",
@@ -2666,12 +2666,12 @@
       "longitude": -73.9535946787067
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 0,
       "serialNumber": 505100069,
       "latitude": 40.724874101417406,
-      "binStatus": "Full",
+      "binStatus": "Available",
       "description": "BIN 254 - SW 6 Ave & Dominick St",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -74.0047200044207
     },
     {
@@ -3512,7 +3512,7 @@
       "longitude": -73.94229970204982
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 505100208,
       "latitude": 40.7469626558944,
       "binStatus": "Available",
