@@ -2,7 +2,7 @@
   "errorCode": "STATUS_OK",
   "compostAssets": [
     {
-      "latestFullness": 40,
+      "latestFullness": 0,
       "serialNumber": 3590004,
       "latitude": 40.740982515732185,
       "binStatus": "Available",
@@ -11,7 +11,7 @@
       "longitude": -73.9180913195014
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 0,
       "serialNumber": 3590010,
       "latitude": 40.74060865008307,
       "binStatus": "Available",
@@ -20,7 +20,7 @@
       "longitude": -73.92287585085252
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 0,
       "serialNumber": 3590013,
       "latitude": 40.74689511721386,
       "binStatus": "Available",
@@ -56,7 +56,7 @@
       "longitude": -73.92984341830015
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 0,
       "serialNumber": 3590020,
       "latitude": 40.746148800069264,
       "binStatus": "Available",
@@ -83,7 +83,7 @@
       "longitude": -73.90727262943983
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 0,
       "serialNumber": 3590015,
       "latitude": 40.746483770342856,
       "binStatus": "Available",
@@ -110,7 +110,7 @@
       "longitude": -73.91260653734207
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 0,
       "serialNumber": 3590003,
       "latitude": 40.7457242854218,
       "binStatus": "Available",
@@ -191,7 +191,7 @@
       "longitude": -73.95366545766592
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 0,
       "serialNumber": 503000027,
       "latitude": 40.76272343617805,
       "binStatus": "Available",
@@ -668,7 +668,7 @@
       "longitude": -73.93176387995481
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 0,
       "serialNumber": 503000036,
       "latitude": 40.6778510426927,
       "binStatus": "Available",
@@ -884,7 +884,7 @@
       "longitude": -73.91521599143744
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 0,
       "serialNumber": 503000093,
       "latitude": 40.76223009405083,
       "binStatus": "Available",
@@ -1253,12 +1253,12 @@
       "longitude": -73.94101046025753
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 0,
       "serialNumber": 503000168,
       "latitude": 40.6755571241916,
-      "binStatus": "Full",
+      "binStatus": "Available",
       "description": "BIN 188 - NW Vanderbilt Ave & Plaza St E",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.96974126370019
     },
     {
@@ -1307,10 +1307,10 @@
       "longitude": -73.91542855650187
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 0,
       "serialNumber": 503000175,
       "latitude": 40.68014247411724,
-      "binStatus": "Nearly Full",
+      "binStatus": "Available",
       "description": "BIN 186 - SW Vanderbilt Ave & Dean St",
       "availableForUse": true,
       "longitude": -73.96811317652464
@@ -1667,7 +1667,7 @@
       "longitude": -73.93744513392448
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 0,
       "serialNumber": 503000219,
       "latitude": 40.75685380877115,
       "binStatus": "Available",
@@ -1901,10 +1901,10 @@
       "longitude": -73.95637851208448
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 0,
       "serialNumber": 503000257,
       "latitude": 40.670817086934036,
-      "binStatus": "Nearly Full",
+      "binStatus": "Available",
       "description": "BIN 214 - SW Rogers Ave & Lincoln Place",
       "availableForUse": true,
       "longitude": -73.95329229533672
@@ -1937,7 +1937,7 @@
       "longitude": -73.96024390254057
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 0,
       "serialNumber": 503000264,
       "latitude": 40.67279917738334,
       "binStatus": "Available",
@@ -1946,10 +1946,10 @@
       "longitude": -73.95310335432222
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 0,
       "serialNumber": 503000263,
       "latitude": 40.67867868263691,
-      "binStatus": "Nearly Full",
+      "binStatus": "Available",
       "description": "BIN 220 - NE Flatbush Ave & Prospect Place",
       "availableForUse": true,
       "longitude": -73.97343333810568
@@ -2027,7 +2027,7 @@
       "longitude": -73.92796251922846
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 503000271,
       "latitude": 40.74194368731704,
       "binStatus": "Available",
@@ -2081,7 +2081,7 @@
       "longitude": -73.94352234899998
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 0,
       "serialNumber": 503000277,
       "latitude": 40.76236771749731,
       "binStatus": "Available",
