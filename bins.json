@@ -2,7 +2,7 @@
   "errorCode": "STATUS_OK",
   "compostAssets": [
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 3590004,
       "latitude": 40.740982515732185,
       "binStatus": "Available",
@@ -137,7 +137,7 @@
       "longitude": -73.92099916934967
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 3590005,
       "latitude": 40.88661576005842,
       "binStatus": "Available",
@@ -416,7 +416,7 @@
       "longitude": -73.92508216202259
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 503000031,
       "latitude": 40.70206803795076,
       "binStatus": "Available",
@@ -893,7 +893,7 @@
       "longitude": -73.91863731029024
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000084,
       "latitude": 40.83612097520797,
       "binStatus": "Available",
@@ -1073,7 +1073,7 @@
       "longitude": -73.93217660486698
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000135,
       "latitude": 40.69796320197583,
       "binStatus": "Available",
@@ -1199,7 +1199,7 @@
       "longitude": -73.90844576060772
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000157,
       "latitude": 40.698774108656224,
       "binStatus": "Available",
@@ -1253,12 +1253,12 @@
       "longitude": -73.94101046025753
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 503000168,
       "latitude": 40.6755571241916,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 188 - NW Vanderbilt Ave & Plaza St E",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.96974126370019
     },
     {
@@ -1370,10 +1370,10 @@
       "longitude": -73.941904976964
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 503000179,
       "latitude": 40.67617742416484,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 190 - NE Underhill Ave & Park Place",
       "availableForUse": true,
       "longitude": -73.96627854555845
@@ -1568,7 +1568,7 @@
       "longitude": -73.8490579649806
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 503000201,
       "latitude": 40.68428195430438,
       "binStatus": "Available",
@@ -1775,7 +1775,7 @@
       "longitude": -73.89310654252768
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 0,
       "serialNumber": 503000186,
       "latitude": 40.6858662258759,
       "binStatus": "Available",
@@ -1910,7 +1910,7 @@
       "longitude": -73.95329229533672
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000255,
       "latitude": 40.67155276024617,
       "binStatus": "Available",
@@ -1973,7 +1973,7 @@
       "longitude": -74.06930956989527
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 503000261,
       "latitude": 40.704219889937,
       "binStatus": "Available",
@@ -2063,7 +2063,7 @@
       "longitude": -73.95756002515554
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000273,
       "latitude": 40.67710908208188,
       "binStatus": "Available",
@@ -2342,7 +2342,7 @@
       "longitude": -73.9498927384089
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 505100013,
       "latitude": 40.73565255133342,
       "binStatus": "Available",
@@ -2414,7 +2414,7 @@
       "longitude": -74.01704739779234
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 40,
       "serialNumber": 505100007,
       "latitude": 40.730315325690235,
       "binStatus": "Available",
@@ -2675,7 +2675,7 @@
       "longitude": -74.0047200044207
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 0,
       "serialNumber": 505100059,
       "latitude": 40.718786682897935,
       "binStatus": "Available",
@@ -2882,7 +2882,7 @@
       "longitude": -73.9833025251433
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 505100086,
       "latitude": 40.781894893686875,
       "binStatus": "Available",
@@ -3071,7 +3071,7 @@
       "longitude": -73.96666802317641
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 505100132,
       "latitude": 40.757513465018945,
       "binStatus": "Available",
@@ -3494,10 +3494,10 @@
       "longitude": -73.95625774369917
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100210,
       "latitude": 40.74222953545039,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 432 - SE Center Blvd & Borden Ave",
       "availableForUse": true,
       "longitude": -73.95997052760285
@@ -3575,7 +3575,7 @@
       "longitude": -73.94742094974946
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 505100200,
       "latitude": 40.7431956119206,
       "binStatus": "Available",
