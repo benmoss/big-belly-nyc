@@ -425,7 +425,7 @@
       "longitude": -73.92383761703968
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 60,
       "serialNumber": 503000033,
       "latitude": 40.86054008940285,
       "binStatus": "Available",
@@ -470,7 +470,7 @@
       "longitude": -73.87542713633172
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000060,
       "latitude": 40.81491836063367,
       "binStatus": "Available",
@@ -758,7 +758,7 @@
       "longitude": -74.07695855945349
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 503000067,
       "latitude": 40.76558557637679,
       "binStatus": "Available",
@@ -776,10 +776,10 @@
       "longitude": -73.94291717559099
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 503000069,
       "latitude": 40.762088122135914,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 06 - NW 31 St & Broadway",
       "availableForUse": true,
       "longitude": -73.92557334154844
@@ -830,10 +830,10 @@
       "longitude": -73.94825711846352
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 503000082,
       "latitude": 40.746466564173716,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 344 - SE 8 Ave & W 25 St",
       "availableForUse": true,
       "longitude": -73.9975130736801
@@ -1541,16 +1541,16 @@
       "longitude": -73.9436212554574
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 503000206,
       "latitude": 40.68764908091782,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 122 - SW Tompkins Ave & Quincy St",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.94487351179123
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 503000198,
       "latitude": 40.82896269217192,
       "binStatus": "Available",
@@ -1730,7 +1730,7 @@
       "longitude": -73.9304231107235
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 503000229,
       "latitude": 40.82775764614125,
       "binStatus": "Available",
@@ -1793,7 +1793,7 @@
       "longitude": -73.94181042909622
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 503000234,
       "latitude": 40.62214723793611,
       "binStatus": "Available",
@@ -2027,7 +2027,7 @@
       "longitude": -73.92796251922846
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 60,
       "serialNumber": 503000271,
       "latitude": 40.74194368731704,
       "binStatus": "Available",
@@ -2387,7 +2387,7 @@
       "longitude": -74.00006544331396
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 505100022,
       "latitude": 40.73287635373648,
       "binStatus": "Available",
@@ -3188,7 +3188,7 @@
       "longitude": -73.99037571712044
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 505100136,
       "latitude": 40.764814574064715,
       "binStatus": "Available",
