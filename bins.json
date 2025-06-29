@@ -83,10 +83,10 @@
       "longitude": -73.90727262943983
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 3590015,
       "latitude": 40.746483770342856,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 401 - NE Skillman Ave & 47 St",
       "availableForUse": true,
       "longitude": -73.91701877117157
@@ -1505,10 +1505,10 @@
       "longitude": -73.83048333227634
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 503000193,
       "latitude": 40.676794793886764,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 199 - NW New York Ave & Dean St",
       "availableForUse": true,
       "longitude": -73.94724616137695
@@ -1928,12 +1928,12 @@
       "longitude": -74.14217077195644
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 503000244,
       "latitude": 40.67498593224985,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 194 - NW Classon Ave & Park Place",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.96024390254057
     },
     {
@@ -2747,7 +2747,7 @@
       "longitude": -73.99052800018954
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 505100081,
       "latitude": 40.78693626205199,
       "binStatus": "Available",
