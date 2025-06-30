@@ -29,21 +29,21 @@
       "longitude": -73.92003797195594
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 0,
       "serialNumber": 3590017,
       "latitude": 40.7447717419058,
-      "binStatus": "Full",
+      "binStatus": "Available",
       "description": "BIN 403 - SW 43 Ave & 47 St",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.9175371080637
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 0,
       "serialNumber": 3590014,
       "latitude": 40.745373137079994,
-      "binStatus": "Full",
+      "binStatus": "Available",
       "description": "BIN 404 - SE 43 Ave & 41 St",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.92288388211199
     },
     {
@@ -290,7 +290,7 @@
       "longitude": -73.95101174712181
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 0,
       "serialNumber": 503000014,
       "latitude": 40.762625726342314,
       "binStatus": "Available",
@@ -299,10 +299,10 @@
       "longitude": -73.93766775727272
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 0,
       "serialNumber": 503000013,
       "latitude": 40.86843300418909,
-      "binStatus": "Nearly Full",
+      "binStatus": "Available",
       "description": "BIN 65 - NE W 212 St & Broadway",
       "availableForUse": true,
       "longitude": -73.91832768131844
@@ -407,7 +407,7 @@
       "longitude": -73.88136584311724
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 0,
       "serialNumber": 503000022,
       "latitude": 40.866201512573475,
       "binStatus": "Available",
@@ -659,7 +659,7 @@
       "longitude": -73.94394144415855
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 0,
       "serialNumber": 503000034,
       "latitude": 40.774054817889976,
       "binStatus": "Available",
@@ -947,7 +947,7 @@
       "longitude": -73.88263955712318
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000098,
       "latitude": 40.80545914536109,
       "binStatus": "Available",
@@ -1109,7 +1109,7 @@
       "longitude": -73.92045420260473
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 0,
       "serialNumber": 503000147,
       "latitude": 40.687583234935204,
       "binStatus": "Available",
@@ -1163,7 +1163,7 @@
       "longitude": -73.93382884562016
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 0,
       "serialNumber": 503000166,
       "latitude": 40.68703129558847,
       "binStatus": "Available",
@@ -1190,16 +1190,16 @@
       "longitude": -73.96311119198799
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 0,
       "serialNumber": 503000152,
       "latitude": 40.68415381504779,
-      "binStatus": "Nearly Full",
+      "binStatus": "Available",
       "description": "BIN 157 - SE Bushwick Ave & Chauncey St",
       "availableForUse": true,
       "longitude": -73.90844576060772
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 0,
       "serialNumber": 503000157,
       "latitude": 40.698774108656224,
       "binStatus": "Available",
@@ -1280,7 +1280,7 @@
       "longitude": -73.90959072858095
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 0,
       "serialNumber": 503000170,
       "latitude": 40.676454329310545,
       "binStatus": "Available",
@@ -1289,7 +1289,7 @@
       "longitude": -73.94148588180542
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 0,
       "serialNumber": 503000171,
       "latitude": 40.69608852271517,
       "binStatus": "Available",
@@ -1361,7 +1361,7 @@
       "longitude": -73.91918834298849
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 0,
       "serialNumber": 503000178,
       "latitude": 40.671282700678354,
       "binStatus": "Available",
@@ -1388,7 +1388,7 @@
       "longitude": -73.90797402709723
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 0,
       "serialNumber": 503000188,
       "latitude": 40.690796900599814,
       "binStatus": "Available",
@@ -1397,7 +1397,7 @@
       "longitude": -73.91234535723925
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 0,
       "serialNumber": 503000172,
       "latitude": 40.69744237426521,
       "binStatus": "Available",
@@ -1442,7 +1442,7 @@
       "longitude": -73.96755293011665
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 0,
       "serialNumber": 503000182,
       "latitude": 40.688928869836005,
       "binStatus": "Available",
@@ -1586,7 +1586,7 @@
       "longitude": -73.92018981277943
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 0,
       "serialNumber": 503000210,
       "latitude": 40.70378294439786,
       "binStatus": "Available",
@@ -1775,21 +1775,21 @@
       "longitude": -73.89310654252768
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 503000186,
       "latitude": 40.6858662258759,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 117 - NE Lewis Ave & Putnam Ave",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.9355384244532
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 0,
       "serialNumber": 503000235,
       "latitude": 40.67303171113777,
-      "binStatus": "Full",
+      "binStatus": "Available",
       "description": "BIN 212 - NE Kingston Ave & Park Place",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.94181042909622
     },
     {
@@ -1955,7 +1955,7 @@
       "longitude": -73.97343333810568
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 0,
       "serialNumber": 503000249,
       "latitude": 40.67568845111274,
       "binStatus": "Available",
@@ -2018,7 +2018,7 @@
       "longitude": -73.92522666603327
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 0,
       "serialNumber": 503000268,
       "latitude": 40.67210889641922,
       "binStatus": "Available",
@@ -2144,7 +2144,7 @@
       "longitude": -73.93855053931475
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 0,
       "serialNumber": 503000202,
       "latitude": 40.66971391909037,
       "binStatus": "Available",
@@ -2261,12 +2261,12 @@
       "longitude": -73.94685207786003
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 505100020,
       "latitude": 40.72799056580962,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 317 - SE Ave B & E 12 St",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.97899926258084
     },
     {
@@ -2585,7 +2585,7 @@
       "longitude": -73.95822445057821
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 505100016,
       "latitude": 40.76390136307756,
       "binStatus": "Available",
@@ -2900,7 +2900,7 @@
       "longitude": -73.96686314261594
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 505100068,
       "latitude": 40.7116258563826,
       "binStatus": "Available",
@@ -3413,7 +3413,7 @@
       "longitude": -73.96125401841964
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 0,
       "serialNumber": 505100207,
       "latitude": 40.74529794524427,
       "binStatus": "Available",
@@ -3494,7 +3494,7 @@
       "longitude": -73.95997052760285
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 0,
       "serialNumber": 505100211,
       "latitude": 40.74885214234578,
       "binStatus": "Available",
@@ -3512,7 +3512,7 @@
       "longitude": -73.94254085685888
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 0,
       "serialNumber": 505100213,
       "latitude": 40.74946301439221,
       "binStatus": "Available",
@@ -3548,7 +3548,7 @@
       "longitude": -73.95699620153725
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 0,
       "serialNumber": 505100199,
       "latitude": 40.74873869958214,
       "binStatus": "Available",
