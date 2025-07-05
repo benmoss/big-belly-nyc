@@ -353,7 +353,7 @@
       "longitude": -73.94264291971922
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 0,
       "serialNumber": 503000020,
       "latitude": 40.841033254239434,
       "binStatus": "Available",
@@ -362,16 +362,16 @@
       "longitude": -73.93805466592312
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 0,
       "serialNumber": 503000006,
       "latitude": 40.855684792533886,
-      "binStatus": "Nearly Full",
+      "binStatus": "Available",
       "description": "BIN 61 - NE Cabrini Blvd & W 187 St",
       "availableForUse": true,
       "longitude": -73.93778998622929
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 0,
       "serialNumber": 503000023,
       "latitude": 40.84608111296369,
       "binStatus": "Available",
@@ -542,7 +542,7 @@
       "longitude": -73.93832288682462
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 503000051,
       "latitude": 40.83816928203937,
       "binStatus": "Available",
@@ -866,7 +866,7 @@
       "longitude": -73.90853963792324
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 0,
       "serialNumber": 503000089,
       "latitude": 40.857369144609926,
       "binStatus": "Available",
@@ -1271,7 +1271,7 @@
       "longitude": -73.96974126370019
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 503000169,
       "latitude": 40.690318203640174,
       "binStatus": "Available",
@@ -1487,7 +1487,7 @@
       "longitude": -73.9536564052105
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000196,
       "latitude": 40.845052353341714,
       "binStatus": "Available",
@@ -1931,9 +1931,9 @@
       "latestFullness": 0,
       "serialNumber": 503000256,
       "latitude": 40.63370350108601,
-      "binStatus": "Available",
+      "binStatus": "Out of Service",
       "description": "BIN 240 - NW Innis St & St Josephs Ave",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -74.14217077195644
     },
     {
@@ -2234,7 +2234,7 @@
       "longitude": -74.00206860154867
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 0,
       "serialNumber": 505100050,
       "latitude": 40.77142731268294,
       "binStatus": "Available",
@@ -2351,19 +2351,19 @@
       "longitude": -74.00171998103215
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 0,
       "serialNumber": 505100051,
       "latitude": 40.72504420607064,
-      "binStatus": "Nearly Full",
+      "binStatus": "Available",
       "description": "BIN 323 - SE 1 Ave & E 4 St",
       "availableForUse": true,
       "longitude": -73.9869912541827
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100045,
       "latitude": 40.74639647509707,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 342 - SW 10 Ave & W 21 St",
       "availableForUse": true,
       "longitude": -74.00526163846435
@@ -2576,7 +2576,7 @@
       "longitude": -73.98249430253485
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 0,
       "serialNumber": 505100002,
       "latitude": 40.76863578734461,
       "binStatus": "Available",
@@ -2657,7 +2657,7 @@
       "longitude": -73.99222918721208
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 0,
       "serialNumber": 505100057,
       "latitude": 40.77544607677087,
       "binStatus": "Available",
@@ -2756,7 +2756,7 @@
       "longitude": -73.97570673483682
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 0,
       "serialNumber": 505100090,
       "latitude": 40.750719268455946,
       "binStatus": "Available",
@@ -2801,7 +2801,7 @@
       "longitude": -73.98593114887535
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 0,
       "serialNumber": 505100083,
       "latitude": 40.72496280254391,
       "binStatus": "Available",
@@ -2873,7 +2873,7 @@
       "longitude": -73.97906581678058
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 0,
       "serialNumber": 505100077,
       "latitude": 40.84610840833878,
       "binStatus": "Available",
@@ -2900,7 +2900,7 @@
       "longitude": -73.9850452796422
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 0,
       "serialNumber": 505100110,
       "latitude": 40.75405449748158,
       "binStatus": "Available",
@@ -2954,10 +2954,10 @@
       "longitude": -73.96900231292263
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 0,
       "serialNumber": 505100111,
       "latitude": 40.758836000578,
-      "binStatus": "Nearly Full",
+      "binStatus": "Available",
       "description": "BIN 294 - NW E 56 St & 2 Ave",
       "availableForUse": true,
       "longitude": -73.96586280976997
@@ -2972,12 +2972,12 @@
       "longitude": -73.9614462477865
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 0,
       "serialNumber": 505100091,
       "latitude": 40.74913400691257,
-      "binStatus": "Full",
+      "binStatus": "Available",
       "description": "BIN 297 - NW Lexington Ave & E 38 St",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.97793704431773
     },
     {
@@ -3323,10 +3323,10 @@
       "longitude": -73.98062197434946
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 0,
       "serialNumber": 505100118,
       "latitude": 40.769273183978356,
-      "binStatus": "Nearly Full",
+      "binStatus": "Available",
       "description": "BIN 355 - NW 9 Ave & W 59 St",
       "availableForUse": true,
       "longitude": -73.98478295989479
@@ -3530,7 +3530,7 @@
       "longitude": -73.9528896218117
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 505100205,
       "latitude": 40.74555707262847,
       "binStatus": "Available",
