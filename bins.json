@@ -38,12 +38,12 @@
       "longitude": -73.9175371080637
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 3590014,
       "latitude": 40.745373137079994,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 404 - SE 43 Ave & 41 St",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.92288388211199
     },
     {
@@ -110,7 +110,7 @@
       "longitude": -73.91260653734207
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 60,
       "serialNumber": 3590003,
       "latitude": 40.7457242854218,
       "binStatus": "Available",
@@ -266,9 +266,9 @@
       "latestFullness": 0,
       "serialNumber": 503000009,
       "latitude": 40.700382392327064,
-      "binStatus": "Available",
+      "binStatus": "Out of Service",
       "description": "BIN 147 - NW Central Ave & Troutman St",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.92903984180296
     },
     {
@@ -1001,7 +1001,7 @@
       "longitude": -74.00267075747252
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000078,
       "latitude": 40.81357603431238,
       "binStatus": "Available",
@@ -1172,7 +1172,7 @@
       "longitude": -73.93382884562016
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 503000166,
       "latitude": 40.68703129558847,
       "binStatus": "Available",
@@ -1721,16 +1721,16 @@
       "longitude": -73.91965739428997
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 503000225,
       "latitude": 40.6865703680712,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 128 - NE Bedford Ave & Quincy St",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.95448587834835
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000228,
       "latitude": 40.68858947648064,
       "binStatus": "Available",
@@ -1748,7 +1748,7 @@
       "longitude": -73.8183144852519
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000230,
       "latitude": 40.85345386692205,
       "binStatus": "Available",
@@ -1955,10 +1955,10 @@
       "longitude": -73.95310335432222
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 503000263,
       "latitude": 40.67867868263691,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 220 - NE Flatbush Ave & Prospect Place",
       "availableForUse": true,
       "longitude": -73.97343333810568
@@ -2126,10 +2126,10 @@
       "longitude": -73.92091434448957
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 503000205,
       "latitude": 40.68303106054966,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 113 - NW Patchen Ave & Macdonough St",
       "availableForUse": true,
       "longitude": -73.9261969551444
@@ -2612,7 +2612,7 @@
       "longitude": -73.97332561607193
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 40,
       "serialNumber": 505100028,
       "latitude": 40.762145800103276,
       "binStatus": "Available",
@@ -2855,7 +2855,7 @@
       "longitude": -73.97107263571145
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 505100107,
       "latitude": 40.73674344375692,
       "binStatus": "Available",
@@ -3035,7 +3035,7 @@
       "longitude": -73.98526381245097
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 505100097,
       "latitude": 40.72556517707213,
       "binStatus": "Available",
@@ -3341,7 +3341,7 @@
       "longitude": -73.97035768079368
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 505100145,
       "latitude": 40.74163391924499,
       "binStatus": "Available",
