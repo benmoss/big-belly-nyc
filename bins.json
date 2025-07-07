@@ -200,7 +200,7 @@
       "longitude": -73.92021738757299
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 60,
       "serialNumber": 503000002,
       "latitude": 40.802377335586115,
       "binStatus": "Available",
@@ -533,7 +533,7 @@
       "longitude": -73.94493098288339
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 503000049,
       "latitude": 40.792326106963955,
       "binStatus": "Available",
@@ -713,7 +713,7 @@
       "longitude": -73.93193346987313
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000062,
       "latitude": 40.80507840250284,
       "binStatus": "Available",
@@ -1073,7 +1073,7 @@
       "longitude": -73.93525745719671
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 40,
       "serialNumber": 503000144,
       "latitude": 40.7019656047617,
       "binStatus": "Available",
@@ -1118,10 +1118,10 @@
       "longitude": -73.92045420260473
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 503000147,
       "latitude": 40.687583234935204,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 155 - NW Central Ave & Moffat St",
       "availableForUse": true,
       "longitude": -73.90656117349863
@@ -1334,7 +1334,7 @@
       "longitude": -73.91751361469018
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 503000153,
       "latitude": 40.798054852781554,
       "binStatus": "Available",
@@ -1478,12 +1478,12 @@
       "longitude": -73.85720618069172
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 503000200,
       "latitude": 40.68219457581468,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 126 - NE Bedford Ave & Hancock St",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.9536564052105
     },
     {
@@ -1550,12 +1550,12 @@
       "longitude": -73.9436212554574
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 503000206,
       "latitude": 40.68764908091782,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 122 - SW Tompkins Ave & Quincy St",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.94487351179123
     },
     {
@@ -1568,7 +1568,7 @@
       "longitude": -73.85669823735952
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 503000211,
       "latitude": 40.83852110249066,
       "binStatus": "Available",
@@ -1613,10 +1613,10 @@
       "longitude": -73.928127810359
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 503000204,
       "latitude": 40.69300170948447,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 130 - SE Bedford Ave & Willoughby Ave",
       "availableForUse": true,
       "longitude": -73.9556797966361
@@ -1811,10 +1811,10 @@
       "longitude": -74.07850451767445
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 503000239,
       "latitude": 40.69389322166022,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 142 - SE Throop Ave & Hart St",
       "availableForUse": true,
       "longitude": -73.94294936209917
@@ -1838,7 +1838,7 @@
       "longitude": -73.95765916089715
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000237,
       "latitude": 40.69656438204717,
       "binStatus": "Available",
@@ -1994,9 +1994,9 @@
       "latestFullness": 0,
       "serialNumber": 503000265,
       "latitude": 40.67028714230085,
-      "binStatus": "Out of Service",
+      "binStatus": "Available",
       "description": "BIN 202 - SE Rochester Ave & St. Johns Place",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.92812234686723
     },
     {
@@ -2171,12 +2171,12 @@
       "longitude": -73.98717944724858
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 505100039,
       "latitude": 40.781609451116324,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 274 - SE E 92 St & 2 Ave",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.94892745726821
     },
     {
@@ -2279,12 +2279,12 @@
       "longitude": -73.98598125432342
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 505100049,
       "latitude": 40.70676048283521,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 253 - SW Maiden Lane & Pearl St",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -74.00691708161023
     },
     {
@@ -2423,7 +2423,7 @@
       "longitude": -74.00240702146108
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 40,
       "serialNumber": 505100009,
       "latitude": 40.7164061130962,
       "binStatus": "Available",
@@ -2468,7 +2468,7 @@
       "longitude": -73.99849525644926
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 505100029,
       "latitude": 40.710663476710224,
       "binStatus": "Available",
@@ -2495,12 +2495,12 @@
       "longitude": -73.99466765892298
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 505100032,
       "latitude": 40.765863654327504,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 279 - SW Main St & River Rd",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.9463083404101
     },
     {
@@ -2666,7 +2666,7 @@
       "longitude": -73.9535946787067
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 505100069,
       "latitude": 40.724874101417406,
       "binStatus": "Available",
@@ -2801,10 +2801,10 @@
       "longitude": -73.98593114887535
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100083,
       "latitude": 40.72496280254391,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 324 - NE 2 Ave & E 2 St",
       "availableForUse": true,
       "longitude": -73.99017938079861
@@ -3107,7 +3107,7 @@
       "longitude": -73.96866042855898
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 505100103,
       "latitude": 40.72946703338854,
       "binStatus": "Available",
@@ -3341,10 +3341,10 @@
       "longitude": -73.97035768079368
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100145,
       "latitude": 40.74163391924499,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 338 - NE W 21 St & 6 Ave",
       "availableForUse": true,
       "longitude": -73.99363601223293
