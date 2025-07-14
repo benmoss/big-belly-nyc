@@ -155,12 +155,12 @@
       "longitude": -73.91430705785751
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 0,
       "serialNumber": 3590002,
       "latitude": 40.7214226207243,
-      "binStatus": "Full",
+      "binStatus": "Available",
       "description": "BIN 263 - NW Elizabeth St & Spring St",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.99473222632365
     },
     {
@@ -1109,10 +1109,10 @@
       "longitude": -73.94146978855133
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 0,
       "serialNumber": 503000127,
       "latitude": 40.706692511000654,
-      "binStatus": "Nearly Full",
+      "binStatus": "Available",
       "description": "BIN 177 - SW St. Nicholas Ave & Willoughby Ave",
       "availableForUse": true,
       "longitude": -73.92045420260473
@@ -1271,10 +1271,10 @@
       "longitude": -73.96974126370019
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 503000169,
       "latitude": 40.690318203640174,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 118 - NE Lewis Ave & Green Ave",
       "availableForUse": true,
       "longitude": -73.93640510737896
@@ -1325,7 +1325,7 @@
       "longitude": -73.96811317652464
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 0,
       "serialNumber": 503000162,
       "latitude": 40.704966472832965,
       "binStatus": "Available",
@@ -1532,7 +1532,7 @@
       "longitude": -73.99644857287824
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 503000191,
       "latitude": 40.80924767164232,
       "binStatus": "Available",
@@ -1901,10 +1901,10 @@
       "longitude": -73.95274545997381
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 503000254,
       "latitude": 40.67509191438939,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 195 - NE Franklin Ave & Prospect Place",
       "availableForUse": true,
       "longitude": -73.95637851208448
@@ -2099,7 +2099,7 @@
       "longitude": -73.91942974179983
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 503000274,
       "latitude": 40.643029752327344,
       "binStatus": "Available",
@@ -2423,16 +2423,16 @@
       "longitude": -74.00240702146108
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 505100009,
       "latitude": 40.7164061130962,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 245 - NW Greenwich St & Chambers St",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -74.0109745413065
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 505100023,
       "latitude": 40.7346470054958,
       "binStatus": "Available",
@@ -2630,12 +2630,12 @@
       "longitude": -74.0007785662345
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 0,
       "serialNumber": 505100064,
       "latitude": 40.718560301291866,
-      "binStatus": "Full",
+      "binStatus": "Available",
       "description": "BIN 261 - NW Hester St & Baxter St",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.99876398340452
     },
     {
@@ -2666,7 +2666,7 @@
       "longitude": -73.9535946787067
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 0,
       "serialNumber": 505100069,
       "latitude": 40.724874101417406,
       "binStatus": "Available",
@@ -2891,7 +2891,7 @@
       "longitude": -73.96686314261594
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 0,
       "serialNumber": 505100068,
       "latitude": 40.7116258563826,
       "binStatus": "Available",
@@ -3296,7 +3296,7 @@
       "longitude": -73.99506114554103
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 505100150,
       "latitude": 40.729589714367386,
       "binStatus": "Available",
@@ -3350,7 +3350,7 @@
       "longitude": -73.99363601223293
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 505100148,
       "latitude": 40.735894111584756,
       "binStatus": "Available",
@@ -3368,12 +3368,12 @@
       "longitude": -73.98135114745574
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 505100119,
       "latitude": 40.77611866432287,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 359 - SW Columbus Ave & W 70 St",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.9799463692325
     },
     {
@@ -3503,7 +3503,7 @@
       "longitude": -73.94254085685888
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 505100213,
       "latitude": 40.74946301439221,
       "binStatus": "Available",
@@ -3521,7 +3521,7 @@
       "longitude": -73.94026945696734
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 505100195,
       "latitude": 40.74256184956176,
       "binStatus": "Available",
