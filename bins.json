@@ -155,12 +155,12 @@
       "longitude": -73.91430705785751
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 0,
       "serialNumber": 3590002,
       "latitude": 40.7214226207243,
-      "binStatus": "Full",
+      "binStatus": "Available",
       "description": "BIN 263 - NW Elizabeth St & Spring St",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.99473222632365
     },
     {
@@ -1100,7 +1100,7 @@
       "longitude": -73.94996803253889
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000129,
       "latitude": 40.685812233251795,
       "binStatus": "Available",
@@ -1667,10 +1667,10 @@
       "longitude": -73.82940910756588
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 503000221,
       "latitude": 40.69040997746076,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 121 - SW Tompkins Ave & Lafayette Ave",
       "availableForUse": true,
       "longitude": -73.94542437046766
@@ -2072,10 +2072,10 @@
       "longitude": -73.95756002515554
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 503000273,
       "latitude": 40.67710908208188,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 217 - NE Rogers Ave & Dean St",
       "availableForUse": true,
       "longitude": -73.95261202007532
@@ -2468,7 +2468,7 @@
       "longitude": -73.99849525644926
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 505100029,
       "latitude": 40.710663476710224,
       "binStatus": "Available",
@@ -2513,7 +2513,7 @@
       "longitude": -73.97783417254686
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 505100035,
       "latitude": 40.77152776150592,
       "binStatus": "Available",
@@ -2666,12 +2666,12 @@
       "longitude": -73.9535946787067
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 0,
       "serialNumber": 505100069,
       "latitude": 40.724874101417406,
-      "binStatus": "Full",
+      "binStatus": "Available",
       "description": "BIN 254 - SW 6 Ave & Dominick St",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -74.0047200044207
     },
     {
@@ -2702,7 +2702,7 @@
       "longitude": -73.9519761287763
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 0,
       "serialNumber": 505100082,
       "latitude": 40.76216672199596,
       "binStatus": "Available",
@@ -2810,7 +2810,7 @@
       "longitude": -73.98087015968837
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 0,
       "serialNumber": 505100088,
       "latitude": 40.72865169703771,
       "binStatus": "Available",
@@ -3386,10 +3386,10 @@
       "longitude": -73.97587379945203
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 0,
       "serialNumber": 505100128,
       "latitude": 40.72662593513809,
-      "binStatus": "Nearly Full",
+      "binStatus": "Available",
       "description": "BIN 327 - SW Bond St & Lafayette St",
       "availableForUse": true,
       "longitude": -73.99427816002996
@@ -3503,7 +3503,7 @@
       "longitude": -73.94254085685888
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 505100213,
       "latitude": 40.74946301439221,
       "binStatus": "Available",
