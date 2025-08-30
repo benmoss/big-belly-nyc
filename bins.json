@@ -155,12 +155,12 @@
       "longitude": -73.91430705785751
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 3590002,
       "latitude": 40.7214226207243,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 263 - NW Elizabeth St & Spring St",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.99473222632365
     },
     {
@@ -299,7 +299,7 @@
       "longitude": -73.93766775727272
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 503000013,
       "latitude": 40.86843300418909,
       "binStatus": "Available",
@@ -947,10 +947,10 @@
       "longitude": -73.88263955712318
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 503000097,
       "latitude": 40.7672928325272,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 356 - NE 9 Ave & W 56 St",
       "availableForUse": true,
       "longitude": -73.98608167599193
@@ -2378,7 +2378,7 @@
       "longitude": -74.00657773017883
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 505100003,
       "latitude": 40.73776704120356,
       "binStatus": "Available",
