@@ -533,7 +533,7 @@
       "longitude": -73.94493098288339
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 0,
       "serialNumber": 503000049,
       "latitude": 40.792326106963955,
       "binStatus": "Available",
@@ -785,7 +785,7 @@
       "longitude": -73.92557334154844
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 0,
       "serialNumber": 503000071,
       "latitude": 40.7948329016069,
       "binStatus": "Available",
@@ -794,12 +794,12 @@
       "longitude": -73.93320322036743
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 0,
       "serialNumber": 503000072,
       "latitude": 40.79737412009714,
-      "binStatus": "Full",
+      "binStatus": "Available",
       "description": "BIN 49 - SW E 118 St & 1 Ave",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.93469754606485
     },
     {
@@ -1181,12 +1181,12 @@
       "longitude": -73.91374111175537
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 503000164,
       "latitude": 40.69660505362728,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 164 - NE Bushwick Ave & Suydam St",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.93099308013916
     },
     {
@@ -3098,7 +3098,7 @@
       "longitude": -73.96592718820084
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 0,
       "serialNumber": 505100105,
       "latitude": 40.76175746497325,
       "binStatus": "Available",
