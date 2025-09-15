@@ -101,7 +101,7 @@
       "longitude": -73.92166045665941
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 3590012,
       "latitude": 40.884080646656564,
       "binStatus": "Available",
@@ -1334,10 +1334,10 @@
       "longitude": -73.91751361469018
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 503000153,
       "latitude": 40.798054852781554,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 32 - SW W 112 St & 5 Ave",
       "availableForUse": true,
       "longitude": -73.94852463470318
@@ -2045,12 +2045,12 @@
       "longitude": -73.92471789027536
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 80,
       "serialNumber": 503000267,
       "latitude": 40.67165371443654,
-      "binStatus": "Full",
+      "binStatus": "Nearly Full",
       "description": "BIN 219 - SE Classon Ave & Eastern Parkway",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.96107707172632
     },
     {
@@ -2468,7 +2468,7 @@
       "longitude": -73.99849525644926
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 505100029,
       "latitude": 40.710663476710224,
       "binStatus": "Available",
@@ -2738,7 +2738,7 @@
       "longitude": -73.98491537817117
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 505100096,
       "latitude": 40.771722793444425,
       "binStatus": "Available",
@@ -3035,10 +3035,10 @@
       "longitude": -73.98526381245097
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100097,
       "latitude": 40.72556517707213,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 318 - SE Ave B & E 8 St",
       "availableForUse": true,
       "longitude": -73.9806513567258
@@ -3053,12 +3053,12 @@
       "longitude": -73.96666802317641
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 505100132,
       "latitude": 40.757513465018945,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 325 - SW W Main St & Main St",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.95414933006201
     },
     {
@@ -3251,7 +3251,7 @@
       "longitude": -74.00261308139008
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 505100149,
       "latitude": 40.77380204413203,
       "binStatus": "Available",
