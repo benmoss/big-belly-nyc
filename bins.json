@@ -308,7 +308,7 @@
       "longitude": -73.91832768131844
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000016,
       "latitude": 40.80673101650625,
       "binStatus": "Available",
@@ -389,7 +389,7 @@
       "longitude": -73.90380453318357
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 503000032,
       "latitude": 40.76149921367936,
       "binStatus": "Available",
@@ -407,10 +407,10 @@
       "longitude": -73.88136584311724
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 503000022,
       "latitude": 40.866201512573475,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 64 - SE Broadway & Academy St",
       "availableForUse": true,
       "longitude": -73.92508216202259
@@ -1226,7 +1226,7 @@
       "longitude": -73.95497169345617
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000126,
       "latitude": 40.69237838108274,
       "binStatus": "Available",
@@ -1451,7 +1451,7 @@
       "longitude": -73.96755293011665
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000182,
       "latitude": 40.688928869836005,
       "binStatus": "Available",
@@ -1568,7 +1568,7 @@
       "longitude": -73.94487351179123
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 0,
       "serialNumber": 503000198,
       "latitude": 40.82896269217192,
       "binStatus": "Available",
@@ -2468,7 +2468,7 @@
       "longitude": -74.00341004133224
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 505100017,
       "latitude": 40.705075385840445,
       "binStatus": "Available",
@@ -2477,7 +2477,7 @@
       "longitude": -74.01322457939386
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 40,
       "serialNumber": 505100071,
       "latitude": 40.73149350965934,
       "binStatus": "Available",
@@ -2585,7 +2585,7 @@
       "longitude": -73.95865606044225
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 60,
       "serialNumber": 505100063,
       "latitude": 40.71256505742161,
       "binStatus": "Available",
@@ -2648,7 +2648,7 @@
       "longitude": -73.99222918721208
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 40,
       "serialNumber": 505100057,
       "latitude": 40.77544607677087,
       "binStatus": "Available",
@@ -2981,7 +2981,7 @@
       "longitude": -73.97793704431773
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 505100100,
       "latitude": 40.773718493770346,
       "binStatus": "Available",
@@ -3089,7 +3089,7 @@
       "longitude": -73.96592718820084
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 505100105,
       "latitude": 40.76175746497325,
       "binStatus": "Available",
@@ -3134,7 +3134,7 @@
       "longitude": -73.97343810525932
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 505100139,
       "latitude": 40.74272368457833,
       "binStatus": "Available",
@@ -3206,7 +3206,7 @@
       "longitude": -73.98511663223668
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 0,
       "serialNumber": 505100137,
       "latitude": 40.743433331711394,
       "binStatus": "Available",
@@ -3224,7 +3224,7 @@
       "longitude": -73.98753543655222
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 505100146,
       "latitude": 40.74723684953337,
       "binStatus": "Available",
@@ -3341,7 +3341,7 @@
       "longitude": -73.98222696429983
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 505100112,
       "latitude": 40.741522457226544,
       "binStatus": "Available",
@@ -3350,10 +3350,10 @@
       "longitude": -73.98135114745574
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100119,
       "latitude": 40.77611866432287,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 359 - SW Columbus Ave & W 70 St",
       "availableForUse": true,
       "longitude": -73.9799463692325
@@ -3368,12 +3368,12 @@
       "longitude": -73.97587379945203
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 505100128,
       "latitude": 40.72662593513809,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 327 - SW Bond St & Lafayette St",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.99427816002996
     },
     {
@@ -3440,7 +3440,7 @@
       "longitude": -73.93678337990917
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 505100212,
       "latitude": 40.74420348192229,
       "binStatus": "Available",
