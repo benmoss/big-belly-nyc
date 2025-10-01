@@ -371,7 +371,7 @@
       "longitude": -73.93778998622929
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 0,
       "serialNumber": 503000023,
       "latitude": 40.84608111296369,
       "binStatus": "Available",
@@ -407,7 +407,7 @@
       "longitude": -73.88136584311724
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 0,
       "serialNumber": 503000022,
       "latitude": 40.866201512573475,
       "binStatus": "Available",
@@ -740,7 +740,7 @@
       "longitude": -73.92510951539327
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 0,
       "serialNumber": 503000064,
       "latitude": 40.78210605168062,
       "binStatus": "Available",
@@ -812,7 +812,7 @@
       "longitude": -73.93777001649141
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 60,
       "serialNumber": 503000075,
       "latitude": 40.763666893592315,
       "binStatus": "Available",
@@ -1208,7 +1208,7 @@
       "longitude": -73.90844576060772
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 40,
       "serialNumber": 503000157,
       "latitude": 40.698774108656224,
       "binStatus": "Available",
@@ -1559,7 +1559,7 @@
       "longitude": -73.9436212554574
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 503000206,
       "latitude": 40.68764908091782,
       "binStatus": "Available",
@@ -1946,10 +1946,10 @@
       "longitude": -73.95310335432222
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 0,
       "serialNumber": 503000262,
       "latitude": 40.724898542003324,
-      "binStatus": "Nearly Full",
+      "binStatus": "Available",
       "description": "BIN 254 - SW 6 Ave & Dominick St",
       "availableForUse": true,
       "longitude": -74.00471196197128
@@ -2162,7 +2162,7 @@
       "longitude": -73.9421078891929
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 0,
       "serialNumber": 505100078,
       "latitude": 40.77113841285102,
       "binStatus": "Available",
@@ -2369,10 +2369,10 @@
       "longitude": -74.00526163846435
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 0,
       "serialNumber": 505100027,
       "latitude": 40.718798372078474,
-      "binStatus": "Nearly Full",
+      "binStatus": "Available",
       "description": "BIN 250 - SE W Broadway & Franklin St",
       "availableForUse": true,
       "longitude": -74.00657773017883
@@ -2423,7 +2423,7 @@
       "longitude": -74.00240702146108
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 0,
       "serialNumber": 505100009,
       "latitude": 40.7164061130962,
       "binStatus": "Available",
@@ -2666,12 +2666,12 @@
       "longitude": -73.9535946787067
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 0,
       "serialNumber": 505100059,
       "latitude": 40.718786682897935,
-      "binStatus": "Full",
+      "binStatus": "Available",
       "description": "BIN 244 - SW Greenwich St & Harrison St",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -74.01055041700602
     },
     {
@@ -2720,7 +2720,7 @@
       "longitude": -73.9546898742066
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 0,
       "serialNumber": 505100089,
       "latitude": 40.77432420761129,
       "binStatus": "Available",
@@ -2729,7 +2729,7 @@
       "longitude": -73.98491537817117
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 0,
       "serialNumber": 505100096,
       "latitude": 40.771722793444425,
       "binStatus": "Available",
@@ -3026,7 +3026,7 @@
       "longitude": -73.98526381245097
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 0,
       "serialNumber": 505100097,
       "latitude": 40.72556517707213,
       "binStatus": "Available",
@@ -3206,7 +3206,7 @@
       "longitude": -73.98511663223668
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 0,
       "serialNumber": 505100137,
       "latitude": 40.743433331711394,
       "binStatus": "Available",
@@ -3215,7 +3215,7 @@
       "longitude": -73.98834843188524
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 0,
       "serialNumber": 505100120,
       "latitude": 40.77519164031714,
       "binStatus": "Available",
@@ -3278,7 +3278,7 @@
       "longitude": -73.99506114554103
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 0,
       "serialNumber": 505100150,
       "latitude": 40.729589714367386,
       "binStatus": "Available",
@@ -3305,12 +3305,12 @@
       "longitude": -73.98062197434946
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 100,
       "serialNumber": 505100118,
       "latitude": 40.769273183978356,
-      "binStatus": "Available",
+      "binStatus": "Full",
       "description": "BIN 355 - NW 9 Ave & W 59 St",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.98478295989479
     },
     {
@@ -3341,7 +3341,7 @@
       "longitude": -73.98222696429983
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 0,
       "serialNumber": 505100112,
       "latitude": 40.741522457226544,
       "binStatus": "Available",
