@@ -461,7 +461,7 @@
       "longitude": -73.92958357930183
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000059,
       "latitude": 40.87534010684036,
       "binStatus": "Available",
@@ -1751,9 +1751,9 @@
       "latestFullness": 0,
       "serialNumber": 503000230,
       "latitude": 40.85345386692205,
-      "binStatus": "Out of Service",
+      "binStatus": "Available",
       "description": "BIN 86 - SW E 187 St & Southern Blvd",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.88198409229517
     },
     {
@@ -3359,7 +3359,7 @@
       "longitude": -73.9799463692325
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 505100115,
       "latitude": 40.78876861933553,
       "binStatus": "Available",
@@ -3449,10 +3449,10 @@
       "longitude": -73.95379403122635
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100193,
       "latitude": 40.747515134439,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 428 - SE Center Blvd & 46 Ave",
       "availableForUse": true,
       "longitude": -73.95625774369917
