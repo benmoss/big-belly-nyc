@@ -623,7 +623,7 @@
       "longitude": -73.9660133421421
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000039,
       "latitude": 40.82647613312916,
       "binStatus": "Available",
@@ -1802,7 +1802,7 @@
       "longitude": -73.94181042909622
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 503000234,
       "latitude": 40.62214723793611,
       "binStatus": "Available",
@@ -2228,9 +2228,9 @@
       "latestFullness": 0,
       "serialNumber": 505100005,
       "latitude": 40.70815249011514,
-      "binStatus": "Available",
+      "binStatus": "Out of Service",
       "description": "BIN 246 - NW Peck Slip & Water St",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -74.00206860154867
     },
     {
@@ -2999,10 +2999,10 @@
       "longitude": -73.9728414833659
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100101,
       "latitude": 40.77228183243049,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 283 - SW 3 Ave & E 76 St",
       "availableForUse": true,
       "longitude": -73.95896668550664
@@ -3350,7 +3350,7 @@
       "longitude": -73.98135114745574
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 505100119,
       "latitude": 40.77611866432287,
       "binStatus": "Available",
