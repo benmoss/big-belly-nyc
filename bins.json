@@ -155,15 +155,6 @@
       "longitude": -73.91430705785751
     },
     {
-      "latestFullness": 0,
-      "serialNumber": 3590002,
-      "latitude": 40.7214226207243,
-      "binStatus": "Out of Service",
-      "description": "BIN 263 - NW Elizabeth St & Spring St",
-      "availableForUse": false,
-      "longitude": -73.99473222632365
-    },
-    {
       "latestFullness": 20,
       "serialNumber": 3590006,
       "latitude": 40.88282894758702,
@@ -407,10 +398,10 @@
       "longitude": -73.88136584311724
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 503000022,
       "latitude": 40.866201512573475,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 64 - SE Broadway & Academy St",
       "availableForUse": true,
       "longitude": -73.92508216202259
@@ -1541,10 +1532,10 @@
       "longitude": -73.99644857287824
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 503000191,
       "latitude": 40.80924767164232,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 421 - NE W 123 St & St Nicholas Ave",
       "availableForUse": true,
       "longitude": -73.95281285047531
@@ -1577,7 +1568,7 @@
       "longitude": -73.85669823735952
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000211,
       "latitude": 40.83852110249066,
       "binStatus": "Available",
@@ -1685,7 +1676,7 @@
       "longitude": -73.93744513392448
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 503000219,
       "latitude": 40.75685380877115,
       "binStatus": "Available",
@@ -2666,7 +2657,7 @@
       "longitude": -73.9535946787067
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 505100059,
       "latitude": 40.718786682897935,
       "binStatus": "Available",
@@ -2828,7 +2819,7 @@
       "longitude": -73.95335140977043
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 60,
       "serialNumber": 505100087,
       "latitude": 40.798370790247,
       "binStatus": "Available",
@@ -2981,7 +2972,7 @@
       "longitude": -73.97793704431773
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 40,
       "serialNumber": 505100100,
       "latitude": 40.773718493770346,
       "binStatus": "Available",
@@ -3098,7 +3089,7 @@
       "longitude": -73.96866042855898
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 505100103,
       "latitude": 40.72946703338854,
       "binStatus": "Available",
@@ -3456,6 +3447,15 @@
       "description": "BIN 428 - SE Center Blvd & 46 Ave",
       "availableForUse": true,
       "longitude": -73.95625774369917
+    },
+    {
+      "latestFullness": 0,
+      "serialNumber": 505100215,
+      "latitude": 40.72144381409581,
+      "binStatus": "Available",
+      "description": "BIN 263 - NW Elizabeth St & Spring St",
+      "availableForUse": true,
+      "longitude": -73.99472179957999
     },
     {
       "latestFullness": 0,
