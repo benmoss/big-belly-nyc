@@ -173,7 +173,7 @@
       "longitude": -73.98393251001835
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 40,
       "serialNumber": 503000029,
       "latitude": 40.80195426083978,
       "binStatus": "Available",
@@ -866,12 +866,12 @@
       "longitude": -73.91521599143744
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 503000093,
       "latitude": 40.76223009405083,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 01 - NE 31 Ave & 37 St",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.91863731029024
     },
     {
@@ -1451,7 +1451,7 @@
       "longitude": -73.91690745949745
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000192,
       "latitude": 40.852149853823676,
       "binStatus": "Available",
@@ -1532,7 +1532,7 @@
       "longitude": -73.99644857287824
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 40,
       "serialNumber": 503000191,
       "latitude": 40.80924767164232,
       "binStatus": "Available",
@@ -1586,12 +1586,12 @@
       "longitude": -73.95389076322317
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 503000208,
       "latitude": 40.683812617651405,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 133 - NW Howard Ave & Macdonough St",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.92018981277943
     },
     {
@@ -1901,10 +1901,10 @@
       "longitude": -73.95329229533672
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 503000255,
       "latitude": 40.67155276024617,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 206 - SE Schenectady Ave & Sterling Place",
       "availableForUse": true,
       "longitude": -73.93360521644354
@@ -2243,7 +2243,7 @@
       "longitude": -73.9538887710376
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 505100014,
       "latitude": 40.78010940688603,
       "binStatus": "Available",
@@ -2963,10 +2963,10 @@
       "longitude": -73.9614462477865
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100091,
       "latitude": 40.74913400691257,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 297 - NW Lexington Ave & E 38 St",
       "availableForUse": true,
       "longitude": -73.97793704431773
@@ -3071,7 +3071,7 @@
       "longitude": -73.98189624416173
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 505100114,
       "latitude": 40.76550445210295,
       "binStatus": "Available",
@@ -3161,10 +3161,10 @@
       "longitude": -73.99037571712044
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100136,
       "latitude": 40.764814574064715,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 354 - NE 9 Ave & W 52 St",
       "availableForUse": true,
       "longitude": -73.98776125245462
