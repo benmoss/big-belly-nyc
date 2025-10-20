@@ -11,7 +11,7 @@
       "longitude": -73.9180913195014
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 3590010,
       "latitude": 40.74060865008307,
       "binStatus": "Available",
@@ -1325,7 +1325,7 @@
       "longitude": -73.91751361469018
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 503000153,
       "latitude": 40.798054852781554,
       "binStatus": "Available",
@@ -1433,12 +1433,12 @@
       "longitude": -73.93454968929291
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 80,
       "serialNumber": 503000184,
       "latitude": 40.673104182956976,
-      "binStatus": "Full",
+      "binStatus": "Nearly Full",
       "description": "BIN 189 - NE Underhill Ave & Eastern Parkway",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.96755293011665
     },
     {
@@ -2162,7 +2162,7 @@
       "longitude": -73.98717944724858
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 505100039,
       "latitude": 40.781609451116324,
       "binStatus": "Available",
@@ -2171,7 +2171,7 @@
       "longitude": -73.94892745726821
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 60,
       "serialNumber": 505100018,
       "latitude": 40.77294782166341,
       "binStatus": "Available",
@@ -2297,7 +2297,7 @@
       "longitude": -73.99051628208568
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 505100008,
       "latitude": 40.7391347154904,
       "binStatus": "Available",
@@ -2414,7 +2414,7 @@
       "longitude": -74.00240702146108
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 60,
       "serialNumber": 505100009,
       "latitude": 40.7164061130962,
       "binStatus": "Available",
@@ -2423,7 +2423,7 @@
       "longitude": -74.0109745413065
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 505100023,
       "latitude": 40.7346470054958,
       "binStatus": "Available",
@@ -2522,7 +2522,7 @@
       "longitude": -74.0077318323766
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 505100061,
       "latitude": 40.70860458493924,
       "binStatus": "Available",
@@ -2531,7 +2531,7 @@
       "longitude": -74.0108494516408
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 505100033,
       "latitude": 40.78070495280861,
       "binStatus": "Available",
@@ -2621,12 +2621,12 @@
       "longitude": -74.0007785662345
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 505100064,
       "latitude": 40.718560301291866,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 261 - NW Hester St & Baxter St",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.99876398340452
     },
     {
@@ -2684,7 +2684,7 @@
       "longitude": -73.96450973157151
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 505100056,
       "latitude": 40.77779121756704,
       "binStatus": "Available",
@@ -2765,7 +2765,7 @@
       "longitude": -73.97379656746796
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 505100095,
       "latitude": 40.74408502157723,
       "binStatus": "Available",
@@ -2927,7 +2927,7 @@
       "longitude": -73.92903912094495
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 505100085,
       "latitude": 40.690904435343946,
       "binStatus": "Available",
@@ -2981,7 +2981,7 @@
       "longitude": -73.95966351954947
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 60,
       "serialNumber": 505100102,
       "latitude": 40.74448956998408,
       "binStatus": "Available",
@@ -3242,7 +3242,7 @@
       "longitude": -73.95175657391553
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 505100121,
       "latitude": 40.7909709189525,
       "binStatus": "Available",
@@ -3440,10 +3440,10 @@
       "longitude": -73.95379403122635
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100193,
       "latitude": 40.747515134439,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 428 - SE Center Blvd & 46 Ave",
       "availableForUse": true,
       "longitude": -73.95625774369917
@@ -3512,7 +3512,7 @@
       "longitude": -73.9528896218117
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 505100202,
       "latitude": 40.81125089255355,
       "binStatus": "Available",
