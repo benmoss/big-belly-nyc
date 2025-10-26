@@ -83,7 +83,7 @@
       "longitude": -73.90727262943983
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 3590015,
       "latitude": 40.746483770342856,
       "binStatus": "Available",
@@ -101,7 +101,7 @@
       "longitude": -73.92166045665941
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 3590012,
       "latitude": 40.884080646656564,
       "binStatus": "Available",
@@ -191,7 +191,7 @@
       "longitude": -73.92021738757299
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 40,
       "serialNumber": 503000002,
       "latitude": 40.802624362593846,
       "binStatus": "Available",
@@ -227,7 +227,7 @@
       "longitude": -73.90916280189015
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000005,
       "latitude": 40.68477302089155,
       "binStatus": "Available",
@@ -371,7 +371,7 @@
       "longitude": -73.94016187638044
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 503000032,
       "latitude": 40.76149921367936,
       "binStatus": "Available",
@@ -452,7 +452,7 @@
       "longitude": -73.87542713633172
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 503000060,
       "latitude": 40.81491836063367,
       "binStatus": "Available",
@@ -479,7 +479,7 @@
       "longitude": -73.90902053010791
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000055,
       "latitude": 40.85039540597644,
       "binStatus": "Available",
@@ -587,7 +587,7 @@
       "longitude": -73.95370233803988
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000043,
       "latitude": 40.804732620856896,
       "binStatus": "Available",
@@ -749,7 +749,7 @@
       "longitude": -73.92632732264548
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 503000070,
       "latitude": 40.83161371635521,
       "binStatus": "Available",
@@ -866,10 +866,10 @@
       "longitude": -73.91521599143744
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 503000093,
       "latitude": 40.76223009405083,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 01 - NE 31 Ave & 37 St",
       "availableForUse": true,
       "longitude": -73.91863731029024
@@ -920,7 +920,7 @@
       "longitude": -73.91744524240494
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000096,
       "latitude": 40.8721462108312,
       "binStatus": "Available",
@@ -1010,10 +1010,10 @@
       "longitude": -73.92586905509233
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 503000138,
       "latitude": 40.67875013125626,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 191 - SE Underhill Ave & Bergen St",
       "availableForUse": true,
       "longitude": -73.96523348987103
@@ -1370,7 +1370,7 @@
       "longitude": -73.941904976964
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 503000179,
       "latitude": 40.67617742416484,
       "binStatus": "Available",
@@ -1478,7 +1478,7 @@
       "longitude": -73.9536564052105
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 503000194,
       "latitude": 40.719136863283865,
       "binStatus": "Available",
@@ -2063,7 +2063,7 @@
       "longitude": -73.95756002515554
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 40,
       "serialNumber": 503000273,
       "latitude": 40.67710908208188,
       "binStatus": "Available",
@@ -2441,7 +2441,7 @@
       "longitude": -74.00274561377924
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 0,
       "serialNumber": 505100047,
       "latitude": 40.735409744769015,
       "binStatus": "Available",
@@ -2522,7 +2522,7 @@
       "longitude": -74.0077318323766
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 505100061,
       "latitude": 40.70860458493924,
       "binStatus": "Available",
@@ -2666,7 +2666,7 @@
       "longitude": -74.01055041700602
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 40,
       "serialNumber": 505100054,
       "latitude": 40.71429622184293,
       "binStatus": "Available",
@@ -2783,7 +2783,7 @@
       "longitude": -73.98593114887535
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 505100083,
       "latitude": 40.72496280254391,
       "binStatus": "Available",
@@ -2792,10 +2792,10 @@
       "longitude": -73.99017938079861
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 0,
       "serialNumber": 505100080,
       "latitude": 40.737799770287374,
-      "binStatus": "Nearly Full",
+      "binStatus": "Available",
       "description": "BIN 389 - SE E 23 St & 2 Ave",
       "availableForUse": true,
       "longitude": -73.98087015968837
@@ -2900,7 +2900,7 @@
       "longitude": -73.96902091534423
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 505100065,
       "latitude": 40.769098236486705,
       "binStatus": "Available",
@@ -3089,7 +3089,7 @@
       "longitude": -73.96866042855898
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 0,
       "serialNumber": 505100103,
       "latitude": 40.72946703338854,
       "binStatus": "Available",
@@ -3107,7 +3107,7 @@
       "longitude": -73.9616337989868
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 0,
       "serialNumber": 505100098,
       "latitude": 40.741609115050146,
       "binStatus": "Available",
@@ -3188,7 +3188,7 @@
       "longitude": -73.99302401909992
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 0,
       "serialNumber": 505100142,
       "latitude": 40.73887358712755,
       "binStatus": "Available",
@@ -3296,7 +3296,7 @@
       "longitude": -73.98062197434946
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 505100118,
       "latitude": 40.769273183978356,
       "binStatus": "Available",
@@ -3323,7 +3323,7 @@
       "longitude": -73.99363601223293
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 0,
       "serialNumber": 505100148,
       "latitude": 40.735894111584756,
       "binStatus": "Available",
@@ -3332,7 +3332,7 @@
       "longitude": -73.98222696429983
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 0,
       "serialNumber": 505100112,
       "latitude": 40.741522457226544,
       "binStatus": "Available",
@@ -3359,10 +3359,10 @@
       "longitude": -73.97587379945203
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 0,
       "serialNumber": 505100128,
       "latitude": 40.72662593513809,
-      "binStatus": "Nearly Full",
+      "binStatus": "Available",
       "description": "BIN 327 - SW Bond St & Lafayette St",
       "availableForUse": true,
       "longitude": -73.99427816002996
@@ -3521,7 +3521,7 @@
       "longitude": -73.95758831602339
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 505100205,
       "latitude": 40.74555707262847,
       "binStatus": "Available",
@@ -3530,7 +3530,7 @@
       "longitude": -73.95699620153725
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 505100199,
       "latitude": 40.74873869958214,
       "binStatus": "Available",
