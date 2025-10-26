@@ -2,7 +2,7 @@
   "errorCode": "STATUS_OK",
   "compostAssets": [
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 3590004,
       "latitude": 40.740982515732185,
       "binStatus": "Available",
@@ -1946,12 +1946,12 @@
       "longitude": -74.00471196197128
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 80,
       "serialNumber": 503000263,
       "latitude": 40.67867868263691,
-      "binStatus": "Full",
+      "binStatus": "Nearly Full",
       "description": "BIN 220 - NE Flatbush Ave & Prospect Place",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.97343333810568
     },
     {
@@ -2828,7 +2828,7 @@
       "longitude": -73.96888427642509
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 505100093,
       "latitude": 40.7953036151945,
       "binStatus": "Available",
