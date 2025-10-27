@@ -371,12 +371,12 @@
       "longitude": -73.94016187638044
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 0,
       "serialNumber": 503000032,
       "latitude": 40.76149921367936,
-      "binStatus": "Full",
+      "binStatus": "Available",
       "description": "BIN 17 - SE 38 St & 31 Ave",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.91796863240839
     },
     {
@@ -443,7 +443,7 @@
       "longitude": -73.92958357930183
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 503000059,
       "latitude": 40.87534010684036,
       "binStatus": "Available",
@@ -623,7 +623,7 @@
       "longitude": -73.89476414769888
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 0,
       "serialNumber": 503000038,
       "latitude": 40.763350881029346,
       "binStatus": "Available",
@@ -866,10 +866,10 @@
       "longitude": -73.91521599143744
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 0,
       "serialNumber": 503000093,
       "latitude": 40.76223009405083,
-      "binStatus": "Nearly Full",
+      "binStatus": "Available",
       "description": "BIN 01 - NE 31 Ave & 37 St",
       "availableForUse": true,
       "longitude": -73.91863731029024
@@ -1640,7 +1640,7 @@
       "longitude": -73.89510378241539
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 0,
       "serialNumber": 503000213,
       "latitude": 40.76718414067168,
       "binStatus": "Available",
@@ -2081,7 +2081,7 @@
       "longitude": -73.94352234899998
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 0,
       "serialNumber": 503000277,
       "latitude": 40.76236771749731,
       "binStatus": "Available",
@@ -2540,7 +2540,7 @@
       "longitude": -73.97665659471008
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 0,
       "serialNumber": 505100062,
       "latitude": 40.768787421482166,
       "binStatus": "Available",
@@ -3044,7 +3044,7 @@
       "longitude": -73.95414933006201
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 0,
       "serialNumber": 505100124,
       "latitude": 40.74132799277233,
       "binStatus": "Available",
@@ -3233,7 +3233,7 @@
       "longitude": -74.00261308139008
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 0,
       "serialNumber": 505100149,
       "latitude": 40.77380204413203,
       "binStatus": "Available",
@@ -3260,10 +3260,10 @@
       "longitude": -73.97196531694908
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100140,
       "latitude": 40.760441717606135,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 351 - NW 10 Ave & W 43 St",
       "availableForUse": true,
       "longitude": -73.99506114554103
