@@ -371,12 +371,12 @@
       "longitude": -73.94016187638044
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 0,
       "serialNumber": 503000032,
       "latitude": 40.76149921367936,
-      "binStatus": "Full",
+      "binStatus": "Available",
       "description": "BIN 17 - SE 38 St & 31 Ave",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.91796863240839
     },
     {
@@ -560,7 +560,7 @@
       "longitude": -73.92916951328516
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000041,
       "latitude": 40.81994765597217,
       "binStatus": "Available",
@@ -2873,7 +2873,7 @@
       "longitude": -73.93435451155901
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 505100073,
       "latitude": 40.80348382274017,
       "binStatus": "Available",
