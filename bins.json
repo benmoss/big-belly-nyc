@@ -2,7 +2,7 @@
   "errorCode": "STATUS_OK",
   "compostAssets": [
     {
-      "latestFullness": 0,
+      "latestFullness": 40,
       "serialNumber": 3590004,
       "latitude": 40.740982515732185,
       "binStatus": "Available",
@@ -1973,7 +1973,7 @@
       "longitude": -74.06930956989527
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 503000261,
       "latitude": 40.704219889937,
       "binStatus": "Available",
@@ -2378,12 +2378,12 @@
       "longitude": -74.00006544331396
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 505100022,
       "latitude": 40.73287635373648,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 334 - SW Hudson St & Christopher St",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -74.00655866692779
     },
     {
@@ -2909,7 +2909,7 @@
       "longitude": -73.94326507506806
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 505100109,
       "latitude": 40.80401808886133,
       "binStatus": "Available",
@@ -3296,10 +3296,10 @@
       "longitude": -73.98062197434946
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100118,
       "latitude": 40.769273183978356,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 355 - NW 9 Ave & W 59 St",
       "availableForUse": true,
       "longitude": -73.98478295989479
