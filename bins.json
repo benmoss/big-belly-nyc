@@ -416,7 +416,7 @@
       "longitude": -73.92383761703968
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 0,
       "serialNumber": 503000033,
       "latitude": 40.86054008940285,
       "binStatus": "Available",
@@ -884,7 +884,7 @@
       "longitude": -73.91863731029024
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000084,
       "latitude": 40.83612097520797,
       "binStatus": "Available",
@@ -1145,7 +1145,7 @@
       "longitude": -73.9155288040638
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000149,
       "latitude": 40.683936689634,
       "binStatus": "Available",
@@ -1253,10 +1253,10 @@
       "longitude": -73.9129939918858
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 503000160,
       "latitude": 40.6827719802296,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 140 - SW Throop Ave & Halsey St",
       "availableForUse": true,
       "longitude": -73.94101046025753
@@ -1559,7 +1559,7 @@
       "longitude": -73.9436212554574
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 60,
       "serialNumber": 503000206,
       "latitude": 40.68764908091782,
       "binStatus": "Available",
@@ -1577,7 +1577,7 @@
       "longitude": -73.85669823735952
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 0,
       "serialNumber": 503000211,
       "latitude": 40.83852110249066,
       "binStatus": "Available",
@@ -2306,7 +2306,7 @@
       "longitude": -73.99051628208568
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 0,
       "serialNumber": 505100008,
       "latitude": 40.7391347154904,
       "binStatus": "Available",
@@ -2792,7 +2792,7 @@
       "longitude": -73.98593114887535
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 505100083,
       "latitude": 40.72496280254391,
       "binStatus": "Available",
@@ -3368,12 +3368,12 @@
       "longitude": -73.97587379945203
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 505100128,
       "latitude": 40.72662593513809,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 327 - SW Bond St & Lafayette St",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.99427816002996
     },
     {
@@ -3503,7 +3503,7 @@
       "longitude": -73.94037982165541
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 505100198,
       "latitude": 40.75109171826033,
       "binStatus": "Available",
