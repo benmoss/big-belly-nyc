@@ -29,10 +29,10 @@
       "longitude": -73.92003797195594
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 3590017,
       "latitude": 40.7447717419058,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 403 - SW 43 Ave & 47 St",
       "availableForUse": true,
       "longitude": -73.9175371080637
@@ -65,16 +65,16 @@
       "longitude": -73.91328877313748
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 3590001,
       "latitude": 40.746548059294376,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "Bin 396 - NE 64 St & 39 Ave",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.89971678571764
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 3590019,
       "latitude": 40.745991757187745,
       "binStatus": "Available",
@@ -605,7 +605,7 @@
       "longitude": -73.9623499576847
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 503000040,
       "latitude": 40.80557429253741,
       "binStatus": "Available",
@@ -1073,10 +1073,10 @@
       "longitude": -73.93525745719671
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 503000144,
       "latitude": 40.7019656047617,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 146 - SW Central Ave & Noll St",
       "availableForUse": true,
       "longitude": -73.93217660486698
@@ -1229,9 +1229,9 @@
       "latestFullness": 0,
       "serialNumber": 503000126,
       "latitude": 40.69237838108274,
-      "binStatus": "Out of Service",
+      "binStatus": "Available",
       "description": "BIN 161 - NW Bushwick Ave & Menahan St",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.92284251749516
     },
     {
@@ -1334,10 +1334,10 @@
       "longitude": -73.91751361469018
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 503000153,
       "latitude": 40.798054852781554,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 32 - SW W 112 St & 5 Ave",
       "availableForUse": true,
       "longitude": -73.94852463470318
@@ -1379,10 +1379,10 @@
       "longitude": -73.941904976964
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 503000179,
       "latitude": 40.67617742416484,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 190 - NE Underhill Ave & Park Place",
       "availableForUse": true,
       "longitude": -73.96627854555845
@@ -1487,7 +1487,7 @@
       "longitude": -73.9536564052105
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 503000194,
       "latitude": 40.719136863283865,
       "binStatus": "Available",
@@ -1550,10 +1550,10 @@
       "longitude": -73.95281285047531
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 503000207,
       "latitude": 40.68175217538853,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 124 - SW Tompkins Ave & Macon St",
       "availableForUse": true,
       "longitude": -73.9436212554574
@@ -2423,7 +2423,7 @@
       "longitude": -74.01704739779234
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 60,
       "serialNumber": 505100007,
       "latitude": 40.730315325690235,
       "binStatus": "Available",
@@ -2828,7 +2828,7 @@
       "longitude": -73.95335140977043
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 60,
       "serialNumber": 505100087,
       "latitude": 40.798370790247,
       "binStatus": "Available",
@@ -3134,7 +3134,7 @@
       "longitude": -73.97328253713644
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 505100133,
       "latitude": 40.79786101513957,
       "binStatus": "Available",
@@ -3323,7 +3323,7 @@
       "longitude": -73.99363601223293
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 505100148,
       "latitude": 40.735894111584756,
       "binStatus": "Available",
@@ -3404,7 +3404,7 @@
       "longitude": -73.95933442215124
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 60,
       "serialNumber": 505100194,
       "latitude": 40.7519804629536,
       "binStatus": "Available",
