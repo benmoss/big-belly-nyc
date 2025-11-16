@@ -659,12 +659,12 @@
       "longitude": -73.93176387995481
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 80,
       "serialNumber": 503000036,
       "latitude": 40.6778510426927,
-      "binStatus": "Full",
+      "binStatus": "Nearly Full",
       "description": "BIN 187 - NW Vanderbilt Ave & Prospect Place",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.96890208125114
     },
     {
@@ -875,12 +875,12 @@
       "longitude": -73.91521599143744
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 503000093,
       "latitude": 40.76223009405083,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 01 - NE 31 Ave & 37 St",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.91863731029024
     },
     {
@@ -3359,7 +3359,7 @@
       "longitude": -73.97587379945203
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 505100128,
       "latitude": 40.72662593513809,
       "binStatus": "Available",
