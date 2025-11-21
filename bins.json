@@ -2,7 +2,7 @@
   "errorCode": "STATUS_OK",
   "compostAssets": [
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 3590004,
       "latitude": 40.740982515732185,
       "binStatus": "Available",
@@ -614,7 +614,7 @@
       "longitude": -73.9660133421421
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 503000039,
       "latitude": 40.82647613312916,
       "binStatus": "Available",
@@ -749,7 +749,7 @@
       "longitude": -74.07695855945349
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000067,
       "latitude": 40.76558557637679,
       "binStatus": "Available",
@@ -1235,7 +1235,7 @@
       "longitude": -73.92284251749516
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 0,
       "serialNumber": 503000159,
       "latitude": 40.68815347424036,
       "binStatus": "Available",
@@ -1379,7 +1379,7 @@
       "longitude": -73.941904976964
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 40,
       "serialNumber": 503000179,
       "latitude": 40.67617742416484,
       "binStatus": "Available",
@@ -1793,7 +1793,7 @@
       "longitude": -73.89310654252768
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 0,
       "serialNumber": 503000186,
       "latitude": 40.6858662258759,
       "binStatus": "Available",
@@ -1883,7 +1883,7 @@
       "longitude": -73.90651490539312
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 60,
       "serialNumber": 503000246,
       "latitude": 40.67049107908947,
       "binStatus": "Available",
@@ -1946,7 +1946,7 @@
       "longitude": -73.96024390254057
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 0,
       "serialNumber": 503000264,
       "latitude": 40.67279917738334,
       "binStatus": "Available",
@@ -2189,7 +2189,7 @@
       "longitude": -73.94892745726821
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 505100018,
       "latitude": 40.77294782166341,
       "binStatus": "Available",
@@ -2333,10 +2333,10 @@
       "longitude": -74.00212241864305
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100021,
       "latitude": 40.775317712188475,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 424 - NE E 85 St & York Ave",
       "availableForUse": true,
       "longitude": -73.94749872386456
@@ -2603,7 +2603,7 @@
       "longitude": -73.95865606044225
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 40,
       "serialNumber": 505100063,
       "latitude": 40.71256505742161,
       "binStatus": "Available",
@@ -2828,10 +2828,10 @@
       "longitude": -73.95335140977043
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100087,
       "latitude": 40.798370790247,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 384 - SE Broadway & W 102 St",
       "availableForUse": true,
       "longitude": -73.96888427642509
@@ -2873,7 +2873,7 @@
       "longitude": -73.97906581678058
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 505100077,
       "latitude": 40.84610840833878,
       "binStatus": "Available",
@@ -3251,7 +3251,7 @@
       "longitude": -73.97276669918094
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 505100117,
       "latitude": 40.78193045956682,
       "binStatus": "Available",
@@ -3296,7 +3296,7 @@
       "longitude": -73.98062197434946
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 60,
       "serialNumber": 505100118,
       "latitude": 40.769273183978356,
       "binStatus": "Available",
@@ -3359,12 +3359,12 @@
       "longitude": -73.97587379945203
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 505100128,
       "latitude": 40.72662593513809,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 327 - SW Bond St & Lafayette St",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.99427816002996
     },
     {
