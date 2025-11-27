@@ -398,7 +398,7 @@
       "longitude": -73.88136584311724
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000022,
       "latitude": 40.866201512573475,
       "binStatus": "Available",
@@ -704,7 +704,7 @@
       "longitude": -73.93193346987313
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000062,
       "latitude": 40.80507840250284,
       "binStatus": "Available",
@@ -731,12 +731,12 @@
       "longitude": -73.92510951539327
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 503000064,
       "latitude": 40.78210605168062,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 50 - NW E 91 St & 3 Ave",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.95172468826313
     },
     {
@@ -1820,7 +1820,7 @@
       "longitude": -74.07850451767445
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 503000239,
       "latitude": 40.69389322166022,
       "binStatus": "Available",
@@ -1856,7 +1856,7 @@
       "longitude": -73.93390157678125
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000241,
       "latitude": 40.6774118895118,
       "binStatus": "Available",
@@ -1910,12 +1910,12 @@
       "longitude": -73.95603641084294
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 503000257,
       "latitude": 40.670259668497785,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 214 - NW Rogers Ave & Eastern Parkway",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.95334862172604
     },
     {
@@ -2045,7 +2045,7 @@
       "longitude": -73.92796251922846
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000271,
       "latitude": 40.74194368731704,
       "binStatus": "Available",
@@ -2477,7 +2477,7 @@
       "longitude": -73.99849525644926
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 505100029,
       "latitude": 40.710663476710224,
       "binStatus": "Available",
@@ -2666,12 +2666,12 @@
       "longitude": -73.9535946787067
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 505100059,
       "latitude": 40.718786682897935,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 244 - SW Greenwich St & Harrison St",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -74.01055041700602
     },
     {
@@ -2846,10 +2846,10 @@
       "longitude": -73.97107263571145
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100107,
       "latitude": 40.73674344375692,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 308 - NW Park Ave S & E 17 St",
       "availableForUse": true,
       "longitude": -73.98908566787568
@@ -3143,7 +3143,7 @@
       "longitude": -73.96400324926272
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 40,
       "serialNumber": 505100143,
       "latitude": 40.77663888275979,
       "binStatus": "Available",
