@@ -1856,12 +1856,12 @@
       "longitude": -73.93390157678125
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 0,
       "serialNumber": 503000241,
       "latitude": 40.6774118895118,
-      "binStatus": "Full",
+      "binStatus": "Available",
       "description": "BIN 218 - SE Classon Ave & Bergen St",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.95897587267723
     },
     {
@@ -1937,7 +1937,7 @@
       "longitude": -74.14217077195644
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 0,
       "serialNumber": 503000244,
       "latitude": 40.67498593224985,
       "binStatus": "Available",
@@ -2054,10 +2054,10 @@
       "longitude": -73.92471789027536
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 503000267,
       "latitude": 40.67165371443654,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 219 - SE Classon Ave & Eastern Parkway",
       "availableForUse": true,
       "longitude": -73.96107707172632
@@ -2072,7 +2072,7 @@
       "longitude": -73.93935050815344
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 0,
       "serialNumber": 503000276,
       "latitude": 40.671487915534485,
       "binStatus": "Available",
