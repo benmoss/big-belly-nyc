@@ -56,12 +56,12 @@
       "longitude": -73.92984341830015
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 0,
       "serialNumber": 3590020,
       "latitude": 40.746148800069264,
-      "binStatus": "Out of Service",
+      "binStatus": "Available",
       "description": "BIN 400 - NE 51 St & Skillman Ave",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.91328877313748
     },
     {
@@ -299,7 +299,7 @@
       "longitude": -73.93766775727272
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 0,
       "serialNumber": 503000013,
       "latitude": 40.86843300418909,
       "binStatus": "Available",
@@ -362,10 +362,10 @@
       "longitude": -73.93805466592312
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 503000006,
       "latitude": 40.855684792533886,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 61 - NE Cabrini Blvd & W 187 St",
       "availableForUse": true,
       "longitude": -73.93778998622929
@@ -1595,7 +1595,7 @@
       "longitude": -73.95389076322317
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 503000208,
       "latitude": 40.683812617651405,
       "binStatus": "Available",
@@ -1910,7 +1910,7 @@
       "longitude": -73.95603641084294
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000257,
       "latitude": 40.670259668497785,
       "binStatus": "Available",
@@ -2315,7 +2315,7 @@
       "longitude": -73.99051628208568
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 0,
       "serialNumber": 505100008,
       "latitude": 40.7391347154904,
       "binStatus": "Available",
@@ -3197,7 +3197,7 @@
       "longitude": -73.98511663223668
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 40,
       "serialNumber": 505100137,
       "latitude": 40.743433331711394,
       "binStatus": "Available",
@@ -3350,7 +3350,7 @@
       "longitude": -73.9799463692325
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 505100115,
       "latitude": 40.78876861933553,
       "binStatus": "Available",
