@@ -839,7 +839,7 @@
       "longitude": -73.93855724483728
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 0,
       "serialNumber": 503000085,
       "latitude": 40.809873965661374,
       "binStatus": "Available",
@@ -1055,7 +1055,7 @@
       "longitude": -73.90436712652445
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 503000136,
       "latitude": 40.67726495043478,
       "binStatus": "Available",
@@ -1181,16 +1181,16 @@
       "longitude": -73.91374111175537
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 503000164,
       "latitude": 40.69660505362728,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 164 - NE Bushwick Ave & Suydam St",
       "availableForUse": true,
       "longitude": -73.93099308013916
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 503000150,
       "latitude": 40.67358758069033,
       "binStatus": "Available",
@@ -1442,7 +1442,7 @@
       "longitude": -73.93454968929291
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 60,
       "serialNumber": 503000184,
       "latitude": 40.673104182956976,
       "binStatus": "Available",
@@ -1559,7 +1559,7 @@
       "longitude": -73.9436212554574
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 503000206,
       "latitude": 40.68764908091782,
       "binStatus": "Available",
@@ -1568,7 +1568,7 @@
       "longitude": -73.94487351179123
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 503000198,
       "latitude": 40.82896269217192,
       "binStatus": "Available",
@@ -1829,10 +1829,10 @@
       "longitude": -73.94294936209917
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 503000240,
       "latitude": 40.67428152112551,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 198 - NW New York Ave & Prospect Place",
       "availableForUse": true,
       "longitude": -73.94742764532566
@@ -1910,12 +1910,12 @@
       "longitude": -73.95603641084294
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 503000257,
       "latitude": 40.670259668497785,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 214 - NW Rogers Ave & Eastern Parkway",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.95334862172604
     },
     {
@@ -2261,7 +2261,7 @@
       "longitude": -73.9538887710376
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 0,
       "serialNumber": 505100014,
       "latitude": 40.78010940688603,
       "binStatus": "Available",
@@ -2342,7 +2342,7 @@
       "longitude": -73.94749872386456
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 0,
       "serialNumber": 505100004,
       "latitude": 40.784683566970614,
       "binStatus": "Available",
@@ -2378,7 +2378,7 @@
       "longitude": -74.00526163846435
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 505100027,
       "latitude": 40.718798372078474,
       "binStatus": "Available",
@@ -2405,7 +2405,7 @@
       "longitude": -74.00655866692779
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 0,
       "serialNumber": 505100024,
       "latitude": 40.73699589127157,
       "binStatus": "Available",
@@ -2630,10 +2630,10 @@
       "longitude": -74.0007785662345
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 0,
       "serialNumber": 505100064,
       "latitude": 40.718560301291866,
-      "binStatus": "Nearly Full",
+      "binStatus": "Available",
       "description": "BIN 261 - NW Hester St & Baxter St",
       "availableForUse": true,
       "longitude": -73.99876398340452
@@ -2972,7 +2972,7 @@
       "longitude": -73.9614462477865
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 0,
       "serialNumber": 505100091,
       "latitude": 40.74913400691257,
       "binStatus": "Available",
@@ -3449,10 +3449,10 @@
       "longitude": -73.95625774369917
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 0,
       "serialNumber": 505100215,
       "latitude": 40.72144381409581,
-      "binStatus": "Nearly Full",
+      "binStatus": "Available",
       "description": "BIN 263 - NW Elizabeth St & Spring St",
       "availableForUse": true,
       "longitude": -73.99472179957999
