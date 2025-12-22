@@ -65,10 +65,10 @@
       "longitude": -73.91328877313748
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 3590001,
       "latitude": 40.746548059294376,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "Bin 396 - NE 64 St & 39 Ave",
       "availableForUse": true,
       "longitude": -73.89971678571764
@@ -128,10 +128,10 @@
       "longitude": -73.92154820692338
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 3590008,
       "latitude": 40.741475328023036,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 407 - NW 44 St & 47 Ave",
       "availableForUse": true,
       "longitude": -73.92099916934967
@@ -398,7 +398,7 @@
       "longitude": -73.88136584311724
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 40,
       "serialNumber": 503000022,
       "latitude": 40.866201512573475,
       "binStatus": "Available",
@@ -1037,16 +1037,16 @@
       "longitude": -73.92874404788017
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 503000131,
       "latitude": 40.688233556498346,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 143 - SW Nostrand Ave & Greene Ave",
       "availableForUse": true,
       "longitude": -73.95123168826103
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 503000134,
       "latitude": 40.693288204717966,
       "binStatus": "Available",
@@ -1145,7 +1145,7 @@
       "longitude": -73.9155288040638
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 60,
       "serialNumber": 503000149,
       "latitude": 40.683936689634,
       "binStatus": "Available",
@@ -2054,16 +2054,16 @@
       "longitude": -73.92471789027536
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 503000267,
       "latitude": 40.67165371443654,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 219 - SE Classon Ave & Eastern Parkway",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.96107707172632
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000260,
       "latitude": 40.670941691695425,
       "binStatus": "Available",
@@ -2243,7 +2243,7 @@
       "longitude": -74.00206860154867
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 40,
       "serialNumber": 505100050,
       "latitude": 40.77142731268294,
       "binStatus": "Available",
@@ -2252,7 +2252,7 @@
       "longitude": -73.95631212223466
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 505100041,
       "latitude": 40.7703540345238,
       "binStatus": "Available",
@@ -2360,7 +2360,7 @@
       "longitude": -74.00171998103215
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 40,
       "serialNumber": 505100051,
       "latitude": 40.72504420607064,
       "binStatus": "Available",
@@ -2459,7 +2459,7 @@
       "longitude": -74.00274561377924
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 40,
       "serialNumber": 505100047,
       "latitude": 40.735409744769015,
       "binStatus": "Available",
@@ -2576,7 +2576,7 @@
       "longitude": -73.94763141892919
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 505100034,
       "latitude": 40.7312028692314,
       "binStatus": "Available",
@@ -3224,7 +3224,7 @@
       "longitude": -73.98983752643882
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 505100141,
       "latitude": 40.74960582599206,
       "binStatus": "Available",
