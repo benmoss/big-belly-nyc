@@ -119,7 +119,7 @@
       "longitude": -73.90995819121599
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 3590011,
       "latitude": 40.73775011894243,
       "binStatus": "Available",
@@ -371,7 +371,7 @@
       "longitude": -73.93778998622929
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 503000023,
       "latitude": 40.84608111296369,
       "binStatus": "Available",
@@ -614,7 +614,7 @@
       "longitude": -73.9660133421421
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 503000039,
       "latitude": 40.82647613312916,
       "binStatus": "Available",
@@ -812,7 +812,7 @@
       "longitude": -73.92188027501106
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 503000081,
       "latitude": 40.79314191706756,
       "binStatus": "Available",
@@ -938,12 +938,12 @@
       "longitude": -73.88263955712318
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 503000097,
       "latitude": 40.7672928325272,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 356 - NE 9 Ave & W 56 St",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.98608167599193
     },
     {
@@ -1073,7 +1073,7 @@
       "longitude": -73.93525745719671
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000144,
       "latitude": 40.7019656047617,
       "binStatus": "Available",
@@ -1208,7 +1208,7 @@
       "longitude": -73.90844576060772
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 60,
       "serialNumber": 503000157,
       "latitude": 40.698774108656224,
       "binStatus": "Available",
@@ -1217,7 +1217,7 @@
       "longitude": -73.92600182443857
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 503000158,
       "latitude": 40.68871201420607,
       "binStatus": "Available",
@@ -1559,12 +1559,12 @@
       "longitude": -73.9436212554574
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 503000206,
       "latitude": 40.68764908091782,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 122 - SW Tompkins Ave & Quincy St",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.94487351179123
     },
     {
@@ -1649,7 +1649,7 @@
       "longitude": -73.89510378241539
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 503000213,
       "latitude": 40.76718414067168,
       "binStatus": "Available",
@@ -1811,7 +1811,7 @@
       "longitude": -73.94181042909622
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 503000234,
       "latitude": 40.62214723793611,
       "binStatus": "Available",
@@ -1838,7 +1838,7 @@
       "longitude": -73.94742764532566
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000237,
       "latitude": 40.69656438204717,
       "binStatus": "Available",
@@ -2288,7 +2288,7 @@
       "longitude": -73.98598125432342
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 505100049,
       "latitude": 40.70676048283521,
       "binStatus": "Available",
@@ -2333,7 +2333,7 @@
       "longitude": -74.00212241864305
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 60,
       "serialNumber": 505100021,
       "latitude": 40.775317712188475,
       "binStatus": "Available",
@@ -2531,10 +2531,10 @@
       "longitude": -73.95019042066897
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100044,
       "latitude": 40.73121273762785,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 335 - NE Morton St & Greenwich St",
       "availableForUse": true,
       "longitude": -74.0077318323766
@@ -2549,7 +2549,7 @@
       "longitude": -74.0108494516408
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 505100033,
       "latitude": 40.78070495280861,
       "binStatus": "Available",
@@ -2648,10 +2648,10 @@
       "longitude": -73.98896138948061
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100072,
       "latitude": 40.71327373740936,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 262 - NE Henry St & Pike St",
       "availableForUse": true,
       "longitude": -73.99222918721208
@@ -2666,10 +2666,10 @@
       "longitude": -73.9535946787067
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 80,
       "serialNumber": 505100059,
       "latitude": 40.718786682897935,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 244 - SW Greenwich St & Harrison St",
       "availableForUse": true,
       "longitude": -74.01055041700602
@@ -2837,7 +2837,7 @@
       "longitude": -73.96888427642509
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 60,
       "serialNumber": 505100093,
       "latitude": 40.7953036151945,
       "binStatus": "Available",
@@ -2972,10 +2972,10 @@
       "longitude": -73.9614462477865
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100091,
       "latitude": 40.74913400691257,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 297 - NW Lexington Ave & E 38 St",
       "availableForUse": true,
       "longitude": -73.97793704431773
@@ -2990,7 +2990,7 @@
       "longitude": -73.95966351954947
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 505100102,
       "latitude": 40.74448956998408,
       "binStatus": "Available",
@@ -3026,7 +3026,7 @@
       "longitude": -73.98526381245097
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 505100097,
       "latitude": 40.72556517707213,
       "binStatus": "Available",
@@ -3152,7 +3152,7 @@
       "longitude": -73.94652914221223
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 505100138,
       "latitude": 40.76639459170164,
       "binStatus": "Available",
@@ -3278,7 +3278,7 @@
       "longitude": -74.00684701383747
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 40,
       "serialNumber": 505100135,
       "latitude": 40.75913762952132,
       "binStatus": "Available",
@@ -3296,7 +3296,7 @@
       "longitude": -73.98062197434946
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 505100118,
       "latitude": 40.769273183978356,
       "binStatus": "Available",
@@ -3323,7 +3323,7 @@
       "longitude": -73.99363601223293
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 505100148,
       "latitude": 40.735894111584756,
       "binStatus": "Available",
@@ -3359,12 +3359,12 @@
       "longitude": -73.97587379945203
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 505100128,
       "latitude": 40.72662593513809,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 327 - SW Bond St & Lafayette St",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.99427816002996
     },
     {
