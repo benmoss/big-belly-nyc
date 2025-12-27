@@ -59,9 +59,9 @@
       "latestFullness": 0,
       "serialNumber": 3590020,
       "latitude": 40.746148800069264,
-      "binStatus": "Available",
+      "binStatus": "Out of Service",
       "description": "BIN 400 - NE 51 St & Skillman Ave",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.91328877313748
     },
     {
@@ -398,12 +398,12 @@
       "longitude": -73.88136584311724
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 503000022,
       "latitude": 40.866201512573475,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 64 - SE Broadway & Academy St",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.92508216202259
     },
     {
@@ -524,12 +524,12 @@
       "longitude": -73.94493098288339
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 503000049,
       "latitude": 40.792326106963955,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 46 - NW E 110 St & 1 Ave",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.93832288682462
     },
     {
@@ -821,7 +821,7 @@
       "longitude": -73.94825711846352
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 503000082,
       "latitude": 40.746466564173716,
       "binStatus": "Available",
@@ -1145,7 +1145,7 @@
       "longitude": -73.9155288040638
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 503000149,
       "latitude": 40.683936689634,
       "binStatus": "Available",
@@ -1370,7 +1370,7 @@
       "longitude": -73.91924198716879
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 503000178,
       "latitude": 40.671282700678354,
       "binStatus": "Available",
@@ -1379,10 +1379,10 @@
       "longitude": -73.941904976964
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 503000179,
       "latitude": 40.67617742416484,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 190 - NE Underhill Ave & Park Place",
       "availableForUse": true,
       "longitude": -73.96627854555845
@@ -1586,12 +1586,12 @@
       "longitude": -73.8490579649806
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 503000201,
       "latitude": 40.68428195430438,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 127 - SE Madison St & Bedford Ave",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.95389076322317
     },
     {
@@ -1982,7 +1982,7 @@
       "longitude": -73.93871281296015
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000250,
       "latitude": 40.61258951334761,
       "binStatus": "Available",
@@ -2423,12 +2423,12 @@
       "longitude": -74.01704739779234
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 505100007,
       "latitude": 40.730315325690235,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 333 - SE Carmine St & Bleeker St",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -74.00240702146108
     },
     {
@@ -2441,12 +2441,12 @@
       "longitude": -74.0109745413065
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 505100023,
       "latitude": 40.7346470054958,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 311 - SW W 12 St & 5 Ave",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.99481938922054
     },
     {
@@ -3053,7 +3053,7 @@
       "longitude": -73.95414933006201
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 40,
       "serialNumber": 505100124,
       "latitude": 40.74132799277233,
       "binStatus": "Available",
@@ -3134,7 +3134,7 @@
       "longitude": -73.97328253713644
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 60,
       "serialNumber": 505100133,
       "latitude": 40.79786101513957,
       "binStatus": "Available",
@@ -3269,7 +3269,7 @@
       "longitude": -73.99506114554103
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 505100150,
       "latitude": 40.729589714367386,
       "binStatus": "Available",
