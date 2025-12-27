@@ -821,7 +821,7 @@
       "longitude": -73.94825711846352
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 0,
       "serialNumber": 503000082,
       "latitude": 40.746466564173716,
       "binStatus": "Available",
@@ -1379,12 +1379,12 @@
       "longitude": -73.941904976964
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 503000179,
       "latitude": 40.67617742416484,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 190 - NE Underhill Ave & Park Place",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.96627854555845
     },
     {
@@ -2081,7 +2081,7 @@
       "longitude": -73.95759489387271
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 503000273,
       "latitude": 40.67710908208188,
       "binStatus": "Available",
@@ -3134,7 +3134,7 @@
       "longitude": -73.97328253713644
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 505100133,
       "latitude": 40.79786101513957,
       "binStatus": "Available",
@@ -3233,10 +3233,10 @@
       "longitude": -74.00261308139008
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100149,
       "latitude": 40.77380204413203,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 393 - NW 1 Ave & E 81 St",
       "availableForUse": true,
       "longitude": -73.95175657391553
@@ -3395,7 +3395,7 @@
       "longitude": -73.92241423759894
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 505100196,
       "latitude": 40.74368886339107,
       "binStatus": "Available",
