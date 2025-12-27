@@ -578,7 +578,7 @@
       "longitude": -73.92879232764244
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 503000042,
       "latitude": 40.764174520197706,
       "binStatus": "Available",
@@ -722,12 +722,12 @@
       "longitude": -73.92701134085655
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 503000065,
       "latitude": 40.76524333304795,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 08 - NW 29 St & 31 Ave",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.92510951539327
     },
     {
@@ -2828,7 +2828,7 @@
       "longitude": -73.95335140977043
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 40,
       "serialNumber": 505100087,
       "latitude": 40.798370790247,
       "binStatus": "Available",
