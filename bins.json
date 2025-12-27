@@ -254,12 +254,12 @@
       "longitude": -73.94638694822788
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 0,
       "serialNumber": 503000003,
       "latitude": 40.803170053254796,
-      "binStatus": "Full",
+      "binStatus": "Available",
       "description": "BIN 34 - SE W 118 St & Lenox Ave",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.94863547733536
     },
     {
@@ -704,10 +704,10 @@
       "longitude": -73.93193346987313
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 0,
       "serialNumber": 503000062,
       "latitude": 40.80507840250284,
-      "binStatus": "Nearly Full",
+      "binStatus": "Available",
       "description": "BIN 35 - SW St. Nicholas Ave & W 118 St",
       "availableForUse": true,
       "longitude": -73.95281787961721
@@ -1172,7 +1172,7 @@
       "longitude": -73.93382884562016
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 0,
       "serialNumber": 503000166,
       "latitude": 40.68703129558847,
       "binStatus": "Available",
@@ -1451,7 +1451,7 @@
       "longitude": -73.96755293011665
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 0,
       "serialNumber": 503000182,
       "latitude": 40.688928869836005,
       "binStatus": "Available",
@@ -1487,12 +1487,12 @@
       "longitude": -73.9536564052105
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 0,
       "serialNumber": 503000194,
       "latitude": 40.719136863283865,
-      "binStatus": "Full",
+      "binStatus": "Available",
       "description": "BIN 264 - NE Clinton St & Rivington St",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.98497642347824
     },
     {
@@ -1541,12 +1541,12 @@
       "longitude": -73.99644857287824
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 0,
       "serialNumber": 503000191,
       "latitude": 40.80924767164232,
-      "binStatus": "Full",
+      "binStatus": "Available",
       "description": "BIN 421 - NE W 123 St & St Nicholas Ave",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.95281285047531
     },
     {
@@ -2495,12 +2495,12 @@
       "longitude": -74.01322457939386
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 0,
       "serialNumber": 505100071,
       "latitude": 40.73149350965934,
-      "binStatus": "Full",
+      "binStatus": "Available",
       "description": "BIN 259 - SW University Place & 8 St",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.99466765892298
     },
     {
@@ -2639,7 +2639,7 @@
       "longitude": -73.99876398340452
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 0,
       "serialNumber": 505100058,
       "latitude": 40.716735019858994,
       "binStatus": "Available",
@@ -2756,7 +2756,7 @@
       "longitude": -73.98540060636678
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 0,
       "serialNumber": 505100092,
       "latitude": 40.78957914389564,
       "binStatus": "Available",
@@ -2945,10 +2945,10 @@
       "longitude": -73.90418004244566
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 0,
       "serialNumber": 505100094,
       "latitude": 40.79106031360771,
-      "binStatus": "Nearly Full",
+      "binStatus": "Available",
       "description": "BIN 382 - NW Columbus Ave & W 93 St",
       "availableForUse": true,
       "longitude": -73.96900231292263
@@ -3035,7 +3035,7 @@
       "longitude": -73.9806513567258
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 0,
       "serialNumber": 505100126,
       "latitude": 40.789118885800946,
       "binStatus": "Available",
@@ -3197,12 +3197,12 @@
       "longitude": -73.98511663223668
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 0,
       "serialNumber": 505100137,
       "latitude": 40.743433331711394,
-      "binStatus": "Full",
+      "binStatus": "Available",
       "description": "BIN 339 - SW 5 Ave & W 26 St",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.98834843188524
     },
     {
@@ -3215,7 +3215,7 @@
       "longitude": -73.98753543655222
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 0,
       "serialNumber": 505100146,
       "latitude": 40.74723684953337,
       "binStatus": "Available",
@@ -3305,10 +3305,10 @@
       "longitude": -73.98478295989479
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 0,
       "serialNumber": 505100116,
       "latitude": 40.78914315936319,
-      "binStatus": "Nearly Full",
+      "binStatus": "Available",
       "description": "BIN 370 - NW Columbus Ave & W 90 St",
       "availableForUse": true,
       "longitude": -73.97035768079368
@@ -3422,7 +3422,7 @@
       "longitude": -73.94991182305093
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 505100197,
       "latitude": 40.750960185572,
       "binStatus": "Available",
