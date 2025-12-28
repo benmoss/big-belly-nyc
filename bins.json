@@ -20,7 +20,7 @@
       "longitude": -73.92287585085252
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 0,
       "serialNumber": 3590013,
       "latitude": 40.74689511721386,
       "binStatus": "Available",
@@ -29,7 +29,7 @@
       "longitude": -73.92003797195594
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 0,
       "serialNumber": 3590017,
       "latitude": 40.7447717419058,
       "binStatus": "Available",
@@ -38,7 +38,7 @@
       "longitude": -73.9175371080637
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 0,
       "serialNumber": 3590014,
       "latitude": 40.745373137079994,
       "binStatus": "Available",
@@ -200,7 +200,7 @@
       "longitude": -73.92021738757299
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 60,
       "serialNumber": 503000002,
       "latitude": 40.802624362593846,
       "binStatus": "Available",
@@ -326,7 +326,7 @@
       "longitude": -73.99040903896093
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 503000017,
       "latitude": 40.81773208281474,
       "binStatus": "Available",
@@ -1064,7 +1064,7 @@
       "longitude": -73.96265991032124
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 0,
       "serialNumber": 503000133,
       "latitude": 40.684197290894595,
       "binStatus": "Available",
@@ -1091,7 +1091,7 @@
       "longitude": -73.91719682217655
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 0,
       "serialNumber": 503000143,
       "latitude": 40.682567054356404,
       "binStatus": "Available",
@@ -1127,7 +1127,7 @@
       "longitude": -73.90656117349863
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 0,
       "serialNumber": 503000148,
       "latitude": 40.701373514374744,
       "binStatus": "Available",
@@ -1172,7 +1172,7 @@
       "longitude": -73.93382884562016
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 0,
       "serialNumber": 503000166,
       "latitude": 40.68703129558847,
       "binStatus": "Available",
@@ -1217,7 +1217,7 @@
       "longitude": -73.92600182443857
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 0,
       "serialNumber": 503000158,
       "latitude": 40.68871201420607,
       "binStatus": "Available",
@@ -1415,7 +1415,7 @@
       "longitude": -73.92379101365805
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 0,
       "serialNumber": 503000189,
       "latitude": 40.67990830015172,
       "binStatus": "Available",
@@ -1451,7 +1451,7 @@
       "longitude": -73.96755293011665
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 0,
       "serialNumber": 503000182,
       "latitude": 40.688928869836005,
       "binStatus": "Available",
@@ -1478,7 +1478,7 @@
       "longitude": -73.85720618069172
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 0,
       "serialNumber": 503000200,
       "latitude": 40.68219457581468,
       "binStatus": "Available",
@@ -1613,7 +1613,7 @@
       "longitude": -73.92708376049995
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 0,
       "serialNumber": 503000203,
       "latitude": 40.695132218201906,
       "binStatus": "Available",
@@ -1703,7 +1703,7 @@
       "longitude": -73.86291526257992
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000223,
       "latitude": 40.77783590171131,
       "binStatus": "Available",
@@ -1730,7 +1730,7 @@
       "longitude": -73.91965739428997
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 0,
       "serialNumber": 503000225,
       "latitude": 40.6865703680712,
       "binStatus": "Available",
@@ -2135,12 +2135,12 @@
       "longitude": -73.92091434448957
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 0,
       "serialNumber": 503000205,
       "latitude": 40.68303106054966,
-      "binStatus": "Full",
+      "binStatus": "Available",
       "description": "BIN 113 - NW Patchen Ave & Macdonough St",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.9261969551444
     },
     {
@@ -2216,7 +2216,7 @@
       "longitude": -73.94848935814979
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 505100040,
       "latitude": 40.77068591297934,
       "binStatus": "Available",
@@ -2720,7 +2720,7 @@
       "longitude": -73.98491537817117
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 505100096,
       "latitude": 40.771722793444425,
       "binStatus": "Available",
@@ -3287,10 +3287,10 @@
       "longitude": -73.991970140548
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100123,
       "latitude": 40.78331643218788,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 377 - NW Broadway & W 78 St",
       "availableForUse": true,
       "longitude": -73.98062197434946
@@ -3314,7 +3314,7 @@
       "longitude": -73.97035768079368
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 505100145,
       "latitude": 40.74163391924499,
       "binStatus": "Available",
@@ -3359,7 +3359,7 @@
       "longitude": -73.97587379945203
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 60,
       "serialNumber": 505100128,
       "latitude": 40.72662593513809,
       "binStatus": "Available",
@@ -3440,7 +3440,7 @@
       "longitude": -73.95379403122635
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 505100193,
       "latitude": 40.747515134439,
       "binStatus": "Available",
@@ -3521,7 +3521,7 @@
       "longitude": -73.95758831602339
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 505100205,
       "latitude": 40.74555707262847,
       "binStatus": "Available",
