@@ -380,12 +380,12 @@
       "longitude": -73.94016187638044
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 0,
       "serialNumber": 503000032,
       "latitude": 40.76149921367936,
-      "binStatus": "Full",
+      "binStatus": "Available",
       "description": "BIN 17 - SE 38 St & 31 Ave",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.91796863240839
     },
     {
@@ -434,7 +434,7 @@
       "longitude": -73.92743781208992
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 503000018,
       "latitude": 40.83478846373379,
       "binStatus": "Available",
@@ -614,7 +614,7 @@
       "longitude": -73.9660133421421
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000039,
       "latitude": 40.82647613312916,
       "binStatus": "Available",
@@ -875,10 +875,10 @@
       "longitude": -73.91521599143744
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 0,
       "serialNumber": 503000093,
       "latitude": 40.76223009405083,
-      "binStatus": "Nearly Full",
+      "binStatus": "Available",
       "description": "BIN 01 - NE 31 Ave & 37 St",
       "availableForUse": true,
       "longitude": -73.91863731029024
@@ -2099,7 +2099,7 @@
       "longitude": -73.94352234899998
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 0,
       "serialNumber": 503000277,
       "latitude": 40.76236771749731,
       "binStatus": "Available",
@@ -2243,10 +2243,10 @@
       "longitude": -74.00206860154867
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100050,
       "latitude": 40.77142731268294,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 286 - NE 2 Ave & E 76 St",
       "availableForUse": true,
       "longitude": -73.95631212223466
@@ -2828,7 +2828,7 @@
       "longitude": -73.95335140977043
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 505100087,
       "latitude": 40.798370790247,
       "binStatus": "Available",
