@@ -569,7 +569,7 @@
       "longitude": -73.92916951328516
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 0,
       "serialNumber": 503000041,
       "latitude": 40.81994765597217,
       "binStatus": "Available",
@@ -587,7 +587,7 @@
       "longitude": -73.92345808446407
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000046,
       "latitude": 40.81204666270059,
       "binStatus": "Available",
@@ -1442,12 +1442,12 @@
       "longitude": -73.93454968929291
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 503000184,
       "latitude": 40.673104182956976,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 189 - NE Underhill Ave & Eastern Parkway",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.96755293011665
     },
     {
@@ -1559,10 +1559,10 @@
       "longitude": -73.9436212554574
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 503000206,
       "latitude": 40.68764908091782,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 122 - SW Tompkins Ave & Quincy St",
       "availableForUse": true,
       "longitude": -73.94487351179123
@@ -1820,7 +1820,7 @@
       "longitude": -74.07850451767445
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000239,
       "latitude": 40.69389322166022,
       "binStatus": "Available",
@@ -1892,7 +1892,7 @@
       "longitude": -73.94772704690695
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000251,
       "latitude": 40.67459377925092,
       "binStatus": "Available",
@@ -1910,7 +1910,7 @@
       "longitude": -73.95603641084294
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 503000257,
       "latitude": 40.670259668497785,
       "binStatus": "Available",
@@ -2225,7 +2225,7 @@
       "longitude": -73.98008527492154
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 40,
       "serialNumber": 505100042,
       "latitude": 40.73752862143271,
       "binStatus": "Available",
@@ -2333,7 +2333,7 @@
       "longitude": -74.00212241864305
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 505100021,
       "latitude": 40.775317712188475,
       "binStatus": "Available",
@@ -2342,7 +2342,7 @@
       "longitude": -73.94749872386456
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 505100004,
       "latitude": 40.784683566970614,
       "binStatus": "Available",
@@ -3332,7 +3332,7 @@
       "longitude": -73.98222696429983
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 40,
       "serialNumber": 505100112,
       "latitude": 40.741522457226544,
       "binStatus": "Available",
