@@ -344,7 +344,7 @@
       "longitude": -73.92599746584892
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 0,
       "serialNumber": 503000021,
       "latitude": 40.785809419537095,
       "binStatus": "Available",
@@ -515,7 +515,7 @@
       "longitude": -73.94453756511211
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 0,
       "serialNumber": 503000048,
       "latitude": 40.7966226877643,
       "binStatus": "Available",
@@ -524,12 +524,12 @@
       "longitude": -73.94493098288339
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 0,
       "serialNumber": 503000049,
       "latitude": 40.792326106963955,
-      "binStatus": "Full",
+      "binStatus": "Available",
       "description": "BIN 46 - NW E 110 St & 1 Ave",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.93832288682462
     },
     {
@@ -812,7 +812,7 @@
       "longitude": -73.92188027501106
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 0,
       "serialNumber": 503000081,
       "latitude": 40.79314191706756,
       "binStatus": "Available",
@@ -2720,7 +2720,7 @@
       "longitude": -73.98491537817117
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 0,
       "serialNumber": 505100096,
       "latitude": 40.771722793444425,
       "binStatus": "Available",
@@ -2882,10 +2882,10 @@
       "longitude": -73.93435451155901
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100073,
       "latitude": 40.80348382274017,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 385 - SE Broadway & W 109 St",
       "availableForUse": true,
       "longitude": -73.96686314261594
