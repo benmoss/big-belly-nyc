@@ -2,12 +2,12 @@
   "errorCode": "STATUS_OK",
   "compostAssets": [
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 3590004,
       "latitude": 40.740982515732185,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 406 - SE 47 Ave & 47 St",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.9180913195014
     },
     {
@@ -515,7 +515,7 @@
       "longitude": -73.94453756511211
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 503000048,
       "latitude": 40.7966226877643,
       "binStatus": "Available",
@@ -1271,7 +1271,7 @@
       "longitude": -73.96974126370019
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 0,
       "serialNumber": 503000169,
       "latitude": 40.690318203640174,
       "binStatus": "Available",
@@ -1433,7 +1433,7 @@
       "longitude": -73.90980195254087
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 0,
       "serialNumber": 503000181,
       "latitude": 40.68065836586844,
       "binStatus": "Available",
@@ -2135,7 +2135,7 @@
       "longitude": -73.92091434448957
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 0,
       "serialNumber": 503000205,
       "latitude": 40.68303106054966,
       "binStatus": "Available",
@@ -2522,7 +2522,7 @@
       "longitude": -73.97783417254686
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 60,
       "serialNumber": 505100035,
       "latitude": 40.77152776150592,
       "binStatus": "Available",
