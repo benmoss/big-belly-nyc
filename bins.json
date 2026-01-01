@@ -2,12 +2,12 @@
   "errorCode": "STATUS_OK",
   "compostAssets": [
     {
-      "latestFullness": 100,
+      "latestFullness": 0,
       "serialNumber": 3590004,
       "latitude": 40.740982515732185,
-      "binStatus": "Full",
+      "binStatus": "Available",
       "description": "BIN 406 - SE 47 Ave & 47 St",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.9180913195014
     },
     {
@@ -119,7 +119,7 @@
       "longitude": -73.90995819121599
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 0,
       "serialNumber": 3590011,
       "latitude": 40.73775011894243,
       "binStatus": "Available",
@@ -1667,7 +1667,7 @@
       "longitude": -73.82940910756588
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 60,
       "serialNumber": 503000221,
       "latitude": 40.69040997746076,
       "binStatus": "Available",
@@ -1883,7 +1883,7 @@
       "longitude": -73.90651490539312
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 40,
       "serialNumber": 503000246,
       "latitude": 40.67049107908947,
       "binStatus": "Available",
@@ -1946,7 +1946,7 @@
       "longitude": -73.96024390254057
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000264,
       "latitude": 40.67279917738334,
       "binStatus": "Available",
@@ -2180,7 +2180,7 @@
       "longitude": -73.98717944724858
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 505100039,
       "latitude": 40.781609451116324,
       "binStatus": "Available",
@@ -2252,7 +2252,7 @@
       "longitude": -73.95631212223466
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 0,
       "serialNumber": 505100041,
       "latitude": 40.7703540345238,
       "binStatus": "Available",
@@ -2270,7 +2270,7 @@
       "longitude": -73.94685207786003
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 0,
       "serialNumber": 505100020,
       "latitude": 40.72799056580962,
       "binStatus": "Available",
@@ -2576,7 +2576,7 @@
       "longitude": -73.94763141892919
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 0,
       "serialNumber": 505100034,
       "latitude": 40.7312028692314,
       "binStatus": "Available",
@@ -3026,7 +3026,7 @@
       "longitude": -73.98526381245097
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 0,
       "serialNumber": 505100097,
       "latitude": 40.72556517707213,
       "binStatus": "Available",
@@ -3359,10 +3359,10 @@
       "longitude": -73.97587379945203
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100128,
       "latitude": 40.72662593513809,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 327 - SW Bond St & Lafayette St",
       "availableForUse": true,
       "longitude": -73.99427816002996
