@@ -155,7 +155,7 @@
       "longitude": -73.91430705785751
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 3590002,
       "latitude": 40.74267491248134,
       "binStatus": "Available",
@@ -380,7 +380,7 @@
       "longitude": -73.94016187638044
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000032,
       "latitude": 40.76149921367936,
       "binStatus": "Available",
@@ -434,7 +434,7 @@
       "longitude": -73.92743781208992
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000018,
       "latitude": 40.83478846373379,
       "binStatus": "Available",
@@ -794,7 +794,7 @@
       "longitude": -73.93469754606485
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000073,
       "latitude": 40.813082487843964,
       "binStatus": "Available",
@@ -1253,7 +1253,7 @@
       "longitude": -73.9129939918858
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000160,
       "latitude": 40.6827719802296,
       "binStatus": "Available",
@@ -1262,7 +1262,7 @@
       "longitude": -73.94101046025753
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 503000168,
       "latitude": 40.6755571241916,
       "binStatus": "Available",
@@ -1460,7 +1460,7 @@
       "longitude": -73.91690745949745
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000192,
       "latitude": 40.852149853823676,
       "binStatus": "Available",
@@ -1523,7 +1523,7 @@
       "longitude": -73.83048333227634
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 60,
       "serialNumber": 503000193,
       "latitude": 40.676794793886764,
       "binStatus": "Available",
@@ -1892,7 +1892,7 @@
       "longitude": -73.94772704690695
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000251,
       "latitude": 40.67459377925092,
       "binStatus": "Available",
@@ -1910,7 +1910,7 @@
       "longitude": -73.95603641084294
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 503000257,
       "latitude": 40.670259668497785,
       "binStatus": "Available",
@@ -2072,7 +2072,7 @@
       "longitude": -73.93935050815344
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000276,
       "latitude": 40.671487915534485,
       "binStatus": "Available",
@@ -2144,7 +2144,7 @@
       "longitude": -73.9261969551444
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000212,
       "latitude": 40.70585647534992,
       "binStatus": "Available",
@@ -2378,12 +2378,12 @@
       "longitude": -74.00526163846435
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 0,
       "serialNumber": 505100027,
       "latitude": 40.718798372078474,
-      "binStatus": "Full",
+      "binStatus": "Available",
       "description": "BIN 250 - SE W Broadway & Franklin St",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -74.00657773017883
     },
     {
@@ -2432,12 +2432,12 @@
       "longitude": -74.00240702146108
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 0,
       "serialNumber": 505100009,
       "latitude": 40.7164061130962,
-      "binStatus": "Full",
+      "binStatus": "Available",
       "description": "BIN 245 - NW Greenwich St & Chambers St",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -74.0109745413065
     },
     {
@@ -2495,7 +2495,7 @@
       "longitude": -74.01322457939386
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 505100071,
       "latitude": 40.73149350965934,
       "binStatus": "Available",
@@ -2666,19 +2666,19 @@
       "longitude": -73.9535946787067
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 0,
       "serialNumber": 505100059,
       "latitude": 40.718786682897935,
-      "binStatus": "Full",
+      "binStatus": "Available",
       "description": "BIN 244 - SW Greenwich St & Harrison St",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -74.01055041700602
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100054,
       "latitude": 40.71429622184293,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 256 - NW Grand St & Henry St",
       "availableForUse": true,
       "longitude": -73.98154267738397
@@ -3341,7 +3341,7 @@
       "longitude": -73.98135114745574
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 505100119,
       "latitude": 40.77611866432287,
       "binStatus": "Available",
