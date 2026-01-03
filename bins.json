@@ -155,12 +155,12 @@
       "longitude": -73.91430705785751
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 0,
       "serialNumber": 3590002,
       "latitude": 40.74267491248134,
-      "binStatus": "Full",
+      "binStatus": "Available",
       "description": "BIN 341 - SE 7 Ave & W 21 St",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.99649911716193
     },
     {
@@ -2279,7 +2279,7 @@
       "longitude": -73.97899926258084
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 505100012,
       "latitude": 40.731190506042964,
       "binStatus": "Available",
@@ -2315,7 +2315,7 @@
       "longitude": -73.99051628208568
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 0,
       "serialNumber": 505100008,
       "latitude": 40.7391347154904,
       "binStatus": "Available",
@@ -3314,10 +3314,10 @@
       "longitude": -73.97035768079368
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 0,
       "serialNumber": 505100145,
       "latitude": 40.74163391924499,
-      "binStatus": "Nearly Full",
+      "binStatus": "Available",
       "description": "BIN 338 - NE W 21 St & 6 Ave",
       "availableForUse": true,
       "longitude": -73.99363601223293
@@ -3359,10 +3359,10 @@
       "longitude": -73.97587379945203
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100128,
       "latitude": 40.72662593513809,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 327 - SW Bond St & Lafayette St",
       "availableForUse": true,
       "longitude": -73.99427816002996
