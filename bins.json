@@ -254,7 +254,7 @@
       "longitude": -73.94638694822788
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 503000003,
       "latitude": 40.803170053254796,
       "binStatus": "Available",
@@ -317,7 +317,7 @@
       "longitude": -73.96496895700693
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 503000015,
       "latitude": 40.715768264498486,
       "binStatus": "Available",
@@ -443,7 +443,7 @@
       "longitude": -73.94085858017206
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000058,
       "latitude": 40.76737357054309,
       "binStatus": "Available",
@@ -650,7 +650,7 @@
       "longitude": -73.94394144415855
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000034,
       "latitude": 40.774054817889976,
       "binStatus": "Available",
@@ -740,7 +740,7 @@
       "longitude": -73.95172468826313
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 0,
       "serialNumber": 503000068,
       "latitude": 40.64305722769547,
       "binStatus": "Available",
@@ -839,7 +839,7 @@
       "longitude": -73.93855724483728
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000085,
       "latitude": 40.809873965661374,
       "binStatus": "Available",
@@ -1325,7 +1325,7 @@
       "longitude": -73.96811317652464
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000162,
       "latitude": 40.704966472832965,
       "binStatus": "Available",
@@ -1505,7 +1505,7 @@
       "longitude": -73.82693077466463
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000190,
       "latitude": 40.692363382489,
       "binStatus": "Available",
@@ -1811,12 +1811,12 @@
       "longitude": -73.94181042909622
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 0,
       "serialNumber": 503000234,
       "latitude": 40.62214723793611,
-      "binStatus": "Full",
+      "binStatus": "Available",
       "description": "BIN 235 - NW Hill St & Tompkins Ave",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -74.07850451767445
     },
     {
@@ -1892,7 +1892,7 @@
       "longitude": -73.94772704690695
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 40,
       "serialNumber": 503000251,
       "latitude": 40.67459377925092,
       "binStatus": "Available",
@@ -2234,7 +2234,7 @@
       "longitude": -73.99693615022026
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 60,
       "serialNumber": 505100005,
       "latitude": 40.70815249011514,
       "binStatus": "Available",
@@ -2549,7 +2549,7 @@
       "longitude": -74.0108494516408
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 505100033,
       "latitude": 40.78070495280861,
       "binStatus": "Available",
@@ -2666,12 +2666,12 @@
       "longitude": -73.9535946787067
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 505100059,
       "latitude": 40.718786682897935,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 244 - SW Greenwich St & Harrison St",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -74.01055041700602
     },
     {
@@ -2738,7 +2738,7 @@
       "longitude": -73.97570673483682
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 505100090,
       "latitude": 40.750719268455946,
       "binStatus": "Available",
@@ -2855,7 +2855,7 @@
       "longitude": -73.98908566787568
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 505100108,
       "latitude": 40.72728546443583,
       "binStatus": "Available",
@@ -3314,10 +3314,10 @@
       "longitude": -73.97035768079368
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100145,
       "latitude": 40.74163391924499,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 338 - NE W 21 St & 6 Ave",
       "availableForUse": true,
       "longitude": -73.99363601223293
@@ -3341,7 +3341,7 @@
       "longitude": -73.98135114745574
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 60,
       "serialNumber": 505100119,
       "latitude": 40.77611866432287,
       "binStatus": "Available",
