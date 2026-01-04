@@ -2,7 +2,7 @@
   "errorCode": "STATUS_OK",
   "compostAssets": [
     {
-      "latestFullness": 20,
+      "latestFullness": 60,
       "serialNumber": 3590004,
       "latitude": 40.740982515732185,
       "binStatus": "Available",
@@ -101,12 +101,12 @@
       "longitude": -73.92166045665941
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 3590012,
       "latitude": 40.884080646656564,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 413 - NW W 232 St & Arlington Ave",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.91260653734207
     },
     {
@@ -3026,7 +3026,7 @@
       "longitude": -73.98526381245097
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 505100097,
       "latitude": 40.72556517707213,
       "binStatus": "Available",
