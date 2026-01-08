@@ -767,12 +767,12 @@
       "longitude": -73.94291717559099
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 0,
       "serialNumber": 503000069,
       "latitude": 40.762088122135914,
-      "binStatus": "Full",
+      "binStatus": "Available",
       "description": "BIN 06 - NW 31 St & Broadway",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.92557334154844
     },
     {
@@ -2351,10 +2351,10 @@
       "longitude": -73.9498927384089
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100013,
       "latitude": 40.73565255133342,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 330 - SW 7 Ave S & Perry St",
       "availableForUse": true,
       "longitude": -74.00171998103215
