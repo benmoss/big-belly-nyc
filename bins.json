@@ -2,7 +2,7 @@
   "errorCode": "STATUS_OK",
   "compostAssets": [
     {
-      "latestFullness": 0,
+      "latestFullness": 40,
       "serialNumber": 3590004,
       "latitude": 40.740982515732185,
       "binStatus": "Available",
@@ -11,7 +11,7 @@
       "longitude": -73.9180913195014
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 3590010,
       "latitude": 40.74060865008307,
       "binStatus": "Available",
@@ -101,7 +101,7 @@
       "longitude": -73.92166045665941
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 0,
       "serialNumber": 3590012,
       "latitude": 40.884080646656564,
       "binStatus": "Available",
@@ -128,7 +128,7 @@
       "longitude": -73.92154820692338
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 40,
       "serialNumber": 3590008,
       "latitude": 40.741475328023036,
       "binStatus": "Available",
@@ -137,7 +137,7 @@
       "longitude": -73.92099916934967
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 0,
       "serialNumber": 3590005,
       "latitude": 40.88661576005842,
       "binStatus": "Available",
@@ -551,7 +551,7 @@
       "longitude": -73.94713159650564
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 0,
       "serialNumber": 503000044,
       "latitude": 40.80556261860785,
       "binStatus": "Available",
@@ -767,10 +767,10 @@
       "longitude": -73.94291717559099
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 503000069,
       "latitude": 40.762088122135914,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 06 - NW 31 St & Broadway",
       "availableForUse": true,
       "longitude": -73.92557334154844
@@ -992,7 +992,7 @@
       "longitude": -73.90383403748274
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 0,
       "serialNumber": 503000074,
       "latitude": 40.71595784085541,
       "binStatus": "Available",
@@ -1109,7 +1109,7 @@
       "longitude": -73.94146978855133
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 503000127,
       "latitude": 40.706692511000654,
       "binStatus": "Available",
@@ -1190,7 +1190,7 @@
       "longitude": -73.93099308013916
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 503000150,
       "latitude": 40.67358758069033,
       "binStatus": "Available",
@@ -1379,12 +1379,12 @@
       "longitude": -73.941904976964
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 503000179,
       "latitude": 40.67617742416484,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 190 - NE Underhill Ave & Park Place",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.96627854555845
     },
     {
@@ -1397,7 +1397,7 @@
       "longitude": -73.90797402709723
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000188,
       "latitude": 40.690796900599814,
       "binStatus": "Available",
@@ -1892,7 +1892,7 @@
       "longitude": -73.94772704690695
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 40,
       "serialNumber": 503000251,
       "latitude": 40.67459377925092,
       "binStatus": "Available",
@@ -2180,7 +2180,7 @@
       "longitude": -73.98717944724858
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 0,
       "serialNumber": 505100039,
       "latitude": 40.781609451116324,
       "binStatus": "Available",
@@ -2234,7 +2234,7 @@
       "longitude": -73.99693615022026
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 0,
       "serialNumber": 505100005,
       "latitude": 40.70815249011514,
       "binStatus": "Available",
@@ -2243,7 +2243,7 @@
       "longitude": -74.00206860154867
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 0,
       "serialNumber": 505100050,
       "latitude": 40.77142731268294,
       "binStatus": "Available",
@@ -2261,12 +2261,12 @@
       "longitude": -73.9538887710376
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 0,
       "serialNumber": 505100014,
       "latitude": 40.78010940688603,
-      "binStatus": "Full",
+      "binStatus": "Available",
       "description": "BIN 267 - NE 1 Ave & E 91 St",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.94685207786003
     },
     {
@@ -2333,7 +2333,7 @@
       "longitude": -74.00212241864305
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 0,
       "serialNumber": 505100021,
       "latitude": 40.775317712188475,
       "binStatus": "Available",
@@ -2342,7 +2342,7 @@
       "longitude": -73.94749872386456
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 0,
       "serialNumber": 505100004,
       "latitude": 40.784683566970614,
       "binStatus": "Available",
@@ -2351,7 +2351,7 @@
       "longitude": -73.9498927384089
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 60,
       "serialNumber": 505100013,
       "latitude": 40.73565255133342,
       "binStatus": "Available",
@@ -2369,7 +2369,7 @@
       "longitude": -73.9869912541827
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 0,
       "serialNumber": 505100045,
       "latitude": 40.74639647509707,
       "binStatus": "Available",
@@ -2432,10 +2432,10 @@
       "longitude": -74.00240702146108
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100009,
       "latitude": 40.7164061130962,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 245 - NW Greenwich St & Chambers St",
       "availableForUse": true,
       "longitude": -74.0109745413065
@@ -2495,7 +2495,7 @@
       "longitude": -74.01322457939386
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 40,
       "serialNumber": 505100071,
       "latitude": 40.73149350965934,
       "binStatus": "Available",
@@ -2522,7 +2522,7 @@
       "longitude": -73.97783417254686
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 0,
       "serialNumber": 505100035,
       "latitude": 40.77152776150592,
       "binStatus": "Available",
@@ -2567,7 +2567,7 @@
       "longitude": -73.95247723907232
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 0,
       "serialNumber": 505100026,
       "latitude": 40.78340997537408,
       "binStatus": "Available",
@@ -2594,7 +2594,7 @@
       "longitude": -73.95822445057821
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 0,
       "serialNumber": 505100016,
       "latitude": 40.76390136307756,
       "binStatus": "Available",
@@ -2603,7 +2603,7 @@
       "longitude": -73.95865606044225
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 0,
       "serialNumber": 505100063,
       "latitude": 40.71256505742161,
       "binStatus": "Available",
@@ -2711,7 +2711,7 @@
       "longitude": -73.9546898742066
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 0,
       "serialNumber": 505100089,
       "latitude": 40.77432420761129,
       "binStatus": "Available",
@@ -2891,7 +2891,7 @@
       "longitude": -73.9850452796422
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 0,
       "serialNumber": 505100110,
       "latitude": 40.75405449748158,
       "binStatus": "Available",
@@ -2945,7 +2945,7 @@
       "longitude": -73.96900231292263
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 0,
       "serialNumber": 505100111,
       "latitude": 40.758836000578,
       "binStatus": "Available",
@@ -3080,7 +3080,7 @@
       "longitude": -73.96592718820084
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 0,
       "serialNumber": 505100105,
       "latitude": 40.76175746497325,
       "binStatus": "Available",
@@ -3134,7 +3134,7 @@
       "longitude": -73.96400324926272
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 0,
       "serialNumber": 505100143,
       "latitude": 40.77663888275979,
       "binStatus": "Available",
@@ -3215,7 +3215,7 @@
       "longitude": -73.98983752643882
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 0,
       "serialNumber": 505100141,
       "latitude": 40.74960582599206,
       "binStatus": "Available",
@@ -3224,7 +3224,7 @@
       "longitude": -74.00261308139008
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 0,
       "serialNumber": 505100149,
       "latitude": 40.77380204413203,
       "binStatus": "Available",
@@ -3233,7 +3233,7 @@
       "longitude": -73.95175657391553
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 0,
       "serialNumber": 505100121,
       "latitude": 40.7909709189525,
       "binStatus": "Available",
@@ -3422,7 +3422,7 @@
       "longitude": -73.93678337990917
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 505100212,
       "latitude": 40.74420348192229,
       "binStatus": "Available",
@@ -3440,7 +3440,7 @@
       "longitude": -73.95625774369917
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 40,
       "serialNumber": 505100215,
       "latitude": 40.72144381409581,
       "binStatus": "Available",
@@ -3494,7 +3494,7 @@
       "longitude": -73.94026945696734
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 40,
       "serialNumber": 505100195,
       "latitude": 40.74256184956176,
       "binStatus": "Available",
