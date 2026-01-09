@@ -2,7 +2,7 @@
   "errorCode": "STATUS_OK",
   "compostAssets": [
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 3590004,
       "latitude": 40.740982515732185,
       "binStatus": "Available",
@@ -110,7 +110,7 @@
       "longitude": -73.91260653734207
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 3590003,
       "latitude": 40.7457242854218,
       "binStatus": "Available",
@@ -299,7 +299,7 @@
       "longitude": -73.93766775727272
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000013,
       "latitude": 40.86843300418909,
       "binStatus": "Available",
@@ -623,7 +623,7 @@
       "longitude": -73.94687759676215
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000037,
       "latitude": 40.85928458622981,
       "binStatus": "Available",
@@ -1019,7 +1019,7 @@
       "longitude": -73.92586905509233
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 40,
       "serialNumber": 503000138,
       "latitude": 40.67875013125626,
       "binStatus": "Available",
@@ -1217,7 +1217,7 @@
       "longitude": -73.92600182443857
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000158,
       "latitude": 40.68871201420607,
       "binStatus": "Available",
@@ -1355,9 +1355,9 @@
       "latestFullness": 0,
       "serialNumber": 503000176,
       "latitude": 40.680852618800145,
-      "binStatus": "Out of Service",
+      "binStatus": "Available",
       "description": "BIN 132 - NW Howard Ave & Marion St",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.91968253999949
     },
     {
@@ -1829,7 +1829,7 @@
       "longitude": -73.94294936209917
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 40,
       "serialNumber": 503000240,
       "latitude": 40.67428152112551,
       "binStatus": "Available",
@@ -2306,7 +2306,7 @@
       "longitude": -73.99195962283002
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 505100019,
       "latitude": 40.731496522321486,
       "binStatus": "Available",
@@ -2810,7 +2810,7 @@
       "longitude": -73.99090145996239
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 505100106,
       "latitude": 40.78586060688359,
       "binStatus": "Available",
@@ -3089,7 +3089,7 @@
       "longitude": -73.96866042855898
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 60,
       "serialNumber": 505100103,
       "latitude": 40.72946703338854,
       "binStatus": "Available",
@@ -3125,7 +3125,7 @@
       "longitude": -73.97328253713644
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 505100133,
       "latitude": 40.79786101513957,
       "binStatus": "Available",
@@ -3350,12 +3350,12 @@
       "longitude": -73.97587379945203
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 505100128,
       "latitude": 40.72662593513809,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 327 - SW Bond St & Lafayette St",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.99427816002996
     },
     {
@@ -3539,7 +3539,7 @@
       "longitude": -73.94742094974946
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 505100200,
       "latitude": 40.7431956119206,
       "binStatus": "Available",
