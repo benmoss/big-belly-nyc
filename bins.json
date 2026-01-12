@@ -362,12 +362,12 @@
       "longitude": -73.93805466592312
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 503000006,
       "latitude": 40.855684792533886,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 61 - NE Cabrini Blvd & W 187 St",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.93778998622929
     },
     {
@@ -560,10 +560,10 @@
       "longitude": -73.93639236688614
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 503000045,
       "latitude": 40.76832401280552,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 16 - NW 21 St & 30 Dr",
       "availableForUse": true,
       "longitude": -73.92916951328516
@@ -1100,7 +1100,7 @@
       "longitude": -73.94996803253889
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000129,
       "latitude": 40.685812233251795,
       "binStatus": "Available",
@@ -1703,12 +1703,12 @@
       "longitude": -73.86291526257992
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 503000223,
       "latitude": 40.77783590171131,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 265 - SW 2 Ave & E 86 St",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.95195467110418
     },
     {
@@ -2036,7 +2036,7 @@
       "longitude": -73.92522666603327
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000268,
       "latitude": 40.67210889641922,
       "binStatus": "Available",
@@ -2054,12 +2054,12 @@
       "longitude": -73.92471789027536
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 503000267,
       "latitude": 40.67165371443654,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 219 - SE Classon Ave & Eastern Parkway",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.96107707172632
     },
     {
@@ -2477,7 +2477,7 @@
       "longitude": -73.99849525644926
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 505100029,
       "latitude": 40.710663476710224,
       "binStatus": "Available",
@@ -2495,10 +2495,10 @@
       "longitude": -74.01322457939386
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100071,
       "latitude": 40.73149350965934,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 259 - SW University Place & 8 St",
       "availableForUse": true,
       "longitude": -73.99466765892298
@@ -2558,7 +2558,7 @@
       "longitude": -73.97665659471008
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 60,
       "serialNumber": 505100062,
       "latitude": 40.768787421482166,
       "binStatus": "Available",
@@ -2621,7 +2621,7 @@
       "longitude": -73.98977462491895
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 505100025,
       "latitude": 40.74240669511277,
       "binStatus": "Available",
@@ -2783,7 +2783,7 @@
       "longitude": -73.98593114887535
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 60,
       "serialNumber": 505100083,
       "latitude": 40.72496280254391,
       "binStatus": "Available",
@@ -2828,7 +2828,7 @@
       "longitude": -73.96888427642509
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 60,
       "serialNumber": 505100093,
       "latitude": 40.7953036151945,
       "binStatus": "Available",
@@ -2855,10 +2855,10 @@
       "longitude": -73.98253004894701
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100086,
       "latitude": 40.781894893686875,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 366 - NE W 77 St & Amsterdam Ave",
       "availableForUse": true,
       "longitude": -73.97906581678058
@@ -2936,7 +2936,7 @@
       "longitude": -73.90418004244566
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 60,
       "serialNumber": 505100094,
       "latitude": 40.79106031360771,
       "binStatus": "Available",
@@ -3161,7 +3161,7 @@
       "longitude": -73.98776125245462
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 40,
       "serialNumber": 505100144,
       "latitude": 40.78596763857327,
       "binStatus": "Available",
@@ -3224,7 +3224,7 @@
       "longitude": -74.00261308139008
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 40,
       "serialNumber": 505100149,
       "latitude": 40.77380204413203,
       "binStatus": "Available",
