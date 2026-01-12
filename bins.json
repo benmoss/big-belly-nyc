@@ -2,7 +2,7 @@
   "errorCode": "STATUS_OK",
   "compostAssets": [
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 3590004,
       "latitude": 40.740982515732185,
       "binStatus": "Available",
@@ -83,10 +83,10 @@
       "longitude": -73.90727262943983
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 3590015,
       "latitude": 40.746483770342856,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 401 - NE Skillman Ave & 47 St",
       "availableForUse": true,
       "longitude": -73.91701877117157
@@ -110,7 +110,7 @@
       "longitude": -73.91260653734207
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 3590003,
       "latitude": 40.7457242854218,
       "binStatus": "Available",
@@ -128,12 +128,12 @@
       "longitude": -73.92154820692338
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 3590008,
       "latitude": 40.741475328023036,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 407 - NW 44 St & 47 Ave",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.92099916934967
     },
     {
@@ -353,7 +353,7 @@
       "longitude": -73.94264291971922
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 503000020,
       "latitude": 40.841033254239434,
       "binStatus": "Available",
@@ -434,10 +434,10 @@
       "longitude": -73.92743781208992
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 503000018,
       "latitude": 40.83478846373379,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 56 - SW Amsterdam Ave & W 160 St",
       "availableForUse": true,
       "longitude": -73.94085858017206
@@ -524,12 +524,12 @@
       "longitude": -73.94493098288339
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 503000049,
       "latitude": 40.792326106963955,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 46 - NW E 110 St & 1 Ave",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.93832288682462
     },
     {
@@ -542,7 +542,7 @@
       "longitude": -73.93815591931343
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 40,
       "serialNumber": 503000052,
       "latitude": 40.805835432729474,
       "binStatus": "Available",
@@ -596,7 +596,7 @@
       "longitude": -73.95370233803988
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000043,
       "latitude": 40.804732620856896,
       "binStatus": "Available",
@@ -722,7 +722,7 @@
       "longitude": -73.92701134085655
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 503000065,
       "latitude": 40.76524333304795,
       "binStatus": "Available",
@@ -1028,7 +1028,7 @@
       "longitude": -73.96523348987103
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 40,
       "serialNumber": 503000140,
       "latitude": 40.681352486961536,
       "binStatus": "Available",
@@ -1055,10 +1055,10 @@
       "longitude": -73.90436712652445
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 503000136,
       "latitude": 40.67726495043478,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 192 - NW Grand Ave & St. Marks Ave",
       "availableForUse": true,
       "longitude": -73.96265991032124
@@ -1181,7 +1181,7 @@
       "longitude": -73.91374111175537
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 503000164,
       "latitude": 40.69660505362728,
       "binStatus": "Available",
@@ -1388,7 +1388,7 @@
       "longitude": -73.96627854555845
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 503000180,
       "latitude": 40.69293663142478,
       "binStatus": "Available",
@@ -1505,7 +1505,7 @@
       "longitude": -73.82693077466463
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 503000190,
       "latitude": 40.692363382489,
       "binStatus": "Available",
@@ -1523,12 +1523,12 @@
       "longitude": -73.83048333227634
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 503000193,
       "latitude": 40.676794793886764,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 199 - NW New York Ave & Dean St",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.94724616137695
     },
     {
@@ -1586,12 +1586,12 @@
       "longitude": -73.8490579649806
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 503000201,
       "latitude": 40.68428195430438,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 127 - SE Madison St & Bedford Ave",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.95389076322317
     },
     {
@@ -1649,7 +1649,7 @@
       "longitude": -73.89510378241539
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 40,
       "serialNumber": 503000213,
       "latitude": 40.76718414067168,
       "binStatus": "Available",
@@ -1703,10 +1703,10 @@
       "longitude": -73.86291526257992
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 503000223,
       "latitude": 40.77783590171131,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 265 - SW 2 Ave & E 86 St",
       "availableForUse": true,
       "longitude": -73.95195467110418
@@ -1865,7 +1865,7 @@
       "longitude": -73.95897587267723
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 60,
       "serialNumber": 503000245,
       "latitude": 40.673484595144046,
       "binStatus": "Available",
@@ -1955,7 +1955,7 @@
       "longitude": -73.95310335432222
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 60,
       "serialNumber": 503000262,
       "latitude": 40.724898542003324,
       "binStatus": "Available",
@@ -2045,19 +2045,19 @@
       "longitude": -73.92796251922846
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 503000271,
       "latitude": 40.74194368731704,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 408 - NW 40 St & 47 Ave",
       "availableForUse": true,
       "longitude": -73.92471789027536
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 503000267,
       "latitude": 40.67165371443654,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 219 - SE Classon Ave & Eastern Parkway",
       "availableForUse": true,
       "longitude": -73.96107707172632
@@ -2189,7 +2189,7 @@
       "longitude": -73.94892745726821
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 505100018,
       "latitude": 40.77294782166341,
       "binStatus": "Available",
@@ -2198,7 +2198,7 @@
       "longitude": -73.94638707990978
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 60,
       "serialNumber": 505100038,
       "latitude": 40.780081383690586,
       "binStatus": "Available",
@@ -2369,7 +2369,7 @@
       "longitude": -73.9869912541827
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 505100045,
       "latitude": 40.74639647509707,
       "binStatus": "Available",
@@ -2432,7 +2432,7 @@
       "longitude": -74.00240702146108
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 505100009,
       "latitude": 40.7164061130962,
       "binStatus": "Available",
@@ -2522,7 +2522,7 @@
       "longitude": -73.97783417254686
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 40,
       "serialNumber": 505100035,
       "latitude": 40.77152776150592,
       "binStatus": "Available",
@@ -2585,7 +2585,7 @@
       "longitude": -73.98249430253485
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 505100002,
       "latitude": 40.76863578734461,
       "binStatus": "Available",
@@ -2666,12 +2666,12 @@
       "longitude": -73.9535946787067
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 505100059,
       "latitude": 40.718786682897935,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 244 - SW Greenwich St & Harrison St",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -74.01055041700602
     },
     {
@@ -2720,19 +2720,19 @@
       "longitude": -73.98491537817117
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 80,
       "serialNumber": 505100096,
       "latitude": 40.771722793444425,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 360 - NW West End Ave & W 59 St",
       "availableForUse": true,
       "longitude": -73.99052800018954
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100081,
       "latitude": 40.78693626205199,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 367 - SW Amsterdam Ave & W 85 St",
       "availableForUse": true,
       "longitude": -73.97570673483682
@@ -2837,7 +2837,7 @@
       "longitude": -73.97107263571145
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 60,
       "serialNumber": 505100107,
       "latitude": 40.73674344375692,
       "binStatus": "Available",
@@ -2954,7 +2954,7 @@
       "longitude": -73.96586280976997
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 60,
       "serialNumber": 505100067,
       "latitude": 40.77168450396742,
       "binStatus": "Available",
@@ -2999,10 +2999,10 @@
       "longitude": -73.95896668550664
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100131,
       "latitude": 40.785201054043846,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 375 - SW W 84 St & Columbus Ave",
       "availableForUse": true,
       "longitude": -73.97335456220875
@@ -3089,7 +3089,7 @@
       "longitude": -73.96866042855898
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 505100103,
       "latitude": 40.72946703338854,
       "binStatus": "Available",
@@ -3521,7 +3521,7 @@
       "longitude": -73.95699620153725
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 505100199,
       "latitude": 40.74873869958214,
       "binStatus": "Available",
