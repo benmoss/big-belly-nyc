@@ -362,7 +362,7 @@
       "longitude": -73.93805466592312
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 0,
       "serialNumber": 503000006,
       "latitude": 40.855684792533886,
       "binStatus": "Available",
@@ -380,7 +380,7 @@
       "longitude": -73.94016187638044
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 503000032,
       "latitude": 40.76149921367936,
       "binStatus": "Available",
@@ -452,12 +452,12 @@
       "longitude": -73.92958357930183
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 503000059,
       "latitude": 40.87534010684036,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 93 - NE Hull Ave & E 207 St",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.87542713633172
     },
     {
@@ -506,7 +506,7 @@
       "longitude": -73.95314779132605
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 0,
       "serialNumber": 503000050,
       "latitude": 40.829794034320685,
       "binStatus": "Available",
@@ -605,7 +605,7 @@
       "longitude": -73.9623499576847
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 0,
       "serialNumber": 503000040,
       "latitude": 40.80557429253741,
       "binStatus": "Available",
@@ -731,7 +731,7 @@
       "longitude": -73.92510951539327
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 503000064,
       "latitude": 40.78210605168062,
       "binStatus": "Available",
@@ -884,7 +884,7 @@
       "longitude": -73.91863731029024
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 503000084,
       "latitude": 40.83612097520797,
       "binStatus": "Available",
@@ -1010,7 +1010,7 @@
       "longitude": -73.94525472074747
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000139,
       "latitude": 40.69385788678818,
       "binStatus": "Available",
@@ -1019,7 +1019,7 @@
       "longitude": -73.92586905509233
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 503000138,
       "latitude": 40.67875013125626,
       "binStatus": "Available",
@@ -1334,7 +1334,7 @@
       "longitude": -73.91751361469018
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 503000153,
       "latitude": 40.798054852781554,
       "binStatus": "Available",
@@ -1703,10 +1703,10 @@
       "longitude": -73.86291526257992
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 503000223,
       "latitude": 40.77783590171131,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 265 - SW 2 Ave & E 86 St",
       "availableForUse": true,
       "longitude": -73.95195467110418
@@ -1766,7 +1766,7 @@
       "longitude": -73.88198409229517
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 0,
       "serialNumber": 503000231,
       "latitude": 40.82371538129134,
       "binStatus": "Available",
@@ -2018,7 +2018,7 @@
       "longitude": -74.0864036232233
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 0,
       "serialNumber": 503000272,
       "latitude": 40.62262016360215,
       "binStatus": "Available",
@@ -2297,7 +2297,7 @@
       "longitude": -74.00691708161023
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 60,
       "serialNumber": 505100052,
       "latitude": 40.71989182112748,
       "binStatus": "Available",
@@ -2441,7 +2441,7 @@
       "longitude": -74.0109745413065
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 40,
       "serialNumber": 505100023,
       "latitude": 40.7346470054958,
       "binStatus": "Available",
@@ -2765,7 +2765,7 @@
       "longitude": -73.97332561607193
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 505100095,
       "latitude": 40.74408502157723,
       "binStatus": "Available",
@@ -2873,7 +2873,7 @@
       "longitude": -73.93435451155901
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 0,
       "serialNumber": 505100073,
       "latitude": 40.80348382274017,
       "binStatus": "Available",
@@ -2882,7 +2882,7 @@
       "longitude": -73.96686314261594
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 0,
       "serialNumber": 505100068,
       "latitude": 40.7116258563826,
       "binStatus": "Available",
@@ -3215,7 +3215,7 @@
       "longitude": -73.98983752643882
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 40,
       "serialNumber": 505100141,
       "latitude": 40.74960582599206,
       "binStatus": "Available",
@@ -3350,10 +3350,10 @@
       "longitude": -73.97587379945203
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100128,
       "latitude": 40.72662593513809,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 327 - SW Bond St & Lafayette St",
       "availableForUse": true,
       "longitude": -73.99427816002996
@@ -3431,7 +3431,7 @@
       "longitude": -73.95379403122635
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 505100193,
       "latitude": 40.747515134439,
       "binStatus": "Available",
