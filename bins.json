@@ -416,7 +416,7 @@
       "longitude": -73.92383761703968
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000033,
       "latitude": 40.86054008940285,
       "binStatus": "Available",
@@ -1589,7 +1589,7 @@
       "latestFullness": 100,
       "serialNumber": 503000201,
       "latitude": 40.68428195430438,
-      "binStatus": "Full",
+      "binStatus": "Out of Service",
       "description": "BIN 127 - SE Madison St & Bedford Ave",
       "availableForUse": false,
       "longitude": -73.95389076322317
@@ -3062,10 +3062,10 @@
       "longitude": -73.96841285680578
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100129,
       "latitude": 40.779702163230795,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 376 - NW Broadway & W 73 St",
       "availableForUse": true,
       "longitude": -73.98189624416173
