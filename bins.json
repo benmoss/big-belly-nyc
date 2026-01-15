@@ -2,16 +2,16 @@
   "errorCode": "STATUS_OK",
   "compostAssets": [
     {
-      "latestFullness": 80,
+      "latestFullness": 0,
       "serialNumber": 3590004,
       "latitude": 40.740982515732185,
-      "binStatus": "Nearly Full",
+      "binStatus": "Available",
       "description": "BIN 406 - SE 47 Ave & 47 St",
       "availableForUse": true,
       "longitude": -73.9180913195014
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 0,
       "serialNumber": 3590010,
       "latitude": 40.74060865008307,
       "binStatus": "Available",
@@ -578,7 +578,7 @@
       "longitude": -73.92879232764244
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 0,
       "serialNumber": 503000042,
       "latitude": 40.764174520197706,
       "binStatus": "Available",
@@ -632,7 +632,7 @@
       "longitude": -73.89476414769888
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 0,
       "serialNumber": 503000038,
       "latitude": 40.763350881029346,
       "binStatus": "Available",
@@ -1019,12 +1019,12 @@
       "longitude": -73.92586905509233
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 0,
       "serialNumber": 503000138,
       "latitude": 40.67875013125626,
-      "binStatus": "Full",
+      "binStatus": "Available",
       "description": "BIN 191 - SE Underhill Ave & Bergen St",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.96523348987103
     },
     {
@@ -1055,7 +1055,7 @@
       "longitude": -73.90436712652445
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 0,
       "serialNumber": 503000136,
       "latitude": 40.67726495043478,
       "binStatus": "Available",
@@ -1181,7 +1181,7 @@
       "longitude": -73.91374111175537
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 0,
       "serialNumber": 503000164,
       "latitude": 40.69660505362728,
       "binStatus": "Available",
@@ -1190,7 +1190,7 @@
       "longitude": -73.93099308013916
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 0,
       "serialNumber": 503000150,
       "latitude": 40.67358758069033,
       "binStatus": "Available",
@@ -1262,7 +1262,7 @@
       "longitude": -73.94101046025753
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 0,
       "serialNumber": 503000168,
       "latitude": 40.6755571241916,
       "binStatus": "Available",
@@ -1379,7 +1379,7 @@
       "longitude": -73.941904976964
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 0,
       "serialNumber": 503000179,
       "latitude": 40.67617742416484,
       "binStatus": "Available",
@@ -1424,7 +1424,7 @@
       "longitude": -73.95316857844591
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 0,
       "serialNumber": 503000187,
       "latitude": 40.75792909750536,
       "binStatus": "Available",
@@ -1442,7 +1442,7 @@
       "longitude": -73.93454968929291
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 0,
       "serialNumber": 503000184,
       "latitude": 40.673104182956976,
       "binStatus": "Available",
@@ -3044,7 +3044,7 @@
       "longitude": -73.95414933006201
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 60,
       "serialNumber": 505100124,
       "latitude": 40.74132799277233,
       "binStatus": "Available",
