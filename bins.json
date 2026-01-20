@@ -263,12 +263,12 @@
       "longitude": -73.94863547733536
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 0,
       "serialNumber": 503000009,
       "latitude": 40.700382392327064,
-      "binStatus": "Full",
+      "binStatus": "Available",
       "description": "BIN 147 - NW Central Ave & Troutman St",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.92903984180296
     },
     {
@@ -1739,7 +1739,7 @@
       "longitude": -73.95448587834835
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000228,
       "latitude": 40.68858947648064,
       "binStatus": "Available",
@@ -1856,7 +1856,7 @@
       "longitude": -73.93390157678125
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000241,
       "latitude": 40.6774118895118,
       "binStatus": "Available",
@@ -1955,10 +1955,10 @@
       "longitude": -73.95310335432222
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 503000262,
       "latitude": 40.724898542003324,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 254 - SW 6 Ave & Dominick St",
       "availableForUse": true,
       "longitude": -74.00471196197128
@@ -2324,10 +2324,10 @@
       "longitude": -73.99540269748928
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100031,
       "latitude": 40.72948121652991,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 328 - SE Bleecker St & 6 Ave",
       "availableForUse": true,
       "longitude": -74.00212241864305
@@ -2450,7 +2450,7 @@
       "longitude": -74.00274561377924
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 505100047,
       "latitude": 40.735409744769015,
       "binStatus": "Available",
@@ -2504,10 +2504,10 @@
       "longitude": -73.9463083404101
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100030,
       "latitude": 40.77884195910523,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 419 - NW Columbus Ave & W 74 St",
       "availableForUse": true,
       "longitude": -73.97783417254686
@@ -2675,7 +2675,7 @@
       "longitude": -73.98154267738397
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 505100055,
       "latitude": 40.76405416975698,
       "binStatus": "Available",
