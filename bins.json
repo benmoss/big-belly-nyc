@@ -2,7 +2,7 @@
   "errorCode": "STATUS_OK",
   "compostAssets": [
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 3590004,
       "latitude": 40.740982515732185,
       "binStatus": "Available",
@@ -47,7 +47,7 @@
       "longitude": -73.92288388211199
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 0,
       "serialNumber": 3590018,
       "latitude": 40.68640155543058,
       "binStatus": "Available",
@@ -344,10 +344,10 @@
       "longitude": -73.92599746584892
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 503000021,
       "latitude": 40.785809419537095,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 43 - SE E 100 St & 1 Ave",
       "availableForUse": true,
       "longitude": -73.94264291971922
@@ -515,7 +515,7 @@
       "longitude": -73.94453756511211
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000048,
       "latitude": 40.7966226877643,
       "binStatus": "Available",
@@ -704,7 +704,7 @@
       "longitude": -73.93193346987313
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 503000062,
       "latitude": 40.80507840250284,
       "binStatus": "Available",
@@ -1937,7 +1937,7 @@
       "longitude": -74.14217077195644
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000244,
       "latitude": 40.67498593224985,
       "binStatus": "Available",
@@ -2306,7 +2306,7 @@
       "longitude": -73.99195962283002
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 505100019,
       "latitude": 40.731496522321486,
       "binStatus": "Available",
@@ -2504,12 +2504,12 @@
       "longitude": -73.9463083404101
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 505100030,
       "latitude": 40.77884195910523,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 419 - NW Columbus Ave & W 74 St",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.97783417254686
     },
     {
