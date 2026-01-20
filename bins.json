@@ -20,7 +20,7 @@
       "longitude": -73.92287585085252
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 60,
       "serialNumber": 3590013,
       "latitude": 40.74689511721386,
       "binStatus": "Available",
@@ -254,7 +254,7 @@
       "longitude": -73.94638694822788
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 60,
       "serialNumber": 503000003,
       "latitude": 40.803170053254796,
       "binStatus": "Available",
@@ -281,10 +281,10 @@
       "longitude": -73.92011906951666
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 503000012,
       "latitude": 40.820960776484476,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 24 - SW W 138 St & Amsterdam Ave",
       "availableForUse": true,
       "longitude": -73.95101174712181
@@ -1091,7 +1091,7 @@
       "longitude": -73.91719682217655
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 503000143,
       "latitude": 40.682567054356404,
       "binStatus": "Available",
@@ -1127,12 +1127,12 @@
       "longitude": -73.90656117349863
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 503000148,
       "latitude": 40.701373514374744,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 183 - SW St. Nicholas Ave & Linden St",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.91136553921112
     },
     {
@@ -1721,7 +1721,7 @@
       "longitude": -73.88819441199303
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000226,
       "latitude": 40.69043184045754,
       "binStatus": "Available",
@@ -1784,7 +1784,7 @@
       "longitude": -73.92664052546024
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000233,
       "latitude": 40.85323678678669,
       "binStatus": "Available",
@@ -2225,7 +2225,7 @@
       "longitude": -73.98008527492154
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 505100042,
       "latitude": 40.73752862143271,
       "binStatus": "Available",
@@ -2432,7 +2432,7 @@
       "longitude": -74.0109745413065
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 505100023,
       "latitude": 40.7346470054958,
       "binStatus": "Available",
@@ -2657,12 +2657,12 @@
       "longitude": -73.9535946787067
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 505100059,
       "latitude": 40.718786682897935,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 244 - SW Greenwich St & Harrison St",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -74.01055041700602
     },
     {
@@ -3161,10 +3161,10 @@
       "longitude": -73.98776125245462
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100144,
       "latitude": 40.78596763857327,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 358 - NW W 82 St & Broadway",
       "availableForUse": true,
       "longitude": -73.97864520220962
@@ -3413,7 +3413,7 @@
       "longitude": -73.93830848140053
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 505100206,
       "latitude": 40.74714831729217,
       "binStatus": "Available",
