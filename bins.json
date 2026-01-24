@@ -695,7 +695,7 @@
       "longitude": -73.92594543138473
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 503000061,
       "latitude": 40.76808087642403,
       "binStatus": "Available",
@@ -1127,12 +1127,12 @@
       "longitude": -73.90656117349863
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 503000148,
       "latitude": 40.701373514374744,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 183 - SW St. Nicholas Ave & Linden St",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.91136553921112
     },
     {
@@ -1487,7 +1487,7 @@
       "longitude": -73.9536564052105
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 0,
       "serialNumber": 503000194,
       "latitude": 40.719136863283865,
       "binStatus": "Available",
@@ -1586,10 +1586,10 @@
       "longitude": -73.8490579649806
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 503000201,
       "latitude": 40.68428195430438,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 127 - SE Madison St & Bedford Ave",
       "availableForUse": true,
       "longitude": -73.95389076322317
