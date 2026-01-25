@@ -164,7 +164,7 @@
       "longitude": -73.99649911716193
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 3590006,
       "latitude": 40.88282894758702,
       "binStatus": "Available",
@@ -686,12 +686,12 @@
       "longitude": -73.86818949133158
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 503000063,
       "latitude": 40.76656936634833,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 19 - SE Crescent St & 30 Dr",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.92594543138473
     },
     {
@@ -749,7 +749,7 @@
       "longitude": -74.07695855945349
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 503000067,
       "latitude": 40.76558557637679,
       "binStatus": "Available",
@@ -3287,10 +3287,10 @@
       "longitude": -73.991970140548
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100123,
       "latitude": 40.78331643218788,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 377 - NW Broadway & W 78 St",
       "availableForUse": true,
       "longitude": -73.98062197434946
