@@ -2,7 +2,7 @@
   "errorCode": "STATUS_OK",
   "compostAssets": [
     {
-      "latestFullness": 20,
+      "latestFullness": 60,
       "serialNumber": 3590004,
       "latitude": 40.740982515732185,
       "binStatus": "Available",
@@ -65,7 +65,7 @@
       "longitude": -73.91328877313748
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 3590001,
       "latitude": 40.746548059294376,
       "binStatus": "Available",
@@ -83,7 +83,7 @@
       "longitude": -73.90727262943983
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 3590015,
       "latitude": 40.746483770342856,
       "binStatus": "Available",
@@ -263,7 +263,7 @@
       "longitude": -73.94863547733536
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 503000009,
       "latitude": 40.700382392327064,
       "binStatus": "Available",
@@ -335,7 +335,7 @@
       "longitude": -73.94737802445889
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 60,
       "serialNumber": 503000019,
       "latitude": 40.76701705596692,
       "binStatus": "Available",
@@ -578,7 +578,7 @@
       "longitude": -73.92879232764244
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 60,
       "serialNumber": 503000042,
       "latitude": 40.764174520197706,
       "binStatus": "Available",
@@ -641,7 +641,7 @@
       "longitude": -73.92113855102095
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000035,
       "latitude": 40.820298050767335,
       "binStatus": "Available",
@@ -659,7 +659,7 @@
       "longitude": -73.93204148858786
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 503000036,
       "latitude": 40.6778510426927,
       "binStatus": "Available",
@@ -686,7 +686,7 @@
       "longitude": -73.86818949133158
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 503000063,
       "latitude": 40.76656936634833,
       "binStatus": "Available",
@@ -875,7 +875,7 @@
       "longitude": -73.91521599143744
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 503000093,
       "latitude": 40.76223009405083,
       "binStatus": "Available",
@@ -911,7 +911,7 @@
       "longitude": -73.90734169632196
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 40,
       "serialNumber": 503000094,
       "latitude": 40.7666826313674,
       "binStatus": "Available",
@@ -1028,12 +1028,12 @@
       "longitude": -73.96523348987103
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 503000140,
       "latitude": 40.681352486961536,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 138 - NW Malcolm X Blvd & Bainbridge St",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.92874404788017
     },
     {
@@ -1352,7 +1352,7 @@
       "longitude": -73.89874320477247
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000176,
       "latitude": 40.680852618800145,
       "binStatus": "Available",
@@ -1478,7 +1478,7 @@
       "longitude": -73.85720618069172
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 503000200,
       "latitude": 40.68219457581468,
       "binStatus": "Available",
@@ -1541,16 +1541,16 @@
       "longitude": -73.99644857287824
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 503000191,
       "latitude": 40.80924767164232,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 421 - NE W 123 St & St Nicholas Ave",
       "availableForUse": true,
       "longitude": -73.95281285047531
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 60,
       "serialNumber": 503000207,
       "latitude": 40.68175217538853,
       "binStatus": "Available",
@@ -1901,21 +1901,21 @@
       "longitude": -73.95274545997381
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 503000254,
       "latitude": 40.675854136512314,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 195 - SE St. Marks Ave & Franklin Ave",
       "availableForUse": true,
       "longitude": -73.95603641084294
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 503000257,
       "latitude": 40.670259668497785,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 214 - NW Rogers Ave & Eastern Parkway",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.95334862172604
     },
     {
@@ -2351,7 +2351,7 @@
       "longitude": -73.9498927384089
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 505100013,
       "latitude": 40.73565255133342,
       "binStatus": "Available",
@@ -2414,10 +2414,10 @@
       "longitude": -74.01704739779234
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100007,
       "latitude": 40.730315325690235,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 333 - SE Carmine St & Bleeker St",
       "availableForUse": true,
       "longitude": -74.00240702146108
@@ -2432,7 +2432,7 @@
       "longitude": -74.0109745413065
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 60,
       "serialNumber": 505100023,
       "latitude": 40.7346470054958,
       "binStatus": "Available",
@@ -2486,7 +2486,7 @@
       "longitude": -74.01322457939386
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 40,
       "serialNumber": 505100071,
       "latitude": 40.73149350965934,
       "binStatus": "Available",
@@ -2765,7 +2765,7 @@
       "longitude": -73.97332561607193
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 505100095,
       "latitude": 40.74408502157723,
       "binStatus": "Available",
@@ -3098,7 +3098,7 @@
       "longitude": -73.9780299987419
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 0,
       "serialNumber": 505100104,
       "latitude": 40.7685305130064,
       "binStatus": "Available",
@@ -3107,7 +3107,7 @@
       "longitude": -73.9616337989868
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 60,
       "serialNumber": 505100098,
       "latitude": 40.741609115050146,
       "binStatus": "Available",
@@ -3233,10 +3233,10 @@
       "longitude": -74.00526163846435
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100149,
       "latitude": 40.77380204413203,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 393 - NW 1 Ave & E 81 St",
       "availableForUse": true,
       "longitude": -73.95175657391553
@@ -3251,7 +3251,7 @@
       "longitude": -73.97276669918094
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 505100117,
       "latitude": 40.785099715114235,
       "binStatus": "Available",
