@@ -11,10 +11,10 @@
       "longitude": -73.9180913195014
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 3590010,
       "latitude": 40.74060865008307,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 409 - NE Greenpoint Ave & 42 St",
       "availableForUse": true,
       "longitude": -73.92287585085252
@@ -29,10 +29,10 @@
       "longitude": -73.92003797195594
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 3590017,
       "latitude": 40.7447717419058,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 403 - SW 43 Ave & 47 St",
       "availableForUse": true,
       "longitude": -73.9175371080637
@@ -281,12 +281,12 @@
       "longitude": -73.92011906951666
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 503000012,
       "latitude": 40.820960776484476,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 24 - SW W 138 St & Amsterdam Ave",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.95101174712181
     },
     {
@@ -650,7 +650,7 @@
       "longitude": -73.94394144415855
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 503000034,
       "latitude": 40.77413098831083,
       "binStatus": "Available",
@@ -974,7 +974,7 @@
       "longitude": -73.95624071359634
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 503000076,
       "latitude": 40.791411617905716,
       "binStatus": "Available",
@@ -1064,7 +1064,7 @@
       "longitude": -73.96265991032124
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 0,
       "serialNumber": 503000133,
       "latitude": 40.684197290894595,
       "binStatus": "Available",
@@ -1118,7 +1118,7 @@
       "longitude": -73.92045420260473
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 0,
       "serialNumber": 503000147,
       "latitude": 40.687583234935204,
       "binStatus": "Available",
@@ -1199,7 +1199,7 @@
       "longitude": -73.96311119198799
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 0,
       "serialNumber": 503000152,
       "latitude": 40.68415381504779,
       "binStatus": "Available",
@@ -1253,7 +1253,7 @@
       "longitude": -73.9129939918858
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 0,
       "serialNumber": 503000160,
       "latitude": 40.6827719802296,
       "binStatus": "Available",
@@ -1433,10 +1433,10 @@
       "longitude": -73.90980195254087
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 0,
       "serialNumber": 503000181,
       "latitude": 40.68065836586844,
-      "binStatus": "Nearly Full",
+      "binStatus": "Available",
       "description": "BIN 115 - NE Lewis Ave & Bainbridge St",
       "availableForUse": true,
       "longitude": -73.93454968929291
@@ -1559,10 +1559,10 @@
       "longitude": -73.9436212554574
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 503000206,
       "latitude": 40.68764908091782,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 122 - SW Tompkins Ave & Quincy St",
       "availableForUse": true,
       "longitude": -73.94487351179123
@@ -1649,7 +1649,7 @@
       "longitude": -73.89510378241539
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 503000213,
       "latitude": 40.76718414067168,
       "binStatus": "Available",
@@ -1919,7 +1919,7 @@
       "longitude": -73.95334862172604
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 0,
       "serialNumber": 503000255,
       "latitude": 40.67155276024617,
       "binStatus": "Available",
@@ -3404,7 +3404,7 @@
       "longitude": -73.95933442215124
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 0,
       "serialNumber": 505100194,
       "latitude": 40.7519804629536,
       "binStatus": "Available",
@@ -3422,7 +3422,7 @@
       "longitude": -73.94991182305093
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 0,
       "serialNumber": 505100197,
       "latitude": 40.750960185572,
       "binStatus": "Available",
