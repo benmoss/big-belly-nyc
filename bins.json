@@ -164,7 +164,7 @@
       "longitude": -73.99649911716193
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 3590006,
       "latitude": 40.88282894758702,
       "binStatus": "Available",
@@ -650,7 +650,7 @@
       "longitude": -73.94394144415855
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 0,
       "serialNumber": 503000034,
       "latitude": 40.77413098831083,
       "binStatus": "Available",
@@ -749,7 +749,7 @@
       "longitude": -74.07695855945349
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 503000067,
       "latitude": 40.76558557637679,
       "binStatus": "Available",
@@ -1028,12 +1028,12 @@
       "longitude": -73.96523348987103
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 0,
       "serialNumber": 503000140,
       "latitude": 40.681352486961536,
-      "binStatus": "Full",
+      "binStatus": "Available",
       "description": "BIN 138 - NW Malcolm X Blvd & Bainbridge St",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.92874404788017
     },
     {
@@ -1388,7 +1388,7 @@
       "longitude": -73.96627854555845
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 0,
       "serialNumber": 503000180,
       "latitude": 40.69293663142478,
       "binStatus": "Available",
@@ -1667,12 +1667,12 @@
       "longitude": -73.82940910756588
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 0,
       "serialNumber": 503000221,
       "latitude": 40.69040997746076,
-      "binStatus": "Full",
+      "binStatus": "Available",
       "description": "BIN 121 - SW Tompkins Ave & Lafayette Ave",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.94542437046766
     },
     {
@@ -1874,7 +1874,7 @@
       "longitude": -73.93339063972235
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 0,
       "serialNumber": 503000253,
       "latitude": 40.69199578878015,
       "binStatus": "Available",
@@ -1883,12 +1883,12 @@
       "longitude": -73.90651490539312
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 0,
       "serialNumber": 503000246,
       "latitude": 40.67049107908947,
-      "binStatus": "Full",
+      "binStatus": "Available",
       "description": "BIN 197 - SW New York Ave & Lincoln Place",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.94772704690695
     },
     {
@@ -2045,12 +2045,12 @@
       "longitude": -73.92796251922846
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 503000271,
       "latitude": 40.74194368731704,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 408 - NW 40 St & 47 Ave",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.92471789027536
     },
     {
@@ -2468,7 +2468,7 @@
       "longitude": -73.99849525644926
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 505100029,
       "latitude": 40.710663476710224,
       "binStatus": "Available",
@@ -2738,12 +2738,12 @@
       "longitude": -73.97465123299237
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 505100079,
       "latitude": 40.72376127391616,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 322 - NW Ave A & E 3 St",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.98540060636678
     },
     {
@@ -3170,12 +3170,12 @@
       "longitude": -73.97864520220962
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 505100134,
       "latitude": 40.762820138671465,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 313 - NE W 47 St & 10 Ave",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.99302401909992
     },
     {
@@ -3350,10 +3350,10 @@
       "longitude": -73.9799463692325
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100115,
       "latitude": 40.78876861933553,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 380 - SE Broadway & W 87 St",
       "availableForUse": true,
       "longitude": -73.97587379945203
