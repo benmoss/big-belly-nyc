@@ -1037,7 +1037,7 @@
       "longitude": -73.92874404788017
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 503000131,
       "latitude": 40.688233556498346,
       "binStatus": "Available",
@@ -1064,7 +1064,7 @@
       "longitude": -73.96265991032124
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 503000133,
       "latitude": 40.684197290894595,
       "binStatus": "Available",
@@ -1172,7 +1172,7 @@
       "longitude": -73.93382884562016
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000166,
       "latitude": 40.68703129558847,
       "binStatus": "Available",
@@ -1316,12 +1316,12 @@
       "longitude": -73.91542855650187
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 503000175,
       "latitude": 40.68014247411724,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 186 - SW Vanderbilt Ave & Dean St",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.96811317652464
     },
     {
@@ -2054,12 +2054,12 @@
       "longitude": -73.92471789027536
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 503000267,
       "latitude": 40.67165371443654,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 219 - SE Classon Ave & Eastern Parkway",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.96107707172632
     },
     {
@@ -2621,7 +2621,7 @@
       "longitude": -74.0007785662345
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 505100064,
       "latitude": 40.718560301291866,
       "binStatus": "Available",
@@ -2630,16 +2630,16 @@
       "longitude": -73.99876398340452
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 60,
       "serialNumber": 505100058,
       "latitude": 40.716735019858994,
-      "binStatus": "Nearly Full",
+      "binStatus": "Available",
       "description": "BIN 260 - NE Grand St & Essex St",
       "availableForUse": true,
       "longitude": -73.98896138948061
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 505100072,
       "latitude": 40.71327373740936,
       "binStatus": "Available",
@@ -2693,10 +2693,10 @@
       "longitude": -73.99722146507379
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100075,
       "latitude": 40.778178709659024,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 394 - SW E 85 St & 3 Ave",
       "availableForUse": true,
       "longitude": -73.9546898742066
@@ -3449,10 +3449,10 @@
       "longitude": -73.95625774369917
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100215,
       "latitude": 40.72144381409581,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 263 - NW Elizabeth St & Spring St",
       "availableForUse": true,
       "longitude": -73.99472179957999
