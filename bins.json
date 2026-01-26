@@ -2,10 +2,10 @@
   "errorCode": "STATUS_OK",
   "compostAssets": [
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 3590004,
       "latitude": 40.740982515732185,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 406 - SE 47 Ave & 47 St",
       "availableForUse": true,
       "longitude": -73.9180913195014
@@ -911,10 +911,10 @@
       "longitude": -73.90734169632196
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 503000094,
       "latitude": 40.7666826313674,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 11 - SW 31 Ave & 23 St",
       "availableForUse": true,
       "longitude": -73.92875041812658
@@ -1586,10 +1586,10 @@
       "longitude": -73.8490579649806
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 503000201,
       "latitude": 40.68428195430438,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 127 - SE Madison St & Bedford Ave",
       "availableForUse": true,
       "longitude": -73.95389076322317
@@ -1667,10 +1667,10 @@
       "longitude": -73.82940910756588
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 503000221,
       "latitude": 40.69040997746076,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 121 - SW Tompkins Ave & Lafayette Ave",
       "availableForUse": true,
       "longitude": -73.94542437046766
@@ -3395,12 +3395,12 @@
       "longitude": -73.92241423759894
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 505100196,
       "latitude": 40.74368886339107,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 430 - SE Center Blvd & 50 Ave",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.95933442215124
     },
     {
