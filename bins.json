@@ -695,7 +695,7 @@
       "longitude": -73.92594543138473
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 0,
       "serialNumber": 503000061,
       "latitude": 40.76808087642403,
       "binStatus": "Available",
@@ -1280,7 +1280,7 @@
       "longitude": -73.93640510737896
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 0,
       "serialNumber": 503000154,
       "latitude": 40.69389144220667,
       "binStatus": "Available",
@@ -1523,12 +1523,12 @@
       "longitude": -73.83048333227634
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 0,
       "serialNumber": 503000193,
       "latitude": 40.676794793886764,
-      "binStatus": "Full",
+      "binStatus": "Available",
       "description": "BIN 199 - NW New York Ave & Dean St",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.94724616137695
     },
     {
@@ -1730,10 +1730,10 @@
       "longitude": -73.91965739428997
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 503000225,
       "latitude": 40.6865703680712,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 128 - NE Bedford Ave & Quincy St",
       "availableForUse": true,
       "longitude": -73.95448587834835
@@ -1829,16 +1829,16 @@
       "longitude": -73.94294936209917
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 0,
       "serialNumber": 503000240,
       "latitude": 40.67428152112551,
-      "binStatus": "Full",
+      "binStatus": "Available",
       "description": "BIN 198 - NW New York Ave & Prospect Place",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.94742764532566
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 0,
       "serialNumber": 503000237,
       "latitude": 40.69656438204717,
       "binStatus": "Available",
@@ -2261,10 +2261,10 @@
       "longitude": -73.9538887710376
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100014,
       "latitude": 40.78010940688603,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 267 - NE 1 Ave & E 91 St",
       "availableForUse": true,
       "longitude": -73.94685207786003
@@ -2630,12 +2630,12 @@
       "longitude": -73.99876398340452
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 505100058,
       "latitude": 40.716735019858994,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 260 - NE Grand St & Essex St",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.98896138948061
     },
     {
@@ -2711,12 +2711,12 @@
       "longitude": -73.98491537817117
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 505100096,
       "latitude": 40.771722793444425,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 360 - NW West End Ave & W 59 St",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.99052800018954
     },
     {
@@ -2756,12 +2756,12 @@
       "longitude": -73.97379656746796
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 505100084,
       "latitude": 40.75544386726651,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 296 - NW Lexington Ave & E 48 St",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.97332561607193
     },
     {
@@ -3548,7 +3548,7 @@
       "longitude": -73.94742094974946
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 505100200,
       "latitude": 40.7431956119206,
       "binStatus": "Available",
