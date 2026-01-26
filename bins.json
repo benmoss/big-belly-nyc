@@ -20,12 +20,12 @@
       "longitude": -73.92287585085252
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 0,
       "serialNumber": 3590013,
       "latitude": 40.74689511721386,
-      "binStatus": "Full",
+      "binStatus": "Available",
       "description": "BIN 402 - NW Skillman Ave & 44 St",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.92003797195594
     },
     {
@@ -83,12 +83,12 @@
       "longitude": -73.90727262943983
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 0,
       "serialNumber": 3590015,
       "latitude": 40.746483770342856,
-      "binStatus": "Full",
+      "binStatus": "Available",
       "description": "BIN 401 - NE Skillman Ave & 47 St",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.91701877117157
     },
     {
@@ -434,12 +434,12 @@
       "longitude": -73.92743781208992
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 503000018,
       "latitude": 40.83478846373379,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 56 - SW Amsterdam Ave & W 160 St",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.94085858017206
     },
     {
@@ -461,7 +461,7 @@
       "longitude": -73.87542713633172
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 503000060,
       "latitude": 40.81491836063367,
       "binStatus": "Available",
@@ -1271,12 +1271,12 @@
       "longitude": -73.96974126370019
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 0,
       "serialNumber": 503000169,
       "latitude": 40.690318203640174,
-      "binStatus": "Full",
+      "binStatus": "Available",
       "description": "BIN 118 - NE Lewis Ave & Green Ave",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.93640510737896
     },
     {
@@ -1550,12 +1550,12 @@
       "longitude": -73.95281285047531
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 0,
       "serialNumber": 503000207,
       "latitude": 40.68175217538853,
-      "binStatus": "Full",
+      "binStatus": "Available",
       "description": "BIN 124 - SW Tompkins Ave & Macon St",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.9436212554574
     },
     {
@@ -1874,7 +1874,7 @@
       "longitude": -73.93339063972235
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 503000253,
       "latitude": 40.69199578878015,
       "binStatus": "Available",
@@ -2486,10 +2486,10 @@
       "longitude": -74.01322457939386
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100071,
       "latitude": 40.73149350965934,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 259 - SW University Place & 8 St",
       "availableForUse": true,
       "longitude": -73.99466765892298
@@ -2639,10 +2639,10 @@
       "longitude": -73.98896138948061
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100072,
       "latitude": 40.71327373740936,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 262 - NE Henry St & Pike St",
       "availableForUse": true,
       "longitude": -73.99222918721208
