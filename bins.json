@@ -38,12 +38,12 @@
       "longitude": -73.9175371080637
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 0,
       "serialNumber": 3590014,
       "latitude": 40.745373137079994,
-      "binStatus": "Full",
+      "binStatus": "Available",
       "description": "BIN 404 - SE 43 Ave & 41 St",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.92288388211199
     },
     {
@@ -821,7 +821,7 @@
       "longitude": -73.94825711846352
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 503000082,
       "latitude": 40.746466564173716,
       "binStatus": "Available",
@@ -1010,7 +1010,7 @@
       "longitude": -73.94525472074747
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 0,
       "serialNumber": 503000139,
       "latitude": 40.69385788678818,
       "binStatus": "Available",
@@ -1100,7 +1100,7 @@
       "longitude": -73.94996803253889
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 0,
       "serialNumber": 503000129,
       "latitude": 40.685812233251795,
       "binStatus": "Available",
@@ -1172,7 +1172,7 @@
       "longitude": -73.93382884562016
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 0,
       "serialNumber": 503000166,
       "latitude": 40.68703129558847,
       "binStatus": "Available",
@@ -1190,12 +1190,12 @@
       "longitude": -73.93099308013916
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 503000150,
       "latitude": 40.67358758069033,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 193 - NW Washington Ave & St. Johns Place",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.96311119198799
     },
     {
@@ -1361,7 +1361,7 @@
       "longitude": -73.91968253999949
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 0,
       "serialNumber": 503000163,
       "latitude": 40.67883225893407,
       "binStatus": "Available",
@@ -1451,7 +1451,7 @@
       "longitude": -73.96755293011665
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 0,
       "serialNumber": 503000182,
       "latitude": 40.688928869836005,
       "binStatus": "Available",
@@ -1955,12 +1955,12 @@
       "longitude": -73.95310335432222
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 503000262,
       "latitude": 40.724898542003324,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 254 - SW 6 Ave & Dominick St",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -74.00471196197128
     },
     {
@@ -2162,7 +2162,7 @@
       "longitude": -73.93855053931475
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 0,
       "serialNumber": 503000202,
       "latitude": 40.66971391909037,
       "binStatus": "Available",
@@ -3314,10 +3314,10 @@
       "longitude": -73.97035768079368
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100145,
       "latitude": 40.74163391924499,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 338 - NE W 21 St & 6 Ave",
       "availableForUse": true,
       "longitude": -73.99363601223293
