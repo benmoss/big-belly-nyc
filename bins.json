@@ -38,7 +38,7 @@
       "longitude": -73.9175371080637
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 3590014,
       "latitude": 40.745373137079994,
       "binStatus": "Available",
@@ -272,7 +272,7 @@
       "longitude": -73.92903984180296
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000011,
       "latitude": 40.835456625319416,
       "binStatus": "Available",
@@ -461,7 +461,7 @@
       "longitude": -73.87542713633172
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 503000060,
       "latitude": 40.81491836063367,
       "binStatus": "Available",
@@ -569,7 +569,7 @@
       "longitude": -73.92916951328516
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 0,
       "serialNumber": 503000041,
       "latitude": 40.81994765597217,
       "binStatus": "Available",
@@ -587,7 +587,7 @@
       "longitude": -73.92345808446407
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 503000046,
       "latitude": 40.81204666270059,
       "binStatus": "Available",
@@ -614,10 +614,10 @@
       "longitude": -73.9660133421421
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 503000039,
       "latitude": 40.82647613312916,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 25 - SW W 147 St & Amsterdam Ave",
       "availableForUse": true,
       "longitude": -73.94687759676215
@@ -1253,7 +1253,7 @@
       "longitude": -73.9129939918858
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000160,
       "latitude": 40.6827719802296,
       "binStatus": "Available",
@@ -1703,10 +1703,10 @@
       "longitude": -73.86291526257992
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 503000223,
       "latitude": 40.77783590171131,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 265 - SW 2 Ave & E 86 St",
       "availableForUse": true,
       "longitude": -73.95195467110418
@@ -2018,7 +2018,7 @@
       "longitude": -74.0864036232233
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 0,
       "serialNumber": 503000272,
       "latitude": 40.62262016360215,
       "binStatus": "Available",
@@ -2207,10 +2207,10 @@
       "longitude": -73.9532222620251
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100048,
       "latitude": 40.778333070963065,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 271 - NW 1 Ave & E 88 St",
       "availableForUse": true,
       "longitude": -73.94848935814979
@@ -2288,12 +2288,12 @@
       "longitude": -73.98598125432342
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 505100049,
       "latitude": 40.70676048283521,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 253 - SW Maiden Lane & Pearl St",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -74.00691708161023
     },
     {
@@ -2387,10 +2387,10 @@
       "longitude": -74.00006544331396
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 0,
       "serialNumber": 505100022,
       "latitude": 40.73287635373648,
-      "binStatus": "Nearly Full",
+      "binStatus": "Available",
       "description": "BIN 334 - SW Hudson St & Christopher St",
       "availableForUse": true,
       "longitude": -74.00655866692779
@@ -2522,10 +2522,10 @@
       "longitude": -73.95019042066897
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 0,
       "serialNumber": 505100044,
       "latitude": 40.73121273762785,
-      "binStatus": "Nearly Full",
+      "binStatus": "Available",
       "description": "BIN 335 - NE Morton St & Greenwich St",
       "availableForUse": true,
       "longitude": -74.0077318323766
@@ -2684,7 +2684,7 @@
       "longitude": -73.96450973157151
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 0,
       "serialNumber": 505100082,
       "latitude": 40.76216672199596,
       "binStatus": "Available",
@@ -2711,12 +2711,12 @@
       "longitude": -73.98491537817117
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 0,
       "serialNumber": 505100096,
       "latitude": 40.771722793444425,
-      "binStatus": "Full",
+      "binStatus": "Available",
       "description": "BIN 360 - NW West End Ave & W 59 St",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.99052800018954
     },
     {
@@ -2765,10 +2765,10 @@
       "longitude": -73.97332561607193
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100095,
       "latitude": 40.74408502157723,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 300 - SW E 33 St & 2 Ave",
       "availableForUse": true,
       "longitude": -73.9766103569379
@@ -3044,7 +3044,7 @@
       "longitude": -73.95414933006201
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 0,
       "serialNumber": 505100124,
       "latitude": 40.74132799277233,
       "binStatus": "Available",
@@ -3143,7 +3143,7 @@
       "longitude": -73.94652914221223
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 0,
       "serialNumber": 505100138,
       "latitude": 40.76639459170164,
       "binStatus": "Available",
@@ -3170,12 +3170,12 @@
       "longitude": -73.97864520220962
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 0,
       "serialNumber": 505100134,
       "latitude": 40.762820138671465,
-      "binStatus": "Full",
+      "binStatus": "Available",
       "description": "BIN 313 - NE W 47 St & 10 Ave",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.99302401909992
     },
     {
@@ -3260,16 +3260,16 @@
       "longitude": -73.97707090180893
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 0,
       "serialNumber": 505100140,
       "latitude": 40.760441717606135,
-      "binStatus": "Full",
+      "binStatus": "Available",
       "description": "BIN 351 - NW 10 Ave & W 43 St",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.99506114554103
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 0,
       "serialNumber": 505100150,
       "latitude": 40.729589714367386,
       "binStatus": "Available",
