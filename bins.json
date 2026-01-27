@@ -470,7 +470,7 @@
       "longitude": -73.95299658179283
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 0,
       "serialNumber": 503000053,
       "latitude": 40.764994993021595,
       "binStatus": "Available",
@@ -1082,7 +1082,7 @@
       "longitude": -73.93217660486698
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 503000135,
       "latitude": 40.69796320197583,
       "binStatus": "Available",
@@ -1415,7 +1415,7 @@
       "longitude": -73.92379101365805
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 503000189,
       "latitude": 40.67990830015172,
       "binStatus": "Available",
@@ -2099,10 +2099,10 @@
       "longitude": -73.94352234899998
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 503000277,
       "latitude": 40.76236771749731,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 18 - SE 31 Ave & 36 St",
       "availableForUse": true,
       "longitude": -73.91942974179983
@@ -2270,12 +2270,12 @@
       "longitude": -73.94685207786003
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 0,
       "serialNumber": 505100020,
       "latitude": 40.72799056580962,
-      "binStatus": "Full",
+      "binStatus": "Available",
       "description": "BIN 317 - SE Ave B & E 12 St",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.97899926258084
     },
     {
@@ -2738,12 +2738,12 @@
       "longitude": -73.97465123299237
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 0,
       "serialNumber": 505100079,
       "latitude": 40.72376127391616,
-      "binStatus": "Full",
+      "binStatus": "Available",
       "description": "BIN 322 - NW Ave A & E 3 St",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.98540060636678
     },
     {
@@ -2846,12 +2846,12 @@
       "longitude": -73.98908566787568
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 0,
       "serialNumber": 505100108,
       "latitude": 40.72728546443583,
-      "binStatus": "Full",
+      "binStatus": "Available",
       "description": "BIN 321 - NE Ave A & E 9 St",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.98253004894701
     },
     {
@@ -2972,7 +2972,7 @@
       "longitude": -73.97793704431773
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 0,
       "serialNumber": 505100100,
       "latitude": 40.773718493770346,
       "binStatus": "Available",
@@ -2990,7 +2990,7 @@
       "longitude": -73.9728414833659
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 0,
       "serialNumber": 505100101,
       "latitude": 40.77228183243049,
       "binStatus": "Available",
@@ -3017,7 +3017,7 @@
       "longitude": -73.98526381245097
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 0,
       "serialNumber": 505100097,
       "latitude": 40.72556517707213,
       "binStatus": "Available",
@@ -3332,12 +3332,12 @@
       "longitude": -73.98222696429983
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 505100112,
       "latitude": 40.741522457226544,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 306 - NW 3 Ave & E 27 St",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.98135114745574
     },
     {
@@ -3548,7 +3548,7 @@
       "longitude": -73.94742094974946
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 0,
       "serialNumber": 505100200,
       "latitude": 40.7431956119206,
       "binStatus": "Available",
