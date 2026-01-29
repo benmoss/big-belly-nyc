@@ -2,7 +2,7 @@
   "errorCode": "STATUS_OK",
   "compostAssets": [
     {
-      "latestFullness": 40,
+      "latestFullness": 0,
       "serialNumber": 3590004,
       "latitude": 40.740982515732185,
       "binStatus": "Available",
@@ -767,12 +767,12 @@
       "longitude": -73.94291717559099
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 0,
       "serialNumber": 503000069,
       "latitude": 40.762088122135914,
-      "binStatus": "Full",
+      "binStatus": "Available",
       "description": "BIN 06 - NW 31 St & Broadway",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.92557334154844
     },
     {
@@ -3044,7 +3044,7 @@
       "longitude": -73.95414933006201
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 0,
       "serialNumber": 505100124,
       "latitude": 40.74132799277233,
       "binStatus": "Available",
