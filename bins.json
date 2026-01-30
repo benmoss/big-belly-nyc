@@ -200,7 +200,7 @@
       "longitude": -73.92021738757299
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000002,
       "latitude": 40.802624362593846,
       "binStatus": "Available",
@@ -362,7 +362,7 @@
       "longitude": -73.93805466592312
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 60,
       "serialNumber": 503000006,
       "latitude": 40.855684792533886,
       "binStatus": "Available",
@@ -380,12 +380,12 @@
       "longitude": -73.94016187638044
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 0,
       "serialNumber": 503000032,
       "latitude": 40.76149921367936,
-      "binStatus": "Full",
+      "binStatus": "Available",
       "description": "BIN 17 - SE 38 St & 31 Ave",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.91796863240839
     },
     {
@@ -506,7 +506,7 @@
       "longitude": -73.95314779132605
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 503000050,
       "latitude": 40.829794034320685,
       "binStatus": "Available",
@@ -1856,7 +1856,7 @@
       "longitude": -73.93390157678125
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 503000241,
       "latitude": 40.6774118895118,
       "binStatus": "Available",
@@ -2099,7 +2099,7 @@
       "longitude": -73.94352234899998
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 0,
       "serialNumber": 503000277,
       "latitude": 40.76236771749731,
       "binStatus": "Available",
@@ -2378,7 +2378,7 @@
       "longitude": -74.00657773017883
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 40,
       "serialNumber": 505100003,
       "latitude": 40.73776704120356,
       "binStatus": "Available",
@@ -2738,7 +2738,7 @@
       "longitude": -73.97465123299237
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 505100079,
       "latitude": 40.72376127391616,
       "binStatus": "Available",
@@ -3161,7 +3161,7 @@
       "longitude": -73.98776125245462
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 505100144,
       "latitude": 40.78596763857327,
       "binStatus": "Available",
@@ -3359,12 +3359,12 @@
       "longitude": -73.97587379945203
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 505100128,
       "latitude": 40.72662593513809,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 327 - SW Bond St & Lafayette St",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.99427816002996
     },
     {
@@ -3386,7 +3386,7 @@
       "longitude": -73.94665605877088
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 505100214,
       "latitude": 40.73958656897722,
       "binStatus": "Available",
@@ -3458,10 +3458,10 @@
       "longitude": -73.99472179957999
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100210,
       "latitude": 40.74222953545039,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 432 - SE Center Blvd & Borden Ave",
       "availableForUse": true,
       "longitude": -73.95997052760285
