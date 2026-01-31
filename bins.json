@@ -2,7 +2,7 @@
   "errorCode": "STATUS_OK",
   "compostAssets": [
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 3590004,
       "latitude": 40.740982515732185,
       "binStatus": "Available",
@@ -1217,12 +1217,12 @@
       "longitude": -73.92600182443857
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 0,
       "serialNumber": 503000158,
       "latitude": 40.68871201420607,
-      "binStatus": "Full",
+      "binStatus": "Available",
       "description": "BIN 129 - NE Bedford Ave & Clifton Place",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.95497169345617
     },
     {
@@ -1262,10 +1262,10 @@
       "longitude": -73.94101046025753
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 0,
       "serialNumber": 503000168,
       "latitude": 40.6755571241916,
-      "binStatus": "Nearly Full",
+      "binStatus": "Available",
       "description": "BIN 188 - NW Vanderbilt Ave & Plaza St E",
       "availableForUse": true,
       "longitude": -73.96974126370019
@@ -1316,7 +1316,7 @@
       "longitude": -73.91542855650187
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 0,
       "serialNumber": 503000175,
       "latitude": 40.68014247411724,
       "binStatus": "Available",
@@ -1658,7 +1658,7 @@
       "longitude": -73.95670607686043
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000214,
       "latitude": 40.84592817625355,
       "binStatus": "Available",
@@ -1820,7 +1820,7 @@
       "longitude": -74.07850451767445
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 0,
       "serialNumber": 503000239,
       "latitude": 40.69389322166022,
       "binStatus": "Available",
@@ -2072,7 +2072,7 @@
       "longitude": -73.93935050815344
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 60,
       "serialNumber": 503000276,
       "latitude": 40.671487915534485,
       "binStatus": "Available",
@@ -2315,7 +2315,7 @@
       "longitude": -73.99051628208568
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 505100008,
       "latitude": 40.7391347154904,
       "binStatus": "Available",
@@ -3044,7 +3044,7 @@
       "longitude": -73.95414933006201
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 40,
       "serialNumber": 505100124,
       "latitude": 40.74132799277233,
       "binStatus": "Available",
@@ -3431,7 +3431,7 @@
       "longitude": -73.93678337990917
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 0,
       "serialNumber": 505100212,
       "latitude": 40.74420348192229,
       "binStatus": "Available",
