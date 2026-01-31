@@ -875,10 +875,10 @@
       "longitude": -73.91521599143744
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 0,
       "serialNumber": 503000093,
       "latitude": 40.76223009405083,
-      "binStatus": "Nearly Full",
+      "binStatus": "Available",
       "description": "BIN 01 - NE 31 Ave & 37 St",
       "availableForUse": true,
       "longitude": -73.91863731029024
@@ -1271,10 +1271,10 @@
       "longitude": -73.96974126370019
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 0,
       "serialNumber": 503000169,
       "latitude": 40.690318203640174,
-      "binStatus": "Nearly Full",
+      "binStatus": "Available",
       "description": "BIN 118 - NE Lewis Ave & Green Ave",
       "availableForUse": true,
       "longitude": -73.93640510737896
@@ -1379,12 +1379,12 @@
       "longitude": -73.941904976964
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 0,
       "serialNumber": 503000179,
       "latitude": 40.67617742416484,
-      "binStatus": "Full",
+      "binStatus": "Available",
       "description": "BIN 190 - NE Underhill Ave & Park Place",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.96627854555845
     },
     {
@@ -1937,12 +1937,12 @@
       "longitude": -74.14217077195644
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 0,
       "serialNumber": 503000244,
       "latitude": 40.67498593224985,
-      "binStatus": "Full",
+      "binStatus": "Available",
       "description": "BIN 194 - NW Classon Ave & Park Place",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.96024390254057
     },
     {
@@ -3251,7 +3251,7 @@
       "longitude": -73.97276669918094
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 505100117,
       "latitude": 40.785099715114235,
       "binStatus": "Available",
