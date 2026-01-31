@@ -2,7 +2,7 @@
   "errorCode": "STATUS_OK",
   "compostAssets": [
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 3590004,
       "latitude": 40.740982515732185,
       "binStatus": "Available",
@@ -101,7 +101,7 @@
       "longitude": -73.92166045665941
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 3590012,
       "latitude": 40.884080646656564,
       "binStatus": "Available",
@@ -326,7 +326,7 @@
       "longitude": -73.99040903896093
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 0,
       "serialNumber": 503000017,
       "latitude": 40.81773208281474,
       "binStatus": "Available",
@@ -362,10 +362,10 @@
       "longitude": -73.93805466592312
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 503000006,
       "latitude": 40.855684792533886,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 61 - NE Cabrini Blvd & W 187 St",
       "availableForUse": true,
       "longitude": -73.93778998622929
@@ -524,12 +524,12 @@
       "longitude": -73.94493098288339
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 0,
       "serialNumber": 503000049,
       "latitude": 40.792326106963955,
-      "binStatus": "Full",
+      "binStatus": "Available",
       "description": "BIN 46 - NW E 110 St & 1 Ave",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.93832288682462
     },
     {
@@ -734,9 +734,9 @@
       "latestFullness": 0,
       "serialNumber": 503000064,
       "latitude": 40.78210605168062,
-      "binStatus": "Available",
+      "binStatus": "Out of Service",
       "description": "BIN 50 - NW E 91 St & 3 Ave",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.95172468826313
     },
     {
@@ -1001,7 +1001,7 @@
       "longitude": -74.00267075747252
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 0,
       "serialNumber": 503000078,
       "latitude": 40.81357603431238,
       "binStatus": "Available",
@@ -1100,10 +1100,10 @@
       "longitude": -73.94996803253889
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 503000129,
       "latitude": 40.685812233251795,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 141 - NE Throop Ave & Madison St",
       "availableForUse": true,
       "longitude": -73.94146978855133
@@ -1487,7 +1487,7 @@
       "longitude": -73.9536564052105
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 0,
       "serialNumber": 503000194,
       "latitude": 40.719136863283865,
       "binStatus": "Available",
@@ -2018,7 +2018,7 @@
       "longitude": -74.0864036232233
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000272,
       "latitude": 40.62262016360215,
       "binStatus": "Available",
@@ -3206,7 +3206,7 @@
       "longitude": -73.98753543655222
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 0,
       "serialNumber": 505100146,
       "latitude": 40.74723684953337,
       "binStatus": "Available",
@@ -3314,7 +3314,7 @@
       "longitude": -73.97035768079368
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 0,
       "serialNumber": 505100145,
       "latitude": 40.74163391924499,
       "binStatus": "Available",
@@ -3458,12 +3458,12 @@
       "longitude": -73.99472179957999
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 505100210,
       "latitude": 40.74222953545039,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 432 - SE Center Blvd & Borden Ave",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.95997052760285
     },
     {
