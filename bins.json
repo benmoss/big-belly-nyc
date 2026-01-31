@@ -65,21 +65,21 @@
       "longitude": -73.91328877313748
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 0,
       "serialNumber": 3590001,
       "latitude": 40.746548059294376,
-      "binStatus": "Nearly Full",
+      "binStatus": "Available",
       "description": "Bin 396 - NE 64 St & 39 Ave",
       "availableForUse": true,
       "longitude": -73.89971678571764
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 0,
       "serialNumber": 3590019,
       "latitude": 40.745991757187745,
-      "binStatus": "Full",
+      "binStatus": "Available",
       "description": "BIN 398 - NW 57 St & Woodside Ave",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.90727262943983
     },
     {
@@ -110,7 +110,7 @@
       "longitude": -73.91260653734207
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 0,
       "serialNumber": 3590003,
       "latitude": 40.7457242854218,
       "binStatus": "Available",
@@ -128,12 +128,12 @@
       "longitude": -73.92154820692338
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 3590008,
       "latitude": 40.741475328023036,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 407 - NW 44 St & 47 Ave",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.92099916934967
     },
     {
@@ -551,7 +551,7 @@
       "longitude": -73.94713159650564
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000044,
       "latitude": 40.80556261860785,
       "binStatus": "Available",
@@ -578,7 +578,7 @@
       "longitude": -73.92879232764244
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000042,
       "latitude": 40.764174520197706,
       "binStatus": "Available",
@@ -1055,12 +1055,12 @@
       "longitude": -73.90436712652445
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 0,
       "serialNumber": 503000136,
       "latitude": 40.67726495043478,
-      "binStatus": "Full",
+      "binStatus": "Available",
       "description": "BIN 192 - NW Grand Ave & St. Marks Ave",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.96265991032124
     },
     {
@@ -1397,7 +1397,7 @@
       "longitude": -73.90797402709723
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 0,
       "serialNumber": 503000188,
       "latitude": 40.690796900599814,
       "binStatus": "Available",
@@ -1550,7 +1550,7 @@
       "longitude": -73.95281285047531
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000207,
       "latitude": 40.68175217538853,
       "binStatus": "Available",
@@ -1820,7 +1820,7 @@
       "longitude": -74.07850451767445
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000239,
       "latitude": 40.69389322166022,
       "binStatus": "Available",
@@ -2333,7 +2333,7 @@
       "longitude": -74.00212241864305
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 40,
       "serialNumber": 505100021,
       "latitude": 40.775317712188475,
       "binStatus": "Available",
@@ -2432,7 +2432,7 @@
       "longitude": -74.0109745413065
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 40,
       "serialNumber": 505100023,
       "latitude": 40.7346470054958,
       "binStatus": "Available",
@@ -2441,7 +2441,7 @@
       "longitude": -73.99481938922054
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 505100037,
       "latitude": 40.739169439589006,
       "binStatus": "Available",
@@ -3260,7 +3260,7 @@
       "longitude": -73.97707090180893
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 505100140,
       "latitude": 40.760441717606135,
       "binStatus": "Available",
