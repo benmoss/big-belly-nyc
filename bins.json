@@ -1154,7 +1154,7 @@
       "longitude": -73.9503475651145
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000132,
       "latitude": 40.70324915068062,
       "binStatus": "Available",
@@ -1649,7 +1649,7 @@
       "longitude": -73.89510378241539
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 503000213,
       "latitude": 40.76718414067168,
       "binStatus": "Available",
@@ -1937,12 +1937,12 @@
       "longitude": -74.14217077195644
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 503000244,
       "latitude": 40.67498593224985,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 194 - NW Classon Ave & Park Place",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.96024390254057
     },
     {
@@ -2306,7 +2306,7 @@
       "longitude": -73.99195962283002
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 505100019,
       "latitude": 40.731496522321486,
       "binStatus": "Available",
@@ -2324,7 +2324,7 @@
       "longitude": -73.99540269748928
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 60,
       "serialNumber": 505100031,
       "latitude": 40.72948121652991,
       "binStatus": "Available",
@@ -2414,7 +2414,7 @@
       "longitude": -74.01704739779234
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 0,
       "serialNumber": 505100007,
       "latitude": 40.730315325690235,
       "binStatus": "Available",
@@ -2648,10 +2648,10 @@
       "longitude": -73.99222918721208
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100057,
       "latitude": 40.77544607677087,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 266 - NW 2 Ave & E 82 St",
       "availableForUse": true,
       "longitude": -73.9535946787067
@@ -2720,7 +2720,7 @@
       "longitude": -73.99052800018954
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 60,
       "serialNumber": 505100081,
       "latitude": 40.78693626205199,
       "binStatus": "Available",
