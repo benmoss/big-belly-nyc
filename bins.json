@@ -11,7 +11,7 @@
       "longitude": -73.9180913195014
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 3590010,
       "latitude": 40.74060865008307,
       "binStatus": "Available",
@@ -74,12 +74,12 @@
       "longitude": -73.89971678571764
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 3590019,
       "latitude": 40.745991757187745,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 398 - NW 57 St & Woodside Ave",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.90727262943983
     },
     {
@@ -236,7 +236,7 @@
       "longitude": -73.90916280189015
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000005,
       "latitude": 40.68477302089155,
       "binStatus": "Available",
@@ -281,10 +281,10 @@
       "longitude": -73.92011906951666
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 503000012,
       "latitude": 40.820960776484476,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 24 - SW W 138 St & Amsterdam Ave",
       "availableForUse": true,
       "longitude": -73.95101174712181
@@ -326,7 +326,7 @@
       "longitude": -73.99040903896093
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 503000017,
       "latitude": 40.81773208281474,
       "binStatus": "Available",
@@ -911,7 +911,7 @@
       "longitude": -73.90734169632196
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 503000094,
       "latitude": 40.7666826313674,
       "binStatus": "Available",
@@ -2450,12 +2450,12 @@
       "longitude": -74.00274561377924
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 505100047,
       "latitude": 40.735409744769015,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 309 - NW Irving Place & E 16 St",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.98789177423471
     },
     {
@@ -2765,10 +2765,10 @@
       "longitude": -73.97332561607193
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100095,
       "latitude": 40.74408502157723,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 300 - SW E 33 St & 2 Ave",
       "availableForUse": true,
       "longitude": -73.9766103569379
