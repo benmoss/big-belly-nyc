@@ -659,12 +659,12 @@
       "longitude": -73.93204148858786
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 0,
       "serialNumber": 503000036,
       "latitude": 40.6778510426927,
-      "binStatus": "Full",
+      "binStatus": "Available",
       "description": "BIN 187 - NW Vanderbilt Ave & Prospect Place",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.96890208125114
     },
     {
@@ -1055,7 +1055,7 @@
       "longitude": -73.90436712652445
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 0,
       "serialNumber": 503000136,
       "latitude": 40.67726495043478,
       "binStatus": "Available",
@@ -1262,7 +1262,7 @@
       "longitude": -73.94101046025753
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 0,
       "serialNumber": 503000168,
       "latitude": 40.6755571241916,
       "binStatus": "Available",
@@ -1316,7 +1316,7 @@
       "longitude": -73.91542855650187
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 0,
       "serialNumber": 503000175,
       "latitude": 40.68014247411724,
       "binStatus": "Available",
@@ -1442,12 +1442,12 @@
       "longitude": -73.93454968929291
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 0,
       "serialNumber": 503000184,
       "latitude": 40.673104182956976,
-      "binStatus": "Full",
+      "binStatus": "Available",
       "description": "BIN 189 - NE Underhill Ave & Eastern Parkway",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.96755293011665
     },
     {
@@ -1568,7 +1568,7 @@
       "longitude": -73.94487351179123
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 0,
       "serialNumber": 503000198,
       "latitude": 40.82896269217192,
       "binStatus": "Available",
@@ -1964,12 +1964,12 @@
       "longitude": -74.00471196197128
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 0,
       "serialNumber": 503000263,
       "latitude": 40.67867868263691,
-      "binStatus": "Full",
+      "binStatus": "Available",
       "description": "BIN 220 - NE Flatbush Ave & Prospect Place",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.97343333810568
     },
     {
@@ -2855,12 +2855,12 @@
       "longitude": -73.98253004894701
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 0,
       "serialNumber": 505100086,
       "latitude": 40.781894893686875,
-      "binStatus": "Full",
+      "binStatus": "Available",
       "description": "BIN 366 - NE W 77 St & Amsterdam Ave",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.97906581678058
     },
     {
@@ -3035,7 +3035,7 @@
       "longitude": -73.96666802317641
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 505100132,
       "latitude": 40.757513465018945,
       "binStatus": "Available",
@@ -3242,10 +3242,10 @@
       "longitude": -73.95175657391553
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100121,
       "latitude": 40.7909709189525,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 371 - NW W 91 St & Amsterdam Ave",
       "availableForUse": true,
       "longitude": -73.97276669918094
