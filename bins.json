@@ -362,21 +362,21 @@
       "longitude": -73.93805466592312
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 0,
       "serialNumber": 503000006,
       "latitude": 40.855684792533886,
-      "binStatus": "Full",
+      "binStatus": "Available",
       "description": "BIN 61 - NE Cabrini Blvd & W 187 St",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.93778998622929
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 0,
       "serialNumber": 503000023,
       "latitude": 40.84608111296369,
-      "binStatus": "Full",
+      "binStatus": "Available",
       "description": "BIN 59 - NE W 174 St & Fort Washington Ave",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.94016187638044
     },
     {
@@ -857,7 +857,7 @@
       "longitude": -73.90853963792324
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 0,
       "serialNumber": 503000089,
       "latitude": 40.857369144609926,
       "binStatus": "Available",
@@ -1190,7 +1190,7 @@
       "longitude": -73.93099308013916
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 60,
       "serialNumber": 503000150,
       "latitude": 40.67358758069033,
       "binStatus": "Available",
@@ -1829,12 +1829,12 @@
       "longitude": -73.94294936209917
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 503000240,
       "latitude": 40.67428152112551,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 198 - NW New York Ave & Prospect Place",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.94742764532566
     },
     {
@@ -2621,7 +2621,7 @@
       "longitude": -74.0007785662345
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 505100064,
       "latitude": 40.718560301291866,
       "binStatus": "Available",
@@ -3098,7 +3098,7 @@
       "longitude": -73.9780299987419
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 505100104,
       "latitude": 40.7685305130064,
       "binStatus": "Available",
