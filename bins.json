@@ -2,7 +2,7 @@
   "errorCode": "STATUS_OK",
   "compostAssets": [
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 3590004,
       "latitude": 40.740982515732185,
       "binStatus": "Available",
@@ -155,12 +155,12 @@
       "longitude": -73.91430705785751
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 0,
       "serialNumber": 3590002,
       "latitude": 40.74267491248134,
-      "binStatus": "Full",
+      "binStatus": "Available",
       "description": "BIN 341 - SE 7 Ave & W 21 St",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.99649911716193
     },
     {
@@ -236,7 +236,7 @@
       "longitude": -73.90916280189015
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000005,
       "latitude": 40.68477302089155,
       "binStatus": "Available",
@@ -353,7 +353,7 @@
       "longitude": -73.94264291971922
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 0,
       "serialNumber": 503000020,
       "latitude": 40.841033254239434,
       "binStatus": "Available",
@@ -731,7 +731,7 @@
       "longitude": -73.92510951539327
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000064,
       "latitude": 40.78210605168062,
       "binStatus": "Available",
@@ -1028,7 +1028,7 @@
       "longitude": -73.96523348987103
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 60,
       "serialNumber": 503000140,
       "latitude": 40.681352486961536,
       "binStatus": "Available",
@@ -1262,12 +1262,12 @@
       "longitude": -73.94101046025753
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 503000168,
       "latitude": 40.6755571241916,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 188 - NW Vanderbilt Ave & Plaza St E",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.96974126370019
     },
     {
@@ -1721,7 +1721,7 @@
       "longitude": -73.88819441199303
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 503000226,
       "latitude": 40.69043184045754,
       "binStatus": "Available",
@@ -2216,7 +2216,7 @@
       "longitude": -73.94848935814979
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 505100040,
       "latitude": 40.77068591297934,
       "binStatus": "Available",
@@ -2225,7 +2225,7 @@
       "longitude": -73.98008527492154
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 0,
       "serialNumber": 505100042,
       "latitude": 40.73752862143271,
       "binStatus": "Available",
@@ -2306,16 +2306,16 @@
       "longitude": -73.99195962283002
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100019,
       "latitude": 40.731496522321486,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 315 - NW 4 Ave & E 10 St",
       "availableForUse": true,
       "longitude": -73.99051628208568
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 0,
       "serialNumber": 505100008,
       "latitude": 40.7391347154904,
       "binStatus": "Available",
@@ -2531,7 +2531,7 @@
       "longitude": -74.0077318323766
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 505100061,
       "latitude": 40.70860458493924,
       "binStatus": "Available",
@@ -2576,7 +2576,7 @@
       "longitude": -73.98249430253485
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 0,
       "serialNumber": 505100002,
       "latitude": 40.76863578734461,
       "binStatus": "Available",
@@ -2594,10 +2594,10 @@
       "longitude": -73.95865606044225
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 0,
       "serialNumber": 505100063,
       "latitude": 40.71256505742161,
-      "binStatus": "Nearly Full",
+      "binStatus": "Available",
       "description": "BIN 251 - NE Broadway & Park Place",
       "availableForUse": true,
       "longitude": -74.00756552771458
@@ -2612,7 +2612,7 @@
       "longitude": -73.98977462491895
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 0,
       "serialNumber": 505100025,
       "latitude": 40.74240669511277,
       "binStatus": "Available",
@@ -2621,7 +2621,7 @@
       "longitude": -74.0007785662345
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 0,
       "serialNumber": 505100064,
       "latitude": 40.718560301291866,
       "binStatus": "Available",
@@ -2972,7 +2972,7 @@
       "longitude": -73.97793704431773
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 0,
       "serialNumber": 505100100,
       "latitude": 40.773718493770346,
       "binStatus": "Available",
@@ -3242,7 +3242,7 @@
       "longitude": -73.95175657391553
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 0,
       "serialNumber": 505100121,
       "latitude": 40.7909709189525,
       "binStatus": "Available",
@@ -3332,10 +3332,10 @@
       "longitude": -73.98222696429983
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100112,
       "latitude": 40.741522457226544,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 306 - NW 3 Ave & E 27 St",
       "availableForUse": true,
       "longitude": -73.98135114745574
@@ -3359,10 +3359,10 @@
       "longitude": -73.97587379945203
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100128,
       "latitude": 40.72662593513809,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 327 - SW Bond St & Lafayette St",
       "availableForUse": true,
       "longitude": -73.99427816002996
