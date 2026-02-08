@@ -659,12 +659,12 @@
       "longitude": -73.93204148858786
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 0,
       "serialNumber": 503000036,
       "latitude": 40.6778510426927,
-      "binStatus": "Full",
+      "binStatus": "Available",
       "description": "BIN 187 - NW Vanderbilt Ave & Prospect Place",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.96890208125114
     },
     {
@@ -1109,7 +1109,7 @@
       "longitude": -73.94146978855133
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 0,
       "serialNumber": 503000127,
       "latitude": 40.706692511000654,
       "binStatus": "Available",
@@ -1316,12 +1316,12 @@
       "longitude": -73.91542855650187
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 0,
       "serialNumber": 503000175,
       "latitude": 40.68014247411724,
-      "binStatus": "Full",
+      "binStatus": "Available",
       "description": "BIN 186 - SW Vanderbilt Ave & Dean St",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.96811317652464
     },
     {
@@ -1685,7 +1685,7 @@
       "longitude": -73.93744513392448
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 0,
       "serialNumber": 503000219,
       "latitude": 40.75685380877115,
       "binStatus": "Available",
@@ -3125,10 +3125,10 @@
       "longitude": -73.97328253713644
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100133,
       "latitude": 40.79786101513957,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 381 - SW W 104 St & Columbus Ave",
       "availableForUse": true,
       "longitude": -73.96400324926272
