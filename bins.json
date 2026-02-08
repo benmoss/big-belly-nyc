@@ -272,7 +272,7 @@
       "longitude": -73.92903984180296
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 0,
       "serialNumber": 503000011,
       "latitude": 40.835456625319416,
       "binStatus": "Available",
@@ -875,7 +875,7 @@
       "longitude": -73.91521599143744
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 0,
       "serialNumber": 503000093,
       "latitude": 40.76223009405083,
       "binStatus": "Available",
@@ -1127,12 +1127,12 @@
       "longitude": -73.90656117349863
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 0,
       "serialNumber": 503000148,
       "latitude": 40.701373514374744,
-      "binStatus": "Full",
+      "binStatus": "Available",
       "description": "BIN 183 - SW St. Nicholas Ave & Linden St",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.91136553921112
     },
     {
@@ -1154,7 +1154,7 @@
       "longitude": -73.9503475651145
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 0,
       "serialNumber": 503000132,
       "latitude": 40.70324915068062,
       "binStatus": "Available",
@@ -1244,7 +1244,7 @@
       "longitude": -73.9271404221654
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 0,
       "serialNumber": 503000156,
       "latitude": 40.70249991438864,
       "binStatus": "Available",
@@ -3089,10 +3089,10 @@
       "longitude": -73.96866042855898
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100103,
       "latitude": 40.72946703338854,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 305 - NW Ave B & E 14 St",
       "availableForUse": true,
       "longitude": -73.9780299987419
