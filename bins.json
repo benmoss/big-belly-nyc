@@ -65,7 +65,7 @@
       "longitude": -73.91328877313748
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 0,
       "serialNumber": 3590001,
       "latitude": 40.746548059294376,
       "binStatus": "Available",
@@ -74,7 +74,7 @@
       "longitude": -73.89971678571764
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 0,
       "serialNumber": 3590019,
       "latitude": 40.745991757187745,
       "binStatus": "Available",
@@ -83,7 +83,7 @@
       "longitude": -73.90727262943983
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 0,
       "serialNumber": 3590015,
       "latitude": 40.746483770342856,
       "binStatus": "Available",
@@ -380,10 +380,10 @@
       "longitude": -73.94016187638044
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 0,
       "serialNumber": 503000032,
       "latitude": 40.76149921367936,
-      "binStatus": "Nearly Full",
+      "binStatus": "Available",
       "description": "BIN 17 - SE 38 St & 31 Ave",
       "availableForUse": true,
       "longitude": -73.91796863240839
@@ -632,7 +632,7 @@
       "longitude": -73.89476414769888
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 0,
       "serialNumber": 503000038,
       "latitude": 40.763350881029346,
       "binStatus": "Available",
@@ -875,7 +875,7 @@
       "longitude": -73.91521599143744
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 0,
       "serialNumber": 503000093,
       "latitude": 40.76223009405083,
       "binStatus": "Available",
@@ -1424,7 +1424,7 @@
       "longitude": -73.95316857844591
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 0,
       "serialNumber": 503000187,
       "latitude": 40.75792909750536,
       "binStatus": "Available",
@@ -2099,7 +2099,7 @@
       "longitude": -73.94352234899998
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 0,
       "serialNumber": 503000277,
       "latitude": 40.76236771749731,
       "binStatus": "Available",
@@ -2567,10 +2567,10 @@
       "longitude": -73.94763141892919
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100034,
       "latitude": 40.7312028692314,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 352 - SE 1 Ave & E 14 St",
       "availableForUse": true,
       "longitude": -73.98249430253485
@@ -2603,7 +2603,7 @@
       "longitude": -74.00756552771458
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 505100028,
       "latitude": 40.762145800103276,
       "binStatus": "Available",
@@ -2639,12 +2639,12 @@
       "longitude": -73.98896138948061
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 505100072,
       "latitude": 40.71327373740936,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 262 - NE Henry St & Pike St",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.99222918721208
     },
     {
@@ -2693,7 +2693,7 @@
       "longitude": -73.99722146507379
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 505100075,
       "latitude": 40.778178709659024,
       "binStatus": "Available",
@@ -3107,10 +3107,10 @@
       "longitude": -73.9616337989868
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100098,
       "latitude": 40.741609115050146,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 301 - NE 2 Ave & E 29 St",
       "availableForUse": true,
       "longitude": -73.97792649980364
@@ -3350,12 +3350,12 @@
       "longitude": -73.9799463692325
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 505100115,
       "latitude": 40.78876861933553,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 380 - SE Broadway & W 87 St",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.97587379945203
     },
     {
