@@ -641,7 +641,7 @@
       "longitude": -73.92113855102095
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000035,
       "latitude": 40.820298050767335,
       "binStatus": "Available",
@@ -2711,12 +2711,12 @@
       "longitude": -73.98491537817117
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 505100096,
       "latitude": 40.771722793444425,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 360 - NW West End Ave & W 59 St",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.99052800018954
     },
     {
@@ -2738,10 +2738,10 @@
       "longitude": -73.97465123299237
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100079,
       "latitude": 40.72376127391616,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 322 - NW Ave A & E 3 St",
       "availableForUse": true,
       "longitude": -73.98540060636678
@@ -3278,7 +3278,7 @@
       "longitude": -74.00684701383747
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 40,
       "serialNumber": 505100135,
       "latitude": 40.75913762952132,
       "binStatus": "Available",
