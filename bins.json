@@ -362,12 +362,12 @@
       "longitude": -73.93805466592312
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 0,
       "serialNumber": 503000006,
       "latitude": 40.855684792533886,
-      "binStatus": "Full",
+      "binStatus": "Available",
       "description": "BIN 61 - NE Cabrini Blvd & W 187 St",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.93778998622929
     },
     {
@@ -398,10 +398,10 @@
       "longitude": -73.88136584311724
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 0,
       "serialNumber": 503000022,
       "latitude": 40.866201512573475,
-      "binStatus": "Nearly Full",
+      "binStatus": "Available",
       "description": "BIN 64 - SE Broadway & Academy St",
       "availableForUse": true,
       "longitude": -73.92508216202259
@@ -416,10 +416,10 @@
       "longitude": -73.92383761703968
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 0,
       "serialNumber": 503000033,
       "latitude": 40.86054008940285,
-      "binStatus": "Nearly Full",
+      "binStatus": "Available",
       "description": "BIN 63 - SE Sickles St & Nagle Ave",
       "availableForUse": true,
       "longitude": -73.9273372319724
@@ -2054,7 +2054,7 @@
       "longitude": -73.92471789027536
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000267,
       "latitude": 40.67165371443654,
       "binStatus": "Available",
@@ -3404,7 +3404,7 @@
       "longitude": -73.95933442215124
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 505100194,
       "latitude": 40.7519804629536,
       "binStatus": "Available",
