@@ -2,7 +2,7 @@
   "errorCode": "STATUS_OK",
   "compostAssets": [
     {
-      "latestFullness": 40,
+      "latestFullness": 0,
       "serialNumber": 3590004,
       "latitude": 40.740982515732185,
       "binStatus": "Available",
@@ -11,7 +11,7 @@
       "longitude": -73.9180913195014
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 0,
       "serialNumber": 3590010,
       "latitude": 40.74060865008307,
       "binStatus": "Available",
@@ -128,7 +128,7 @@
       "longitude": -73.92154820692338
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 0,
       "serialNumber": 3590008,
       "latitude": 40.741475328023036,
       "binStatus": "Available",
@@ -1505,7 +1505,7 @@
       "longitude": -73.82693077466463
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 40,
       "serialNumber": 503000190,
       "latitude": 40.692363382489,
       "binStatus": "Available",
@@ -1568,7 +1568,7 @@
       "longitude": -73.94487351179123
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000198,
       "latitude": 40.82896269217192,
       "binStatus": "Available",
@@ -1883,12 +1883,12 @@
       "longitude": -73.90651490539312
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 0,
       "serialNumber": 503000246,
       "latitude": 40.67049107908947,
-      "binStatus": "Full",
+      "binStatus": "Available",
       "description": "BIN 197 - SW New York Ave & Lincoln Place",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.94772704690695
     },
     {
@@ -2045,12 +2045,12 @@
       "longitude": -73.92796251922846
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 0,
       "serialNumber": 503000271,
       "latitude": 40.74194368731704,
-      "binStatus": "Full",
+      "binStatus": "Available",
       "description": "BIN 408 - NW 40 St & 47 Ave",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.92471789027536
     },
     {
@@ -2342,10 +2342,10 @@
       "longitude": -73.94749872386456
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 0,
       "serialNumber": 505100004,
       "latitude": 40.784683566970614,
-      "binStatus": "Nearly Full",
+      "binStatus": "Available",
       "description": "BIN 273 - NW 3 Ave & E 95 St",
       "availableForUse": true,
       "longitude": -73.9498927384089
@@ -3386,7 +3386,7 @@
       "longitude": -73.94665605877088
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 0,
       "serialNumber": 505100214,
       "latitude": 40.73958656897722,
       "binStatus": "Available",
