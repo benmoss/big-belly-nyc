@@ -2,7 +2,7 @@
   "errorCode": "STATUS_OK",
   "compostAssets": [
     {
-      "latestFullness": 20,
+      "latestFullness": 0,
       "serialNumber": 3590004,
       "latitude": 40.740982515732185,
       "binStatus": "Available",
@@ -128,7 +128,7 @@
       "longitude": -73.92154820692338
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 0,
       "serialNumber": 3590008,
       "latitude": 40.741475328023036,
       "binStatus": "Available",
@@ -614,7 +614,7 @@
       "longitude": -73.9660133421421
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000039,
       "latitude": 40.82647613312916,
       "binStatus": "Available",
@@ -2045,7 +2045,7 @@
       "longitude": -73.92796251922846
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 0,
       "serialNumber": 503000271,
       "latitude": 40.74194368731704,
       "binStatus": "Available",
@@ -2432,10 +2432,10 @@
       "longitude": -74.0109745413065
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100023,
       "latitude": 40.7346470054958,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 311 - SW W 12 St & 5 Ave",
       "availableForUse": true,
       "longitude": -73.99481938922054
@@ -3314,7 +3314,7 @@
       "longitude": -73.97035768079368
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 0,
       "serialNumber": 505100145,
       "latitude": 40.74163391924499,
       "binStatus": "Available",
