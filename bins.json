@@ -362,7 +362,7 @@
       "longitude": -73.93805466592312
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 0,
       "serialNumber": 503000006,
       "latitude": 40.855684792533886,
       "binStatus": "Available",
@@ -398,7 +398,7 @@
       "longitude": -73.88136584311724
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 0,
       "serialNumber": 503000022,
       "latitude": 40.866201512573475,
       "binStatus": "Available",
@@ -542,12 +542,12 @@
       "longitude": -73.93815591931343
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 503000052,
       "latitude": 40.805835432729474,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 36 - SW W 122 St & Malcolm X Blvd",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.94713159650564
     },
     {
@@ -1073,7 +1073,7 @@
       "longitude": -73.93525745719671
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000144,
       "latitude": 40.7019656047617,
       "binStatus": "Available",
@@ -1118,10 +1118,10 @@
       "longitude": -73.92045420260473
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 503000147,
       "latitude": 40.687583234935204,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 155 - NW Central Ave & Moffat St",
       "availableForUse": true,
       "longitude": -73.90656117349863
@@ -1244,7 +1244,7 @@
       "longitude": -73.9271404221654
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 503000156,
       "latitude": 40.70249991438864,
       "binStatus": "Available",
@@ -1487,10 +1487,10 @@
       "longitude": -73.9536564052105
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 0,
       "serialNumber": 503000194,
       "latitude": 40.719136863283865,
-      "binStatus": "Nearly Full",
+      "binStatus": "Available",
       "description": "BIN 264 - NE Clinton St & Rivington St",
       "availableForUse": true,
       "longitude": -73.98497642347824
@@ -1667,7 +1667,7 @@
       "longitude": -73.82940910756588
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 503000221,
       "latitude": 40.69040997746076,
       "binStatus": "Available",
@@ -1802,7 +1802,7 @@
       "longitude": -73.9355384244532
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 503000235,
       "latitude": 40.67303171113777,
       "binStatus": "Available",
@@ -1955,7 +1955,7 @@
       "longitude": -73.95310335432222
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 0,
       "serialNumber": 503000262,
       "latitude": 40.724898542003324,
       "binStatus": "Available",
@@ -2198,10 +2198,10 @@
       "longitude": -73.94638707990978
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100038,
       "latitude": 40.780081383690586,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 277 - SW 3 Ave & E 88 St",
       "availableForUse": true,
       "longitude": -73.9532222620251
@@ -2270,7 +2270,7 @@
       "longitude": -73.94685207786003
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 0,
       "serialNumber": 505100020,
       "latitude": 40.72799056580962,
       "binStatus": "Available",
@@ -2324,7 +2324,7 @@
       "longitude": -73.99540269748928
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 0,
       "serialNumber": 505100031,
       "latitude": 40.72948121652991,
       "binStatus": "Available",
@@ -2369,7 +2369,7 @@
       "longitude": -73.9869912541827
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 0,
       "serialNumber": 505100027,
       "latitude": 40.718798372078474,
       "binStatus": "Available",
@@ -2414,16 +2414,16 @@
       "longitude": -74.01704739779234
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 0,
       "serialNumber": 505100007,
       "latitude": 40.730315325690235,
-      "binStatus": "Nearly Full",
+      "binStatus": "Available",
       "description": "BIN 333 - SE Carmine St & Bleeker St",
       "availableForUse": true,
       "longitude": -74.00240702146108
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 0,
       "serialNumber": 505100009,
       "latitude": 40.7164061130962,
       "binStatus": "Available",
@@ -2567,7 +2567,7 @@
       "longitude": -73.94763141892919
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 0,
       "serialNumber": 505100034,
       "latitude": 40.7312028692314,
       "binStatus": "Available",
@@ -2657,12 +2657,12 @@
       "longitude": -73.9535946787067
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 0,
       "serialNumber": 505100059,
       "latitude": 40.718786682897935,
-      "binStatus": "Full",
+      "binStatus": "Available",
       "description": "BIN 244 - SW Greenwich St & Harrison St",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -74.01055041700602
     },
     {
@@ -3152,7 +3152,7 @@
       "longitude": -73.99037571712044
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 0,
       "serialNumber": 505100136,
       "latitude": 40.764814574064715,
       "binStatus": "Available",
@@ -3179,7 +3179,7 @@
       "longitude": -73.99302401909992
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 0,
       "serialNumber": 505100142,
       "latitude": 40.73887358712755,
       "binStatus": "Available",
@@ -3188,7 +3188,7 @@
       "longitude": -73.98511663223668
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 0,
       "serialNumber": 505100137,
       "latitude": 40.743433331711394,
       "binStatus": "Available",
@@ -3206,7 +3206,7 @@
       "longitude": -73.98753543655222
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 0,
       "serialNumber": 505100146,
       "latitude": 40.74723684953337,
       "binStatus": "Available",
@@ -3332,7 +3332,7 @@
       "longitude": -73.98222696429983
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 0,
       "serialNumber": 505100112,
       "latitude": 40.741522457226544,
       "binStatus": "Available",
@@ -3413,7 +3413,7 @@
       "longitude": -73.93830848140053
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 505100206,
       "latitude": 40.74714831729217,
       "binStatus": "Available",
