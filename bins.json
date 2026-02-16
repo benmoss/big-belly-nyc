@@ -290,7 +290,7 @@
       "longitude": -73.95101174712181
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 0,
       "serialNumber": 503000014,
       "latitude": 40.762625726342314,
       "binStatus": "Available",
@@ -470,7 +470,7 @@
       "longitude": -73.95299658179283
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 503000053,
       "latitude": 40.764994993021595,
       "binStatus": "Available",
@@ -1109,7 +1109,7 @@
       "longitude": -73.94146978855133
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 0,
       "serialNumber": 503000127,
       "latitude": 40.706692511000654,
       "binStatus": "Available",
@@ -1127,12 +1127,12 @@
       "longitude": -73.90656117349863
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 0,
       "serialNumber": 503000148,
       "latitude": 40.701373514374744,
-      "binStatus": "Full",
+      "binStatus": "Available",
       "description": "BIN 183 - SW St. Nicholas Ave & Linden St",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.91136553921112
     },
     {
@@ -1154,7 +1154,7 @@
       "longitude": -73.9503475651145
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 0,
       "serialNumber": 503000132,
       "latitude": 40.70324915068062,
       "binStatus": "Available",
@@ -1244,7 +1244,7 @@
       "longitude": -73.9271404221654
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 0,
       "serialNumber": 503000156,
       "latitude": 40.70249991438864,
       "binStatus": "Available",
@@ -1325,7 +1325,7 @@
       "longitude": -73.96811317652464
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 0,
       "serialNumber": 503000162,
       "latitude": 40.704966472832965,
       "binStatus": "Available",
@@ -1964,10 +1964,10 @@
       "longitude": -73.95310335432222
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 0,
       "serialNumber": 503000262,
       "latitude": 40.724898542003324,
-      "binStatus": "Nearly Full",
+      "binStatus": "Available",
       "description": "BIN 254 - SW 6 Ave & Dominick St",
       "availableForUse": true,
       "longitude": -74.00471196197128
@@ -2000,12 +2000,12 @@
       "longitude": -74.06930956989527
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 0,
       "serialNumber": 503000261,
       "latitude": 40.704219889937,
-      "binStatus": "Full",
+      "binStatus": "Available",
       "description": "BIN 180 - NW St. Nicholas Ave & Himrod St",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.91591713080048
     },
     {
@@ -2144,7 +2144,7 @@
       "longitude": -73.9261969551444
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 0,
       "serialNumber": 503000212,
       "latitude": 40.70585647534992,
       "binStatus": "Available",
@@ -2333,7 +2333,7 @@
       "longitude": -74.00212241864305
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 60,
       "serialNumber": 505100021,
       "latitude": 40.775317712188475,
       "binStatus": "Available",
@@ -2432,7 +2432,7 @@
       "longitude": -74.0109745413065
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 505100023,
       "latitude": 40.7346470054958,
       "binStatus": "Available",
@@ -2540,7 +2540,7 @@
       "longitude": -74.0108494516408
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 505100033,
       "latitude": 40.78070495280861,
       "binStatus": "Available",
@@ -2549,7 +2549,7 @@
       "longitude": -73.97665659471008
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 505100062,
       "latitude": 40.768787421482166,
       "binStatus": "Available",
@@ -2621,12 +2621,12 @@
       "longitude": -74.0007785662345
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 0,
       "serialNumber": 505100064,
       "latitude": 40.718560301291866,
-      "binStatus": "Full",
+      "binStatus": "Available",
       "description": "BIN 261 - NW Hester St & Baxter St",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.99876398340452
     },
     {
@@ -2747,10 +2747,10 @@
       "longitude": -73.98540060636678
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100092,
       "latitude": 40.78957914389564,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 369 - SW W 89 St & Amsterdam Ave",
       "availableForUse": true,
       "longitude": -73.97379656746796
@@ -3224,7 +3224,7 @@
       "longitude": -74.00261308139008
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 505100122,
       "latitude": 40.74639647509707,
       "binStatus": "Available",
@@ -3359,7 +3359,7 @@
       "longitude": -73.97587379945203
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 0,
       "serialNumber": 505100128,
       "latitude": 40.72662593513809,
       "binStatus": "Available",
@@ -3422,7 +3422,7 @@
       "longitude": -73.94991182305093
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 505100197,
       "latitude": 40.750960185572,
       "binStatus": "Available",
@@ -3449,12 +3449,12 @@
       "longitude": -73.95625774369917
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 0,
       "serialNumber": 505100215,
       "latitude": 40.72144381409581,
-      "binStatus": "Full",
+      "binStatus": "Available",
       "description": "BIN 263 - NW Elizabeth St & Spring St",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.99472179957999
     },
     {
