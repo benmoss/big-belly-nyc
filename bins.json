@@ -191,7 +191,7 @@
       "longitude": -73.95366545766592
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 503000027,
       "latitude": 40.76272343617805,
       "binStatus": "Available",
@@ -632,7 +632,7 @@
       "longitude": -73.89476414769888
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 503000038,
       "latitude": 40.763350881029346,
       "binStatus": "Available",
@@ -1406,7 +1406,7 @@
       "longitude": -73.91234535723925
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 503000172,
       "latitude": 40.69744237426521,
       "binStatus": "Available",
@@ -1586,10 +1586,10 @@
       "longitude": -73.8490579649806
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 503000201,
       "latitude": 40.68428195430438,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 127 - SE Madison St & Bedford Ave",
       "availableForUse": true,
       "longitude": -73.95389076322317
@@ -1721,10 +1721,10 @@
       "longitude": -74.07558023929596
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 503000227,
       "latitude": 40.858658758806776,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 87 - NE Bathgate Ave & E 189 St",
       "availableForUse": true,
       "longitude": -73.88819441199303
@@ -1829,12 +1829,12 @@
       "longitude": -74.07850451767445
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 503000239,
       "latitude": 40.69389322166022,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 142 - SE Throop Ave & Hart St",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.94294936209917
     },
     {
@@ -2279,7 +2279,7 @@
       "longitude": -73.97899926258084
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 40,
       "serialNumber": 505100012,
       "latitude": 40.731190506042964,
       "binStatus": "Available",
@@ -2702,7 +2702,7 @@
       "longitude": -73.9546898742066
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 505100089,
       "latitude": 40.77432420761129,
       "binStatus": "Available",
@@ -2711,7 +2711,7 @@
       "longitude": -73.98491537817117
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 505100096,
       "latitude": 40.771722793444425,
       "binStatus": "Available",
@@ -2765,10 +2765,10 @@
       "longitude": -73.97332561607193
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100095,
       "latitude": 40.74408502157723,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 300 - SW E 33 St & 2 Ave",
       "availableForUse": true,
       "longitude": -73.9766103569379
@@ -2954,7 +2954,7 @@
       "longitude": -73.96586280976997
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 505100067,
       "latitude": 40.77168450396742,
       "binStatus": "Available",
@@ -3314,7 +3314,7 @@
       "longitude": -73.97035768079368
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 60,
       "serialNumber": 505100145,
       "latitude": 40.74163391924499,
       "binStatus": "Available",
@@ -3350,7 +3350,7 @@
       "longitude": -73.9799463692325
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 60,
       "serialNumber": 505100115,
       "latitude": 40.78876861933553,
       "binStatus": "Available",
@@ -3404,7 +3404,7 @@
       "longitude": -73.95933442215124
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 505100194,
       "latitude": 40.7519804629536,
       "binStatus": "Available",
@@ -3512,7 +3512,7 @@
       "longitude": -73.9528896218117
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 505100202,
       "latitude": 40.81125089255355,
       "binStatus": "Available",
