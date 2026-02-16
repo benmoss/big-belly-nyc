@@ -119,7 +119,7 @@
       "longitude": -73.90995819121599
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 60,
       "serialNumber": 3590011,
       "latitude": 40.73775011894243,
       "binStatus": "Available",
@@ -317,12 +317,12 @@
       "longitude": -73.96496895700693
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 503000015,
       "latitude": 40.715768264498486,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 422 - NE Hester St & Ludlow St",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.99040903896093
     },
     {
@@ -416,10 +416,10 @@
       "longitude": -73.92383761703968
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 503000033,
       "latitude": 40.86054008940285,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 63 - SE Sickles St & Nagle Ave",
       "availableForUse": true,
       "longitude": -73.9273372319724
@@ -542,12 +542,12 @@
       "longitude": -73.93815591931343
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 503000052,
       "latitude": 40.805835432729474,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 36 - SW W 122 St & Malcolm X Blvd",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.94713159650564
     },
     {
@@ -569,7 +569,7 @@
       "longitude": -73.92916951328516
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 503000041,
       "latitude": 40.81994765597217,
       "binStatus": "Available",
@@ -578,10 +578,10 @@
       "longitude": -73.92879232764244
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 503000042,
       "latitude": 40.764174520197706,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 20 - SE 31 St & 31 Ave",
       "availableForUse": true,
       "longitude": -73.92345808446407
@@ -596,7 +596,7 @@
       "longitude": -73.95370233803988
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000043,
       "latitude": 40.804732620856896,
       "binStatus": "Available",
@@ -821,7 +821,7 @@
       "longitude": -73.94825711846352
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 60,
       "serialNumber": 503000082,
       "latitude": 40.746466564173716,
       "binStatus": "Available",
@@ -1262,12 +1262,12 @@
       "longitude": -73.94101046025753
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 503000168,
       "latitude": 40.6755571241916,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 188 - NW Vanderbilt Ave & Plaza St E",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.96974126370019
     },
     {
@@ -1298,7 +1298,7 @@
       "longitude": -73.94148588180542
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000171,
       "latitude": 40.69608852271517,
       "binStatus": "Available",
@@ -1550,10 +1550,10 @@
       "longitude": -73.95281285047531
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 503000207,
       "latitude": 40.68175217538853,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 124 - SW Tompkins Ave & Macon St",
       "availableForUse": true,
       "longitude": -73.9436212554574
@@ -1784,7 +1784,7 @@
       "longitude": -73.88005122542381
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 503000232,
       "latitude": 40.68513798940631,
       "binStatus": "Available",
@@ -2288,7 +2288,7 @@
       "longitude": -73.98598125432342
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 505100049,
       "latitude": 40.70676048283521,
       "binStatus": "Available",
@@ -2324,12 +2324,12 @@
       "longitude": -73.99540269748928
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 505100031,
       "latitude": 40.72948121652991,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 328 - SE Bleecker St & 6 Ave",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -74.00212241864305
     },
     {
@@ -2441,10 +2441,10 @@
       "longitude": -73.99481938922054
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100037,
       "latitude": 40.739169439589006,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 331 - SE Greenwich Ave & 8 Ave",
       "availableForUse": true,
       "longitude": -74.00274561377924
@@ -2459,7 +2459,7 @@
       "longitude": -73.98789177423471
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 505100046,
       "latitude": 40.73534879130396,
       "binStatus": "Available",
@@ -2747,7 +2747,7 @@
       "longitude": -73.98540060636678
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 505100092,
       "latitude": 40.78957914389564,
       "binStatus": "Available",
@@ -2792,7 +2792,7 @@
       "longitude": -73.99017938079861
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 40,
       "serialNumber": 505100080,
       "latitude": 40.737799770287374,
       "binStatus": "Available",
@@ -2855,7 +2855,7 @@
       "longitude": -73.98253004894701
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 505100086,
       "latitude": 40.781894893686875,
       "binStatus": "Available",
@@ -3035,7 +3035,7 @@
       "longitude": -73.96666802317641
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 505100132,
       "latitude": 40.757513465018945,
       "binStatus": "Available",
@@ -3134,7 +3134,7 @@
       "longitude": -73.96400324926272
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 505100143,
       "latitude": 40.77663888275979,
       "binStatus": "Available",
@@ -3269,7 +3269,7 @@
       "longitude": -73.99506114554103
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 60,
       "serialNumber": 505100150,
       "latitude": 40.729589714367386,
       "binStatus": "Available",
@@ -3440,12 +3440,12 @@
       "longitude": -73.95379403122635
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 100,
       "serialNumber": 505100193,
       "latitude": 40.747515134439,
-      "binStatus": "Available",
+      "binStatus": "Full",
       "description": "BIN 428 - SE Center Blvd & 46 Ave",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.95625774369917
     },
     {
