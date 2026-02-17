@@ -65,7 +65,7 @@
       "longitude": -73.91328877313748
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 60,
       "serialNumber": 3590001,
       "latitude": 40.746548059294376,
       "binStatus": "Available",
@@ -227,7 +227,7 @@
       "longitude": -73.94521734798863
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000004,
       "latitude": 40.75444696790806,
       "binStatus": "Available",
@@ -236,7 +236,7 @@
       "longitude": -73.90916280189015
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000005,
       "latitude": 40.68477302089155,
       "binStatus": "Available",
@@ -281,7 +281,7 @@
       "longitude": -73.92011906951666
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000012,
       "latitude": 40.820960776484476,
       "binStatus": "Available",
@@ -380,7 +380,7 @@
       "longitude": -73.94016187638044
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 60,
       "serialNumber": 503000032,
       "latitude": 40.76149921367936,
       "binStatus": "Available",
@@ -929,7 +929,7 @@
       "longitude": -73.91744524240494
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000096,
       "latitude": 40.8721462108312,
       "binStatus": "Available",
@@ -1190,7 +1190,7 @@
       "longitude": -73.93099308013916
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 60,
       "serialNumber": 503000150,
       "latitude": 40.67358758069033,
       "binStatus": "Available",
@@ -1496,7 +1496,7 @@
       "longitude": -73.98497642347824
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 503000196,
       "latitude": 40.845052353341714,
       "binStatus": "Available",
@@ -1532,16 +1532,16 @@
       "longitude": -73.94724616137695
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 503000209,
       "latitude": 40.71026346371404,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 257 - NW Catherine St & Cherry St",
       "availableForUse": true,
       "longitude": -73.99644857287824
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 503000191,
       "latitude": 40.80924767164232,
       "binStatus": "Available",
@@ -1739,10 +1739,10 @@
       "longitude": -73.91965739428997
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 503000225,
       "latitude": 40.6865703680712,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 128 - NE Bedford Ave & Quincy St",
       "availableForUse": true,
       "longitude": -73.95448587834835
@@ -2072,7 +2072,7 @@
       "longitude": -73.96107707172632
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 40,
       "serialNumber": 503000260,
       "latitude": 40.670941691695425,
       "binStatus": "Available",
@@ -2189,7 +2189,7 @@
       "longitude": -73.94892745726821
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 505100018,
       "latitude": 40.77294782166341,
       "binStatus": "Available",
@@ -2234,7 +2234,7 @@
       "longitude": -73.99693615022026
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 505100005,
       "latitude": 40.70815249011514,
       "binStatus": "Available",
@@ -2333,7 +2333,7 @@
       "longitude": -74.00212241864305
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 505100021,
       "latitude": 40.775317712188475,
       "binStatus": "Available",
@@ -2855,7 +2855,7 @@
       "longitude": -73.98253004894701
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 60,
       "serialNumber": 505100086,
       "latitude": 40.781894893686875,
       "binStatus": "Available",
@@ -2891,7 +2891,7 @@
       "longitude": -73.9850452796422
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 505100110,
       "latitude": 40.75405449748158,
       "binStatus": "Available",
@@ -2936,7 +2936,7 @@
       "longitude": -73.90418004244566
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 505100094,
       "latitude": 40.79106031360771,
       "binStatus": "Available",
@@ -2963,12 +2963,12 @@
       "longitude": -73.9614462477865
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 505100091,
       "latitude": 40.74913400691257,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 297 - NW Lexington Ave & E 38 St",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.97793704431773
     },
     {
@@ -3035,7 +3035,7 @@
       "longitude": -73.96666802317641
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 505100132,
       "latitude": 40.757513465018945,
       "binStatus": "Available",
@@ -3314,10 +3314,10 @@
       "longitude": -73.97035768079368
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100145,
       "latitude": 40.74163391924499,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 338 - NE W 21 St & 6 Ave",
       "availableForUse": true,
       "longitude": -73.99363601223293
@@ -3341,7 +3341,7 @@
       "longitude": -73.98135114745574
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 505100119,
       "latitude": 40.77611866432287,
       "binStatus": "Available",
