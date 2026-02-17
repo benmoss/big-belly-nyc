@@ -407,7 +407,7 @@
       "longitude": -73.92508216202259
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 0,
       "serialNumber": 503000031,
       "latitude": 40.70206803795076,
       "binStatus": "Available",
@@ -542,12 +542,12 @@
       "longitude": -73.93815591931343
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 503000052,
       "latitude": 40.805835432729474,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 36 - SW W 122 St & Malcolm X Blvd",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.94713159650564
     },
     {
@@ -785,7 +785,7 @@
       "longitude": -73.93320322036743
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000072,
       "latitude": 40.79737412009714,
       "binStatus": "Available",
@@ -1055,7 +1055,7 @@
       "longitude": -73.90436712652445
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 503000136,
       "latitude": 40.67726495043478,
       "binStatus": "Available",
@@ -1118,7 +1118,7 @@
       "longitude": -73.92045420260473
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000147,
       "latitude": 40.687583234935204,
       "binStatus": "Available",
@@ -1136,7 +1136,7 @@
       "longitude": -73.91136553921112
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000137,
       "latitude": 40.692716484079774,
       "binStatus": "Available",
@@ -1280,7 +1280,7 @@
       "longitude": -73.93640510737896
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 0,
       "serialNumber": 503000154,
       "latitude": 40.69389144220667,
       "binStatus": "Available",
@@ -1307,7 +1307,7 @@
       "longitude": -73.92145413905382
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 0,
       "serialNumber": 503000174,
       "latitude": 40.69725935425951,
       "binStatus": "Available",
@@ -1406,7 +1406,7 @@
       "longitude": -73.91234535723925
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 60,
       "serialNumber": 503000172,
       "latitude": 40.69744237426521,
       "binStatus": "Available",
@@ -1658,7 +1658,7 @@
       "longitude": -73.95670607686043
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 503000214,
       "latitude": 40.84592817625355,
       "binStatus": "Available",
@@ -1811,7 +1811,7 @@
       "longitude": -73.9355384244532
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 60,
       "serialNumber": 503000235,
       "latitude": 40.67303171113777,
       "binStatus": "Available",
@@ -1865,12 +1865,12 @@
       "longitude": -73.93390157678125
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 503000241,
       "latitude": 40.6774118895118,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 218 - SE Classon Ave & Bergen St",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.95897587267723
     },
     {
@@ -1883,7 +1883,7 @@
       "longitude": -73.93339063972235
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 0,
       "serialNumber": 503000253,
       "latitude": 40.69199578878015,
       "binStatus": "Available",
@@ -1964,7 +1964,7 @@
       "longitude": -73.95310335432222
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 0,
       "serialNumber": 503000262,
       "latitude": 40.724898542003324,
       "binStatus": "Available",
@@ -2486,7 +2486,7 @@
       "longitude": -74.01322457939386
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 505100071,
       "latitude": 40.73149350965934,
       "binStatus": "Available",
@@ -2774,7 +2774,7 @@
       "longitude": -73.9766103569379
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 0,
       "serialNumber": 505100074,
       "latitude": 40.77844967182979,
       "binStatus": "Available",
@@ -2927,7 +2927,7 @@
       "longitude": -73.92903912094495
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 0,
       "serialNumber": 505100085,
       "latitude": 40.690904435343946,
       "binStatus": "Available",
@@ -2999,10 +2999,10 @@
       "longitude": -73.95896668550664
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100131,
       "latitude": 40.785201054043846,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 375 - SW W 84 St & Columbus Ave",
       "availableForUse": true,
       "longitude": -73.97335456220875
@@ -3062,10 +3062,10 @@
       "longitude": -73.96841285680578
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 0,
       "serialNumber": 505100129,
       "latitude": 40.779702163230795,
-      "binStatus": "Nearly Full",
+      "binStatus": "Available",
       "description": "BIN 376 - NW Broadway & W 73 St",
       "availableForUse": true,
       "longitude": -73.98189624416173
@@ -3287,12 +3287,12 @@
       "longitude": -73.991970140548
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 0,
       "serialNumber": 505100123,
       "latitude": 40.78331643218788,
-      "binStatus": "Full",
+      "binStatus": "Available",
       "description": "BIN 377 - NW Broadway & W 78 St",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.98062197434946
     },
     {
@@ -3350,7 +3350,7 @@
       "longitude": -73.9799463692325
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 0,
       "serialNumber": 505100115,
       "latitude": 40.78876861933553,
       "binStatus": "Available",
@@ -3449,7 +3449,7 @@
       "longitude": -73.95625774369917
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 0,
       "serialNumber": 505100215,
       "latitude": 40.72144381409581,
       "binStatus": "Available",
