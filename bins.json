@@ -155,12 +155,12 @@
       "longitude": -73.91430705785751
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 0,
       "serialNumber": 3590002,
       "latitude": 40.74267491248134,
-      "binStatus": "Full",
+      "binStatus": "Available",
       "description": "BIN 341 - SE 7 Ave & W 21 St",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.99649911716193
     },
     {
@@ -227,7 +227,7 @@
       "longitude": -73.94521734798863
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 0,
       "serialNumber": 503000004,
       "latitude": 40.75444696790806,
       "binStatus": "Available",
@@ -515,10 +515,10 @@
       "longitude": -73.94453756511211
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 503000048,
       "latitude": 40.7966226877643,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 47 - SE E 112 St & Park Ave",
       "availableForUse": true,
       "longitude": -73.94493098288339
@@ -578,7 +578,7 @@
       "longitude": -73.92879232764244
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 0,
       "serialNumber": 503000042,
       "latitude": 40.764174520197706,
       "binStatus": "Available",
@@ -632,7 +632,7 @@
       "longitude": -73.89476414769888
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 0,
       "serialNumber": 503000038,
       "latitude": 40.763350881029346,
       "binStatus": "Available",
@@ -767,12 +767,12 @@
       "longitude": -73.94291717559099
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 503000069,
       "latitude": 40.762088122135914,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 06 - NW 31 St & Broadway",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.92557334154844
     },
     {
@@ -821,10 +821,10 @@
       "longitude": -73.94825711846352
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 0,
       "serialNumber": 503000082,
       "latitude": 40.746466564173716,
-      "binStatus": "Nearly Full",
+      "binStatus": "Available",
       "description": "BIN 344 - SE 8 Ave & W 25 St",
       "availableForUse": true,
       "longitude": -73.9975130736801
@@ -992,7 +992,7 @@
       "longitude": -73.90383403748274
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 0,
       "serialNumber": 503000074,
       "latitude": 40.71595784085541,
       "binStatus": "Available",
@@ -1271,7 +1271,7 @@
       "longitude": -73.96974126370019
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 0,
       "serialNumber": 503000169,
       "latitude": 40.690318203640174,
       "binStatus": "Available",
@@ -1424,16 +1424,16 @@
       "longitude": -73.95316857844591
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 0,
       "serialNumber": 503000187,
       "latitude": 40.75792909750536,
-      "binStatus": "Nearly Full",
+      "binStatus": "Available",
       "description": "BIN 223 - SE 31 Ave & 49 St",
       "availableForUse": true,
       "longitude": -73.90980195254087
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000181,
       "latitude": 40.68065836586844,
       "binStatus": "Available",
@@ -1811,7 +1811,7 @@
       "longitude": -73.9355384244532
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 0,
       "serialNumber": 503000235,
       "latitude": 40.67303171113777,
       "binStatus": "Available",
@@ -2162,7 +2162,7 @@
       "longitude": -73.93855053931475
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 0,
       "serialNumber": 503000202,
       "latitude": 40.66971391909037,
       "binStatus": "Available",
@@ -2207,7 +2207,7 @@
       "longitude": -73.9532222620251
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 505100048,
       "latitude": 40.778333070963065,
       "binStatus": "Available",
@@ -2234,7 +2234,7 @@
       "longitude": -73.99693615022026
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 0,
       "serialNumber": 505100005,
       "latitude": 40.70815249011514,
       "binStatus": "Available",
@@ -2450,10 +2450,10 @@
       "longitude": -74.00274561377924
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 0,
       "serialNumber": 505100047,
       "latitude": 40.735409744769015,
-      "binStatus": "Nearly Full",
+      "binStatus": "Available",
       "description": "BIN 309 - NW Irving Place & E 16 St",
       "availableForUse": true,
       "longitude": -73.98789177423471
@@ -2594,7 +2594,7 @@
       "longitude": -73.95865606044225
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 0,
       "serialNumber": 505100063,
       "latitude": 40.71256505742161,
       "binStatus": "Available",
@@ -2612,7 +2612,7 @@
       "longitude": -73.98977462491895
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 0,
       "serialNumber": 505100025,
       "latitude": 40.74240669511277,
       "binStatus": "Available",
@@ -2963,12 +2963,12 @@
       "longitude": -73.9614462477865
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 0,
       "serialNumber": 505100091,
       "latitude": 40.74913400691257,
-      "binStatus": "Full",
+      "binStatus": "Available",
       "description": "BIN 297 - NW Lexington Ave & E 38 St",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.97793704431773
     },
     {
@@ -2981,7 +2981,7 @@
       "longitude": -73.95966351954947
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 0,
       "serialNumber": 505100102,
       "latitude": 40.74448956998408,
       "binStatus": "Available",
@@ -3089,7 +3089,7 @@
       "longitude": -73.96866042855898
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 0,
       "serialNumber": 505100103,
       "latitude": 40.72946703338854,
       "binStatus": "Available",
@@ -3179,7 +3179,7 @@
       "longitude": -73.99302401909992
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 0,
       "serialNumber": 505100142,
       "latitude": 40.73887358712755,
       "binStatus": "Available",
@@ -3215,7 +3215,7 @@
       "longitude": -73.98983752643882
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 0,
       "serialNumber": 505100141,
       "latitude": 40.74960582599206,
       "binStatus": "Available",
@@ -3224,7 +3224,7 @@
       "longitude": -74.00261308139008
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 0,
       "serialNumber": 505100122,
       "latitude": 40.74639647509707,
       "binStatus": "Available",
@@ -3395,7 +3395,7 @@
       "longitude": -73.92241423759894
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 0,
       "serialNumber": 505100196,
       "latitude": 40.74368886339107,
       "binStatus": "Available",
@@ -3458,7 +3458,7 @@
       "longitude": -73.99472179957999
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 0,
       "serialNumber": 505100210,
       "latitude": 40.74222953545039,
       "binStatus": "Available",
@@ -3503,7 +3503,7 @@
       "longitude": -73.94026945696734
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 0,
       "serialNumber": 505100195,
       "latitude": 40.74256184956176,
       "binStatus": "Available",
@@ -3521,7 +3521,7 @@
       "longitude": -73.95758831602339
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 0,
       "serialNumber": 505100205,
       "latitude": 40.74555707262847,
       "binStatus": "Available",
@@ -3548,7 +3548,7 @@
       "longitude": -73.94742094974946
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 0,
       "serialNumber": 505100200,
       "latitude": 40.7431956119206,
       "binStatus": "Available",
