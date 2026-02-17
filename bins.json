@@ -812,7 +812,7 @@
       "longitude": -73.92188027501106
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 0,
       "serialNumber": 503000081,
       "latitude": 40.79314191706756,
       "binStatus": "Available",
@@ -974,7 +974,7 @@
       "longitude": -73.95624071359634
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 0,
       "serialNumber": 503000076,
       "latitude": 40.791411617905716,
       "binStatus": "Available",
@@ -1019,12 +1019,12 @@
       "longitude": -73.92586905509233
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 0,
       "serialNumber": 503000138,
       "latitude": 40.67875013125626,
-      "binStatus": "Full",
+      "binStatus": "Available",
       "description": "BIN 191 - SE Underhill Ave & Bergen St",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.96523348987103
     },
     {
@@ -1055,10 +1055,10 @@
       "longitude": -73.90436712652445
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 0,
       "serialNumber": 503000136,
       "latitude": 40.67726495043478,
-      "binStatus": "Nearly Full",
+      "binStatus": "Available",
       "description": "BIN 192 - NW Grand Ave & St. Marks Ave",
       "availableForUse": true,
       "longitude": -73.96265991032124
@@ -1190,7 +1190,7 @@
       "longitude": -73.93099308013916
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 0,
       "serialNumber": 503000150,
       "latitude": 40.67358758069033,
       "binStatus": "Available",
@@ -1334,7 +1334,7 @@
       "longitude": -73.91751361469018
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 0,
       "serialNumber": 503000153,
       "latitude": 40.798054852781554,
       "binStatus": "Available",
@@ -1379,7 +1379,7 @@
       "longitude": -73.941904976964
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 0,
       "serialNumber": 503000179,
       "latitude": 40.67617742416484,
       "binStatus": "Available",
@@ -1865,12 +1865,12 @@
       "longitude": -73.93390157678125
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 0,
       "serialNumber": 503000241,
       "latitude": 40.6774118895118,
-      "binStatus": "Full",
+      "binStatus": "Available",
       "description": "BIN 218 - SE Classon Ave & Bergen St",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.95897587267723
     },
     {
@@ -1892,10 +1892,10 @@
       "longitude": -73.90651490539312
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 503000246,
       "latitude": 40.67049107908947,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 197 - SW New York Ave & Lincoln Place",
       "availableForUse": true,
       "longitude": -73.94772704690695
