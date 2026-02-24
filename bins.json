@@ -20,10 +20,10 @@
       "longitude": -73.92287585085252
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 3590013,
       "latitude": 40.74689511721386,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 402 - NW Skillman Ave & 44 St",
       "availableForUse": true,
       "longitude": -73.92003797195594
@@ -1829,7 +1829,7 @@
       "longitude": -74.07850451767445
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 503000239,
       "latitude": 40.69389322166022,
       "binStatus": "Available",
@@ -2630,12 +2630,12 @@
       "longitude": -73.99876398340452
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 505100058,
       "latitude": 40.716735019858994,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 260 - NE Grand St & Essex St",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.98896138948061
     },
     {
@@ -3521,7 +3521,7 @@
       "longitude": -73.95758831602339
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 505100205,
       "latitude": 40.74555707262847,
       "binStatus": "Available",
