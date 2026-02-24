@@ -1190,10 +1190,10 @@
       "longitude": -73.93099308013916
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 503000150,
       "latitude": 40.67358758069033,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 193 - NW Washington Ave & St. Johns Place",
       "availableForUse": true,
       "longitude": -73.96311119198799
@@ -1910,12 +1910,12 @@
       "longitude": -73.95274545997381
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 503000254,
       "latitude": 40.675854136512314,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 195 - SE St. Marks Ave & Franklin Ave",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.95603641084294
     },
     {
@@ -2450,10 +2450,10 @@
       "longitude": -74.00274561377924
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100047,
       "latitude": 40.735409744769015,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 309 - NW Irving Place & E 16 St",
       "availableForUse": true,
       "longitude": -73.98789177423471
@@ -3332,7 +3332,7 @@
       "longitude": -73.98222696429983
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 505100112,
       "latitude": 40.741522457226544,
       "binStatus": "Available",
