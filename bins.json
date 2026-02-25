@@ -74,7 +74,7 @@
       "longitude": -73.89971678571764
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 3590019,
       "latitude": 40.745991757187745,
       "binStatus": "Available",
@@ -128,12 +128,12 @@
       "longitude": -73.92154820692338
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 3590008,
       "latitude": 40.741475328023036,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 407 - NW 44 St & 47 Ave",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.92099916934967
     },
     {
@@ -425,7 +425,7 @@
       "longitude": -73.9273372319724
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 0,
       "serialNumber": 503000057,
       "latitude": 40.85571566774662,
       "binStatus": "Available",
@@ -434,12 +434,12 @@
       "longitude": -73.92743781208992
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 0,
       "serialNumber": 503000018,
       "latitude": 40.83478846373379,
-      "binStatus": "Full",
+      "binStatus": "Available",
       "description": "BIN 56 - SW Amsterdam Ave & W 160 St",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.94085858017206
     },
     {
@@ -488,10 +488,10 @@
       "longitude": -73.90902053010791
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 0,
       "serialNumber": 503000055,
       "latitude": 40.85039540597644,
-      "binStatus": "Nearly Full",
+      "binStatus": "Available",
       "description": "BIN 60 - NE Wadsworth Ave & W 182 St",
       "availableForUse": true,
       "longitude": -73.93447995185852
@@ -515,12 +515,12 @@
       "longitude": -73.94453756511211
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 0,
       "serialNumber": 503000048,
       "latitude": 40.7966226877643,
-      "binStatus": "Full",
+      "binStatus": "Available",
       "description": "BIN 47 - SE E 112 St & Park Ave",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.94493098288339
     },
     {
@@ -605,7 +605,7 @@
       "longitude": -73.9623499576847
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 0,
       "serialNumber": 503000040,
       "latitude": 40.80557429253741,
       "binStatus": "Available",
@@ -641,12 +641,12 @@
       "longitude": -73.92113855102095
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 503000035,
       "latitude": 40.820298050767335,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 40 - NW W 141 St & Fredrick Douglas Blvd",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.94394144415855
     },
     {
@@ -758,7 +758,7 @@
       "longitude": -73.92632732264548
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 0,
       "serialNumber": 503000070,
       "latitude": 40.83161371635521,
       "binStatus": "Available",
@@ -785,7 +785,7 @@
       "longitude": -73.93320322036743
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 0,
       "serialNumber": 503000072,
       "latitude": 40.79737412009714,
       "binStatus": "Available",
@@ -830,7 +830,7 @@
       "longitude": -73.9975130736801
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 503000083,
       "latitude": 40.826256762400135,
       "binStatus": "Available",
@@ -1217,10 +1217,10 @@
       "longitude": -73.92600182443857
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 503000158,
       "latitude": 40.68871201420607,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 129 - NE Bedford Ave & Clifton Place",
       "availableForUse": true,
       "longitude": -73.95497169345617
@@ -1271,10 +1271,10 @@
       "longitude": -73.96974126370019
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 503000169,
       "latitude": 40.690318203640174,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 118 - NE Lewis Ave & Green Ave",
       "availableForUse": true,
       "longitude": -73.93640510737896
@@ -1532,19 +1532,19 @@
       "longitude": -73.94724616137695
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 0,
       "serialNumber": 503000209,
       "latitude": 40.71026346371404,
-      "binStatus": "Nearly Full",
+      "binStatus": "Available",
       "description": "BIN 257 - NW Catherine St & Cherry St",
       "availableForUse": true,
       "longitude": -73.99644857287824
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 0,
       "serialNumber": 503000191,
       "latitude": 40.80924767164232,
-      "binStatus": "Nearly Full",
+      "binStatus": "Available",
       "description": "BIN 421 - NE W 123 St & St Nicholas Ave",
       "availableForUse": true,
       "longitude": -73.95281285047531
@@ -2063,10 +2063,10 @@
       "longitude": -73.92471789027536
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 503000267,
       "latitude": 40.67165371443654,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 219 - SE Classon Ave & Eastern Parkway",
       "availableForUse": true,
       "longitude": -73.96107707172632
@@ -2234,10 +2234,10 @@
       "longitude": -73.99693615022026
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 0,
       "serialNumber": 505100005,
       "latitude": 40.70815249011514,
-      "binStatus": "Nearly Full",
+      "binStatus": "Available",
       "description": "BIN 246 - NW Peck Slip & Water St",
       "availableForUse": true,
       "longitude": -74.00206860154867
@@ -2270,7 +2270,7 @@
       "longitude": -73.94685207786003
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 0,
       "serialNumber": 505100020,
       "latitude": 40.72799056580962,
       "binStatus": "Available",
@@ -2288,12 +2288,12 @@
       "longitude": -73.98598125432342
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 505100049,
       "latitude": 40.70676048283521,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 253 - SW Maiden Lane & Pearl St",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -74.00691708161023
     },
     {
@@ -2369,12 +2369,12 @@
       "longitude": -73.9869912541827
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 0,
       "serialNumber": 505100027,
       "latitude": 40.718798372078474,
-      "binStatus": "Full",
+      "binStatus": "Available",
       "description": "BIN 250 - SE W Broadway & Franklin St",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -74.00657773017883
     },
     {
@@ -2423,16 +2423,16 @@
       "longitude": -74.00240702146108
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 0,
       "serialNumber": 505100009,
       "latitude": 40.7164061130962,
-      "binStatus": "Full",
+      "binStatus": "Available",
       "description": "BIN 245 - NW Greenwich St & Chambers St",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -74.0109745413065
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 0,
       "serialNumber": 505100023,
       "latitude": 40.7346470054958,
       "binStatus": "Available",
@@ -2468,7 +2468,7 @@
       "longitude": -73.99849525644926
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 505100029,
       "latitude": 40.710663476710224,
       "binStatus": "Available",
@@ -2486,7 +2486,7 @@
       "longitude": -74.01322457939386
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 0,
       "serialNumber": 505100071,
       "latitude": 40.73149350965934,
       "binStatus": "Available",
@@ -2504,7 +2504,7 @@
       "longitude": -73.9463083404101
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 505100030,
       "latitude": 40.77884195910523,
       "binStatus": "Available",
@@ -2567,7 +2567,7 @@
       "longitude": -73.94763141892919
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 0,
       "serialNumber": 505100034,
       "latitude": 40.7312028692314,
       "binStatus": "Available",
@@ -2603,7 +2603,7 @@
       "longitude": -74.00756552771458
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 0,
       "serialNumber": 505100028,
       "latitude": 40.762145800103276,
       "binStatus": "Available",
@@ -2630,12 +2630,12 @@
       "longitude": -73.99876398340452
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 0,
       "serialNumber": 505100058,
       "latitude": 40.716735019858994,
-      "binStatus": "Full",
+      "binStatus": "Available",
       "description": "BIN 260 - NE Grand St & Essex St",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.98896138948061
     },
     {
@@ -2648,7 +2648,7 @@
       "longitude": -73.99222918721208
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 0,
       "serialNumber": 505100057,
       "latitude": 40.77544607677087,
       "binStatus": "Available",
@@ -2657,12 +2657,12 @@
       "longitude": -73.9535946787067
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 0,
       "serialNumber": 505100059,
       "latitude": 40.718786682897935,
-      "binStatus": "Full",
+      "binStatus": "Available",
       "description": "BIN 244 - SW Greenwich St & Harrison St",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -74.01055041700602
     },
     {
@@ -2684,10 +2684,10 @@
       "longitude": -73.96450973157151
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 0,
       "serialNumber": 505100082,
       "latitude": 40.76216672199596,
-      "binStatus": "Nearly Full",
+      "binStatus": "Available",
       "description": "BIN 349 - NE 11 Ave & W 44 St",
       "availableForUse": true,
       "longitude": -73.99722146507379
@@ -2720,16 +2720,16 @@
       "longitude": -73.99052800018954
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100081,
       "latitude": 40.78693626205199,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 367 - SW Amsterdam Ave & W 85 St",
       "availableForUse": true,
       "longitude": -73.97570673483682
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 40,
       "serialNumber": 505100090,
       "latitude": 40.750719268455946,
       "binStatus": "Available",
@@ -2774,10 +2774,10 @@
       "longitude": -73.9766103569379
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 0,
       "serialNumber": 505100074,
       "latitude": 40.77844967182979,
-      "binStatus": "Nearly Full",
+      "binStatus": "Available",
       "description": "BIN 364 - NW West End Ave & W 70 St",
       "availableForUse": true,
       "longitude": -73.98593114887535
@@ -2801,10 +2801,10 @@
       "longitude": -73.98087015968837
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 0,
       "serialNumber": 505100088,
       "latitude": 40.72865169703771,
-      "binStatus": "Nearly Full",
+      "binStatus": "Available",
       "description": "BIN 316 - NW 3 Ave & E 6 St",
       "availableForUse": true,
       "longitude": -73.99090145996239
@@ -2819,19 +2819,19 @@
       "longitude": -73.95335140977043
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 0,
       "serialNumber": 505100087,
       "latitude": 40.798370790247,
-      "binStatus": "Full",
+      "binStatus": "Available",
       "description": "BIN 384 - SE Broadway & W 102 St",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.96888427642509
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 0,
       "serialNumber": 505100093,
       "latitude": 40.7953036151945,
-      "binStatus": "Nearly Full",
+      "binStatus": "Available",
       "description": "BIN 383 - NE Broadway & W 97 St",
       "availableForUse": true,
       "longitude": -73.97107263571145
@@ -2864,19 +2864,19 @@
       "longitude": -73.97906581678058
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 0,
       "serialNumber": 505100077,
       "latitude": 40.84610840833878,
-      "binStatus": "Full",
+      "binStatus": "Available",
       "description": "BIN 388 - SW W 177 St & Audubon Ave",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.93435451155901
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 0,
       "serialNumber": 505100073,
       "latitude": 40.80348382274017,
-      "binStatus": "Nearly Full",
+      "binStatus": "Available",
       "description": "BIN 385 - SE Broadway & W 109 St",
       "availableForUse": true,
       "longitude": -73.96686314261594
@@ -2891,12 +2891,12 @@
       "longitude": -73.9850452796422
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 505100110,
       "latitude": 40.75405449748158,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 295 - SE 2 Ave & E 49 St",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.96902091534423
     },
     {
@@ -2954,12 +2954,12 @@
       "longitude": -73.96586280976997
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 505100067,
       "latitude": 40.77168450396742,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 290 - SW Lexington Ave & E 74 St",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.9614462477865
     },
     {
@@ -2981,7 +2981,7 @@
       "longitude": -73.95966351954947
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 505100102,
       "latitude": 40.74448956998408,
       "binStatus": "Available",
@@ -3116,16 +3116,16 @@
       "longitude": -73.97792649980364
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 0,
       "serialNumber": 505100127,
       "latitude": 40.79540352670067,
-      "binStatus": "Nearly Full",
+      "binStatus": "Available",
       "description": "BIN 373 - NW West End Ave & W 96 St",
       "availableForUse": true,
       "longitude": -73.97328253713644
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 0,
       "serialNumber": 505100133,
       "latitude": 40.79786101513957,
       "binStatus": "Available",
@@ -3170,7 +3170,7 @@
       "longitude": -73.97864520220962
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 0,
       "serialNumber": 505100134,
       "latitude": 40.762820138671465,
       "binStatus": "Available",
@@ -3233,10 +3233,10 @@
       "longitude": -74.00526163846435
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 0,
       "serialNumber": 505100149,
       "latitude": 40.77380204413203,
-      "binStatus": "Nearly Full",
+      "binStatus": "Available",
       "description": "BIN 393 - NW 1 Ave & E 81 St",
       "availableForUse": true,
       "longitude": -73.95175657391553
@@ -3260,7 +3260,7 @@
       "longitude": -73.97707090180893
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 0,
       "serialNumber": 505100140,
       "latitude": 40.760441717606135,
       "binStatus": "Available",
@@ -3314,7 +3314,7 @@
       "longitude": -73.97035768079368
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 505100145,
       "latitude": 40.74163391924499,
       "binStatus": "Available",
@@ -3341,10 +3341,10 @@
       "longitude": -73.98135114745574
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 0,
       "serialNumber": 505100119,
       "latitude": 40.77611866432287,
-      "binStatus": "Nearly Full",
+      "binStatus": "Available",
       "description": "BIN 359 - SW Columbus Ave & W 70 St",
       "availableForUse": true,
       "longitude": -73.9799463692325
@@ -3557,7 +3557,7 @@
       "longitude": -73.95106026343018
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 0,
       "serialNumber": 505100204,
       "latitude": 40.77549362284978,
       "binStatus": "Available",
