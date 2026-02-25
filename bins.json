@@ -2,7 +2,7 @@
   "errorCode": "STATUS_OK",
   "compostAssets": [
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 3590004,
       "latitude": 40.740982515732185,
       "binStatus": "Available",
@@ -254,10 +254,10 @@
       "longitude": -73.94638694822788
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 0,
       "serialNumber": 503000003,
       "latitude": 40.803170053254796,
-      "binStatus": "Nearly Full",
+      "binStatus": "Available",
       "description": "BIN 34 - SE W 118 St & Lenox Ave",
       "availableForUse": true,
       "longitude": -73.94863547733536
@@ -1334,12 +1334,12 @@
       "longitude": -73.91751361469018
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 0,
       "serialNumber": 503000153,
       "latitude": 40.798054852781554,
-      "binStatus": "Full",
+      "binStatus": "Available",
       "description": "BIN 32 - SW W 112 St & 5 Ave",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.94852463470318
     },
     {
@@ -1397,7 +1397,7 @@
       "longitude": -73.90797402709723
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 503000188,
       "latitude": 40.690796900599814,
       "binStatus": "Available",
@@ -3503,7 +3503,7 @@
       "longitude": -73.94026945696734
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 505100195,
       "latitude": 40.74256184956176,
       "binStatus": "Available",
