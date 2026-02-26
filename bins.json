@@ -2,10 +2,10 @@
   "errorCode": "STATUS_OK",
   "compostAssets": [
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 3590004,
       "latitude": 40.740982515732185,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 406 - SE 47 Ave & 47 St",
       "availableForUse": true,
       "longitude": -73.9180913195014
@@ -1127,10 +1127,10 @@
       "longitude": -73.90656117349863
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 503000148,
       "latitude": 40.701373514374744,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 183 - SW St. Nicholas Ave & Linden St",
       "availableForUse": true,
       "longitude": -73.91136553921112
@@ -1397,7 +1397,7 @@
       "longitude": -73.90797402709723
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000188,
       "latitude": 40.690796900599814,
       "binStatus": "Available",
@@ -1811,7 +1811,7 @@
       "longitude": -73.9355384244532
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000235,
       "latitude": 40.67303171113777,
       "binStatus": "Available",
@@ -2081,12 +2081,12 @@
       "longitude": -73.93935050815344
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 503000276,
       "latitude": 40.671487915534485,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 196 - SE Lincoln Place & Franklin Ave",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.95759489387271
     },
     {
@@ -3548,7 +3548,7 @@
       "longitude": -73.94742094974946
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 505100200,
       "latitude": 40.7431956119206,
       "binStatus": "Available",
