@@ -101,7 +101,7 @@
       "longitude": -73.91950843495798
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 0,
       "serialNumber": 3590012,
       "latitude": 40.884080646656564,
       "binStatus": "Available",
@@ -155,12 +155,12 @@
       "longitude": -73.91430705785751
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 0,
       "serialNumber": 3590002,
       "latitude": 40.74267491248134,
-      "binStatus": "Full",
+      "binStatus": "Available",
       "description": "BIN 341 - SE 7 Ave & W 21 St",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.99649911716193
     },
     {
@@ -398,7 +398,7 @@
       "longitude": -73.88136584311724
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 503000022,
       "latitude": 40.866201512573475,
       "binStatus": "Available",
@@ -533,7 +533,7 @@
       "longitude": -73.93832288682462
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 0,
       "serialNumber": 503000051,
       "latitude": 40.83816928203937,
       "binStatus": "Available",
@@ -821,16 +821,16 @@
       "longitude": -73.94825711846352
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 0,
       "serialNumber": 503000082,
       "latitude": 40.746466564173716,
-      "binStatus": "Nearly Full",
+      "binStatus": "Available",
       "description": "BIN 344 - SE 8 Ave & W 25 St",
       "availableForUse": true,
       "longitude": -73.9975130736801
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 503000083,
       "latitude": 40.826256762400135,
       "binStatus": "Available",
@@ -965,7 +965,7 @@
       "longitude": -73.90491127967834
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000100,
       "latitude": 40.818994146499016,
       "binStatus": "Available",
@@ -983,7 +983,7 @@
       "longitude": -73.9447372895371
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000079,
       "latitude": 40.8549921737635,
       "binStatus": "Available",
@@ -1379,10 +1379,10 @@
       "longitude": -73.941904976964
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 503000179,
       "latitude": 40.67617742416484,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 190 - NE Underhill Ave & Park Place",
       "availableForUse": true,
       "longitude": -73.96627854555845
@@ -1658,7 +1658,7 @@
       "longitude": -73.95670607686043
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 503000214,
       "latitude": 40.84592817625355,
       "binStatus": "Available",
@@ -2207,7 +2207,7 @@
       "longitude": -73.9532222620251
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 505100048,
       "latitude": 40.778333070963065,
       "binStatus": "Available",
@@ -2315,12 +2315,12 @@
       "longitude": -73.99051628208568
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 0,
       "serialNumber": 505100008,
       "latitude": 40.7391347154904,
-      "binStatus": "Full",
+      "binStatus": "Available",
       "description": "BIN 337 - SE W 17 St & 6 Ave",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.99540269748928
     },
     {
@@ -2351,16 +2351,16 @@
       "longitude": -73.9498927384089
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 0,
       "serialNumber": 505100013,
       "latitude": 40.73565255133342,
-      "binStatus": "Nearly Full",
+      "binStatus": "Available",
       "description": "BIN 330 - SW 7 Ave S & Perry St",
       "availableForUse": true,
       "longitude": -74.00171998103215
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 0,
       "serialNumber": 505100051,
       "latitude": 40.72504420607064,
       "binStatus": "Available",
@@ -2378,7 +2378,7 @@
       "longitude": -74.00657773017883
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 0,
       "serialNumber": 505100003,
       "latitude": 40.73776704120356,
       "binStatus": "Available",
@@ -2405,7 +2405,7 @@
       "longitude": -73.97826863139804
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 0,
       "serialNumber": 505100043,
       "latitude": 40.70584702623706,
       "binStatus": "Available",
@@ -2459,10 +2459,10 @@
       "longitude": -73.98789177423471
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 0,
       "serialNumber": 505100046,
       "latitude": 40.73534879130396,
-      "binStatus": "Nearly Full",
+      "binStatus": "Available",
       "description": "BIN 336 - SW 6 Ave & W 11 St",
       "availableForUse": true,
       "longitude": -73.99849525644926
@@ -2477,7 +2477,7 @@
       "longitude": -74.00341004133224
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 505100017,
       "latitude": 40.705075385840445,
       "binStatus": "Available",
@@ -2612,7 +2612,7 @@
       "longitude": -73.98977462491895
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 0,
       "serialNumber": 505100025,
       "latitude": 40.74240669511277,
       "binStatus": "Available",
@@ -2621,7 +2621,7 @@
       "longitude": -74.0007785662345
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 0,
       "serialNumber": 505100064,
       "latitude": 40.718560301291866,
       "binStatus": "Available",
@@ -2702,7 +2702,7 @@
       "longitude": -73.9546898742066
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 505100089,
       "latitude": 40.77432420761129,
       "binStatus": "Available",
@@ -2747,10 +2747,10 @@
       "longitude": -73.98540060636678
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 0,
       "serialNumber": 505100092,
       "latitude": 40.78957914389564,
-      "binStatus": "Nearly Full",
+      "binStatus": "Available",
       "description": "BIN 369 - SW W 89 St & Amsterdam Ave",
       "availableForUse": true,
       "longitude": -73.97379656746796
@@ -2801,7 +2801,7 @@
       "longitude": -73.98087015968837
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 505100088,
       "latitude": 40.72865169703771,
       "binStatus": "Available",
@@ -3053,7 +3053,7 @@
       "longitude": -73.90464372932911
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 0,
       "serialNumber": 505100125,
       "latitude": 40.786641828294435,
       "binStatus": "Available",
@@ -3161,7 +3161,7 @@
       "longitude": -73.98776125245462
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 0,
       "serialNumber": 505100144,
       "latitude": 40.78596763857327,
       "binStatus": "Available",
@@ -3224,10 +3224,10 @@
       "longitude": -74.00261308139008
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100122,
       "latitude": 40.74639647509707,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 342 - SW 10 Ave & W 21 St",
       "availableForUse": true,
       "longitude": -74.00526163846435
@@ -3305,7 +3305,7 @@
       "longitude": -73.98478295989479
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 0,
       "serialNumber": 505100116,
       "latitude": 40.78914315936319,
       "binStatus": "Available",
@@ -3350,21 +3350,21 @@
       "longitude": -73.9799463692325
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 0,
       "serialNumber": 505100115,
       "latitude": 40.78876861933553,
-      "binStatus": "Nearly Full",
+      "binStatus": "Available",
       "description": "BIN 380 - SE Broadway & W 87 St",
       "availableForUse": true,
       "longitude": -73.97587379945203
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 0,
       "serialNumber": 505100128,
       "latitude": 40.72662593513809,
-      "binStatus": "Full",
+      "binStatus": "Available",
       "description": "BIN 327 - SW Bond St & Lafayette St",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.99427816002996
     },
     {
@@ -3521,7 +3521,7 @@
       "longitude": -73.95758831602339
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 505100205,
       "latitude": 40.74555707262847,
       "binStatus": "Available",
@@ -3557,7 +3557,7 @@
       "longitude": -73.95106026343018
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 505100204,
       "latitude": 40.77549362284978,
       "binStatus": "Available",
