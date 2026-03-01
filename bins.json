@@ -731,7 +731,7 @@
       "longitude": -73.92510951539327
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 60,
       "serialNumber": 503000064,
       "latitude": 40.78210605168062,
       "binStatus": "Available",
@@ -1037,12 +1037,12 @@
       "longitude": -73.92874404788017
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 503000131,
       "latitude": 40.688233556498346,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 143 - SW Nostrand Ave & Greene Ave",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.95123168826103
     },
     {
@@ -1145,10 +1145,10 @@
       "longitude": -73.9155288040638
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 503000149,
       "latitude": 40.683936689634,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 144 - SW Nostrand Ave & Putnam Ave",
       "availableForUse": true,
       "longitude": -73.9503475651145
@@ -2333,10 +2333,10 @@
       "longitude": -74.00212241864305
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100021,
       "latitude": 40.775317712188475,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 424 - NE E 85 St & York Ave",
       "availableForUse": true,
       "longitude": -73.94749872386456
@@ -3242,7 +3242,7 @@
       "longitude": -73.95175657391553
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 505100121,
       "latitude": 40.7909709189525,
       "binStatus": "Available",
