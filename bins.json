@@ -38,12 +38,12 @@
       "longitude": -73.9175371080637
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 3590014,
       "latitude": 40.745373137079994,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 404 - SE 43 Ave & 41 St",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.92288388211199
     },
     {
@@ -92,12 +92,12 @@
       "longitude": -73.91701877117157
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 0,
       "serialNumber": 3590016,
       "latitude": 40.74331547375804,
-      "binStatus": "Full",
+      "binStatus": "Available",
       "description": "BIN 405 - SE Queens Blvd & 45 St.",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.91950843495798
     },
     {
@@ -290,7 +290,7 @@
       "longitude": -73.95101174712181
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000014,
       "latitude": 40.762625726342314,
       "binStatus": "Available",
@@ -686,7 +686,7 @@
       "longitude": -73.86818949133158
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000063,
       "latitude": 40.76656936634833,
       "binStatus": "Available",
@@ -1055,7 +1055,7 @@
       "longitude": -73.90436712652445
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 503000136,
       "latitude": 40.67726495043478,
       "binStatus": "Available",
@@ -1190,12 +1190,12 @@
       "longitude": -73.93099308013916
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 503000150,
       "latitude": 40.67358758069033,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 193 - NW Washington Ave & St. Johns Place",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.96311119198799
     },
     {
@@ -1946,7 +1946,7 @@
       "longitude": -74.14217077195644
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000244,
       "latitude": 40.67498593224985,
       "binStatus": "Available",
@@ -2000,7 +2000,7 @@
       "longitude": -74.06930956989527
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000261,
       "latitude": 40.704219889937,
       "binStatus": "Available",
@@ -2342,7 +2342,7 @@
       "longitude": -73.94749872386456
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 505100004,
       "latitude": 40.784683566970614,
       "binStatus": "Available",
@@ -2369,7 +2369,7 @@
       "longitude": -73.9869912541827
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 60,
       "serialNumber": 505100027,
       "latitude": 40.718798372078474,
       "binStatus": "Available",
@@ -2387,7 +2387,7 @@
       "longitude": -74.00006544331396
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 0,
       "serialNumber": 505100022,
       "latitude": 40.73287635373648,
       "binStatus": "Available",
@@ -2585,7 +2585,7 @@
       "longitude": -73.95822445057821
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 60,
       "serialNumber": 505100016,
       "latitude": 40.76390136307756,
       "binStatus": "Available",
@@ -2711,12 +2711,12 @@
       "longitude": -73.98491537817117
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 505100096,
       "latitude": 40.771722793444425,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 360 - NW West End Ave & W 59 St",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.99052800018954
     },
     {
@@ -2837,7 +2837,7 @@
       "longitude": -73.97107263571145
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 505100107,
       "latitude": 40.73674344375692,
       "binStatus": "Available",
@@ -2936,7 +2936,7 @@
       "longitude": -73.90418004244566
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 505100094,
       "latitude": 40.79106031360771,
       "binStatus": "Available",
@@ -2963,7 +2963,7 @@
       "longitude": -73.9614462477865
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 505100091,
       "latitude": 40.74913400691257,
       "binStatus": "Available",
@@ -3206,10 +3206,10 @@
       "longitude": -73.98753543655222
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100146,
       "latitude": 40.74723684953337,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 340 - SW 6 Ave & W 30 St",
       "availableForUse": true,
       "longitude": -73.98983752643882
@@ -3269,7 +3269,7 @@
       "longitude": -73.99506114554103
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 0,
       "serialNumber": 505100150,
       "latitude": 40.729589714367386,
       "binStatus": "Available",
@@ -3278,7 +3278,7 @@
       "longitude": -74.00684701383747
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 60,
       "serialNumber": 505100135,
       "latitude": 40.75913762952132,
       "binStatus": "Available",
@@ -3503,7 +3503,7 @@
       "longitude": -73.94026945696734
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 505100195,
       "latitude": 40.74256184956176,
       "binStatus": "Available",
