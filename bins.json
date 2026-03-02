@@ -767,10 +767,10 @@
       "longitude": -73.94291717559099
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 503000069,
       "latitude": 40.762088122135914,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 06 - NW 31 St & Broadway",
       "availableForUse": true,
       "longitude": -73.92557334154844
@@ -1145,12 +1145,12 @@
       "longitude": -73.9155288040638
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 503000149,
       "latitude": 40.683936689634,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 144 - SW Nostrand Ave & Putnam Ave",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.9503475651145
     },
     {
@@ -3413,7 +3413,7 @@
       "longitude": -73.93830848140053
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 505100206,
       "latitude": 40.74714831729217,
       "binStatus": "Available",
@@ -3476,7 +3476,7 @@
       "longitude": -73.94229970204982
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 505100208,
       "latitude": 40.7469626558944,
       "binStatus": "Available",
