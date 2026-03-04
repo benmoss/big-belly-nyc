@@ -2,10 +2,10 @@
   "errorCode": "STATUS_OK",
   "compostAssets": [
     {
-      "latestFullness": 80,
+      "latestFullness": 0,
       "serialNumber": 3590004,
       "latitude": 40.740982515732185,
-      "binStatus": "Nearly Full",
+      "binStatus": "Available",
       "description": "BIN 406 - SE 47 Ave & 47 St",
       "availableForUse": true,
       "longitude": -73.9180913195014
@@ -83,12 +83,12 @@
       "longitude": -73.90727262943983
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 3590015,
       "latitude": 40.746483770342856,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 401 - NE Skillman Ave & 47 St",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.91701877117157
     },
     {
@@ -128,12 +128,12 @@
       "longitude": -73.92154820692338
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 0,
       "serialNumber": 3590008,
       "latitude": 40.741475328023036,
-      "binStatus": "Full",
+      "binStatus": "Available",
       "description": "BIN 407 - NW 44 St & 47 Ave",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.92099916934967
     },
     {
@@ -290,7 +290,7 @@
       "longitude": -73.95101174712181
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 0,
       "serialNumber": 503000014,
       "latitude": 40.762625726342314,
       "binStatus": "Available",
@@ -1316,12 +1316,12 @@
       "longitude": -73.91542855650187
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 503000175,
       "latitude": 40.68014247411724,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 186 - SW Vanderbilt Ave & Dean St",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.96811317652464
     },
     {
@@ -3404,7 +3404,7 @@
       "longitude": -73.95933442215124
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 0,
       "serialNumber": 505100194,
       "latitude": 40.7519804629536,
       "binStatus": "Available",
