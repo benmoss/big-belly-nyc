@@ -569,7 +569,7 @@
       "longitude": -73.92916951328516
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 503000041,
       "latitude": 40.81994765597217,
       "binStatus": "Available",
@@ -1442,12 +1442,12 @@
       "longitude": -73.93454968929291
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 0,
       "serialNumber": 503000184,
       "latitude": 40.673104182956976,
-      "binStatus": "Full",
+      "binStatus": "Available",
       "description": "BIN 189 - NE Underhill Ave & Eastern Parkway",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.96755293011665
     },
     {
@@ -1541,12 +1541,12 @@
       "longitude": -73.99644857287824
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 503000191,
       "latitude": 40.80924767164232,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 421 - NE W 123 St & St Nicholas Ave",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.95281285047531
     },
     {
