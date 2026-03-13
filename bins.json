@@ -74,7 +74,7 @@
       "longitude": -73.89971678571764
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 3590019,
       "latitude": 40.745991757187745,
       "binStatus": "Available",
@@ -83,7 +83,7 @@
       "longitude": -73.90727262943983
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 3590015,
       "latitude": 40.746483770342856,
       "binStatus": "Available",
@@ -1001,7 +1001,7 @@
       "longitude": -73.92586905509233
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000138,
       "latitude": 40.67875013125626,
       "binStatus": "Available",
@@ -1019,7 +1019,7 @@
       "longitude": -73.92874404788017
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 503000131,
       "latitude": 40.688233556498346,
       "binStatus": "Available",
@@ -1037,10 +1037,10 @@
       "longitude": -73.90436712652445
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 80,
       "serialNumber": 503000136,
       "latitude": 40.67726495043478,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 192 - NW Grand Ave & St. Marks Ave",
       "availableForUse": true,
       "longitude": -73.96265991032124
@@ -2198,7 +2198,7 @@
       "longitude": -73.94848935814979
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 40,
       "serialNumber": 505100040,
       "latitude": 40.77068591297934,
       "binStatus": "Available",
@@ -2288,7 +2288,7 @@
       "longitude": -73.99195962283002
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 505100019,
       "latitude": 40.731496522321486,
       "binStatus": "Available",
@@ -2927,7 +2927,7 @@
       "longitude": -73.96900231292263
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 505100111,
       "latitude": 40.758836000578,
       "binStatus": "Available",
@@ -3017,7 +3017,7 @@
       "longitude": -73.96666802317641
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 505100132,
       "latitude": 40.757513465018945,
       "binStatus": "Available",
@@ -3260,7 +3260,7 @@
       "longitude": -73.991970140548
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 60,
       "serialNumber": 505100123,
       "latitude": 40.78331643218788,
       "binStatus": "Available",
@@ -3323,10 +3323,10 @@
       "longitude": -73.9799463692325
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100115,
       "latitude": 40.78876861933553,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 380 - SE Broadway & W 87 St",
       "availableForUse": true,
       "longitude": -73.97587379945203
@@ -3413,12 +3413,12 @@
       "longitude": -73.95625774369917
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 100,
       "serialNumber": 505100215,
       "latitude": 40.72144381409581,
-      "binStatus": "Available",
+      "binStatus": "Full",
       "description": "BIN 263 - NW Elizabeth St & Spring St",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.99472179957999
     },
     {
