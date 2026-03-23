@@ -1496,12 +1496,12 @@
       "longitude": -73.83048333227634
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 0,
       "serialNumber": 503000193,
       "latitude": 40.676794793886764,
-      "binStatus": "Full",
+      "binStatus": "Available",
       "description": "BIN 199 - NW New York Ave & Dean St",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.94724616137695
     },
     {
@@ -1811,12 +1811,12 @@
       "longitude": -73.94294936209917
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 0,
       "serialNumber": 503000240,
       "latitude": 40.67428152112551,
-      "binStatus": "Full",
+      "binStatus": "Available",
       "description": "BIN 198 - NW New York Ave & Prospect Place",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.94742764532566
     },
     {
@@ -2117,10 +2117,10 @@
       "longitude": -73.9261969551444
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 503000212,
       "latitude": 40.70585647534992,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 178 - NE St. Nicholas Ave & Hart St",
       "availableForUse": true,
       "longitude": -73.91865953781273
