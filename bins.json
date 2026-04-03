@@ -245,12 +245,12 @@
       "longitude": -73.94863547733536
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 0,
       "serialNumber": 503000009,
       "latitude": 40.700382392327064,
-      "binStatus": "Full",
+      "binStatus": "Available",
       "description": "BIN 147 - NW Central Ave & Troutman St",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.92903984180296
     },
     {
@@ -1451,10 +1451,10 @@
       "longitude": -73.9536564052105
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 0,
       "serialNumber": 503000196,
       "latitude": 40.845052353341714,
-      "binStatus": "Nearly Full",
+      "binStatus": "Available",
       "description": "BIN 109 - NW Parkview Ave & Middletown Rd",
       "availableForUse": true,
       "longitude": -73.82693077466463
@@ -2243,7 +2243,7 @@
       "longitude": -73.98598125432342
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 505100049,
       "latitude": 40.70676048283521,
       "binStatus": "Available",
@@ -2477,7 +2477,7 @@
       "longitude": -73.95019042066897
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 505100044,
       "latitude": 40.73121273762785,
       "binStatus": "Available",
