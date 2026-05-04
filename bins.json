@@ -542,7 +542,7 @@
       "longitude": -73.92916951328516
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 503000041,
       "latitude": 40.81994765597217,
       "binStatus": "Available",
@@ -839,12 +839,12 @@
       "longitude": -73.91521599143744
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 80,
       "serialNumber": 503000093,
       "latitude": 40.76223009405083,
-      "binStatus": "Full",
+      "binStatus": "Nearly Full",
       "description": "BIN 01 - NE 31 Ave & 37 St",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.91863731029024
     },
     {
@@ -1856,10 +1856,10 @@
       "longitude": -73.94772704690695
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 0,
       "serialNumber": 503000251,
       "latitude": 40.67459377925092,
-      "binStatus": "Nearly Full",
+      "binStatus": "Available",
       "description": "BIN 216 - NE Rogers Ave & Prospect Place",
       "availableForUse": true,
       "longitude": -73.95274545997381
@@ -1874,7 +1874,7 @@
       "longitude": -73.95603641084294
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 0,
       "serialNumber": 503000257,
       "latitude": 40.670259668497785,
       "binStatus": "Available",
@@ -1910,10 +1910,10 @@
       "longitude": -73.96024390254057
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 0,
       "serialNumber": 503000264,
       "latitude": 40.67279917738334,
-      "binStatus": "Nearly Full",
+      "binStatus": "Available",
       "description": "BIN 215 - NW Rogers Ave & Sterling Place",
       "availableForUse": true,
       "longitude": -73.95310335432222
@@ -2045,7 +2045,7 @@
       "longitude": -73.95759489387271
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 0,
       "serialNumber": 503000273,
       "latitude": 40.67710908208188,
       "binStatus": "Available",
