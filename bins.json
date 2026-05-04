@@ -2,7 +2,7 @@
   "errorCode": "STATUS_OK",
   "compostAssets": [
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 3590004,
       "latitude": 40.740982515732185,
       "binStatus": "Available",
@@ -11,7 +11,7 @@
       "longitude": -73.9180913195014
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 3590010,
       "latitude": 40.74060865008307,
       "binStatus": "Available",
@@ -20,16 +20,16 @@
       "longitude": -73.92287585085252
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 0,
       "serialNumber": 3590013,
       "latitude": 40.74689511721386,
-      "binStatus": "Full",
+      "binStatus": "Available",
       "description": "BIN 402 - NW Skillman Ave & 44 St",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.92003797195594
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 0,
       "serialNumber": 3590017,
       "latitude": 40.7447717419058,
       "binStatus": "Available",
@@ -38,34 +38,34 @@
       "longitude": -73.9175371080637
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 0,
       "serialNumber": 3590014,
       "latitude": 40.745373137079994,
-      "binStatus": "Full",
+      "binStatus": "Available",
       "description": "BIN 404 - SE 43 Ave & 41 St",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.92288388211199
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 0,
       "serialNumber": 3590018,
       "latitude": 40.68640155543058,
-      "binStatus": "Nearly Full",
+      "binStatus": "Available",
       "description": "BIN 137 - NW Malcolm X Blvd & Putnam Ave",
       "availableForUse": true,
       "longitude": -73.92984341830015
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 0,
       "serialNumber": 3590020,
       "latitude": 40.746148800069264,
-      "binStatus": "Full",
+      "binStatus": "Available",
       "description": "BIN 400 - NE 51 St & Skillman Ave",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.91328877313748
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 0,
       "serialNumber": 3590001,
       "latitude": 40.746548059294376,
       "binStatus": "Available",
@@ -74,21 +74,21 @@
       "longitude": -73.89971678571764
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 0,
       "serialNumber": 3590019,
       "latitude": 40.745991757187745,
-      "binStatus": "Nearly Full",
+      "binStatus": "Available",
       "description": "BIN 398 - NW 57 St & Woodside Ave",
       "availableForUse": true,
       "longitude": -73.90727262943983
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 0,
       "serialNumber": 3590015,
       "latitude": 40.746483770342856,
-      "binStatus": "Full",
+      "binStatus": "Available",
       "description": "BIN 401 - NE Skillman Ave & 47 St",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.91701877117157
     },
     {
@@ -110,7 +110,7 @@
       "longitude": -73.91260653734207
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 0,
       "serialNumber": 3590003,
       "latitude": 40.7457242854218,
       "binStatus": "Available",
@@ -218,10 +218,10 @@
       "longitude": -73.86632109842786
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 0,
       "serialNumber": 503000005,
       "latitude": 40.68477302089155,
-      "binStatus": "Nearly Full",
+      "binStatus": "Available",
       "description": "BIN 123 - NE Tompkins Ave & Putnam Ave",
       "availableForUse": true,
       "longitude": -73.9441276370178
@@ -272,7 +272,7 @@
       "longitude": -73.95101174712181
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 0,
       "serialNumber": 503000014,
       "latitude": 40.762625726342314,
       "binStatus": "Available",
@@ -281,7 +281,7 @@
       "longitude": -73.93766775727272
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 0,
       "serialNumber": 503000013,
       "latitude": 40.86843300418909,
       "binStatus": "Available",
@@ -290,7 +290,7 @@
       "longitude": -73.91832768131844
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 0,
       "serialNumber": 503000015,
       "latitude": 40.715768264498486,
       "binStatus": "Available",
@@ -344,7 +344,7 @@
       "longitude": -73.93778998622929
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 0,
       "serialNumber": 503000023,
       "latitude": 40.84608111296369,
       "binStatus": "Available",
@@ -371,7 +371,7 @@
       "longitude": -73.88136584311724
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 0,
       "serialNumber": 503000022,
       "latitude": 40.866201512573475,
       "binStatus": "Available",
@@ -389,16 +389,16 @@
       "longitude": -73.92383761703968
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 0,
       "serialNumber": 503000033,
       "latitude": 40.86054008940285,
-      "binStatus": "Full",
+      "binStatus": "Available",
       "description": "BIN 63 - SE Sickles St & Nagle Ave",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.9273372319724
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 0,
       "serialNumber": 503000057,
       "latitude": 40.85571566774662,
       "binStatus": "Available",
@@ -524,7 +524,7 @@
       "longitude": -73.94713159650564
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 0,
       "serialNumber": 503000044,
       "latitude": 40.80556261860785,
       "binStatus": "Available",
@@ -758,7 +758,7 @@
       "longitude": -73.93320322036743
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 503000072,
       "latitude": 40.79737412009714,
       "binStatus": "Available",
@@ -785,7 +785,7 @@
       "longitude": -73.92188027501106
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000081,
       "latitude": 40.79314191706756,
       "binStatus": "Available",
@@ -875,7 +875,7 @@
       "longitude": -73.90734169632196
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 503000094,
       "latitude": 40.7666826313674,
       "binStatus": "Available",
@@ -992,10 +992,10 @@
       "longitude": -73.96523348987103
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 0,
       "serialNumber": 503000140,
       "latitude": 40.681352486961536,
-      "binStatus": "Nearly Full",
+      "binStatus": "Available",
       "description": "BIN 138 - NW Malcolm X Blvd & Bainbridge St",
       "availableForUse": true,
       "longitude": -73.92874404788017
@@ -1010,7 +1010,7 @@
       "longitude": -73.95123168826103
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 503000134,
       "latitude": 40.693288204717966,
       "binStatus": "Available",
@@ -1037,7 +1037,7 @@
       "longitude": -73.93525745719671
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 0,
       "serialNumber": 503000144,
       "latitude": 40.7019656047617,
       "binStatus": "Available",
@@ -1082,7 +1082,7 @@
       "longitude": -73.92045420260473
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 0,
       "serialNumber": 503000147,
       "latitude": 40.687583234935204,
       "binStatus": "Available",
@@ -1145,7 +1145,7 @@
       "longitude": -73.91374111175537
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 0,
       "serialNumber": 503000164,
       "latitude": 40.69660505362728,
       "binStatus": "Available",
@@ -1172,7 +1172,7 @@
       "longitude": -73.90844576060772
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 0,
       "serialNumber": 503000157,
       "latitude": 40.698774108656224,
       "binStatus": "Available",
@@ -1217,12 +1217,12 @@
       "longitude": -73.9129939918858
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 0,
       "serialNumber": 503000160,
       "latitude": 40.6827719802296,
-      "binStatus": "Full",
+      "binStatus": "Available",
       "description": "BIN 140 - SW Throop Ave & Halsey St",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.94101046025753
     },
     {
@@ -1235,10 +1235,10 @@
       "longitude": -73.96974126370019
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 0,
       "serialNumber": 503000169,
       "latitude": 40.690318203640174,
-      "binStatus": "Nearly Full",
+      "binStatus": "Available",
       "description": "BIN 118 - NE Lewis Ave & Green Ave",
       "availableForUse": true,
       "longitude": -73.93640510737896
@@ -1253,7 +1253,7 @@
       "longitude": -73.90959072858095
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 0,
       "serialNumber": 503000170,
       "latitude": 40.676454329310545,
       "binStatus": "Available",
@@ -1316,7 +1316,7 @@
       "longitude": -73.89874320477247
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 0,
       "serialNumber": 503000176,
       "latitude": 40.680852618800145,
       "binStatus": "Available",
@@ -1325,7 +1325,7 @@
       "longitude": -73.91968253999949
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 0,
       "serialNumber": 503000163,
       "latitude": 40.67883225893407,
       "binStatus": "Available",
@@ -1334,7 +1334,7 @@
       "longitude": -73.91924198716879
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 0,
       "serialNumber": 503000178,
       "latitude": 40.671282700678354,
       "binStatus": "Available",
@@ -1361,7 +1361,7 @@
       "longitude": -73.90797402709723
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 0,
       "serialNumber": 503000188,
       "latitude": 40.690796900599814,
       "binStatus": "Available",
@@ -1370,7 +1370,7 @@
       "longitude": -73.91234535723925
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 0,
       "serialNumber": 503000172,
       "latitude": 40.69744237426521,
       "binStatus": "Available",
@@ -1397,7 +1397,7 @@
       "longitude": -73.90980195254087
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 0,
       "serialNumber": 503000181,
       "latitude": 40.68065836586844,
       "binStatus": "Available",
@@ -1415,7 +1415,7 @@
       "longitude": -73.96755293011665
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 60,
       "serialNumber": 503000182,
       "latitude": 40.688928869836005,
       "binStatus": "Available",
@@ -1460,10 +1460,10 @@
       "longitude": -73.82693077466463
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 0,
       "serialNumber": 503000190,
       "latitude": 40.692363382489,
-      "binStatus": "Nearly Full",
+      "binStatus": "Available",
       "description": "BIN 135 - NW Malcolm X Blvd & Lafayette Ave",
       "availableForUse": true,
       "longitude": -73.93096961081028
@@ -1505,25 +1505,25 @@
       "longitude": -73.95281285047531
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 0,
       "serialNumber": 503000207,
       "latitude": 40.68175217538853,
-      "binStatus": "Full",
+      "binStatus": "Available",
       "description": "BIN 124 - SW Tompkins Ave & Macon St",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.9436212554574
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 0,
       "serialNumber": 503000206,
       "latitude": 40.68764908091782,
-      "binStatus": "Full",
+      "binStatus": "Available",
       "description": "BIN 122 - SW Tompkins Ave & Quincy St",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.94487351179123
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 503000198,
       "latitude": 40.82896269217192,
       "binStatus": "Available",
@@ -1550,7 +1550,7 @@
       "longitude": -73.95389076322317
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 0,
       "serialNumber": 503000208,
       "latitude": 40.683812617651405,
       "binStatus": "Available",
@@ -1604,7 +1604,7 @@
       "longitude": -73.89510378241539
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 60,
       "serialNumber": 503000213,
       "latitude": 40.76718414067168,
       "binStatus": "Available",
@@ -1622,10 +1622,10 @@
       "longitude": -73.82940910756588
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 0,
       "serialNumber": 503000221,
       "latitude": 40.69040997746076,
-      "binStatus": "Nearly Full",
+      "binStatus": "Available",
       "description": "BIN 121 - SW Tompkins Ave & Lafayette Ave",
       "availableForUse": true,
       "longitude": -73.94542437046766
@@ -1739,7 +1739,7 @@
       "longitude": -73.88005122542381
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 0,
       "serialNumber": 503000232,
       "latitude": 40.68513798940631,
       "binStatus": "Available",
@@ -1757,7 +1757,7 @@
       "longitude": -73.89310654252768
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 0,
       "serialNumber": 503000186,
       "latitude": 40.6858662258759,
       "binStatus": "Available",
@@ -1766,12 +1766,12 @@
       "longitude": -73.9355384244532
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 0,
       "serialNumber": 503000235,
       "latitude": 40.67303171113777,
-      "binStatus": "Full",
+      "binStatus": "Available",
       "description": "BIN 212 - NE Kingston Ave & Park Place",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.94181042909622
     },
     {
@@ -1784,10 +1784,10 @@
       "longitude": -74.07850451767445
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 503000239,
       "latitude": 40.69389322166022,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 142 - SE Throop Ave & Hart St",
       "availableForUse": true,
       "longitude": -73.94294936209917
@@ -1883,7 +1883,7 @@
       "longitude": -73.95334862172604
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 0,
       "serialNumber": 503000255,
       "latitude": 40.67155276024617,
       "binStatus": "Available",
@@ -1964,7 +1964,7 @@
       "longitude": -73.91591713080048
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 0,
       "serialNumber": 503000265,
       "latitude": 40.67028714230085,
       "binStatus": "Available",
@@ -1991,7 +1991,7 @@
       "longitude": -74.14456080612285
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 0,
       "serialNumber": 503000266,
       "latitude": 40.70289868141765,
       "binStatus": "Available",
@@ -2027,7 +2027,7 @@
       "longitude": -73.96107707172632
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 0,
       "serialNumber": 503000260,
       "latitude": 40.670941691695425,
       "binStatus": "Available",
@@ -2081,7 +2081,7 @@
       "longitude": -73.78518752753735
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 0,
       "serialNumber": 503000197,
       "latitude": 40.68749730455891,
       "binStatus": "Available",
@@ -2090,7 +2090,7 @@
       "longitude": -73.92091434448957
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 0,
       "serialNumber": 503000205,
       "latitude": 40.68303106054966,
       "binStatus": "Available",
@@ -2117,7 +2117,7 @@
       "longitude": -73.93855053931475
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 0,
       "serialNumber": 503000202,
       "latitude": 40.66971391909037,
       "binStatus": "Available",
@@ -2144,7 +2144,7 @@
       "longitude": -73.94892745726821
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 60,
       "serialNumber": 505100018,
       "latitude": 40.77311641488666,
       "binStatus": "Available",
@@ -2153,10 +2153,10 @@
       "longitude": -73.94634148235653
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 0,
       "serialNumber": 505100038,
       "latitude": 40.780081383690586,
-      "binStatus": "Nearly Full",
+      "binStatus": "Available",
       "description": "BIN 277 - SW 3 Ave & E 88 St",
       "availableForUse": true,
       "longitude": -73.9532222620251
@@ -2216,7 +2216,7 @@
       "longitude": -73.9538887710376
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 40,
       "serialNumber": 505100014,
       "latitude": 40.78010940688603,
       "binStatus": "Available",
@@ -2225,7 +2225,7 @@
       "longitude": -73.94685207786003
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 0,
       "serialNumber": 505100020,
       "latitude": 40.72799056580962,
       "binStatus": "Available",
@@ -2234,7 +2234,7 @@
       "longitude": -73.97899926258084
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 0,
       "serialNumber": 505100012,
       "latitude": 40.731190506042964,
       "binStatus": "Available",
@@ -2243,25 +2243,25 @@
       "longitude": -73.98598125432342
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100049,
       "latitude": 40.70676048283521,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 253 - SW Maiden Lane & Pearl St",
       "availableForUse": true,
       "longitude": -74.00691708161023
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 0,
       "serialNumber": 505100052,
       "latitude": 40.71989182112748,
-      "binStatus": "Nearly Full",
+      "binStatus": "Available",
       "description": "BIN 255 - NE Delancey St & Forsyth St",
       "availableForUse": true,
       "longitude": -73.99195962283002
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 0,
       "serialNumber": 505100019,
       "latitude": 40.731496522321486,
       "binStatus": "Available",
@@ -2270,10 +2270,10 @@
       "longitude": -73.99051628208568
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100008,
       "latitude": 40.7391347154904,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 337 - SE W 17 St & 6 Ave",
       "availableForUse": true,
       "longitude": -73.99540269748928
@@ -2315,7 +2315,7 @@
       "longitude": -74.00171998103215
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 0,
       "serialNumber": 505100051,
       "latitude": 40.72504420607064,
       "binStatus": "Available",
@@ -2450,10 +2450,10 @@
       "longitude": -73.99461937916071
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 0,
       "serialNumber": 505100032,
       "latitude": 40.765863654327504,
-      "binStatus": "Nearly Full",
+      "binStatus": "Available",
       "description": "BIN 279 - SW Main St & River Rd",
       "availableForUse": true,
       "longitude": -73.9463083404101
@@ -2495,10 +2495,10 @@
       "longitude": -74.0108494516408
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 0,
       "serialNumber": 505100033,
       "latitude": 40.78070495280861,
-      "binStatus": "Nearly Full",
+      "binStatus": "Available",
       "description": "BIN 365 - SW W 77 St & Columbus Ave",
       "availableForUse": true,
       "longitude": -73.97665659471008
@@ -2513,7 +2513,7 @@
       "longitude": -73.95247723907232
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 0,
       "serialNumber": 505100026,
       "latitude": 40.78340997537408,
       "binStatus": "Available",
@@ -2522,7 +2522,7 @@
       "longitude": -73.94763141892919
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 0,
       "serialNumber": 505100034,
       "latitude": 40.7312028692314,
       "binStatus": "Available",
@@ -2540,7 +2540,7 @@
       "longitude": -73.95822445057821
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 505100016,
       "latitude": 40.76390136307756,
       "binStatus": "Available",
@@ -2585,7 +2585,7 @@
       "longitude": -74.0007785662345
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 0,
       "serialNumber": 505100058,
       "latitude": 40.716735019858994,
       "binStatus": "Available",
@@ -2621,7 +2621,7 @@
       "longitude": -74.01055041700602
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 0,
       "serialNumber": 505100054,
       "latitude": 40.71429622184293,
       "binStatus": "Available",
@@ -2630,7 +2630,7 @@
       "longitude": -73.98154267738397
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 0,
       "serialNumber": 505100055,
       "latitude": 40.76405416975698,
       "binStatus": "Available",
@@ -2639,16 +2639,16 @@
       "longitude": -73.96450973157151
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100082,
       "latitude": 40.76216672199596,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 349 - NE 11 Ave & W 44 St",
       "availableForUse": true,
       "longitude": -73.99722146507379
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 0,
       "serialNumber": 505100075,
       "latitude": 40.778178709659024,
       "binStatus": "Available",
@@ -2666,7 +2666,7 @@
       "longitude": -73.98491537817117
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 0,
       "serialNumber": 505100096,
       "latitude": 40.771722793444425,
       "binStatus": "Available",
@@ -2684,7 +2684,7 @@
       "longitude": -73.97570673483682
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 505100090,
       "latitude": 40.750719268455946,
       "binStatus": "Available",
@@ -2693,7 +2693,7 @@
       "longitude": -73.97465123299237
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 0,
       "serialNumber": 505100079,
       "latitude": 40.72376127391616,
       "binStatus": "Available",
@@ -2729,7 +2729,7 @@
       "longitude": -73.9766103569379
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 0,
       "serialNumber": 505100074,
       "latitude": 40.77844967182979,
       "binStatus": "Available",
@@ -2738,10 +2738,10 @@
       "longitude": -73.98593114887535
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 0,
       "serialNumber": 505100083,
       "latitude": 40.72496280254391,
-      "binStatus": "Nearly Full",
+      "binStatus": "Available",
       "description": "BIN 324 - NE 2 Ave & E 2 St",
       "availableForUse": true,
       "longitude": -73.99017938079861
@@ -2756,7 +2756,7 @@
       "longitude": -73.98087015968837
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 0,
       "serialNumber": 505100088,
       "latitude": 40.72865169703771,
       "binStatus": "Available",
@@ -2774,16 +2774,16 @@
       "longitude": -73.95335140977043
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 0,
       "serialNumber": 505100087,
       "latitude": 40.798370790247,
-      "binStatus": "Nearly Full",
+      "binStatus": "Available",
       "description": "BIN 384 - SE Broadway & W 102 St",
       "availableForUse": true,
       "longitude": -73.96888427642509
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 0,
       "serialNumber": 505100093,
       "latitude": 40.7953036151945,
       "binStatus": "Available",
@@ -2801,7 +2801,7 @@
       "longitude": -73.98908566787568
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 0,
       "serialNumber": 505100108,
       "latitude": 40.72728546443583,
       "binStatus": "Available",
@@ -2810,7 +2810,7 @@
       "longitude": -73.98253004894701
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 0,
       "serialNumber": 505100086,
       "latitude": 40.781894893686875,
       "binStatus": "Available",
@@ -2828,7 +2828,7 @@
       "longitude": -73.93435451155901
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 0,
       "serialNumber": 505100073,
       "latitude": 40.80348382274017,
       "binStatus": "Available",
@@ -2891,7 +2891,7 @@
       "longitude": -73.90418004244566
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 0,
       "serialNumber": 505100094,
       "latitude": 40.79106031360771,
       "binStatus": "Available",
@@ -2927,7 +2927,7 @@
       "longitude": -73.97793704431773
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 0,
       "serialNumber": 505100100,
       "latitude": 40.773718493770346,
       "binStatus": "Available",
@@ -2945,7 +2945,7 @@
       "longitude": -73.9728414833659
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 0,
       "serialNumber": 505100101,
       "latitude": 40.77228183243049,
       "binStatus": "Available",
@@ -2972,16 +2972,16 @@
       "longitude": -73.98526381245097
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 0,
       "serialNumber": 505100097,
       "latitude": 40.72556517707213,
-      "binStatus": "Nearly Full",
+      "binStatus": "Available",
       "description": "BIN 318 - SE Ave B & E 8 St",
       "availableForUse": true,
       "longitude": -73.9806513567258
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 505100126,
       "latitude": 40.789118885800946,
       "binStatus": "Available",
@@ -2990,7 +2990,7 @@
       "longitude": -73.96666802317641
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 0,
       "serialNumber": 505100132,
       "latitude": 40.757513465018945,
       "binStatus": "Available",
@@ -3017,7 +3017,7 @@
       "longitude": -73.96841285680578
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 0,
       "serialNumber": 505100129,
       "latitude": 40.779702163230795,
       "binStatus": "Available",
@@ -3044,7 +3044,7 @@
       "longitude": -73.96866042855898
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 505100103,
       "latitude": 40.72946703338854,
       "binStatus": "Available",
@@ -3053,7 +3053,7 @@
       "longitude": -73.9780299987419
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 0,
       "serialNumber": 505100104,
       "latitude": 40.7685305130064,
       "binStatus": "Available",
@@ -3071,7 +3071,7 @@
       "longitude": -73.97792649980364
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 0,
       "serialNumber": 505100127,
       "latitude": 40.79540352670067,
       "binStatus": "Available",
@@ -3116,7 +3116,7 @@
       "longitude": -73.98776125245462
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 0,
       "serialNumber": 505100144,
       "latitude": 40.78596763857327,
       "binStatus": "Available",
@@ -3242,7 +3242,7 @@
       "longitude": -73.991970140548
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 0,
       "serialNumber": 505100123,
       "latitude": 40.78331643218788,
       "binStatus": "Available",
@@ -3260,7 +3260,7 @@
       "longitude": -73.98478295989479
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 0,
       "serialNumber": 505100116,
       "latitude": 40.78914315936319,
       "binStatus": "Available",
@@ -3269,7 +3269,7 @@
       "longitude": -73.97035768079368
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 505100145,
       "latitude": 40.74163391924499,
       "binStatus": "Available",
@@ -3296,28 +3296,28 @@
       "longitude": -73.98135114745574
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 0,
       "serialNumber": 505100119,
       "latitude": 40.77611866432287,
-      "binStatus": "Nearly Full",
+      "binStatus": "Available",
       "description": "BIN 359 - SW Columbus Ave & W 70 St",
       "availableForUse": true,
       "longitude": -73.9799463692325
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 0,
       "serialNumber": 505100115,
       "latitude": 40.78876861933553,
-      "binStatus": "Nearly Full",
+      "binStatus": "Available",
       "description": "BIN 380 - SE Broadway & W 87 St",
       "availableForUse": true,
       "longitude": -73.97587379945203
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 0,
       "serialNumber": 505100128,
       "latitude": 40.72662593513809,
-      "binStatus": "Nearly Full",
+      "binStatus": "Available",
       "description": "BIN 327 - SW Bond St & Lafayette St",
       "availableForUse": true,
       "longitude": -73.99427816002996
@@ -3350,7 +3350,7 @@
       "longitude": -73.95933442215124
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 0,
       "serialNumber": 505100194,
       "latitude": 40.7519804629536,
       "binStatus": "Available",
@@ -3359,7 +3359,7 @@
       "longitude": -73.93830848140053
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 0,
       "serialNumber": 505100206,
       "latitude": 40.74714831729217,
       "binStatus": "Available",
@@ -3368,7 +3368,7 @@
       "longitude": -73.94991182305093
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 0,
       "serialNumber": 505100197,
       "latitude": 40.750960185572,
       "binStatus": "Available",
@@ -3395,7 +3395,7 @@
       "longitude": -73.95625774369917
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 0,
       "serialNumber": 505100215,
       "latitude": 40.72144381409581,
       "binStatus": "Available",
@@ -3413,7 +3413,7 @@
       "longitude": -73.95997052760285
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 0,
       "serialNumber": 505100211,
       "latitude": 40.74885214234578,
       "binStatus": "Available",
@@ -3431,7 +3431,7 @@
       "longitude": -73.94254085685888
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 0,
       "serialNumber": 505100213,
       "latitude": 40.74946301439221,
       "binStatus": "Available",
@@ -3440,7 +3440,7 @@
       "longitude": -73.94037982165541
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 0,
       "serialNumber": 505100198,
       "latitude": 40.75109171826033,
       "binStatus": "Available",
@@ -3467,7 +3467,7 @@
       "longitude": -73.95758831602339
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 505100205,
       "latitude": 40.74555707262847,
       "binStatus": "Available",
@@ -3485,7 +3485,7 @@
       "longitude": -73.93750613305501
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 0,
       "serialNumber": 505100201,
       "latitude": 40.74829157680794,
       "binStatus": "Available",
