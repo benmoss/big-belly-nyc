@@ -722,7 +722,7 @@
       "longitude": -74.07695855945349
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 503000067,
       "latitude": 40.76558557637679,
       "binStatus": "Available",
@@ -1280,7 +1280,7 @@
       "longitude": -73.91751361469018
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 503000153,
       "latitude": 40.798054852781554,
       "binStatus": "Available",
@@ -1640,7 +1640,7 @@
       "longitude": -73.86291526257992
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000223,
       "latitude": 40.77783590171131,
       "binStatus": "Available",
@@ -2009,7 +2009,7 @@
       "longitude": -73.92471789027536
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 0,
       "serialNumber": 503000267,
       "latitude": 40.67165371443654,
       "binStatus": "Available",
@@ -2027,12 +2027,12 @@
       "longitude": -73.93935050815344
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 503000276,
       "latitude": 40.671487915534485,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 196 - SE Lincoln Place & Franklin Ave",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.95759489387271
     },
     {
@@ -2243,10 +2243,10 @@
       "longitude": -74.00691708161023
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100052,
       "latitude": 40.71989182112748,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 255 - NE Delancey St & Forsyth St",
       "availableForUse": true,
       "longitude": -73.99195962283002
@@ -2576,7 +2576,7 @@
       "longitude": -73.99222918721208
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 505100057,
       "latitude": 40.77544607677087,
       "binStatus": "Available",
