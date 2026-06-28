@@ -2,7 +2,7 @@
   "errorCode": "STATUS_OK",
   "compostAssets": [
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 3590004,
       "latitude": 40.740982515732185,
       "binStatus": "Available",
@@ -20,12 +20,12 @@
       "longitude": -73.92287585085252
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 3590013,
       "latitude": 40.74689511721386,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 402 - NW Skillman Ave & 44 St",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.92003797195594
     },
     {
@@ -65,10 +65,10 @@
       "longitude": -73.91328877313748
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 3590001,
       "latitude": 40.746548059294376,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "Bin 396 - NE 64 St & 39 Ave",
       "availableForUse": true,
       "longitude": -73.89971678571764
@@ -155,7 +155,7 @@
       "longitude": -73.91430705785751
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 60,
       "serialNumber": 3590002,
       "latitude": 40.74267491248134,
       "binStatus": "Available",
@@ -335,7 +335,7 @@
       "longitude": -73.93805466592312
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 503000006,
       "latitude": 40.855684792533886,
       "binStatus": "Available",
@@ -398,7 +398,7 @@
       "longitude": -73.9273372319724
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 503000057,
       "latitude": 40.85571566774662,
       "binStatus": "Available",
@@ -614,7 +614,7 @@
       "longitude": -73.92113855102095
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 503000035,
       "latitude": 40.820298050767335,
       "binStatus": "Available",
@@ -929,7 +929,7 @@
       "longitude": -73.9447372895371
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000079,
       "latitude": 40.8549921737635,
       "binStatus": "Available",
@@ -1127,7 +1127,7 @@
       "longitude": -73.91374111175537
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 503000164,
       "latitude": 40.69660505362728,
       "binStatus": "Available",
@@ -1154,7 +1154,7 @@
       "longitude": -73.90844576060772
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 503000157,
       "latitude": 40.698774108656224,
       "binStatus": "Available",
@@ -1271,7 +1271,7 @@
       "longitude": -73.96811317652464
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000162,
       "latitude": 40.704966472832965,
       "binStatus": "Available",
@@ -1523,7 +1523,7 @@
       "longitude": -73.85669823735952
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 503000211,
       "latitude": 40.83852110249066,
       "binStatus": "Available",
@@ -1640,7 +1640,7 @@
       "longitude": -73.90800554305315
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 503000222,
       "latitude": 40.821624764178374,
       "binStatus": "Available",
@@ -1784,7 +1784,7 @@
       "longitude": -74.07850451767445
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 503000239,
       "latitude": 40.69389322166022,
       "binStatus": "Available",
@@ -1793,12 +1793,12 @@
       "longitude": -73.94294936209917
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 80,
       "serialNumber": 503000240,
       "latitude": 40.67428152112551,
-      "binStatus": "Full",
+      "binStatus": "Nearly Full",
       "description": "BIN 198 - NW New York Ave & Prospect Place",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.94742764532566
     },
     {
@@ -2495,7 +2495,7 @@
       "longitude": -73.94763141892919
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 505100034,
       "latitude": 40.7312028692314,
       "binStatus": "Available",
@@ -2828,12 +2828,12 @@
       "longitude": -73.90418004244566
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 505100094,
       "latitude": 40.79106031360771,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 382 - NW Columbus Ave & W 93 St",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.96900231292263
     },
     {
@@ -3278,7 +3278,7 @@
       "longitude": -73.95331925646816
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 505100196,
       "latitude": 40.74368886339107,
       "binStatus": "Available",
@@ -3359,7 +3359,7 @@
       "longitude": -73.94229970204982
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 505100208,
       "latitude": 40.7469626558944,
       "binStatus": "Available",
@@ -3440,7 +3440,7 @@
       "longitude": -73.95106026343018
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 505100204,
       "latitude": 40.77549362284978,
       "binStatus": "Available",
