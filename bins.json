@@ -29,7 +29,7 @@
       "longitude": -73.92003797195594
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 3590017,
       "latitude": 40.7447717419058,
       "binStatus": "Available",
@@ -335,10 +335,10 @@
       "longitude": -73.93805466592312
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 0,
       "serialNumber": 503000006,
       "latitude": 40.855684792533886,
-      "binStatus": "Nearly Full",
+      "binStatus": "Available",
       "description": "BIN 61 - NE Cabrini Blvd & W 187 St",
       "availableForUse": true,
       "longitude": -73.93778998622929
@@ -389,12 +389,12 @@
       "longitude": -73.92383761703968
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 0,
       "serialNumber": 503000033,
       "latitude": 40.86054008940285,
-      "binStatus": "Full",
+      "binStatus": "Available",
       "description": "BIN 63 - SE Sickles St & Nagle Ave",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.9273372319724
     },
     {
@@ -704,10 +704,10 @@
       "longitude": -73.92510951539327
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 503000064,
       "latitude": 40.78210605168062,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 50 - NW E 91 St & 3 Ave",
       "availableForUse": true,
       "longitude": -73.95172468826313
@@ -785,10 +785,10 @@
       "longitude": -73.94825711846352
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 503000083,
       "latitude": 40.826329828520976,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 41 - NE W 151 St & Macombs Pl",
       "availableForUse": true,
       "longitude": -73.93817637115717
@@ -929,7 +929,7 @@
       "longitude": -73.9447372895371
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 503000079,
       "latitude": 40.8549921737635,
       "binStatus": "Available",
@@ -2000,7 +2000,7 @@
       "longitude": -73.92796251922846
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000271,
       "latitude": 40.74194368731704,
       "binStatus": "Available",
@@ -2297,7 +2297,7 @@
       "longitude": -74.00171998103215
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 505100051,
       "latitude": 40.72504420607064,
       "binStatus": "Available",
@@ -2639,7 +2639,7 @@
       "longitude": -73.97465123299237
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 505100079,
       "latitude": 40.72376127391616,
       "binStatus": "Available",
@@ -2837,10 +2837,10 @@
       "longitude": -73.96900231292263
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100111,
       "latitude": 40.758836000578,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 294 - NW E 56 St & 2 Ave",
       "availableForUse": true,
       "longitude": -73.96586280976997
@@ -2972,7 +2972,7 @@
       "longitude": -73.96592718820084
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 505100105,
       "latitude": 40.76175746497325,
       "binStatus": "Available",
@@ -3080,10 +3080,10 @@
       "longitude": -73.98834843188524
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100120,
       "latitude": 40.77519164031714,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 374 - SE West End Ave & W 65 St",
       "availableForUse": true,
       "longitude": -73.98753543655222
@@ -3098,7 +3098,7 @@
       "longitude": -73.98983752643882
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 0,
       "serialNumber": 505100141,
       "latitude": 40.74960582599206,
       "binStatus": "Available",
@@ -3107,7 +3107,7 @@
       "longitude": -74.00261308139008
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 0,
       "serialNumber": 505100122,
       "latitude": 40.74639647509707,
       "binStatus": "Available",
@@ -3125,7 +3125,7 @@
       "longitude": -73.95175657391553
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 505100121,
       "latitude": 40.7909709189525,
       "binStatus": "Available",
@@ -3197,12 +3197,12 @@
       "longitude": -73.97035768079368
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 505100145,
       "latitude": 40.74163391924499,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 338 - NE W 21 St & 6 Ave",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.99363601223293
     },
     {
@@ -3395,12 +3395,12 @@
       "longitude": -73.9528896218117
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 505100202,
       "latitude": 40.81125089255355,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 28 - NE W 123 St & Amsterdam Ave",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.95758831602339
     },
     {
