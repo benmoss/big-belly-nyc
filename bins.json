@@ -38,7 +38,7 @@
       "longitude": -73.9175371080637
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 3590014,
       "latitude": 40.745373137079994,
       "binStatus": "Available",
@@ -155,12 +155,12 @@
       "longitude": -73.91430705785751
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 100,
       "serialNumber": 3590002,
       "latitude": 40.74267491248134,
-      "binStatus": "Available",
+      "binStatus": "Full",
       "description": "BIN 341 - SE 7 Ave & W 21 St",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.99649911716193
     },
     {
@@ -407,10 +407,10 @@
       "longitude": -73.92743781208992
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 503000018,
       "latitude": 40.83478846373379,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 56 - SW Amsterdam Ave & W 160 St",
       "availableForUse": true,
       "longitude": -73.94085858017206
@@ -758,7 +758,7 @@
       "longitude": -73.93469754606485
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 503000073,
       "latitude": 40.813082487843964,
       "binStatus": "Available",
@@ -983,7 +983,7 @@
       "longitude": -73.92874404788017
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 503000131,
       "latitude": 40.688233556498346,
       "binStatus": "Available",
@@ -1001,7 +1001,7 @@
       "longitude": -73.90436712652445
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000136,
       "latitude": 40.67726495043478,
       "binStatus": "Available",
@@ -1334,7 +1334,7 @@
       "longitude": -73.96627854555845
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000180,
       "latitude": 40.69293663142478,
       "binStatus": "Available",
@@ -1343,7 +1343,7 @@
       "longitude": -73.90797402709723
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000188,
       "latitude": 40.690796900599814,
       "binStatus": "Available",
@@ -2378,12 +2378,12 @@
       "longitude": -74.00274561377924
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 0,
       "serialNumber": 505100047,
       "latitude": 40.735409744769015,
-      "binStatus": "Full",
+      "binStatus": "Available",
       "description": "BIN 309 - NW Irving Place & E 16 St",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.98789177423471
     },
     {
@@ -2630,7 +2630,7 @@
       "longitude": -73.97570673483682
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 505100090,
       "latitude": 40.750719268455946,
       "binStatus": "Available",
@@ -2720,7 +2720,7 @@
       "longitude": -73.96888427642509
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 505100093,
       "latitude": 40.7953036151945,
       "binStatus": "Available",
@@ -2864,7 +2864,7 @@
       "longitude": -73.97793704431773
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 505100100,
       "latitude": 40.773718493770346,
       "binStatus": "Available",
