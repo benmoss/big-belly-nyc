@@ -281,7 +281,7 @@
       "longitude": -73.93766775727272
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 0,
       "serialNumber": 503000013,
       "latitude": 40.86843300418909,
       "binStatus": "Available",
@@ -344,10 +344,10 @@
       "longitude": -73.93778998622929
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 0,
       "serialNumber": 503000023,
       "latitude": 40.84608111296369,
-      "binStatus": "Nearly Full",
+      "binStatus": "Available",
       "description": "BIN 59 - NE W 174 St & Fort Washington Ave",
       "availableForUse": true,
       "longitude": -73.94016187638044
@@ -1532,7 +1532,7 @@
       "longitude": -73.8490579649806
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000201,
       "latitude": 40.68428195430438,
       "binStatus": "Available",
@@ -1910,10 +1910,10 @@
       "longitude": -73.95310335432222
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 0,
       "serialNumber": 503000262,
       "latitude": 40.724898542003324,
-      "binStatus": "Nearly Full",
+      "binStatus": "Available",
       "description": "BIN 254 - SW 6 Ave & Dominick St",
       "availableForUse": true,
       "longitude": -74.00471196197128
@@ -2378,12 +2378,12 @@
       "longitude": -74.00274561377924
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 505100047,
       "latitude": 40.735409744769015,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 309 - NW Irving Place & E 16 St",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.98789177423471
     },
     {
@@ -2459,10 +2459,10 @@
       "longitude": -74.0077318323766
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 0,
       "serialNumber": 505100061,
       "latitude": 40.70860458493924,
-      "binStatus": "Nearly Full",
+      "binStatus": "Available",
       "description": "BIN 252 - SW Broadway & Cedar St",
       "availableForUse": true,
       "longitude": -74.0108494516408
@@ -2522,12 +2522,12 @@
       "longitude": -73.95865606044225
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 0,
       "serialNumber": 505100063,
       "latitude": 40.71256505742161,
-      "binStatus": "Full",
+      "binStatus": "Available",
       "description": "BIN 251 - NE Broadway & Park Place",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -74.00756552771458
     },
     {
@@ -2576,7 +2576,7 @@
       "longitude": -74.01055041700602
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 505100054,
       "latitude": 40.71429622184293,
       "binStatus": "Available",
@@ -2774,7 +2774,7 @@
       "longitude": -73.96686314261594
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 505100068,
       "latitude": 40.7116258563826,
       "binStatus": "Available",
@@ -2828,10 +2828,10 @@
       "longitude": -73.90418004244566
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100094,
       "latitude": 40.79106031360771,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 382 - NW Columbus Ave & W 93 St",
       "availableForUse": true,
       "longitude": -73.96900231292263
@@ -3395,10 +3395,10 @@
       "longitude": -73.9528896218117
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100202,
       "latitude": 40.81125089255355,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 28 - NE W 123 St & Amsterdam Ave",
       "availableForUse": true,
       "longitude": -73.95758831602339
