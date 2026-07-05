@@ -83,10 +83,10 @@
       "longitude": -73.90727262943983
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 3590015,
       "latitude": 40.746483770342856,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 401 - NE Skillman Ave & 47 St",
       "availableForUse": true,
       "longitude": -73.91701877117157
@@ -302,9 +302,9 @@
       "latestFullness": 0,
       "serialNumber": 503000017,
       "latitude": 40.81773208281474,
-      "binStatus": "Available",
+      "binStatus": "Out of Service",
       "description": "BIN 42 - SE W 136 St & Edgecombe Ave",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.94737802445889
     },
     {
@@ -371,12 +371,12 @@
       "longitude": -73.88136584311724
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 100,
       "serialNumber": 503000022,
       "latitude": 40.866201512573475,
-      "binStatus": "Nearly Full",
+      "binStatus": "Full",
       "description": "BIN 64 - SE Broadway & Academy St",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.92508216202259
     },
     {
@@ -2540,10 +2540,10 @@
       "longitude": -74.0007785662345
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100058,
       "latitude": 40.716735019858994,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 260 - NE Grand St & Essex St",
       "availableForUse": true,
       "longitude": -73.98896138948061
@@ -3107,7 +3107,7 @@
       "longitude": -74.00261308139008
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 0,
       "serialNumber": 505100122,
       "latitude": 40.74639647509707,
       "binStatus": "Available",
