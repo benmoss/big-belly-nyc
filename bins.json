@@ -83,7 +83,7 @@
       "longitude": -73.90727262943983
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 40,
       "serialNumber": 3590015,
       "latitude": 40.746483770342856,
       "binStatus": "Available",
@@ -155,10 +155,10 @@
       "longitude": -73.91430705785751
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 3590002,
       "latitude": 40.74267491248134,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 341 - SE 7 Ave & W 21 St",
       "availableForUse": true,
       "longitude": -73.99649911716193
@@ -290,7 +290,7 @@
       "longitude": -73.91832768131844
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 503000015,
       "latitude": 40.715768264498486,
       "binStatus": "Available",
@@ -614,7 +614,7 @@
       "longitude": -73.94394144415855
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000034,
       "latitude": 40.77413098831083,
       "binStatus": "Available",
@@ -623,7 +623,7 @@
       "longitude": -73.93204148858786
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 503000036,
       "latitude": 40.6778510426927,
       "binStatus": "Available",
@@ -929,7 +929,7 @@
       "longitude": -73.90383403748274
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000074,
       "latitude": 40.71595784085541,
       "binStatus": "Available",
@@ -1118,12 +1118,12 @@
       "longitude": -73.91374111175537
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 40,
       "serialNumber": 503000164,
       "latitude": 40.69660505362728,
-      "binStatus": "Full",
+      "binStatus": "Available",
       "description": "BIN 164 - NE Bushwick Ave & Suydam St",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.93099308013916
     },
     {
@@ -1199,7 +1199,7 @@
       "longitude": -73.94101046025753
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 40,
       "serialNumber": 503000168,
       "latitude": 40.6755571241916,
       "binStatus": "Available",
@@ -1271,7 +1271,7 @@
       "longitude": -73.91751361469018
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000153,
       "latitude": 40.798054852781554,
       "binStatus": "Available",
@@ -1316,7 +1316,7 @@
       "longitude": -73.941904976964
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 40,
       "serialNumber": 503000179,
       "latitude": 40.67617742416484,
       "binStatus": "Available",
@@ -1739,7 +1739,7 @@
       "longitude": -73.89310654252768
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000186,
       "latitude": 40.6858662258759,
       "binStatus": "Available",
@@ -1784,7 +1784,7 @@
       "longitude": -73.94294936209917
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000240,
       "latitude": 40.67428152112551,
       "binStatus": "Available",
@@ -1865,7 +1865,7 @@
       "longitude": -73.95603641084294
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 0,
       "serialNumber": 503000257,
       "latitude": 40.670259668497785,
       "binStatus": "Available",
@@ -1991,7 +1991,7 @@
       "longitude": -73.92796251922846
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000271,
       "latitude": 40.74194368731704,
       "binStatus": "Available",
@@ -2252,7 +2252,7 @@
       "longitude": -73.99540269748928
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 505100031,
       "latitude": 40.72948121652991,
       "binStatus": "Available",
@@ -2261,10 +2261,10 @@
       "longitude": -74.00212241864305
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 80,
       "serialNumber": 505100021,
       "latitude": 40.775317712188475,
-      "binStatus": "Available",
+      "binStatus": "Nearly Full",
       "description": "BIN 424 - NE E 85 St & York Ave",
       "availableForUse": true,
       "longitude": -73.94749872386456
@@ -2279,7 +2279,7 @@
       "longitude": -73.9498927384089
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 40,
       "serialNumber": 505100013,
       "latitude": 40.73565255133342,
       "binStatus": "Available",
@@ -2336,9 +2336,9 @@
       "latestFullness": 0,
       "serialNumber": 505100043,
       "latitude": 40.70584702623706,
-      "binStatus": "Available",
+      "binStatus": "Out of Service",
       "description": "BIN 247 - NW 1 Place & Little W St",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -74.01704739779234
     },
     {
@@ -2351,7 +2351,7 @@
       "longitude": -74.00240702146108
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 60,
       "serialNumber": 505100009,
       "latitude": 40.7164061130962,
       "binStatus": "Available",
@@ -2360,7 +2360,7 @@
       "longitude": -74.0109745413065
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 60,
       "serialNumber": 505100023,
       "latitude": 40.7346470054958,
       "binStatus": "Available",
@@ -2846,7 +2846,7 @@
       "longitude": -73.90418004244566
     },
     {
-      "latestFullness": 20,
+      "latestFullness": 40,
       "serialNumber": 505100094,
       "latitude": 40.79106031360771,
       "binStatus": "Available",
@@ -2855,7 +2855,7 @@
       "longitude": -73.96900231292263
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 505100111,
       "latitude": 40.758836000578,
       "binStatus": "Available",
@@ -3017,7 +3017,7 @@
       "longitude": -73.9616337989868
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 505100098,
       "latitude": 40.741609115050146,
       "binStatus": "Available",
