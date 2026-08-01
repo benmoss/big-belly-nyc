@@ -101,10 +101,10 @@
       "longitude": -73.91950105888318
     },
     {
-      "latestFullness": 80,
+      "latestFullness": 0,
       "serialNumber": 3590012,
       "latitude": 40.884080646656564,
-      "binStatus": "Nearly Full",
+      "binStatus": "Available",
       "description": "BIN 413 - NW W 232 St & Arlington Ave",
       "availableForUse": true,
       "longitude": -73.91260653734207
@@ -416,12 +416,12 @@
       "longitude": -73.92958357930183
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 0,
       "serialNumber": 503000059,
       "latitude": 40.87534010684036,
-      "binStatus": "Full",
+      "binStatus": "Available",
       "description": "BIN 93 - NE Hull Ave & E 207 St",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.87542713633172
     },
     {
@@ -1271,7 +1271,7 @@
       "longitude": -73.91751361469018
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000153,
       "latitude": 40.798054852781554,
       "binStatus": "Available",
@@ -2153,7 +2153,7 @@
       "longitude": -73.99693615022026
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 505100005,
       "latitude": 40.70815249011514,
       "binStatus": "Available",
@@ -2171,7 +2171,7 @@
       "longitude": -73.95631212223466
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 505100041,
       "latitude": 40.7703540345238,
       "binStatus": "Available",
@@ -2333,7 +2333,7 @@
       "longitude": -74.01704739779234
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 505100007,
       "latitude": 40.730315325690235,
       "binStatus": "Available",
@@ -2930,9 +2930,9 @@
       "latestFullness": 20,
       "serialNumber": 505100132,
       "latitude": 40.757513465018945,
-      "binStatus": "Available",
+      "binStatus": "Out of Service",
       "description": "BIN 325 - SW W Main St & Main St",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.95414933006201
     },
     {
@@ -3233,7 +3233,7 @@
       "longitude": -73.9799463692325
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 505100115,
       "latitude": 40.78876861933553,
       "binStatus": "Available",
