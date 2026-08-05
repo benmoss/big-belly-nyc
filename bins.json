@@ -488,7 +488,7 @@
       "longitude": -73.94493098288339
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 503000049,
       "latitude": 40.792326106963955,
       "binStatus": "Available",
@@ -695,7 +695,7 @@
       "longitude": -73.95172468826313
     },
     {
-      "latestFullness": 40,
+      "latestFullness": 60,
       "serialNumber": 503000068,
       "latitude": 40.64305722769547,
       "binStatus": "Available",
@@ -1460,7 +1460,7 @@
       "longitude": -73.83048333227634
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 0,
       "serialNumber": 503000193,
       "latitude": 40.676794793886764,
       "binStatus": "Available",
@@ -1784,12 +1784,12 @@
       "longitude": -73.94294936209917
     },
     {
-      "latestFullness": 100,
+      "latestFullness": 0,
       "serialNumber": 503000240,
       "latitude": 40.67428152112551,
-      "binStatus": "Full",
+      "binStatus": "Available",
       "description": "BIN 198 - NW New York Ave & Prospect Place",
-      "availableForUse": false,
+      "availableForUse": true,
       "longitude": -73.94742764532566
     },
     {
@@ -1940,9 +1940,9 @@
       "latestFullness": 0,
       "serialNumber": 503000265,
       "latitude": 40.67028714230085,
-      "binStatus": "Available",
+      "binStatus": "Out of Service",
       "description": "BIN 202 - SE Rochester Ave & St. Johns Place",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.92812234686723
     },
     {
@@ -2747,7 +2747,7 @@
       "longitude": -73.98253004894701
     },
     {
-      "latestFullness": 60,
+      "latestFullness": 20,
       "serialNumber": 505100086,
       "latitude": 40.781894893686875,
       "binStatus": "Available",
@@ -2795,9 +2795,9 @@
       "latestFullness": 0,
       "serialNumber": 505100065,
       "latitude": 40.769098236486705,
-      "binStatus": "Available",
+      "binStatus": "Out of Service",
       "description": "BIN 278 - SW West Rd & Main St",
-      "availableForUse": true,
+      "availableForUse": false,
       "longitude": -73.94326507506806
     },
     {
@@ -2954,7 +2954,7 @@
       "longitude": -73.96841285680578
     },
     {
-      "latestFullness": 0,
+      "latestFullness": 20,
       "serialNumber": 505100129,
       "latitude": 40.779702163230795,
       "binStatus": "Available",
